@@ -1,0 +1,46 @@
+name: update map
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # At 00:00 every night
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12' # install the python version needed
+
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e ".[dev]"
+          
+      - name: ingest google analytics data and update db
+        run: |
+          mkdir -p .keys
+          echo ${{ secrets.GA_JSON }} > .keys/saxon-me-map-viewer-d2140cfe196a.json
+          analytics2map ingest-ga --config-path config/prod.yml
+          rm -r keys
+
+      - name: generate updated plot
+        run: analytics2map render --config-path config/prod.yml
+
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "updated plot" --allow-empty)
+
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main 
