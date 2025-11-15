@@ -1,6 +1,6 @@
 google_analytics:
   property_id: "512361599"
-  credentials_path: ".keys/saxon-me-map-viewer-d2140cfe196a.json"
+  credentials_path: ".keys/secret.json"
   dimensions:
     - city
     - country
