@@ -1,6 +1,6 @@
 google_analytics:
   property_id: "512361599"
-  credentials_path: ".keys/secret.json"
+  credentials_path: "secret.json"
   dimensions:
     - city
     - country

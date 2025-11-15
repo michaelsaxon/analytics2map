@@ -28,8 +28,7 @@ jobs:
 
       - name: get key
         run: |
-          mkdir .keys
-          echo ${{ secrets.GA_JSON }} > .keys/secret.json
+          echo ${{ secrets.GA_JSON }} > secret.json
 
       
       - name: ingest google analytics data and update db
@@ -37,7 +36,7 @@ jobs:
           analytics2map ingest-ga --config-path config/prod.yml
 
       - name: clean
-        run: rm -r .keys
+        run: rm secret.json
 
       - name: generate updated plot
         run: analytics2map render --config-path config/prod.yml
