@@ -1,0 +1,52 @@
+google_analytics:
+  property_id: "512361599"
+  credentials_path: ".keys/saxon-me-map-viewer-d2140cfe196a.json"
+  dimensions:
+    - city
+    - country
+    - region
+    - dateHourMinute
+  metrics:
+    - eventCount
+  max_rows: 5000
+
+database:
+  path: "data/visitors.sqlite3"
+
+renderer:
+  output_dir: "output"
+  clustrmaps_overlay_path: "data/clustrmaps_summary.csv"
+  theme:
+    background_color: "#1f1f28"
+    land_fill: "#7aa89f"
+    land_stroke: "#7aa89f"
+    grid_stroke: "#625987"
+    bubble_fill: "#dcd7ba"
+    bubble_stroke: "#efede3"
+    bubble_opacity: 0.75
+    title_color: "#dcd7ba"
+    title_font_family: "Berkeley Mono, monospace"
+    title_background: "#09090c"
+  scales:
+    - slug: "small"
+      width: 800
+      height: 400
+      dot_min_radius: 1
+      dot_max_radius: 10
+      label_threshold: 10
+      title_font_size: 36
+      land_resolution: "110m"
+      simplify_tolerance: 0.7
+    - slug: "large"
+      width: 1920
+      height: 960
+      dot_min_radius: 2
+      dot_max_radius: 10
+      label_threshold: 5
+      title_font_size: 36
+      land_resolution: "10m"
+      simplify_tolerance: 0.35
+
+clustrmaps:
+  csv_path: "data/clustrmaps.csv"
+
