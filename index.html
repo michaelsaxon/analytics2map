@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>analytics2map</title>
+    <link rel="stylesheet" href="https://saxon.me/theme/css/fonts.css" />
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: "Berkeley Mono", monospace;
+        background: #f8f6ef;
+        color: #111;
+      }
+      body {
+        margin: 0;
+        background: #f8f6ef;
+        color: #111;
+      }
+      .container {
+        max-width: 900px;
+        margin: 0;
+        padding: 0 24px;
+        line-height: 1.6;
+      }
+      h1 {
+        font-size: 32px;
+        margin-bottom: 8px;
+        border-bottom: 1px solid #111;
+        padding-bottom: 8px;
+      }
+      h2 {
+        font-size: 24px;
+        margin-top: 48px;
+        margin-bottom: 12px;
+        border-bottom: 1px solid #111;
+        padding-bottom: 6px;
+      }
+      p {
+        margin: 12px 0;
+      }
+      figure {
+        margin: 24px auto 48px;
+        text-align: center;
+        max-width: 900px;
+      }
+      figcaption {
+        font-size: 14px;
+        color: #555;
+        margin-top: 8px;
+      }
+      .map {
+        display: block;
+        border: 1px solid #ddd;
+        background: #fff;
+      }
+     </style>
+  </head>
+  <body>
+    <main class="container">
+      <h1>analytics2map</h1>
+      <p>
+        analytics2map is a static SVG renderer that turns Google Analytics visit telemetry, plus historical
+        Clustrmaps exports, into self-hosted visitor maps. The pipeline pulls incremental GA4 data, merges
+        in CSV/Text snapshots, stores everything in SQLite, and renders multi-scale SVGs behind a CLI.
+        The stack is pure Python (Typer, Cartopy, svgwrite), producing two sizes by default: a compact
+        800×400 variant and a large 1920×960 version.
+      </p>
+      <p>
+        Each run emits two SVG files. The smaller render is easy to embed inline, while the larger map
+        is tuned for high-resolution displays. Both share the same aggregated data and styling, and can be
+        regenerated anytime after new ingests.
+      </p>
+      <p>Source code is available in my <a href="https://github.com/michaelsaxon/analytics2map">[analytics2map]</a> repository on GitHub.</p>
+        <p><a href="https://saxon.me">[Go home]</a></p>
+        <hr>
+      <h2>Small render (300&nbsp;px preview)</h2>
+      <figure>
+        <img
+          class="map"
+          style="max-width: 300px; width: 100%; height: auto; margin-left: auto; margin-right: auto;"
+          height="150"
+          src="output/visitors-small.svg"
+          alt="Small visitor map preview"
+        />
+        <figcaption>Scaled-down preview of the 800×400 SVG.</figcaption>
+      </figure>
+
+      <h2>Large render (900&nbsp;px preview)</h2>
+      <figure>
+        <img
+          class="map"
+          style="max-width: 900px; width: 100%; height: auto; margin-left: auto; margin-right: auto;"
+          height="450"
+          src="output/visitors-large.svg"
+          alt="Large visitor map preview"
+        />
+        <figcaption>Scaled-down preview of the 1920×960 SVG.</figcaption>
+      </figure>
+    </main>
+  </body>
+</html>
