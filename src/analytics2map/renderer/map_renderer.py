@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import logging
 import math
+from datetime import datetime
 from pathlib import Path
 from typing import Dict, Tuple
 
@@ -69,7 +70,8 @@ class MapRenderer:
         )
 
         total_visits = sum(count for _, count in aggregates.values())
-        title_text = f"{total_visits:,} unique visits"
+        as_of = datetime.utcnow().strftime("%Y-%m-%d")
+        title_text = f"{total_visits:,} visits as of {as_of}"
         text_width_estimate = len(title_text) * (font_size * 0.6)
         rect_width = text_width_estimate + 40
         rect_x = (scale.width - rect_width) / 2
