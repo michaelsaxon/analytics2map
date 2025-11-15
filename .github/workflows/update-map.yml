@@ -25,13 +25,19 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -e ".[dev]"
-          
+
+      - name: get key
+        run: |
+          mkdir .keys
+          echo ${{ secrets.GA_JSON }} > .keys/secret.json
+
+      
       - name: ingest google analytics data and update db
         run: |
-          mkdir -p .keys
-          echo ${{ secrets.GA_JSON }} > .keys/saxon-me-map-viewer-d2140cfe196a.json
           analytics2map ingest-ga --config-path config/prod.yml
-          rm -r keys
+
+      - name: clean
+        run: rm -r .keys
 
       - name: generate updated plot
         run: analytics2map render --config-path config/prod.yml
