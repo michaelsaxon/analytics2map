@@ -1,0 +1,30 @@
+[project]
+name = "analytics2map"
+version = "0.1.0"
+description = "Convert Google Analytics visitor data into self-hosted visitor maps."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "analytics2map contributors" }]
+dependencies = [
+    "google-analytics-data>=0.18.0",
+    "typer>=0.12.5",
+    "rich>=13.9.2",
+    "PyYAML>=6.0.2",
+    "svgwrite>=1.4.3",
+    "pydantic>=2.9.2",
+    "geonamescache>=2.0.0",
+    "cartopy>=0.23.0",
+    "shapely>=2.0.4",
+]
+
+[project.optional-dependencies]
+dev = ["ruff>=0.6.8", "pytest>=8.3.3"]
+
+[project.scripts]
+analytics2map = "analytics2map.cli:app"
+
+[build-system]
+requires = ["setuptools>=68.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+

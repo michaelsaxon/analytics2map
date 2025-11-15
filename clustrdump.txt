@@ -1,0 +1,3103 @@
+====== 2024-01-01 =====
+Country 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+United States 	37 Locations 	270 	173 	1.56 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Santa Barbara, CA 	53 	19 	2.79 		
+	Goleta, CA 	50 	21 	2.38 		
+	Boardman, OR 	23 	23 	1 		
+	Los Angeles, CA 	7 	4 	1.75 		
+	Ashburn, VA 	5 	3 	1.67 		4 days ago from Ashburn, Virginia
+	Ames, IA 	4 	2 	2 		
+	Austin, TX 	4 	1 	4 		
+	Seattle, WA 	3 	3 	1 		
+	Santa Clara, CA 	3 	2 	1.5 		
+	New York, NY 	3 	2 	1.5 		
+	Four Oaks, NC 	3 	2 	1.5 		1 day ago from Four Oaks, North Carolina
+	Baltimore, MD 	3 	2 	1.5 		
+	Dallas, TX 	3 	1 	3 		
+	San Jose, CA 	2 	2 	1 		
+	Lompoc, CA 	2 	2 	1 		
+	Las Vegas, NV 	2 	2 	1 		
+	Chicago, IL 	2 	2 	1 		
+	Stanford, CA 	2 	1 	2 		
+	Solvang, CA 	2 	1 	2 		
+	Oak Creek, WI 	2 	1 	2 		
+India 	4 Locations 	8 	5 	1.6 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Kanpur 	4 	2 	2 		-
+	Gurgaon 	2 	1 	2 		-
+	Delhi 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Canada 	4 Locations 	8 	5 	1.6 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Waterloo 	3 	1 	3 		-
+	Unknown location 	2 	2 	1 		-
+	Montreal 	2 	1 	2 		-
+	Shawinigan 	1 	1 	1 		-
+China 	4 Locations 	7 	7 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Hongkou 	3 	3 	1 		-
+	Zhengzhou 	2 	2 	1 		-
+	Shanghai 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+United Kingdom 	2 Locations 	7 	4 	1.75 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	2 	2 		-
+	London 	3 	2 	1.5 		-
+Germany 	3 Locations 	6 	3 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Berlin 	3 	1 	3 		-
+	Remshalden 	2 	1 	2 		-
+	Unknown location 	1 	1 	1 		-
+Russia 		3 	3 	1 	— 	—
+Republic of Korea 	2 Locations 	3 	2 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Incheon 	2 	1 	2 		-
+	Unknown location 	1 	1 	1 		-
+Nigeria 		2 	2 	1 	— 	—
+Vietnam 		1 	1 	1 	— 	—
+Taiwan 		1 	1 	1 	— 	—
+Spain 		1 	1 	1 	— 	—
+Poland 		1 	1 	1 	— 	—
+Japan 		1 	1 	1 	— 	—
+Finland 		1 	1 	1 	— 	—
+Brazil 		1 	1 	1 	— 	—
+ United States 	44 Locations 	254 	173 	1.47 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Santa Barbara, CA 	37 	17 	2.18 		
+	Boardman, OR 	36 	35 	1.03 		
+	Goleta, CA 	22 	11 	2 		
+	Santa Clara, CA 	7 	3 	2.33 		
+	Atlanta, GA 	5 	2 	2.5 		
+	Lompoc, CA 	5 	1 	5 		
+	Manhattan, KS 	4 	2 	2 		
+	Harrison, NJ 	4 	2 	2 		
+	Cambridge, MA 	3 	3 	1 		
+	San Diego, CA 	3 	2 	1.5 		
+	New York, NY 	3 	1 	3 		
+	Rowland Heights, CA 	2 	2 	1 		
+	Solvang, CA 	2 	1 	2 		
+	Saint Paul, MN 	2 	1 	2 		
+	Phoenix, AZ 	2 	1 	2 		4 days ago from Phoenix, Arizona
+	Mocksville, NC 	2 	1 	2 		
+	Glastonbury, CT 	2 	1 	2 		
+	Des Moines, IA 	2 	1 	2 		
+	Ashburn, VA 	2 	1 	2 		4 days ago from Ashburn, Virginia
+	West Milford, NJ 	1 	1 	1 		
+United Kingdom 	3 Locations 	11 	6 	1.83 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	London 	6 	4 	1.5 		-
+	Portsmouth 	3 	1 	3 		-
+	Hartlepool 	2 	1 	2 		-
+China 	4 Locations 	5 	5 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Zhengzhou 	2 	2 	1 		-
+	Tianjin 	1 	1 	1 		-
+	Taizhou 	1 	1 	1 		-
+	Hongkou 	1 	1 	1 		-
+Germany 	2 Locations 	4 	3 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	2 	1.5 		-
+	Berlin 	1 	1 	1 		-
+Switzerland 		4 	1 	4 	— 	—
+Hong Kong 	2 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Central District 	2 	2 	1 		-
+	Unknown location 	1 	1 	1 		-
+Canada 		3 	2 	1.5 	— 	—
+Republic of Korea 		3 	1 	3 	— 	—
+Japan 		3 	1 	3 	— 	—
+India 		3 	1 	3 	— 	—
+Brazil 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Recife 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+France 		2 	2 	1 	— 	—
+Hungary 		2 	1 	2 	— 	—
+Taiwan 		1 	1 	1 	— 	—
+Puerto Rico 		1 	1 	1 	— 	—
+United States 	39 Locations 	228 	177 	1.29 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Santa Barbara, CA 	34 	22 	1.55 		
+	Boardman, OR 	33 	33 	1 		
+	Goleta, CA 	15 	9 	1.67 		
+	Seattle, WA 	8 	4 	2 		
+	Phoenix, AZ 	8 	4 	2 		4 days ago from Phoenix, Arizona
+	Auburn, AL 	5 	2 	2.5 		
+	Ashburn, VA 	4 	4 	1 		4 days ago from Ashburn, Virginia
+	Ann Arbor, MI 	4 	4 	1 		
+	Las Vegas, NV 	4 	2 	2 		
+	Pittsburgh, PA 	3 	3 	1 		
+	Rochester, NY 	3 	2 	1.5 		
+	Mountain View, CA 	3 	2 	1.5 		1 day ago from Mountain View, California
+	Tustin, CA 	2 	2 	1 		
+	Houston, TX 	2 	2 	1 		
+	Chicago, IL 	2 	2 	1 		
+	New York, NY 	2 	1 	2 		
+	Massapequa, NY 	2 	1 	2 		
+	Charlottesville, VA 	2 	1 	2 		
+	Winter Haven, FL 	1 	1 	1 		
+	Stanford, CA 	1 	1 	1 		
+Japan 	3 Locations 	17 	7 	2.43 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Setagaya-ku 	9 	1 	9 		-
+	Unknown location 	7 	5 	1.4 		-
+	Tokyo 	1 	1 	1 		-
+China 	5 Locations 	6 	6 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Hongkou 	2 	2 	1 		-
+	Zhengzhou 	1 	1 	1 		-
+	Taizhou 	1 	1 	1 		-
+	Shanghai 	1 	1 	1 		-
+	Quanzhou 	1 	1 	1 		-
+Vietnam 	2 Locations 	6 	3 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Ho Chi Minh City 	4 	2 	2 		-
+	Hanoi 	2 	1 	2 		-
+India 	3 Locations 	4 	4 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Bangalore 	2 	2 	1 		-
+	Delhi 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Canada 	3 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Mississauga 	1 	1 	1 		-
+	Beauharnois 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+United Kingdom 	2 Locations 	3 	2 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	City of Westminster 	2 	1 	2 		-
+	Warwick 	1 	1 	1 		-
+Bangladesh 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Dhaka 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Singapore 		2 	1 	2 	— 	—
+Saint Kitts and Nevis 		2 	1 	2 	— 	—
+Australia 		2 	1 	2 	— 	—
+Nigeria 		1 	1 	1 	— 	—
+Ireland 		1 	1 	1 	— 	—
+Germany 		1 	1 	1 	— 	—
+France 		1 	1 	1 	— 	—
+United States 	66 Locations 	415 	334 	1.24 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Boardman, OR 	50 	49 	1.02 		
+	Santa Barbara, CA 	44 	28 	1.57 		
+	Goleta, CA 	32 	23 	1.39 		
+	Seattle, WA 	14 	8 	1.75 		
+	Cambridge, MA 	13 	11 	1.18 		
+	New York, NY 	6 	3 	2 		
+	Chicago, IL 	5 	4 	1.25 		
+	Pittsburgh, PA 	4 	3 	1.33 		
+	Madison, WI 	4 	2 	2 		
+	Ashburn, VA 	4 	2 	2 		4 days ago from Ashburn, Virginia
+	Princeton, NJ 	3 	3 	1 		
+	Irvine, CA 	3 	3 	1 		
+	Durham, NC 	3 	3 	1 		
+	Syracuse, NY 	3 	2 	1.5 		
+	College Park, MD 	3 	2 	1.5 		
+	Brooklyn, NY 	3 	2 	1.5 		
+	Studio City, CA 	3 	1 	3 		
+	Phoenix, AZ 	3 	1 	3 		4 days ago from Phoenix, Arizona
+	Palo Alto, CA 	3 	1 	3 		
+	Troy, NY 	2 	2 	1 		
+China 	4 Locations 	14 	12 	1.17 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Zhengzhou 	5 	5 	1 		-
+	Unknown location 	4 	2 	2 		-
+	Hongkou 	3 	3 	1 		-
+	Shanghai 	2 	2 	1 		-
+Russia 	5 Locations 	12 	12 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Moscow 	4 	4 	1 		-
+	Voronezh 	3 	3 	1 		-
+	Gatchina 	2 	2 	1 		-
+	Unknown location 	2 	2 	1 		-
+	Engel's 	1 	1 	1 		-
+Rwanda 		11 	6 	1.83 	— 	—
+Germany 	4 Locations 	9 	6 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Darmstadt 	5 	2 	2.5 		-
+	Unknown location 	2 	2 	1 		-
+	Mannheim 	1 	1 	1 		-
+	Gladenbach 	1 	1 	1 		-
+Taiwan 	4 Locations 	8 	6 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Taipei 	3 	2 	1.5 		-
+	Unknown location 	2 	2 	1 		-
+	Taoyuan 	2 	1 	2 		-
+	Hsinchu 	1 	1 	1 		-
+Japan 	2 Locations 	8 	4 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	7 	3 	2.33 		-
+	Setagaya-ku 	1 	1 	1 		-
+Canada 	2 Locations 	7 	6 	1.17 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	4 	1 		-
+	Vancouver 	3 	2 	1.5 		-
+Republic of Korea 		4 	3 	1.33 	— 	—
+Sweden 	3 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Sundbyberg 	1 	1 	1 		-
+	Stockholm 	1 	1 	1 		-
+	Danderyd 	1 	1 	1 		-
+India 	3 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Kolkata 	1 	1 	1 		-
+	Hyderabad 	1 	1 	1 		-
+	Bangalore 	1 	1 	1 		-
+Turkey 	2 Locations 	3 	2 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Istanbul 	2 	1 	2 		-
+	Ankara 	1 	1 	1 		-
+Australia 		3 	2 	1.5 	— 	—
+United Kingdom 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	London 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Singapore 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Singapore 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Bangladesh 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Sylhet 	1 	1 	1 		-
+	Chittagong 	1 	1 	1 		-
+Switzerland 		2 	2 	1 	— 	—
+Mauritius 		2 	1 	2 	— 	—
+Spain 		1 	1 	1 	— 	—
+Netherlands 		1 	1 	1 	— 	—
+Macedonia 		1 	1 	1 	— 	—
+Laos 		1 	1 	1 	— 	—
+Italy 		1 	1 	1 	— 	—
+Guatemala 		1 	1 	1 	— 	—
+France 		1 	1 	1 	— 	—
+Finland 		1 	1 	1 	— 	—
+Denmark 		1 	1 	1 	— 	—
+Bulgaria 		1 	1 	1 	— 	—
+Brazil 		1 	1 	1 	— 	—
+Belgium 		1 	1 	1 	— 	—
+Country 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+United States 	39 Locations 	194 	157 	1.24 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Boardman, OR 	25 	25 	1 		
+	Santa Barbara, CA 	22 	13 	1.69 		
+	Goleta, CA 	15 	10 	1.5 		
+	Seattle, WA 	10 	5 	2 		
+	Cambridge, MA 	5 	4 	1.25 		
+	Madison, WI 	4 	2 	2 		
+	Syracuse, NY 	3 	2 	1.5 		
+	Palo Alto, CA 	3 	1 	3 		
+	Troy, NY 	2 	2 	1 		
+	Stanford, CA 	2 	2 	1 		
+	Durham, NC 	2 	2 	1 		
+	Ann Arbor, MI 	2 	2 	1 		
+	Ventura, CA 	2 	1 	2 		
+	State College, PA 	1 	1 	1 		
+	Sonoma, CA 	1 	1 	1 		
+	Somerville, MA 	1 	1 	1 		
+	Sherman Oaks, CA 	1 	1 	1 		
+	Santa Cruz, CA 	1 	1 	1 		
+	Rockville, MD 	1 	1 	1 		
+	Redwood City, CA 	1 	1 	1 		
+Germany 	4 Locations 	8 	5 	1.6 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Darmstadt 	5 	2 	2.5 		-
+	Mannheim 	1 	1 	1 		-
+	Gladenbach 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Rwanda 		7 	5 	1.4 	— 	—
+China 	3 Locations 	6 	5 	1.2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Zhengzhou 	3 	3 	1 		-
+	Unknown location 	2 	1 	2 		-
+	Hongkou 	1 	1 	1 		-
+Canada 	2 Locations 	5 	4 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Vancouver 	3 	2 	1.5 		-
+	Unknown location 	2 	2 	1 		-
+Russia 	3 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Voronezh 	1 	1 	1 		-
+	Gatchina 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+India 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Kolkata 	1 	1 	1 		-
+	Hyderabad 	1 	1 	1 		-
+Taiwan 		2 	2 	1 	— 	—
+United Kingdom 		1 	1 	1 	— 	—
+Turkey 		1 	1 	1 	— 	—
+Switzerland 		1 	1 	1 	— 	—
+Sweden 		1 	1 	1 	— 	—
+Singapore 		1 	1 	1 	— 	—
+Republic of Korea 		1 	1 	1 	— 	—
+Netherlands 		1 	1 	1 	— 	—
+Macedonia 		1 	1 	1 	— 	—
+Italy 		1 	1 	1 	— 	—
+Guatemala 		1 	1 	1 	— 	—
+Denmark 		1 	1 	1 	— 	—
+Bulgaria 		1 	1 	1 	— 	—
+Brazil 		1 	1 	1 	— 	—
+Belgium 		1 	1 	1 	— 	—
+Bangladesh 	Dhaka 	1 	1 	1 	— 	—
+Country 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+United States 	56 Locations 	519 	377 	1.38 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Boardman, OR 	58 	58 	1 		
+	Santa Barbara, CA 	30 	18 	1.67 		
+	Goleta, CA 	26 	8 	3.25 		
+	Chicago, IL 	19 	11 	1.73 		
+	Santa Clara, CA 	12 	5 	2.4 		
+	Seattle, WA 	9 	7 	1.29 		
+	Pittsburgh, PA 	9 	5 	1.8 		
+	New York, NY 	8 	7 	1.14 		
+	Mountain View, CA 	7 	5 	1.4 		1 day ago from Mountain View, California
+	State College, PA 	7 	2 	3.5 		
+	Chino Hills, CA 	7 	1 	7 		
+	Troy, NY 	6 	1 	6 		
+	Cambridge, MA 	5 	5 	1 		
+	San Jose, CA 	5 	3 	1.67 		
+	San Bruno, CA 	5 	1 	5 		
+	Portland, OR 	4 	4 	1 		
+	Los Angeles, CA 	4 	2 	2 		
+	Irvine, CA 	4 	2 	2 		
+	Four Oaks, NC 	4 	2 	2 		1 day ago from Four Oaks, North Carolina
+	Clarksville, TN 	4 	2 	2 		
+Canada 	8 Locations 	51 	27 	1.89 	— 	—
+Germany 	5 Locations 	19 	7 	2.71 	— 	—
+United Kingdom 	2 Locations 	13 	4 	3.25 	— 	—
+China 	6 Locations 	12 	12 	1 	— 	—
+Sweden 	3 Locations 	5 	5 	1 	— 	—
+France 	2 Locations 	4 	4 	1 	— 	—
+Singapore 		4 	4 	1 	— 	—
+India 	3 Locations 	4 	3 	1.33 	— 	—
+Russia 	3 Locations 	3 	3 	1 	— 	—
+Japan 	2 Locations 	3 	2 	1.5 	— 	—
+Israel 		3 	2 	1.5 	— 	—
+Bangladesh 	2 Locations 	2 	2 	1 	— 	—
+Republic of Korea 		2 	2 	1 	— 	—
+Ireland 		2 	2 	1 	— 	—
+Iran 		2 	1 	2 	— 	—
+Åland 		1 	1 	1 	— 	—
+United Arab Emirates 		1 	1 	1 	— 	—
+United States 	114 Locations 	762 	585 	1.3 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Boardman, OR 	71 	69 	1.03 		
+	Seattle, WA 	32 	19 	1.68 		
+	Austin, TX 	17 	10 	1.7 		
+	Los Angeles, CA 	15 	7 	2.14 		
+	Santa Barbara, CA 	14 	8 	1.75 		
+	Pittsburgh, PA 	12 	9 	1.33 		
+	Goleta, CA 	10 	6 	1.67 		
+	San Diego, CA 	8 	5 	1.6 		
+	Cambridge, MA 	7 	6 	1.17 		
+	San Jose, CA 	6 	6 	1 		
+	New York, NY 	6 	6 	1 		
+	Rohnert Park, CA 	6 	2 	3 		
+	San Francisco, CA 	5 	5 	1 		
+	Ann Arbor, MI 	5 	5 	1 		
+	Mountain View, CA 	5 	4 	1.25 		1 day ago from Mountain View, California
+	Chicago, IL 	5 	4 	1.25 		
+	Oakland, CA 	5 	3 	1.67 		
+	Stanford, CA 	4 	4 	1 		
+	San Antonio, TX 	4 	4 	1 		
+	Redondo Beach, CA 	4 	4 	1 		
+Germany 	8 Locations 	36 	28 	1.29 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	20 	15 	1.33 		-
+	Darmstadt 	5 	4 	1.25 		-
+	Munich 	3 	2 	1.5 		-
+	Berlin 	3 	2 	1.5 		-
+	Dachau 	2 	2 	1 		-
+	Rüsselsheim 	1 	1 	1 		-
+	Nuremberg 	1 	1 	1 		-
+	Kusterdingen 	1 	1 	1 		-
+Canada 	14 Locations 	32 	23 	1.39 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Thornhill 	3 	1 	3 		-
+	Vancouver 	2 	2 	1 		-
+	Montreal 	2 	2 	1 		-
+	Edmonton 	2 	2 	1 		-
+	Beauharnois 	2 	2 	1 		-
+	Stittsville 	1 	1 	1 		-
+	Richmond Hill 	1 	1 	1 		-
+	Québec 	1 	1 	1 		-
+	Ottawa 	1 	1 	1 		-
+	London 	1 	1 	1 		-
+United Kingdom 	8 Locations 	23 	17 	1.35 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	15 	9 	1.67 		-
+	Bradford 	2 	2 	1 		-
+	Maidstone 	1 	1 	1 		-
+	Hampstead 	1 	1 	1 		-
+	Guildford 	1 	1 	1 		-
+	Glasgow 	1 	1 	1 		-
+	Croydon 	1 	1 	1 		-
+	Cambridge 	1 	1 	1 		-
+China 	6 Locations 	18 	17 	1.06 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	8 	8 	1 		-
+	Hongkou 	3 	3 	1 		-
+	Beijing 	3 	2 	1.5 		-
+	Shanghai 	2 	2 	1 		-
+	Shenzhen 	1 	1 	1 		-
+	Huzhou 	1 	1 	1 		-
+India 	6 Locations 	17 	15 	1.13 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	6 	6 	1 		-
+	Bangalore 	4 	3 	1.33 		-
+	Delhi 	3 	2 	1.5 		-
+	Hyderabad 	2 	2 	1 		-
+	Mumbai 	1 	1 	1 		-
+	Ahmedabad 	1 	1 	1 		-
+Italy 	4 Locations 	14 	6 	2.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	8 	2 	4 		-
+	Milan 	3 	2 	1.5 		-
+	Verona 	2 	1 	2 		-
+	Taranto 	1 	1 	1 		-
+Singapore 	2 Locations 	11 	6 	1.83 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Singapore 	7 	3 	2.33 		-
+	Unknown location 	4 	3 	1.33 		-
+Russia 	8 Locations 	10 	10 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Moscow 	2 	2 	1 		-
+	Unknown location 	2 	2 	1 		-
+	Volosovo 	1 	1 	1 		-
+	Saint Petersburg 	1 	1 	1 		-
+	Omsk 	1 	1 	1 		-
+	Berezniki 	1 	1 	1 		-
+	Apatity 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Czech Republic 	3 Locations 	10 	8 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Prague 	7 	6 	1.17 		-
+	Unknown location 	2 	1 	2 		-
+	Brno 	1 	1 	1 		-
+Australia 	5 Locations 	9 	8 	1.13 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	4 	1.25 		-
+	Sydney 	1 	1 	1 		-
+	Ormiston 	1 	1 	1 		-
+	Canberra 	1 	1 	1 		-
+	Auburn 	1 	1 	1 		-
+Switzerland 	2 Locations 	7 	7 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	4 	1 		-
+	Zurich 	3 	3 	1 		-
+Spain 	6 Locations 	7 	6 	1.17 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Obanos 	2 	1 	2 		-
+	Villaluenga 	1 	1 	1 		-
+	Santiago de Compostela 	1 	1 	1 		-
+	La Orotava 	1 	1 	1 		-
+	Barcelona 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Sweden 	3 Locations 	7 	5 	1.4 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	3 	1.67 		-
+	Stockholm 	1 	1 	1 		-
+	Norrköping 	1 	1 	1 		-
+France 	3 Locations 	7 	5 	1.4 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	3 	1.67 		-
+	Saint-Emilion 	1 	1 	1 		-
+	Grigny 	1 	1 	1 		-
+Japan 	6 Locations 	6 	6 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Tokyo 	1 	1 	1 		-
+	Setagaya-ku 	1 	1 	1 		-
+	Saitama 	1 	1 	1 		-
+	Kyoto 	1 	1 	1 		-
+	Edogawa-ku 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Hong Kong 	3 Locations 	6 	5 	1.2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	3 	1 		-
+	Shatin 	2 	1 	2 		-
+	Central 	1 	1 	1 		-
+Israel 	2 Locations 	6 	5 	1.2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Tel Aviv 	4 	3 	1.33 		-
+	Unknown location 	2 	2 	1 		-
+Bangladesh 	Dhaka 	6 	4 	1.5 	— 	—
+Ukraine 		6 	1 	6 	— 	—
+Netherlands 	2 Locations 	5 	5 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Amsterdam 	3 	3 	1 		-
+	Unknown location 	2 	2 	1 		-
+Republic of Korea 	4 Locations 	5 	4 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Daegu 	2 	1 	2 		-
+	Seoul 	1 	1 	1 		-
+	Seongnam-si 	1 	1 	1 		-
+	Seodaemun-gu 	1 	1 	1 		-
+Ireland 	2 Locations 	5 	4 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	3 	1 		-
+	Galway 	2 	1 	2 		-
+Denmark 	2 Locations 	4 	2 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Copenhagen 	2 	1 	2 		-
+	Unknown location 	2 	1 	2 		-
+Philippines 		4 	2 	2 	— 	—
+Belgium 	3 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Ghent 	1 	1 	1 		-
+	Brussels 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Taiwan 		3 	1 	3 	— 	—
+Vietnam 		1 	1 	1 	— 	—
+Sri Lanka 		1 	1 	1 	— 	—
+Romania 		1 	1 	1 	— 	—
+Portugal 		1 	1 	1 	— 	—
+Mexico 		1 	1 	1 	— 	—
+Kazakhstan 		1 	1 	1 	— 	—
+Greece 		1 	1 	1 	— 	—
+Brazil 		1 	1 	1 	— 	—
+United States 	208 Locations 	1,511 	1,053 	1.43 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Boardman, OR 	94 	93 	1.01 		
+	Mesa, AZ 	39 	12 	3.25 		
+	Seattle, WA 	38 	30 	1.27 		
+	Santa Barbara, CA 	38 	22 	1.73 		
+	Goleta, CA 	34 	18 	1.89 		
+	Cambridge, MA 	26 	15 	1.73 		
+	Stanford, CA 	25 	14 	1.79 		
+	Pittsburgh, PA 	18 	12 	1.5 		
+	New York, NY 	17 	13 	1.31 		
+	Chicago, IL 	16 	12 	1.33 		
+	St Louis, MO 	16 	8 	2 		
+	Hazelwood, MO 	15 	11 	1.36 		
+	San Jose, CA 	15 	7 	2.14 		
+	Boulder, CO 	14 	6 	2.33 		
+	Amherst, MA 	13 	4 	3.25 		
+	Los Angeles, CA 	12 	10 	1.2 		
+	Madison, WI 	11 	5 	2.2 		
+	Ann Arbor, MI 	10 	9 	1.11 		
+	Austin, TX 	10 	8 	1.25 		
+	Tempe, AZ 	10 	7 	1.43 		
+India 	16 Locations 	94 	45 	2.09 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Delhi 	28 	8 	3.5 		-
+	Ludhiana 	9 	2 	4.5 		-
+	Guwahati 	8 	2 	4 		-
+	Bangalore 	6 	3 	2 		-
+	Chennai 	5 	2 	2.5 		-
+	Mumbai 	3 	2 	1.5 		-
+	Kolkata 	2 	2 	1 		-
+	Hyderabad 	2 	2 	1 		-
+	Pune 	2 	1 	2 		-
+	New Delhi 	2 	1 	2 		-
+Canada 	14 Locations 	47 	29 	1.62 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Toronto 	12 	6 	2 		-
+	Vancouver 	7 	3 	2.33 		-
+	Edmonton 	2 	2 	1 		-
+	London 	2 	1 	2 		-
+	Surrey 	1 	1 	1 		-
+	Québec 	1 	1 	1 		-
+	Montreal 	1 	1 	1 		-
+	Kingston 	1 	1 	1 		-
+	Kamloops 	1 	1 	1 		-
+	Garden Bay 	1 	1 	1 		-
+Russia 	14 Locations 	33 	33 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Moscow 	8 	8 	1 		-
+	Volosovo 	4 	4 	1 		-
+	Voronezh 	2 	2 	1 		-
+	Nizhniy Novgorod 	2 	2 	1 		-
+	Balakovo 	2 	2 	1 		-
+	Volgograd 	1 	1 	1 		-
+	Sukhoy Log 	1 	1 	1 		-
+	Saint Petersburg 	1 	1 	1 		-
+	Rostov-on-Don 	1 	1 	1 		-
+	Peschanka 	1 	1 	1 		-
+Germany 	7 Locations 	28 	20 	1.4 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	18 	12 	1.5 		-
+	Darmstadt 	4 	2 	2 		-
+	Heidelberg 	2 	2 	1 		-
+	Saarbrücken 	1 	1 	1 		-
+	Gundelfingen 	1 	1 	1 		-
+	Cochem 	1 	1 	1 		-
+	Aachen 	1 	1 	1 		-
+China 	6 Locations 	23 	21 	1.1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	11 	11 	1 		-
+	Shanghai 	4 	4 	1 		-
+	Hongkou 	3 	3 	1 		-
+	Taiyuan 	3 	1 	3 		-
+	Quanzhou 	1 	1 	1 		-
+	Hangzhou 	1 	1 	1 		-
+Hong Kong 	3 Locations 	19 	8 	2.38 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	11 	3 	3.67 		-
+	Kowloon 	4 	3 	1.33 		-
+	Central 	4 	2 	2 		-
+Japan 	6 Locations 	17 	8 	2.13 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Osaka 	6 	3 	2 		-
+	Yokohama 	4 	1 	4 		-
+	Shibuya 	3 	1 	3 		-
+	Meguro-ku 	2 	1 	2 		-
+	Tokyo 	1 	1 	1 		-
+	Sendai 	1 	1 	1 		-
+Republic of Korea 	7 Locations 	16 	10 	1.6 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Seoul 	6 	4 	1.5 		-
+	Seongnam-si 	3 	1 	3 		-
+	Gwanak-gu 	3 	1 	3 		-
+	Incheon 	1 	1 	1 		-
+	Gyeonggi-do 	1 	1 	1 		-
+	Daejeon 	1 	1 	1 		-
+	Ansan-si 	1 	1 	1 		-
+Bangladesh 	3 Locations 	12 	11 	1.09 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Chittagong 	9 	9 	1 		-
+	Unknown location 	2 	1 	2 		-
+	Dhaka 	1 	1 	1 		-
+United Kingdom 	7 Locations 	12 	9 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Oxford 	4 	2 	2 		-
+	Unknown location 	2 	2 	1 		-
+	Hammersmith 	2 	1 	2 		-
+	Newcastle upon Tyne 	1 	1 	1 		-
+	Gillingham 	1 	1 	1 		-
+	Dartford 	1 	1 	1 		-
+	Bridge 	1 	1 	1 		-
+Netherlands 	5 Locations 	12 	8 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Amsterdam 	4 	4 	1 		-
+	Utrecht 	3 	1 	3 		-
+	Apeldoorn 	3 	1 	3 		-
+	Groningen 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Australia 	6 Locations 	11 	9 	1.22 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Sydney 	5 	3 	1.67 		-
+	Moonee Ponds 	2 	2 	1 		-
+	Preston 	1 	1 	1 		-
+	Paramatta 	1 	1 	1 		-
+	Brighton East 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Ireland 	3 Locations 	11 	6 	1.83 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Dublin 	4 	2 	2 		-
+	Celbridge 	4 	1 	4 		-
+	Unknown location 	3 	3 	1 		-
+Vietnam 	3 Locations 	10 	6 	1.67 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Ho Chi Minh City 	4 	2 	2 		-
+	Hanoi 	4 	2 	2 		-
+	Unknown location 	2 	2 	1 		-
+France 	4 Locations 	9 	6 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	3 	1.67 		-
+	Villepinte 	2 	1 	2 		-
+	Saint-Emilion 	1 	1 	1 		-
+	Paris 	1 	1 	1 		-
+Singapore 	2 Locations 	9 	6 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Singapore 	5 	4 	1.25 		-
+	Unknown location 	4 	2 	2 		-
+Italy 	4 Locations 	6 	4 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Perugia 	2 	1 	2 		-
+	Livorno 	2 	1 	2 		-
+	Turin 	1 	1 	1 		-
+	Rome 	1 	1 	1 		-
+Portugal 	2 Locations 	6 	3 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Senhora da Hora 	5 	2 	2.5 		-
+	Lisbon 	1 	1 	1 		-
+Turkey 	2 Locations 	5 	3 	1.67 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Istanbul 	3 	2 	1.5 		-
+	Mersin 	2 	1 	2 		-
+Iran 		5 	2 	2.5 	— 	—
+Chile 	2 Locations 	4 	4 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Rio Bueno 	2 	2 	1 		-
+	Unknown location 	2 	2 	1 		-
+Brazil 	3 Locations 	4 	3 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Curitiba 	2 	1 	2 		-
+	São Carlos 	1 	1 	1 		-
+	Ponta Grossa 	1 	1 	1 		-
+Belgium 		3 	2 	1.5 	— 	—
+Morocco 		3 	1 	3 	— 	—
+Denmark 		3 	1 	3 	— 	—
+Switzerland 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Langnau am Albis 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Mexico 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Mexico City 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Colombia 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Medellín 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Sweden 		2 	1 	2 	— 	—
+Republic of Lithuania 		2 	1 	2 	— 	—
+Ghana 		2 	1 	2 	— 	—
+Estonia 		2 	1 	2 	— 	—
+Benin 		2 	1 	2 	— 	—
+Argentina 		2 	1 	2 	— 	—
+Taiwan 		1 	1 	1 	— 	—
+Sri Lanka 		1 	1 	1 	— 	—
+Spain 		1 	1 	1 	— 	—
+Saudi Arabia 		1 	1 	1 	— 	—
+Qatar 		1 	1 	1 	— 	—
+Luxembourg 		1 	1 	1 	— 	—
+Indonesia 		1 	1 	1 	— 	—
+Iceland 		1 	1 	1 	— 	—
+Ethiopia 		1 	1 	1 	— 	—
+Bahrain 		1 	1 	1 	— 	—
+Austria 		1 	1 	1 	— 	—
+====== 2024-03-01 ======
+ United States 	118 Locations 	640 	449 	1.43 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Boardman, OR 	47 	47 	1 		
+	Council Bluffs, IA 	26 	22 	1.18 		1 day ago from Council Bluffs, Iowa
+	Ashburn, VA 	19 	6 	3.17 		4 days ago from Ashburn, Virginia
+	Santa Barbara, CA 	17 	10 	1.7 		
+	Cambridge, MA 	13 	9 	1.44 		
+	Chicago, IL 	12 	3 	4 		
+	Mountain View, CA 	11 	8 	1.38 		1 day ago from Mountain View, California
+	Seattle, WA 	11 	6 	1.83 		
+	Los Angeles, CA 	11 	6 	1.83 		
+	Goleta, CA 	9 	8 	1.13 		
+	Ann Arbor, MI 	8 	5 	1.6 		
+	Mesa, AZ 	8 	4 	2 		
+	San Francisco, CA 	7 	6 	1.17 		
+	Pittsburgh, PA 	7 	6 	1.17 		
+	New York, NY 	6 	5 	1.2 		
+	San Antonio, TX 	5 	3 	1.67 		
+	Minneapolis, MN 	5 	2 	2.5 		
+	Highland, IN 	5 	1 	5 		
+	Ventura, CA 	4 	3 	1.33 		
+	Portland, OR 	4 	3 	1.33 		
+India 	6 Locations 	57 	27 	2.11 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	30 	13 	2.31 		-
+	Kolkata 	11 	6 	1.83 		-
+	Delhi 	6 	4 	1.5 		-
+	Hyderabad 	5 	1 	5 		-
+	Bangalore 	4 	2 	2 		-
+	Secunderabad 	1 	1 	1 		-
+Canada 	9 Locations 	30 	19 	1.58 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	11 	8 	1.38 		-
+	Kingston 	6 	2 	3 		-
+	Vancouver 	3 	2 	1.5 		-
+	Toronto 	3 	2 	1.5 		-
+	Burnaby 	3 	1 	3 		-
+	Stirling 	1 	1 	1 		-
+	North Vancouver 	1 	1 	1 		-
+	Brampton 	1 	1 	1 		-
+	Beauharnois 	1 	1 	1 		-
+Germany 	8 Locations 	22 	15 	1.47 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	7 	6 	1.17 		-
+	Darmstadt 	3 	3 	1 		-
+	Munich 	3 	1 	3 		-
+	Bonn 	3 	1 	3 		-
+	Sindelfingen 	2 	1 	2 		-
+	Heidelberg 	2 	1 	2 		-
+	Frankfurt am Main 	1 	1 	1 		-
+	Berlin 	1 	1 	1 		-
+Japan 	4 Locations 	20 	11 	1.82 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Osaka 	14 	7 	2 		-
+	Unknown location 	3 	2 	1.5 		-
+	Taito 	2 	1 	2 		-
+	Setagaya-ku 	1 	1 	1 		-
+Russia 	10 Locations 	16 	13 	1.23 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	2 	2.5 		-
+	Moscow 	3 	3 	1 		-
+	Voronezh 	1 	1 	1 		-
+	Volosovo 	1 	1 	1 		-
+	Saratov 	1 	1 	1 		-
+	Peschanka 	1 	1 	1 		-
+	Omsk 	1 	1 	1 		-
+	Nizhniy Novgorod 	1 	1 	1 		-
+	Gatchina 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Republic of Korea 	4 Locations 	11 	8 	1.38 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Seoul 	4 	3 	1.33 		-
+	Seongnam-si 	3 	2 	1.5 		-
+	Unknown location 	2 	2 	1 		-
+	Daejeon 	2 	1 	2 		-
+France 	3 Locations 	11 	6 	1.83 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	3 	1.67 		-
+	Saint-Emilion 	5 	2 	2.5 		-
+	Choignes 	1 	1 	1 		-
+Turkey 	4 Locations 	11 	5 	2.2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Magnesia ad Sipylum 	4 	1 	4 		-
+	Eskişehir 	4 	1 	4 		-
+	Istanbul 	2 	2 	1 		-
+	Unknown location 	1 	1 	1 		-
+United Kingdom 	4 Locations 	10 	8 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	4 	1.25 		-
+	Cambridge 	2 	2 	1 		-
+	Leeds 	2 	1 	2 		-
+	Tottenham 	1 	1 	1 		-
+China 	5 Locations 	9 	9 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	3 	1 		-
+	Shanghai 	2 	2 	1 		-
+	Hongkou 	2 	2 	1 		-
+	Taizhou 	1 	1 	1 		-
+	Chengdu 	1 	1 	1 		-
+Switzerland 	2 Locations 	7 	3 	2.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Zurich 	4 	2 	2 		-
+	Unknown location 	3 	1 	3 		-
+Netherlands 	4 Locations 	6 	4 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Boxtel 	2 	1 	2 		-
+	Unknown location 	2 	1 	2 		-
+	Tilburg 	1 	1 	1 		-
+	Amsterdam 	1 	1 	1 		-
+Singapore 	2 Locations 	6 	4 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Singapore 	4 	2 	2 		-
+	Unknown location 	2 	2 	1 		-
+Vietnam 	3 Locations 	6 	3 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Quảng Ngãi 	3 	1 	3 		-
+	Ho Chi Minh City 	2 	1 	2 		-
+	Hanoi 	1 	1 	1 		-
+Saudi Arabia 	2 Locations 	5 	4 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Jeddah 	4 	3 	1.33 		-
+	Unknown location 	1 	1 	1 		-
+Cuba 		4 	3 	1.33 	— 	—
+Italy 	3 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Verona 	1 	1 	1 		-
+	Milan 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Iran 	2 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Tiran 	2 	2 	1 		-
+	Unknown location 	1 	1 	1 		-
+Cambodia 		3 	3 	1 	— 	—
+Hong Kong 	2 Locations 	3 	2 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	1 	2 		-
+	Central 	1 	1 	1 		-
+Ireland 		3 	1 	3 	— 	—
+United Arab Emirates 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Abu Dhabi 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Thailand 		2 	2 	1 	— 	—
+Norway 		2 	1 	2 	— 	—
+Mexico 		2 	1 	2 	— 	—
+Egypt 		2 	1 	2 	— 	—
+Bangladesh 	Dhaka 	2 	1 	2 	— 	—
+Australia 		2 	1 	2 	— 	—
+Taiwan 		1 	1 	1 	— 	—
+Serbia 		1 	1 	1 	— 	—
+Nigeria 		1 	1 	1 	— 	—
+Israel 		1 	1 	1 	— 	—
+Greece 		1 	1 	1 	— 	—
+Ethiopia 		1 	1 	1 	— 	—
+Brazil 		1 	1 	1 	— 	—
+Armenia 		1 	1 	1 	— 	—
+===== 2024-05-01 ======
+United States 	102 Locations 	646 	437 	1.48 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Santa Barbara, CA 	46 	25 	1.84 		
+	Boardman, OR 	37 	37 	1 		
+	College Park, MD 	34 	10 	3.4 		
+	Goleta, CA 	26 	14 	1.86 		
+	Washington, DC 	21 	18 	1.17 		
+	Ashburn, VA 	16 	3 	5.33 		4 days ago from Ashburn, Virginia
+	Baltimore, MD 	14 	8 	1.75 		
+	Pittsburgh, PA 	10 	8 	1.25 		
+	Seattle, WA 	8 	6 	1.33 		
+	Halethorpe, MD 	8 	4 	2 		
+	Bristow, VA 	7 	6 	1.17 		
+	Council Bluffs, IA 	7 	5 	1.4 		1 day ago from Council Bluffs, Iowa
+	New York, NY 	7 	4 	1.75 		
+	Chicago, IL 	7 	4 	1.75 		
+	Cambridge, MA 	6 	5 	1.2 		
+	Falls Church, VA 	6 	3 	2 		
+	San Francisco, CA 	6 	1 	6 		
+	Ann Arbor, MI 	5 	4 	1.25 		
+	San Jose, CA 	4 	4 	1 		
+	Mountain View, CA 	4 	4 	1 		1 day ago from Mountain View, California
+Iran 	4 Locations 	25 	22 	1.14 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	21 	19 	1.11 		-
+	Gostar 	2 	1 	2 		-
+	Tiran 	1 	1 	1 		-
+	Tabriz 	1 	1 	1 		-
+India 	5 Locations 	20 	14 	1.43 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	13 	9 	1.44 		-
+	Delhi 	3 	1 	3 		-
+	Gurgaon 	2 	2 	1 		-
+	New Delhi 	1 	1 	1 		-
+	Mumbai 	1 	1 	1 		-
+Singapore 	2 Locations 	13 	11 	1.18 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Singapore 	7 	5 	1.4 		-
+	Unknown location 	6 	6 	1 		-
+Canada 	6 Locations 	11 	10 	1.1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	4 	1 		-
+	Montreal 	3 	2 	1.5 		-
+	Victoria 	1 	1 	1 		-
+	Vancouver 	1 	1 	1 		-
+	Ottawa 	1 	1 	1 		-
+	Gatineau 	1 	1 	1 		-
+Germany 		10 	8 	1.25 	— 	—
+China 	3 Locations 	9 	8 	1.13 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Hongkou 	4 	4 	1 		-
+	Unknown location 	4 	3 	1.33 		-
+	Shanghai 	1 	1 	1 		-
+United Kingdom 	4 Locations 	8 	7 	1.14 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	4 	1.25 		-
+	London 	1 	1 	1 		-
+	Bristol 	1 	1 	1 		-
+	Bridge 	1 	1 	1 		-
+Belgium 	2 Locations 	7 	5 	1.4 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Leuven 	6 	4 	1.5 		-
+	Brussels 	1 	1 	1 		-
+Republic of Korea 	3 Locations 	7 	4 	1.75 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Yeongdeungpo-gu 	3 	2 	1.5 		-
+	Daejeon 	2 	1 	2 		-
+	Unknown location 	2 	1 	2 		-
+Bangladesh 	4 Locations 	5 	4 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Mirpur 	2 	1 	2 		-
+	Dhaka 	1 	1 	1 		-
+	Chittagong 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Russia 	3 Locations 	4 	4 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	2 	1 		-
+	Moscow 	1 	1 	1 		-
+	Balakovo 	1 	1 	1 		-
+Cambodia 	2 Locations 	4 	4 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Phnom Penh 	3 	3 	1 		-
+	Bavet 	1 	1 	1 		-
+Japan 	3 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Tokyo 	1 	1 	1 		-
+	Minamikyushu 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Hong Kong 	3 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Kwai Chung 	1 	1 	1 		-
+	Central 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Taiwan 	2 Locations 	3 	2 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	1 	2 		-
+	Pingtung 	1 	1 	1 		-
+Switzerland 		3 	2 	1.5 	— 	—
+South Africa 		3 	1 	3 	— 	—
+Greece 		2 	2 	1 	— 	—
+Vietnam 		2 	1 	2 	— 	—
+Mexico 		2 	1 	2 	— 	—
+Turkey 		1 	1 	1 	— 	—
+Thailand 		1 	1 	1 	— 	—
+Sweden 		1 	1 	1 	— 	—
+Romania 		1 	1 	1 	— 	—
+Republic of Moldova 		1 	1 	1 	— 	—
+Malaysia 		1 	1 	1 	— 	—
+Italy 		1 	1 	1 	— 	—
+Israel 		1 	1 	1 	— 	—
+Ireland 		1 	1 	1 	— 	—
+Australia 		1 	1 	1 	— 	—
+====== 2024-07-01 ======
+United States 	101 Locations 	559 	409 	1.37 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Boardman, OR 	46 	46 	1 		
+	Santa Barbara, CA 	20 	12 	1.67 		
+	College Park, MD 	18 	7 	2.57 		
+	Seattle, WA 	17 	11 	1.55 		
+	Greenbelt, MD 	13 	5 	2.6 		
+	San Francisco, CA 	11 	6 	1.83 		
+	Stanford, CA 	9 	6 	1.5 		
+	Clarksburg, MD 	9 	3 	3 		
+	Redmond, WA 	8 	3 	2.67 		
+	Goleta, CA 	7 	4 	1.75 		
+	Ashburn, VA 	6 	5 	1.2 		4 days ago from Ashburn, Virginia
+	Ann Arbor, MI 	6 	5 	1.2 		
+	Mountain View, CA 	5 	5 	1 		1 day ago from Mountain View, California
+	Cambridge, MA 	5 	5 	1 		
+	Washington, DC 	5 	4 	1.25 		
+	Everett, WA 	5 	4 	1.25 		
+	Belmont, CA 	5 	4 	1.25 		
+	Baltimore, MD 	5 	4 	1.25 		
+	Albuquerque, NM 	5 	4 	1.25 		
+	Four Oaks, NC 	5 	3 	1.67 		1 day ago from Four Oaks, North Carolina
+Iran 	4 Locations 	40 	32 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	37 	29 	1.28 		-
+	Tehran 	1 	1 	1 		-
+	Tabriz 	1 	1 	1 		-
+	Sabz 	1 	1 	1 		-
+Mexico 	6 Locations 	33 	17 	1.94 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	"Colonia Mexico" 	19 	6 	3.17 		-
+	Mexico City 	6 	5 	1.2 		-
+	Toluca 	3 	2 	1.5 		-
+	Unknown location 	2 	2 	1 		-
+	Monterrey 	2 	1 	2 		-
+	Culiacán 	1 	1 	1 		-
+India 	6 Locations 	29 	20 	1.45 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	22 	14 	1.57 		-
+	Chennai 	3 	2 	1.5 		-
+	Virar 	1 	1 	1 		-
+	Raipur 	1 	1 	1 		-
+	Pune 	1 	1 	1 		-
+	New Delhi 	1 	1 	1 		-
+Russia 	11 Locations 	23 	23 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Moscow 	4 	4 	1 		-
+	Rostov-on-Don 	2 	2 	1 		-
+	Perm 	2 	2 	1 		-
+	Gatchina 	2 	2 	1 		-
+	Balakovo 	2 	2 	1 		-
+	Volosovo 	1 	1 	1 		-
+	Peschanka 	1 	1 	1 		-
+	Omsk 	1 	1 	1 		-
+	Kunashak 	1 	1 	1 		-
+United Kingdom 	8 Locations 	22 	15 	1.47 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	6 	6 	1 		-
+	Reading 	6 	2 	3 		-
+	Glasgow 	5 	2 	2.5 		-
+	Northwich 	1 	1 	1 		-
+	London 	1 	1 	1 		-
+	Coventry 	1 	1 	1 		-
+	Canterbury 	1 	1 	1 		-
+	Bridge 	1 	1 	1 		-
+Germany 	8 Locations 	17 	14 	1.21 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	6 	6 	1 		-
+	Frankfurt am Main 	3 	2 	1.5 		-
+	Saarbrücken 	3 	1 	3 		-
+	Sylt-Ost 	1 	1 	1 		-
+	Remscheid 	1 	1 	1 		-
+	Ingolstadt 	1 	1 	1 		-
+	Dortmund 	1 	1 	1 		-
+	Cologne 	1 	1 	1 		-
+Canada 	6 Locations 	12 	9 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	3 	1.67 		-
+	Toronto 	3 	2 	1.5 		-
+	Sherbrooke 	1 	1 	1 		-
+	Jonquiere 	1 	1 	1 		-
+	Brampton 	1 	1 	1 		-
+	Beauharnois 	1 	1 	1 		-
+Australia 	5 Locations 	8 	6 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	2 	1 		-
+	Sydney 	2 	1 	2 		-
+	Melbourne 	2 	1 	2 		-
+	Traralgon 	1 	1 	1 		-
+	Strathalbyn 	1 	1 	1 		-
+Republic of Korea 	3 Locations 	8 	3 	2.67 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Yongsan-dong 	3 	1 	3 		-
+	Yeongdeungpo-gu 	3 	1 	3 		-
+	Yeongdeungpo-dong 	2 	1 	2 		-
+Cambodia 	2 Locations 	5 	5 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Phnom Penh 	3 	3 	1 		-
+	Bavet 	2 	2 	1 		-
+Sweden 	3 Locations 	5 	3 	1.67 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	1 	3 		-
+	Kalmar 	1 	1 	1 		-
+	Jönköping 	1 	1 	1 		-
+Singapore 	2 Locations 	4 	3 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Singapore 	3 	2 	1.5 		-
+	Jurong West New Town 	1 	1 	1 		-
+Italy 	2 Locations 	4 	3 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	2 	1.5 		-
+	Milan 	1 	1 	1 		-
+Taiwan 		4 	3 	1.33 	— 	—
+Indonesia 	2 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Patam 	2 	2 	1 		-
+	Jakarta 	1 	1 	1 		-
+France 	2 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	2 	1 		-
+	Claye-Souilly 	1 	1 	1 		-
+China 	2 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	2 	1 		-
+	Hongkou 	1 	1 	1 		-
+Netherlands 		3 	3 	1 	— 	—
+Japan 	2 Locations 	3 	2 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	1 	2 		-
+	Setagaya-ku 	1 	1 	1 		-
+Turkey 		3 	1 	3 	— 	—
+Nigeria 		2 	1 	2 	— 	—
+Israel 		2 	1 	2 	— 	—
+Denmark 		2 	1 	2 	— 	—
+Brazil 		2 	1 	2 	— 	—
+Spain 		1 	1 	1 	— 	—
+Saudi Arabia 		1 	1 	1 	— 	—
+Romania 		1 	1 	1 	— 	—
+Puerto Rico 		1 	1 	1 	— 	—
+Latvia 		1 	1 	1 	— 	—
+Kyrgyzstan 		1 	1 	1 	— 	—
+Hungary 		1 	1 	1 	— 	—
+Hong Kong 		1 	1 	1 	— 	—
+Hashemite Kingdom of Jordan 		1 	1 	1 	— 	—
+British Virgin Islands 		1 	1 	1 	— 	—
+====== 2024-09-01 ======
+ United States 	110 Locations 	3,379 	469 	7.2 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Bellevue, WA 	1,616 	10 	161.6 		
+	Everett, WA 	1,177 	8 	147.13 		
+	Boardman, OR 	45 	45 	1 		
+	Seattle, WA 	20 	12 	1.67 		
+	Burlingame, CA 	16 	9 	1.78 		
+	Oceanside, CA 	13 	9 	1.44 		
+	Stanford, CA 	12 	9 	1.33 		
+	Wauchula, FL 	11 	8 	1.38 		
+	Santa Barbara, CA 	11 	8 	1.38 		
+	San Jose, CA 	11 	8 	1.38 		
+	Frisco, TX 	10 	7 	1.43 		
+	Cambridge, MA 	9 	7 	1.29 		
+	New York, NY 	9 	6 	1.5 		
+	Redmond, WA 	9 	5 	1.8 		
+	Santa Clara, CA 	8 	5 	1.6 		
+	Redwood City, CA 	8 	4 	2 		
+	Salt Lake City, UT 	6 	4 	1.5 		
+	Castro Valley, CA 	6 	4 	1.5 		
+	New Brunswick, NJ 	5 	2 	2.5 		
+	Amherst, MA 	5 	2 	2.5 		
+Germany 	5 Locations 	34 	25 	1.36 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	28 	21 	1.33 		-
+	Zweibrücken 	2 	1 	2 		-
+	Leipzig 	2 	1 	2 		-
+	Idstein 	1 	1 	1 		-
+	Heidelberg 	1 	1 	1 		-
+India 	8 Locations 	29 	19 	1.53 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	11 	8 	1.38 		-
+	New Delhi 	9 	3 	3 		-
+	Kollam 	3 	2 	1.5 		-
+	Hyderabad 	2 	2 	1 		-
+	Vellore 	1 	1 	1 		-
+	Lucknow 	1 	1 	1 		-
+	Chennai 	1 	1 	1 		-
+	Bilaspur 	1 	1 	1 		-
+United Kingdom 	13 Locations 	28 	22 	1.27 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Birmingham 	8 	6 	1.33 		-
+	Cambridge 	3 	1 	3 		-
+	Walsall 	2 	1 	2 		-
+	Oxford 	2 	1 	2 		-
+	Stourbridge 	1 	1 	1 		-
+	Stockport 	1 	1 	1 		-
+	Sheerness 	1 	1 	1 		-
+	Reading 	1 	1 	1 		-
+	Pinner 	1 	1 	1 		-
+	London 	1 	1 	1 		-
+Canada 	7 Locations 	26 	17 	1.53 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	10 	7 	1.43 		-
+	Montreal 	4 	3 	1.33 		-
+	Toronto 	4 	2 	2 		-
+	Laval 	3 	2 	1.5 		-
+	Oshawa 	3 	1 	3 		-
+	Grimsby 	1 	1 	1 		-
+	Beauharnois 	1 	1 	1 		-
+Singapore 	2 Locations 	20 	17 	1.18 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Singapore 	19 	16 	1.19 		-
+	Unknown location 	1 	1 	1 		-
+Iran 	4 Locations 	18 	14 	1.29 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	14 	11 	1.27 		-
+	Tehran 	2 	1 	2 		-
+	Zanjan 	1 	1 	1 		-
+	Peshgoman 	1 	1 	1 		-
+Russia 	9 Locations 	12 	12 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Moscow 	3 	3 	1 		-
+	Unknown location 	2 	2 	1 		-
+	Yekaterinburg 	1 	1 	1 		-
+	Voronezh 	1 	1 	1 		-
+	Rostov-on-Don 	1 	1 	1 		-
+	Perm 	1 	1 	1 		-
+	Nizhniy Novgorod 	1 	1 	1 		-
+	Chaykovskiy 	1 	1 	1 		-
+	Balakovo 	1 	1 	1 		-
+China 	4 Locations 	8 	7 	1.14 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	4 	1.25 		-
+	Shenzhen 	1 	1 	1 		-
+	Guangzhou 	1 	1 	1 		-
+	Beijing 	1 	1 	1 		-
+Taiwan 	5 Locations 	7 	6 	1.17 	— 	—
+Hong Kong 	3 Locations 	5 	4 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Central District 	3 	2 	1.5 		-
+	Kowloon 	1 	1 	1 		-
+	Central 	1 	1 	1 		-
+Bangladesh 	2 Locations 	5 	3 	1.67 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	1 	3 		-
+	Dhaka 	2 	2 	1 		-
+Greece 	2 Locations 	5 	2 	2.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Athens 	4 	1 	4 		-
+	Komotini 	1 	1 	1 		-
+Denmark 		5 	2 	2.5 	— 	—
+Switzerland 		4 	3 	1.33 	— 	—
+Turkey 	2 Locations 	4 	2 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Istanbul 	2 	1 	2 		-
+	Unknown location 	2 	1 	2 		-
+Nigeria 	2 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	2 	1 		-
+	Suleja 	1 	1 	1 		-
+Poland 	2 Locations 	3 	2 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	1 	2 		-
+	Warsaw 	1 	1 	1 		-
+United Arab Emirates 		3 	2 	1.5 	— 	—
+Japan 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Tokyo 	1 	1 	1 		-
+	Heiwajima 	1 	1 	1 		-
+Egypt 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Alexandria 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Åland 		2 	1 	2 	— 	—
+Netherlands 		2 	1 	2 	— 	—
+Uruguay 		1 	1 	1 	— 	—
+Sweden 		1 	1 	1 	— 	—
+Spain 		1 	1 	1 	— 	—
+Republic of Moldova 		1 	1 	1 	— 	—
+Republic of Korea 		1 	1 	1 	— 	—
+Pakistan 		1 	1 	1 	— 	—
+Kazakhstan 		1 	1 	1 	— 	—
+Italy 		1 	1 	1 	— 	—
+Ireland 		1 	1 	1 	— 	—
+Indonesia 		1 	1 	1 	— 	—
+Georgia 		1 	1 	1 	— 	—
+France 		1 	1 	1 	— 	—
+Finland 		1 	1 	1 	— 	—
+Czech Republic 		1 	1 	1 	— 	—
+Belgium 		1 	1 	1 	— 	—
+Bahrain 		1 	1 	1 	— 	—
+Azerbaijan 		1 	1 	1 	— 	—
+Australia 		1 	1 	1 	— 	—
+ United States 	160 Locations 	1,281 	806 	1.59 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Amherst, MA 	130 	57 	2.28 		
+	Seattle, WA 	122 	31 	3.94 		
+	Boardman, OR 	54 	51 	1.06 		
+	Austin, TX 	29 	11 	2.64 		
+	Santa Barbara, CA 	26 	17 	1.53 		
+	Houston, TX 	17 	8 	2.13 		
+	State College, PA 	15 	7 	2.14 		
+	Goleta, CA 	14 	10 	1.4 		
+	San Jose, CA 	13 	7 	1.86 		
+	Lynnwood, WA 	13 	2 	6.5 		
+	Pittsburgh, PA 	12 	12 	1 		
+	Cambridge, MA 	12 	10 	1.2 		
+	Ashburn, VA 	11 	10 	1.1 		4 days ago from Ashburn, Virginia
+	Los Angeles, CA 	11 	9 	1.22 		
+	Des Moines, IA 	10 	6 	1.67 		
+	Chicago, IL 	9 	7 	1.29 		
+	San Francisco, CA 	9 	4 	2.25 		
+	Redmond, WA 	8 	6 	1.33 		
+	Boulder, CO 	7 	7 	1 		
+	New York, NY 	7 	6 	1.17 		
+Iran 	3 Locations 	39 	30 	1.3 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	35 	28 	1.25 		-
+	Tehran 	3 	1 	3 		-
+	Gostar 	1 	1 	1 		-
+United Kingdom 	11 Locations 	30 	16 	1.88 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Leeds 	8 	2 	4 		-
+	Bridge 	5 	1 	5 		-
+	Birmingham 	3 	3 	1 		-
+	London 	2 	1 	2 		-
+	Barnsley 	2 	1 	2 		-
+	Ashford 	2 	1 	2 		-
+	Redhill 	1 	1 	1 		-
+	Newcastle upon Tyne 	1 	1 	1 		-
+	Edinburgh 	1 	1 	1 		-
+	Bath 	1 	1 	1 		-
+Germany 	8 Locations 	28 	18 	1.56 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	16 	8 	2 		-
+	Leipzig 	4 	2 	2 		-
+	Saarbrücken 	2 	2 	1 		-
+	Aachen 	2 	2 	1 		-
+	Tübingen 	1 	1 	1 		-
+	Osterburg 	1 	1 	1 		-
+	Heidelberg 	1 	1 	1 		-
+	Frankfurt am Main 	1 	1 	1 		-
+Canada 	9 Locations 	24 	19 	1.26 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	11 	9 	1.22 		-
+	Scarborough 	6 	3 	2 		-
+	Vancouver 	1 	1 	1 		-
+	Toronto 	1 	1 	1 		-
+	Sault Ste. Marie 	1 	1 	1 		-
+	Montreal 	1 	1 	1 		-
+	Laval 	1 	1 	1 		-
+	Edmonton 	1 	1 	1 		-
+	Beauharnois 	1 	1 	1 		-
+Russia 	9 Locations 	19 	19 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	6 	6 	1 		-
+	Moscow 	5 	5 	1 		-
+	Rostov-on-Don 	2 	2 	1 		-
+	Yekaterinburg 	1 	1 	1 		-
+	Voronezh 	1 	1 	1 		-
+	Perm 	1 	1 	1 		-
+	Omsk 	1 	1 	1 		-
+	Gatchina 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+India 	6 Locations 	17 	11 	1.55 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	8 	5 	1.6 		-
+	Hyderabad 	3 	2 	1.5 		-
+	Jaipur 	2 	1 	2 		-
+	Delhi 	2 	1 	2 		-
+	Kolkata 	1 	1 	1 		-
+	Kanpur 	1 	1 	1 		-
+China 	5 Locations 	12 	10 	1.2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Hongkou 	4 	4 	1 		-
+	Hangzhou 	3 	2 	1.5 		-
+	Shanghai 	2 	2 	1 		-
+	Wuhan 	2 	1 	2 		-
+	Unknown location 	1 	1 	1 		-
+Australia 	4 Locations 	10 	9 	1.11 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	3 	1.33 		-
+	Moonee Ponds 	3 	3 	1 		-
+	Melbourne 	2 	2 	1 		-
+	Sydney 	1 	1 	1 		-
+Switzerland 	2 Locations 	9 	6 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	8 	5 	1.6 		-
+	Lausanne 	1 	1 	1 		-
+Singapore 		7 	5 	1.4 	— 	—
+Turkey 	3 Locations 	5 	4 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	2 	1.5 		-
+	Mersin 	1 	1 	1 		-
+	Ankara 	1 	1 	1 		-
+Republic of Korea 	3 Locations 	5 	4 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Seoul 	3 	2 	1.5 		-
+	Seo-gu 	1 	1 	1 		-
+	Incheon 	1 	1 	1 		-
+Sweden 	3 Locations 	4 	4 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	2 	1 		-
+	Tavelsjo 	1 	1 	1 		-
+	Hudiksvall 	1 	1 	1 		-
+Bulgaria 	2 Locations 	4 	4 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Sofia 	2 	2 	1 		-
+	Unknown location 	2 	2 	1 		-
+Spain 		4 	3 	1.33 	— 	—
+Japan 		4 	2 	2 	— 	—
+Hong Kong 	2 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	2 	1 		-
+	Central 	1 	1 	1 		-
+Bangladesh 	2 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Dhaka 	2 	2 	1 		-
+	Sylhet 	1 	1 	1 		-
+Qatar 		3 	1 	3 	— 	—
+Vietnam 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Hanoi 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Israel 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Qiryat Gat 	1 	1 	1 		-
+	Haifa 	1 	1 	1 		-
+Puerto Rico 		2 	1 	2 	— 	—
+Philippines 		2 	1 	2 	— 	—
+Italy 		2 	1 	2 	— 	—
+France 		2 	1 	2 	— 	—
+Uruguay 		1 	1 	1 	— 	—
+United Arab Emirates 		1 	1 	1 	— 	—
+Taiwan 		1 	1 	1 	— 	—
+Nigeria 		1 	1 	1 	— 	—
+Lebanon 		1 	1 	1 	— 	—
+Ireland 		1 	1 	1 	— 	—
+Finland 		1 	1 	1 	— 	—
+Estonia 		1 	1 	1 	— 	—
+Denmark 		1 	1 	1 	— 	—
+Cyprus 		1 	1 	1 	— 	—
+Belgium 		1 	1 	1 	— 	—
+====== 2025-01-01 =====
+ United States 	156 Locations 	980 	679 	1.44 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Boardman, OR 	43 	43 	1 		
+	Austin, TX 	41 	25 	1.64 		
+	Santa Barbara, CA 	39 	21 	1.86 		
+	Council Bluffs, IA 	27 	22 	1.23 		1 day ago from Council Bluffs, Iowa
+	Seattle, WA 	20 	15 	1.33 		
+	Boston, MA 	19 	6 	3.17 		
+	Mountain View, CA 	17 	13 	1.31 		1 day ago from Mountain View, California
+	Hoodsport, WA 	14 	6 	2.33 		
+	Mesa, AZ 	12 	7 	1.71 		
+	State College, PA 	12 	6 	2 		
+	San Jose, CA 	11 	9 	1.22 		
+	Miami, FL 	10 	6 	1.67 		
+	College Park, MD 	10 	6 	1.67 		
+	New York, NY 	9 	7 	1.29 		
+	Chicago, IL 	7 	6 	1.17 		
+	Pittsburgh, PA 	7 	5 	1.4 		
+	Ann Arbor, MI 	7 	5 	1.4 		
+	Lowell, MA 	7 	1 	7 		
+	Ashburn, VA 	6 	6 	1 		4 days ago from Ashburn, Virginia
+	Goleta, CA 	6 	5 	1.2 		
+Iran 	6 Locations 	74 	61 	1.21 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	63 	53 	1.19 		-
+	Farsi 	5 	2 	2.5 		-
+	Tehran 	2 	2 	1 		-
+	Gostar 	2 	2 	1 		-
+	Tabriz 	1 	1 	1 		-
+	Sabz 	1 	1 	1 		-
+Canada 	11 Locations 	56 	41 	1.37 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Vancouver 	28 	18 	1.56 		-
+	Burnaby 	4 	3 	1.33 		-
+	Richmond 	3 	2 	1.5 		-
+	Kamloops 	2 	2 	1 		-
+	Baie-D'Urfe 	2 	1 	2 		-
+	Toronto 	1 	1 	1 		-
+	Montreal 	1 	1 	1 		-
+	Kitchener 	1 	1 	1 		-
+	Calgary 	1 	1 	1 		-
+	Beauharnois 	1 	1 	1 		-
+India 	14 Locations 	55 	32 	1.72 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	New Delhi 	6 	2 	3 		-
+	Delhi 	5 	3 	1.67 		-
+	Howrah 	5 	1 	5 		-
+	Hyderabad 	4 	2 	2 		-
+	Bangalore 	3 	3 	1 		-
+	Mumbai 	3 	1 	3 		-
+	Meerut 	3 	1 	3 		-
+	Ahmedabad 	2 	2 	1 		-
+	Pune 	2 	1 	2 		-
+	Kolkata 	2 	1 	2 		-
+United Kingdom 	7 Locations 	22 	18 	1.22 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	8 	7 	1.14 		-
+	London 	6 	5 	1.2 		-
+	Sheffield 	2 	2 	1 		-
+	West Cowes 	2 	1 	2 		-
+	Bath 	2 	1 	2 		-
+	Sandown 	1 	1 	1 		-
+	Manchester 	1 	1 	1 		-
+Russia 	11 Locations 	21 	21 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Voronezh 	2 	2 	1 		-
+	Volosovo 	2 	2 	1 		-
+	Saratov 	2 	2 	1 		-
+	Moscow 	2 	2 	1 		-
+	Gatchina 	2 	2 	1 		-
+	Yekaterinburg 	1 	1 	1 		-
+	Volgograd 	1 	1 	1 		-
+	Perm 	1 	1 	1 		-
+	Degtyarsk 	1 	1 	1 		-
+China 	7 Locations 	20 	20 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	8 	8 	1 		-
+	Beijing 	5 	5 	1 		-
+	Hongkou 	3 	3 	1 		-
+	Xi'an 	1 	1 	1 		-
+	Shanghai 	1 	1 	1 		-
+	Nanjing 	1 	1 	1 		-
+	Guangzhou 	1 	1 	1 		-
+Germany 	2 Locations 	19 	15 	1.27 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	18 	14 	1.29 		-
+	Aachen 	1 	1 	1 		-
+Singapore 	2 Locations 	19 	10 	1.9 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Singapore 	15 	7 	2.14 		-
+	Unknown location 	4 	3 	1.33 		-
+Switzerland 	2 Locations 	16 	11 	1.45 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	9 	7 	1.29 		-
+	Zurich 	7 	4 	1.75 		-
+Japan 	6 Locations 	15 	10 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Atsugi 	8 	4 	2 		-
+	Saitama 	2 	2 	1 		-
+	Fukuoka 	2 	1 	2 		-
+	Ōita 	1 	1 	1 		-
+	Nagoya-shi 	1 	1 	1 		-
+	Bunkyo-ku 	1 	1 	1 		-
+Republic of Korea 	5 Locations 	12 	8 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Seoul 	5 	4 	1.25 		-
+	Gimhae 	3 	1 	3 		-
+	Guri-si 	2 	1 	2 		-
+	Incheon 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Hong Kong 	4 Locations 	12 	8 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	6 	4 	1.5 		-
+	Central District 	2 	2 	1 		-
+	Kowloon 	2 	1 	2 		-
+	Central 	2 	1 	2 		-
+Spain 	3 Locations 	11 	5 	2.2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Valladolid 	8 	2 	4 		-
+	Unknown location 	2 	2 	1 		-
+	Madrid 	1 	1 	1 		-
+Bangladesh 	4 Locations 	10 	8 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	3 	1 		-
+	Khulna 	3 	2 	1.5 		-
+	Dhaka 	3 	2 	1.5 		-
+	Gopalganj 	1 	1 	1 		-
+Turkey 	4 Locations 	9 	7 	1.29 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	3 	1.33 		-
+	Izmir 	2 	2 	1 		-
+	Mustafakemalpasa 	2 	1 	2 		-
+	Istanbul 	1 	1 	1 		-
+Mexico 	2 Locations 	8 	4 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Ciudad Obregón 	7 	3 	2.33 		-
+	Mexico City 	1 	1 	1 		-
+Italy 	3 Locations 	7 	6 	1.17 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Trento 	3 	2 	1.5 		-
+	Rome 	2 	2 	1 		-
+	Unknown location 	2 	2 	1 		-
+Netherlands 	2 Locations 	7 	5 	1.4 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Amsterdam 	6 	4 	1.5 		-
+	Unknown location 	1 	1 	1 		-
+Australia 	3 Locations 	6 	5 	1.2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	2 	1.5 		-
+	Moonee Ponds 	2 	2 	1 		-
+	Sydney 	1 	1 	1 		-
+France 	2 Locations 	6 	5 	1.2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	3 	1.33 		-
+	Paris 	2 	2 	1 		-
+Ireland 		5 	5 	1 	— 	—
+Denmark 	2 Locations 	4 	4 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Frederiksberg 	2 	2 	1 		-
+	Unknown location 	2 	2 	1 		-
+Israel 		4 	4 	1 	— 	—
+Barbados 		4 	1 	4 	— 	—
+Taiwan 	2 Locations 	3 	2 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Taipei 	2 	1 	2 		-
+	Taoyuan 	1 	1 	1 		-
+Pakistan 		3 	1 	3 	— 	—
+South Africa 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Johannesburg 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+United Arab Emirates 		2 	2 	1 	— 	—
+Nigeria 		2 	2 	1 	— 	—
+Vietnam 		2 	1 	2 	— 	—
+Peru 		2 	1 	2 	— 	—
+Estonia 		2 	1 	2 	— 	—
+Ukraine 		1 	1 	1 	— 	—
+Saudi Arabia 		1 	1 	1 	— 	—
+Morocco 		1 	1 	1 	— 	—
+Bulgaria 		1 	1 	1 	— 	—
+Belgium 		1 	1 	1 	— 	—
+Azerbaijan 		1 	1 	1 	— 	—
+====== 2025-02-01 ======
+ United States 	105 Locations 	1,399 	437 	3.2 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Goleta, CA 	153 	10 	15.3 		
+	Austin, TX 	99 	60 	1.65 		
+	Santa Barbara, CA 	58 	15 	3.87 		
+	Hoodsport, WA 	52 	7 	7.43 		
+	Council Bluffs, IA 	34 	18 	1.89 		1 day ago from Council Bluffs, Iowa
+	Seattle, WA 	23 	13 	1.77 		
+	Mesa, AZ 	23 	3 	7.67 		
+	Mountain View, CA 	14 	7 	2 		1 day ago from Mountain View, California
+	San Jose, CA 	11 	9 	1.22 		
+	Chicago, IL 	11 	6 	1.83 		
+	Boardman, OR 	9 	9 	1 		
+	New York, NY 	6 	5 	1.2 		
+	Lynnwood, WA 	6 	3 	2 		
+	Sunnyvale, CA 	5 	4 	1.25 		
+	Los Angeles, CA 	5 	4 	1.25 		
+	College Station, TX 	5 	3 	1.67 		
+	Ashburn, VA 	4 	4 	1 		4 days ago from Ashburn, Virginia
+	Laurel, MD 	4 	2 	2 		
+	Alameda, CA 	4 	2 	2 		
+	Stanford, CA 	3 	3 	1 		
+Iran 	6 Locations 	47 	40 	1.18 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	39 	32 	1.22 		-
+	Tehran 	4 	4 	1 		-
+	Qazvin 	1 	1 	1 		-
+	Isfahan 	1 	1 	1 		-
+	Hur 	1 	1 	1 		-
+	Farsi 	1 	1 	1 		-
+India 	7 Locations 	31 	14 	2.21 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	18 	6 	3 		-
+	New Delhi 	5 	1 	5 		-
+	Delhi 	3 	2 	1.5 		-
+	Hyderabad 	2 	2 	1 		-
+	Mumbai 	1 	1 	1 		-
+	Bangalore 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Russia 	11 Locations 	20 	20 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Moscow 	4 	4 	1 		-
+	Voronezh 	3 	3 	1 		-
+	Yekaterinburg 	1 	1 	1 		-
+	Volosovo 	1 	1 	1 		-
+	Peschanka 	1 	1 	1 		-
+	Omsk 	1 	1 	1 		-
+	Nizhniy Novgorod 	1 	1 	1 		-
+	Gatchina 	1 	1 	1 		-
+	Balakovo 	1 	1 	1 		-
+Germany 	6 Locations 	16 	9 	1.78 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Bremen 	7 	2 	3.5 		-
+	Unknown location 	3 	1 	3 		-
+	Tübingen 	2 	2 	1 		-
+	Frankfurt am Main 	2 	2 	1 		-
+	Rennerod 	1 	1 	1 		-
+	Bonn 	1 	1 	1 		-
+Czech Republic 		12 	1 	12 	— 	—
+China 	4 Locations 	10 	10 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	6 	6 	1 		-
+	Hongkou 	2 	2 	1 		-
+	Quanzhou 	1 	1 	1 		-
+	Chengdu 	1 	1 	1 		-
+United Kingdom 	5 Locations 	8 	6 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	2 	1.5 		-
+	Bath 	2 	1 	2 		-
+	Newcastle upon Tyne 	1 	1 	1 		-
+	London 	1 	1 	1 		-
+	Glasgow 	1 	1 	1 		-
+Canada 	5 Locations 	8 	5 	1.6 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Smiths Falls 	4 	1 	4 		-
+	Toronto 	1 	1 	1 		-
+	London 	1 	1 	1 		-
+	Calgary 	1 	1 	1 		-
+	Beauharnois 	1 	1 	1 		-
+Singapore 	2 Locations 	6 	5 	1.2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Singapore 	5 	4 	1.25 		-
+	Unknown location 	1 	1 	1 		-
+Netherlands 	2 Locations 	5 	4 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	3 	1.33 		-
+	Amsterdam 	1 	1 	1 		-
+Spain 	2 Locations 	5 	3 	1.67 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Valladolid 	4 	2 	2 		-
+	Unknown location 	1 	1 	1 		-
+France 	3 Locations 	4 	3 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Le Chesnay 	2 	1 	2 		-
+	Biguglia 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Belgium 	2 Locations 	3 	2 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	1 	2 		-
+	Brussels 	1 	1 	1 		-
+United Arab Emirates 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Sharjah 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Hong Kong 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Tsimshatsui 	1 	1 	1 		-
+	Central 	1 	1 	1 		-
+Switzerland 		2 	2 	1 	— 	—
+Denmark 		2 	1 	2 	— 	—
+Ukraine 		1 	1 	1 	— 	—
+Sweden 		1 	1 	1 	— 	—
+Romania 		1 	1 	1 	— 	—
+Republic of Korea 		1 	1 	1 	— 	—
+Nigeria 		1 	1 	1 	— 	—
+Japan 		1 	1 	1 	— 	—
+Italy 		1 	1 	1 	— 	—
+Israel 		1 	1 	1 	— 	—
+Greece 		1 	1 	1 	— 	—
+Estonia 		1 	1 	1 	— 	—
+Burkina Faso 		1 	1 	1 	— 	—
+Algeria 		1 	1 	1 	— 	—
+====== 2025-03-01 ======
+United States 	84 Locations 	310 	219 	1.42 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Santa Barbara, CA 	16 	11 	1.45 		
+	Puyallup, WA 	16 	8 	2 		
+	Dearborn, MI 	15 	4 	3.75 		
+	Chapel Hill, NC 	14 	4 	3.5 		
+	Boardman, OR 	8 	8 	1 		
+	San Jose, CA 	7 	6 	1.17 		
+	Los Angeles, CA 	6 	4 	1.5 		
+	College Park, MD 	6 	3 	2 		
+	Chicago, IL 	5 	5 	1 		
+	Cambridge, MA 	5 	5 	1 		
+	Laurel, MD 	5 	2 	2.5 		
+	Austin, TX 	4 	3 	1.33 		
+	Ann Arbor, MI 	4 	3 	1.33 		
+	Cumming, GA 	4 	2 	2 		
+	Dallas, TX 	4 	1 	4 		
+	Chevy Chase, MD 	4 	1 	4 		
+	New York, NY 	3 	2 	1.5 		
+	Phoenix, AZ 	3 	1 	3 		4 days ago from Phoenix, Arizona
+	Clarksville, TN 	3 	1 	3 		
+	Baltimore, MD 	3 	1 	3 		
+Iran 	4 Locations 	46 	35 	1.31 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	41 	31 	1.32 		-
+	Tehran 	2 	2 	1 		-
+	Tiran 	2 	1 	2 		-
+	Qazvin 	1 	1 	1 		-
+India 	7 Locations 	20 	11 	1.82 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Bangalore 	7 	2 	3.5 		-
+	Hyderabad 	4 	3 	1.33 		-
+	Unknown location 	4 	2 	2 		-
+	Dehradun 	2 	1 	2 		-
+	New Delhi 	1 	1 	1 		-
+	Kochi 	1 	1 	1 		-
+	Bhubaneswar 	1 	1 	1 		-
+Russia 	10 Locations 	14 	14 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Voronezh 	2 	2 	1 		-
+	Moscow 	2 	2 	1 		-
+	Engel's 	2 	2 	1 		-
+	Unknown location 	2 	2 	1 		-
+	Saratov 	1 	1 	1 		-
+	Peschanka 	1 	1 	1 		-
+	Omsk 	1 	1 	1 		-
+	Nizhniy Novgorod 	1 	1 	1 		-
+	Gatchina 	1 	1 	1 		-
+	Artëm 	1 	1 	1 		-
+Canada 	7 Locations 	13 	9 	1.44 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Vancouver 	6 	3 	2 		-
+	Smiths Falls 	2 	1 	2 		-
+	Red Lake 	1 	1 	1 		-
+	Montreal 	1 	1 	1 		-
+	Calgary 	1 	1 	1 		-
+	Beauharnois 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+China 	4 Locations 	10 	10 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	5 	1 		-
+	Zhengzhou 	2 	2 	1 		-
+	Hongkou 	2 	2 	1 		-
+	Shanghai 	1 	1 	1 		-
+Germany 	3 Locations 	10 	7 	1.43 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	6 	4 	1.5 		-
+	Darmstadt 	3 	2 	1.5 		-
+	Munich 	1 	1 	1 		-
+United Kingdom 	7 Locations 	8 	8 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	2 	1 		-
+	Stoke-on-Trent 	1 	1 	1 		-
+	Sheffield 	1 	1 	1 		-
+	Middlesbrough 	1 	1 	1 		-
+	London 	1 	1 	1 		-
+	Camden Town 	1 	1 	1 		-
+	Cambridge 	1 	1 	1 		-
+Sweden 	2 Locations 	6 	2 	3 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Lund 	4 	1 	4 		-
+	Malmo 	2 	1 	2 		-
+Republic of Korea 	2 Locations 	5 	3 	1.67 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Daejeon 	4 	2 	2 		-
+	Seodaemun-gu 	1 	1 	1 		-
+Ukraine 		3 	1 	3 	— 	—
+Bangladesh 	Dhaka 	3 	1 	3 	— 	—
+Nepal 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Kathmandu 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Hong Kong 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Central District 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+United Arab Emirates 		1 	1 	1 	— 	—
+Singapore 		1 	1 	1 	— 	—
+Portugal 		1 	1 	1 	— 	—
+Netherlands 		1 	1 	1 	— 	—
+Mexico 		1 	1 	1 	— 	—
+Macedonia 		1 	1 	1 	— 	—
+Latvia 		1 	1 	1 	— 	—
+Japan 		1 	1 	1 	— 	—
+Israel 		1 	1 	1 	— 	—
+Austria 		1 	1 	1 	— 	—
+Australia 		1 	1 	1 	— 	—
+====== 2025-04-01 ======
+ United States 	72 Locations 	878 	212 	4.14 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Santa Barbara, CA 	157 	18 	8.72 		
+	Goleta, CA 	29 	5 	5.8 		
+	Seattle, WA 	18 	11 	1.64 		
+	Chapel Hill, NC 	8 	4 	2 		
+	Pittsburgh, PA 	6 	5 	1.2 		
+	Council Bluffs, IA 	6 	5 	1.2 		1 day ago from Council Bluffs, Iowa
+	Madison, WI 	5 	3 	1.67 		
+	Moraga, CA 	4 	3 	1.33 		
+	Minooka, IL 	4 	3 	1.33 		
+	Ithaca, NY 	4 	3 	1.33 		
+	Round Rock, TX 	4 	2 	2 		
+	Auburn, AL 	4 	1 	4 		
+	New York, NY 	3 	3 	1 		
+	Chicago, IL 	3 	3 	1 		
+	Boardman, OR 	3 	3 	1 		
+	Laurel, MD 	3 	2 	1.5 		
+	Durham, NC 	3 	1 	3 		
+	Berkeley, CA 	3 	1 	3 		
+	Providence, RI 	2 	2 	1 		
+	Mountain View, CA 	2 	2 	1 		1 day ago from Mountain View, California
+Iran 	2 Locations 	13 	11 	1.18 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	11 	9 	1.22 		-
+	Tehran 	2 	2 	1 		-
+China 	3 Locations 	8 	7 	1.14 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	5 	1 		-
+	Guangzhou 	2 	1 	2 		-
+	Quanzhou 	1 	1 	1 		-
+India 	3 Locations 	7 	6 	1.17 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	4 	1 		-
+	Chandigarh 	2 	1 	2 		-
+	Kolkata 	1 	1 	1 		-
+Russia 	6 Locations 	6 	6 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Saratov 	1 	1 	1 		-
+	Minino 	1 	1 	1 		-
+	Gatchina 	1 	1 	1 		-
+	Engel's 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Singapore 		5 	1 	5 	— 	—
+Canada 	3 Locations 	4 	4 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	2 	1 		-
+	Lethbridge 	1 	1 	1 		-
+	Beauharnois 	1 	1 	1 		-
+United Kingdom 		4 	3 	1.33 	— 	—
+Macedonia 	2 Locations 	4 	2 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Skopje 	3 	1 	3 		-
+	Veles 	1 	1 	1 		-
+France 		3 	1 	3 	— 	—
+Australia 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Moonee Ponds 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Italy 		2 	2 	1 	— 	—
+United Arab Emirates 		2 	1 	2 	— 	—
+Republic of Korea 		2 	1 	2 	— 	—
+Indonesia 		2 	1 	2 	— 	—
+Taiwan 		1 	1 	1 	— 	—
+Portugal 		1 	1 	1 	— 	—
+Philippines 		1 	1 	1 	— 	—
+Nigeria 		1 	1 	1 	— 	—
+Netherlands 		1 	1 	1 	— 	—
+Mexico 		1 	1 	1 	— 	—
+Ireland 		1 	1 	1 	— 	—
+Hong Kong 		1 	1 	1 	— 	—
+Ghana 		1 	1 	1 	— 	—
+Germany 		1 	1 	1 	— 	—
+Croatia 		1 	1 	1 	— 	—
+Austria 		1 	1 	1 	— 	—
+====== 2025-05-01 ======
+United States 	115 Locations 	1,416 	482 	2.94 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Santa Barbara, CA 	79 	21 	3.76 		
+	Goleta, CA 	49 	3 	16.33 		
+	San Diego, CA 	47 	4 	11.75 		
+	Seattle, WA 	37 	24 	1.54 		
+	Council Bluffs, IA 	36 	27 	1.33 		1 day ago from Council Bluffs, Iowa
+	Hoodsport, WA 	19 	4 	4.75 		
+	Las Vegas, NV 	17 	2 	8.5 		
+	Mountain View, CA 	13 	11 	1.18 		1 day ago from Mountain View, California
+	Chapel Hill, NC 	13 	6 	2.17 		
+	Spring Valley, CA 	11 	3 	3.67 		
+	Ashburn, VA 	9 	9 	1 		4 days ago from Ashburn, Virginia
+	New York, NY 	8 	5 	1.6 		
+	West Jordan, UT 	8 	1 	8 		
+	Pittsburgh, PA 	7 	6 	1.17 		
+	Halethorpe, MD 	6 	5 	1.2 		
+	Boardman, OR 	5 	5 	1 		
+	Houston, TX 	5 	4 	1.25 		
+	Washington, DC 	5 	3 	1.67 		
+	Antioch, CA 	5 	1 	5 		
+	Richardson, TX 	4 	4 	1 		
+India 	9 Locations 	74 	45 	1.64 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Hyderabad 	46 	25 	1.84 		-
+	Unknown location 	17 	12 	1.42 		-
+	Bangalore 	3 	2 	1.5 		-
+	New Delhi 	2 	1 	2 		-
+	Guntur 	2 	1 	2 		-
+	Shimla 	1 	1 	1 		-
+	Kolkata 	1 	1 	1 		-
+	Coimbatore 	1 	1 	1 		-
+	Chennai 	1 	1 	1 		-
+Iran 	3 Locations 	34 	29 	1.17 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	32 	27 	1.19 		-
+	Tehran 	1 	1 	1 		-
+	Kerman 	1 	1 	1 		-
+United Kingdom 	6 Locations 	28 	18 	1.56 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	12 	8 	1.5 		-
+	Stourbridge 	7 	2 	3.5 		-
+	Westbury 	4 	4 	1 		-
+	Manchester 	2 	2 	1 		-
+	Middlesbrough 	2 	1 	2 		-
+	Radstock 	1 	1 	1 		-
+China 	5 Locations 	27 	27 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	19 	19 	1 		-
+	Beijing 	5 	5 	1 		-
+	Shenyang 	1 	1 	1 		-
+	Hongkou 	1 	1 	1 		-
+	Changsha 	1 	1 	1 		-
+Canada 	5 Locations 	17 	13 	1.31 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	8 	7 	1.14 		-
+	Barrie 	6 	3 	2 		-
+	Saskatoon 	1 	1 	1 		-
+	Oakville 	1 	1 	1 		-
+	Beauharnois 	1 	1 	1 		-
+Netherlands 	4 Locations 	12 	6 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Groningen 	6 	1 	6 		-
+	Unknown location 	4 	3 	1.33 		-
+	Rotterdam 	1 	1 	1 		-
+	Nieuwegein 	1 	1 	1 		-
+Germany 	5 Locations 	11 	9 	1.22 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	4 	1.25 		-
+	Berlin 	2 	2 	1 		-
+	Potsdam 	2 	1 	2 		-
+	Frankfurt am Main 	1 	1 	1 		-
+	Cologne 	1 	1 	1 		-
+Czech Republic 	3 Locations 	11 	7 	1.57 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Zubri 	5 	2 	2.5 		-
+	Ostrata 	4 	3 	1.33 		-
+	Unknown location 	2 	2 	1 		-
+Turkey 		11 	6 	1.83 	— 	—
+Russia 	6 Locations 	9 	9 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	4 	1 		-
+	Yekaterinburg 	1 	1 	1 		-
+	Volgograd 	1 	1 	1 		-
+	Moscow 	1 	1 	1 		-
+	Gatchina 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Denmark 	3 Locations 	9 	4 	2.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Copenhagen 	4 	2 	2 		-
+	Unknown location 	3 	1 	3 		-
+	Aarhus C 	2 	1 	2 		-
+New Zealand 		8 	8 	1 	— 	—
+Austria 	4 Locations 	8 	7 	1.14 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Vienna 	3 	3 	1 		-
+	Unknown location 	3 	2 	1.5 		-
+	Tulln 	1 	1 	1 		-
+	Spittal an der Drau 	1 	1 	1 		-
+Italy 	3 Locations 	5 	4 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	2 	1.5 		-
+	Trieste 	1 	1 	1 		-
+	Buonabitacolo 	1 	1 	1 		-
+France 	2 Locations 	4 	4 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Paris 	3 	3 	1 		-
+	Unknown location 	1 	1 	1 		-
+Singapore 	2 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Singapore 	2 	2 	1 		-
+	Unknown location 	1 	1 	1 		-
+Australia 	2 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Moonee Ponds 	2 	2 	1 		-
+	Unknown location 	1 	1 	1 		-
+Hong Kong 		3 	2 	1.5 	— 	—
+United Arab Emirates 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Dubai 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Spain 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Madrid 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+South Africa 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Johannesburg 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Philippines 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Manajao 	1 	1 	1 		-
+	Makati City 	1 	1 	1 		-
+Japan 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Tokyo 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Israel 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Yaqum 	1 	1 	1 		-
+	Rehovot 	1 	1 	1 		-
+Belgium 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Ixelles-Elsene 	1 	1 	1 		-
+	Brussels 	1 	1 	1 		-
+Taiwan 		2 	1 	2 	— 	—
+Saudi Arabia 		2 	1 	2 	— 	—
+Republic of Korea 		2 	1 	2 	— 	—
+Nigeria 		2 	1 	2 	— 	—
+Sweden 		1 	1 	1 	— 	—
+Romania 		1 	1 	1 	— 	—
+Portugal 		1 	1 	1 	— 	—
+Poland 		1 	1 	1 	— 	—
+Pakistan 		1 	1 	1 	— 	—
+Norway 		1 	1 	1 	— 	—
+Malaysia 		1 	1 	1 	— 	—
+Ireland 		1 	1 	1 	— 	—
+Egypt 		1 	1 	1 	— 	—
+Bulgaria 		1 	1 	1 	— 	—
+Bangladesh 	Dhaka 	1 	1 	1 	— 	—
+====== 2025-06-01 =====
+ United States 	103 Locations 	629 	413 	1.52 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Council Bluffs, IA 	48 	37 	1.3 		1 day ago from Council Bluffs, Iowa
+	Santa Barbara, CA 	36 	17 	2.12 		
+	Mountain View, CA 	13 	10 	1.3 		1 day ago from Mountain View, California
+	Seattle, WA 	13 	6 	2.17 		
+	Boardman, OR 	12 	11 	1.09 		
+	Chicago, IL 	12 	7 	1.71 		
+	Pittsburgh, PA 	11 	7 	1.57 		
+	Durham, NC 	8 	2 	4 		
+	Ashburn, VA 	6 	6 	1 		4 days ago from Ashburn, Virginia
+	Ann Arbor, MI 	6 	5 	1.2 		
+	San Jose, CA 	6 	4 	1.5 		
+	College Park, MD 	6 	4 	1.5 		
+	Laurel, MD 	6 	3 	2 		
+	Chapel Hill, NC 	6 	2 	3 		
+	Middletown, PA 	6 	1 	6 		
+	Oceanside, CA 	5 	1 	5 		
+	Sequim, WA 	4 	4 	1 		
+	Redmond, WA 	4 	3 	1.33 		
+	Cleveland, OH 	4 	3 	1.33 		
+	Brooklyn, NY 	4 	2 	2 		
+India 	6 Locations 	30 	17 	1.76 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Hyderabad 	9 	6 	1.5 		-
+	Unknown location 	7 	4 	1.75 		-
+	Delhi 	7 	2 	3.5 		-
+	Guntur 	3 	2 	1.5 		-
+	Bangalore 	3 	2 	1.5 		-
+	Bhatkal 	1 	1 	1 		-
+Iran 	3 Locations 	29 	29 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	27 	27 	1 		-
+	Tehran 	1 	1 	1 		-
+	Farsi 	1 	1 	1 		-
+China 	7 Locations 	19 	19 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	13 	13 	1 		-
+	Shenyang 	1 	1 	1 		-
+	Shanghai 	1 	1 	1 		-
+	Foshan 	1 	1 	1 		-
+	Dongguan 	1 	1 	1 		-
+	Changsha 	1 	1 	1 		-
+	Changde 	1 	1 	1 		-
+Germany 	5 Locations 	18 	12 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	7 	6 	1.17 		-
+	Munich 	5 	2 	2.5 		-
+	Bielefeld 	3 	2 	1.5 		-
+	Saarbrücken 	2 	1 	2 		-
+	Ammerbuch 	1 	1 	1 		-
+United Kingdom 	6 Locations 	17 	14 	1.21 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Westbury 	6 	5 	1.2 		-
+	Edinburgh 	4 	3 	1.33 		-
+	Unknown location 	4 	3 	1.33 		-
+	Worthing 	1 	1 	1 		-
+	Oxford 	1 	1 	1 		-
+	Cambridge 	1 	1 	1 		-
+Republic of Korea 	4 Locations 	17 	8 	2.13 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Paju 	8 	3 	2.67 		-
+	Daejeon 	4 	3 	1.33 		-
+	Bucheon-si 	4 	1 	4 		-
+	Seoul 	1 	1 	1 		-
+Canada 	6 Locations 	14 	11 	1.27 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	4 	1.25 		-
+	Toronto 	4 	3 	1.33 		-
+	Laval 	2 	1 	2 		-
+	Victoria 	1 	1 	1 		-
+	Mississauga 	1 	1 	1 		-
+	Beauharnois 	1 	1 	1 		-
+Japan 	4 Locations 	14 	7 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	6 	2 	3 		-
+	Kita-ku 	4 	1 	4 		-
+	Tokyo 	2 	2 	1 		-
+	Kyoto 	2 	2 	1 		-
+Russia 	8 Locations 	12 	12 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	4 	1 		-
+	Saint Petersburg 	2 	2 	1 		-
+	Yekaterinburg 	1 	1 	1 		-
+	Voronezh 	1 	1 	1 		-
+	Volgograd 	1 	1 	1 		-
+	Omsk 	1 	1 	1 		-
+	Moscow 	1 	1 	1 		-
+	Miasskoye 	1 	1 	1 		-
+Netherlands 	3 Locations 	7 	5 	1.4 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	3 	1.67 		-
+	The Hague 	1 	1 	1 		-
+	Schiedam 	1 	1 	1 		-
+Australia 	4 Locations 	5 	5 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Moonee Ponds 	2 	2 	1 		-
+	Ringwood 	1 	1 	1 		-
+	Kensington 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Switzerland 	3 Locations 	5 	3 	1.67 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	1 	3 		-
+	Zurich 	1 	1 	1 		-
+	Bern 	1 	1 	1 		-
+New Zealand 		4 	4 	1 	— 	—
+Turkey 	2 Locations 	4 	2 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Ankara 	3 	1 	3 		-
+	Balıkesir 	1 	1 	1 		-
+Ireland 		3 	3 	1 	— 	—
+Saudi Arabia 	2 Locations 	3 	2 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	1 	2 		-
+	Jeddah 	1 	1 	1 		-
+Romania 		3 	2 	1.5 	— 	—
+Italy 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Avigliano Umbro 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Sweden 		2 	2 	1 	— 	—
+Singapore 		2 	2 	1 	— 	—
+Hong Kong 		2 	2 	1 	— 	—
+Qatar 		2 	1 	2 	— 	—
+Finland 		2 	1 	2 	— 	—
+Czech Republic 		2 	1 	2 	— 	—
+Ukraine 		1 	1 	1 	— 	—
+Taiwan 		1 	1 	1 	— 	—
+Slovenia 		1 	1 	1 	— 	—
+Peru 		1 	1 	1 	— 	—
+Hungary 		1 	1 	1 	— 	—
+Ghana 		1 	1 	1 	— 	—
+France 		1 	1 	1 	— 	—
+Croatia 		1 	1 	1 	— 	—
+Brazil 		1 	1 	1 	— 	—
+Austria 		1 	1 	1 	— 	—
+Argentina 		1 	1 	1 	— 	—
+====== 2025-07-01 =====
+United States 	88 Locations 	448 	336 	1.33 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Council Bluffs, IA 	27 	23 	1.17 		1 day ago from Council Bluffs, Iowa
+	Santa Barbara, CA 	18 	11 	1.64 		
+	Mountain View, CA 	15 	13 	1.15 		1 day ago from Mountain View, California
+	Chapel Hill, NC 	11 	8 	1.38 		
+	San Jose, CA 	9 	7 	1.29 		
+	Boardman, OR 	7 	7 	1 		
+	Seattle, WA 	6 	4 	1.5 		
+	Clarksville, TN 	6 	4 	1.5 		
+	Brooklyn, NY 	6 	2 	3 		
+	Tempe, AZ 	4 	4 	1 		
+	San Francisco, CA 	4 	4 	1 		
+	Goleta, CA 	4 	4 	1 		
+	Las Cruces, NM 	4 	3 	1.33 		
+	Atlanta, GA 	4 	3 	1.33 		
+	Coolidge, AZ 	4 	1 	4 		
+	New York, NY 	3 	3 	1 		
+	Columbus, OH 	3 	3 	1 		
+	Ashburn, VA 	3 	3 	1 		4 days ago from Ashburn, Virginia
+	Ann Arbor, MI 	3 	3 	1 		
+	Stanford, CA 	3 	2 	1.5 		
+Bangladesh 	Dhaka 	287 	6 	47.83 	— 	—
+China 	5 Locations 	33 	25 	1.32 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	21 	16 	1.31 		-
+	Shanghai 	4 	4 	1 		-
+	Beijing 	4 	2 	2 		-
+	Xiamen 	2 	2 	1 		-
+	Nanjing 	2 	1 	2 		-
+Switzerland 	3 Locations 	25 	12 	2.08 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	23 	10 	2.3 		-
+	Zurich 	1 	1 	1 		-
+	Aarau 	1 	1 	1 		-
+India 	7 Locations 	23 	17 	1.35 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	11 	9 	1.22 		-
+	Bangalore 	4 	2 	2 		-
+	Kolkata 	2 	2 	1 		-
+	Nellore 	2 	1 	2 		-
+	Hyderabad 	2 	1 	2 		-
+	Noida 	1 	1 	1 		-
+	Chandigarh 	1 	1 	1 		-
+United Kingdom 	6 Locations 	15 	9 	1.67 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	9 	4 	2.25 		-
+	Edinburgh 	2 	1 	2 		-
+	Sheffield 	1 	1 	1 		-
+	Oxford 	1 	1 	1 		-
+	Camden Town 	1 	1 	1 		-
+	Cambridge 	1 	1 	1 		-
+Iran 	2 Locations 	14 	14 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	13 	13 	1 		-
+	Sanandaj 	1 	1 	1 		-
+Panama 	2 Locations 	13 	3 	4.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Panama City 	12 	2 	6 		-
+	Unknown location 	1 	1 	1 		-
+Canada 	5 Locations 	10 	7 	1.43 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Burnaby 	4 	1 	4 		-
+	Unknown location 	3 	3 	1 		-
+	Victoria 	1 	1 	1 		-
+	Toronto 	1 	1 	1 		-
+	North Vancouver 	1 	1 	1 		-
+Russia 	6 Locations 	8 	8 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	3 	1 		-
+	Saratov 	1 	1 	1 		-
+	Saint Petersburg 	1 	1 	1 		-
+	Rostov-on-Don 	1 	1 	1 		-
+	Moscow 	1 	1 	1 		-
+	Kazan’ 	1 	1 	1 		-
+Singapore 	2 Locations 	6 	6 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Singapore 	4 	4 	1 		-
+	Unknown location 	2 	2 	1 		-
+Germany 	3 Locations 	4 	3 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Regensburg 	2 	1 	2 		-
+	Ammerbuch 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+United Arab Emirates 		3 	2 	1.5 	— 	—
+Republic of Korea 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Seongnam-si 	1 	1 	1 		-
+	Geoje 	1 	1 	1 		-
+Pakistan 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Lahore 	1 	1 	1 		-
+	Karachi 	1 	1 	1 		-
+Italy 		2 	2 	1 	— 	—
+Vietnam 		1 	1 	1 	— 	—
+Ukraine 		1 	1 	1 	— 	—
+Turkey 		1 	1 	1 	— 	—
+Taiwan 		1 	1 	1 	— 	—
+Sweden 		1 	1 	1 	— 	—
+Philippines 		1 	1 	1 	— 	—
+Morocco 		1 	1 	1 	— 	—
+Kazakhstan 		1 	1 	1 	— 	—
+Japan 		1 	1 	1 	— 	—
+Ireland 		1 	1 	1 	— 	—
+Hungary 		1 	1 	1 	— 	—
+France 		1 	1 	1 	— 	—
+Azerbaijan 		1 	1 	1 	— 	—
+Australia 		1 	1 	1 	— 	—
+====== 2025-08-01 ======
+United States 	73 Locations 	287 	218 	1.32 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Seattle, WA 	9 	4 	2.25 		
+	Chicago, IL 	6 	5 	1.2 		
+	Mountain View, CA 	6 	3 	2 		1 day ago from Mountain View, California
+	New York, NY 	6 	2 	3 		
+	Boardman, OR 	5 	5 	1 		
+	Ashburn, VA 	5 	5 	1 		4 days ago from Ashburn, Virginia
+	Oceanside, CA 	5 	4 	1.25 		
+	Council Bluffs, IA 	5 	4 	1.25 		1 day ago from Council Bluffs, Iowa
+	Arlington, VA 	5 	1 	5 		
+	Santa Barbara, CA 	4 	3 	1.33 		
+	Los Alamos, NM 	4 	1 	4 		
+	Columbus, OH 	3 	3 	1 		
+	Berkeley, CA 	3 	3 	1 		
+	San Francisco, CA 	3 	2 	1.5 		
+	Pittsburgh, PA 	3 	2 	1.5 		
+	Lubbock, TX 	3 	1 	3 		
+	Lewisville, TX 	3 	1 	3 		
+	Lansing, MI 	3 	1 	3 		
+	Menlo Park, CA 	2 	2 	1 		
+	Green Hill, TN 	2 	2 	1 		
+China 	5 Locations 	23 	23 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	17 	17 	1 		-
+	Hongkou 	3 	3 	1 		-
+	Shanghai 	1 	1 	1 		-
+	Quanzhou 	1 	1 	1 		-
+	Beijing 	1 	1 	1 		-
+Japan 	7 Locations 	18 	13 	1.38 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	7 	4 	1.75 		-
+	Tokyo 	6 	4 	1.5 		-
+	Setagaya-ku 	1 	1 	1 		-
+	Koto 	1 	1 	1 		-
+	Kawasaki 	1 	1 	1 		-
+	Bunkyo-ku 	1 	1 	1 		-
+	Akasaka 	1 	1 	1 		-
+Iran 	3 Locations 	16 	12 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	14 	10 	1.4 		-
+	Zanjan 	1 	1 	1 		-
+	Tiran 	1 	1 	1 		-
+India 	3 Locations 	12 	5 	2.4 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	6 	3 	2 		-
+	Bangalore 	5 	1 	5 		-
+	New Delhi 	1 	1 	1 		-
+Republic of Korea 	4 Locations 	11 	9 	1.22 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Seoul 	6 	5 	1.2 		-
+	Unknown location 	3 	2 	1.5 		-
+	Incheon 	1 	1 	1 		-
+	Gyeonggi-do 	1 	1 	1 		-
+France 		10 	3 	3.33 	— 	—
+United Kingdom 	2 Locations 	8 	4 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	7 	3 	2.33 		-
+	Westbury 	1 	1 	1 		-
+Canada 	3 Locations 	6 	5 	1.2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Vancouver 	4 	3 	1.33 		-
+	Blainville 	1 	1 	1 		-
+	Beauharnois 	1 	1 	1 		-
+Singapore 	2 Locations 	6 	3 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	1 	4 		-
+	Singapore 	2 	2 	1 		-
+Russia 	2 Locations 	5 	5 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	3 	1 		-
+	Perm 	2 	2 	1 		-
+Germany 	3 Locations 	5 	4 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	2 	1.5 		-
+	Saarbrücken 	1 	1 	1 		-
+	Kronberg 	1 	1 	1 		-
+Ireland 		5 	2 	2.5 	— 	—
+Bangladesh 	2 Locations 	4 	4 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Dhaka 	3 	3 	1 		-
+	Unknown location 	1 	1 	1 		-
+Sweden 	2 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	2 	1 		-
+	Boden 	1 	1 	1 		-
+United Arab Emirates 		3 	3 	1 	— 	—
+Switzerland 		3 	3 	1 	— 	—
+Taiwan 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Taipei 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Italy 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Terracina 	1 	1 	1 		-
+	Quartu Sant'Elena 	1 	1 	1 		-
+Australia 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Darlinghurst 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Kazakhstan 		2 	1 	2 	— 	—
+Austria 		2 	1 	2 	— 	—
+Vietnam 		1 	1 	1 	— 	—
+Spain 		1 	1 	1 	— 	—
+Pakistan 		1 	1 	1 	— 	—
+Netherlands 		1 	1 	1 	— 	—
+Hong Kong 		1 	1 	1 	— 	—
+Finland 		1 	1 	1 	— 	—
+Denmark 		1 	1 	1 	— 	—
+Brazil 		1 	1 	1 	— 	—
+Belgium 		1 	1 	1 	— 	—
+Azerbaijan 		1 	1 	1 	— 	—
+United States 	77 Locations 	307 	234 	1.31 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Seattle, WA 	24 	14 	1.71 		
+	Chicago, IL 	10 	6 	1.67 		
+	Santa Barbara, CA 	9 	6 	1.5 		
+	San Jose, CA 	8 	6 	1.33 		
+	Ashburn, VA 	7 	7 	1 		4 days ago from Ashburn, Virginia
+	Phoenix, AZ 	6 	4 	1.5 		4 days ago from Phoenix, Arizona
+	Los Angeles, CA 	6 	4 	1.5 		
+	Frisco, TX 	5 	1 	5 		
+	Nashville, TN 	4 	4 	1 		6 days ago from Nashville, Tennessee
+	Boardman, OR 	4 	4 	1 		
+	Denver, CO 	4 	3 	1.33 		
+	Madison, WI 	3 	3 	1 		
+	Washington, DC 	3 	2 	1.5 		
+	Clarksville, TN 	3 	2 	1.5 		
+	Austin, TX 	3 	2 	1.5 		
+	Chapel Hill, NC 	3 	1 	3 		
+	Pittsburgh, PA 	2 	2 	1 		
+	New York, NY 	2 	2 	1 		
+	Charlotte, NC 	2 	2 	1 		
+	Redwood City, CA 	2 	1 	2 		
+Japan 	11 Locations 	29 	23 	1.26 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Bunkyo-ku 	3 	3 	1 		-
+	Sumida 	2 	2 	1 		-
+	Shibuya 	2 	2 	1 		-
+	Shinjuku 	2 	1 	2 		-
+	Kofu 	2 	1 	2 		-
+	Bunkyo 	2 	1 	2 		-
+	Osaka 	1 	1 	1 		-
+	Kawagoe 	1 	1 	1 		-
+	Akishima 	1 	1 	1 		-
+	Akasaka 	1 	1 	1 		-
+China 	8 Locations 	18 	18 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	10 	10 	1 		-
+	Shanghai 	2 	2 	1 		-
+	Zhumadian 	1 	1 	1 		-
+	Nanjing 	1 	1 	1 		-
+	Kunshan 	1 	1 	1 		-
+	Hongkou 	1 	1 	1 		-
+	Beijing 	1 	1 	1 		-
+	Banbidian 	1 	1 	1 		-
+India 	3 Locations 	17 	8 	2.13 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Hyderabad 	8 	3 	2.67 		-
+	Bangalore 	6 	2 	3 		-
+	Unknown location 	3 	3 	1 		-
+Iran 	3 Locations 	16 	12 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	14 	10 	1.4 		-
+	Tiran 	1 	1 	1 		-
+	Tehran 	1 	1 	1 		-
+United Kingdom 	3 Locations 	11 	6 	1.83 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	7 	4 	1.75 		-
+	Brockenhurst 	3 	1 	3 		-
+	Chiswick 	1 	1 	1 		-
+Republic of Korea 	5 Locations 	10 	7 	1.43 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Gangnam-gu 	4 	3 	1.33 		-
+	Incheon 	2 	1 	2 		-
+	Daejeon 	2 	1 	2 		-
+	Seoul 	1 	1 	1 		-
+	Geoje 	1 	1 	1 		-
+Germany 	3 Locations 	9 	5 	1.8 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Bremen 	5 	1 	5 		-
+	Unknown location 	3 	3 	1 		-
+	Berlin 	1 	1 	1 		-
+Canada 	7 Locations 	8 	8 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	2 	1 		-
+	Waterloo 	1 	1 	1 		-
+	Montreal 	1 	1 	1 		-
+	Joliette 	1 	1 	1 		-
+	Hamilton 	1 	1 	1 		-
+	Burnaby 	1 	1 	1 		-
+	Brantford 	1 	1 	1 		-
+Taiwan 		8 	2 	4 	— 	—
+Australia 	2 Locations 	6 	4 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	2 	2 		-
+	Sydney 	2 	2 	1 		-
+Greece 		6 	1 	6 	— 	—
+Russia 	5 Locations 	5 	5 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Zheleznogorsk 	1 	1 	1 		-
+	Saint Petersburg 	1 	1 	1 		-
+	Moscow 	1 	1 	1 		-
+	Gatchina 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Bangladesh 	2 Locations 	5 	5 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Dhaka 	3 	3 	1 		-
+	Unknown location 	2 	2 	1 		-
+France 	3 Locations 	5 	3 	1.67 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Paris 	2 	1 	2 		-
+	Chalons-en-Champagne 	2 	1 	2 		-
+	Lyon 	1 	1 	1 		-
+Turkey 	2 Locations 	4 	3 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Mersin 	3 	2 	1.5 		-
+	Ankara 	1 	1 	1 		-
+Thailand 	2 Locations 	4 	3 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Bangkok 	2 	2 	1 		-
+	Wiphawadi 	2 	1 	2 		-
+Netherlands 	2 Locations 	4 	2 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Amsterdam 	2 	1 	2 		-
+	Unknown location 	2 	1 	2 		-
+Pakistan 		3 	3 	1 	— 	—
+Tajikistan 		3 	1 	3 	— 	—
+United Arab Emirates 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Dubai 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Singapore 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Singapore 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Hong Kong 		2 	2 	1 	— 	—
+Finland 		2 	1 	2 	— 	—
+Uzbekistan 		1 	1 	1 	— 	—
+South Africa 		1 	1 	1 	— 	—
+Libya 		1 	1 	1 	— 	—
+Kazakhstan 		1 	1 	1 	— 	—
+Italy 		1 	1 	1 	— 	—
+Israel 		1 	1 	1 	— 	—
+Ireland 		1 	1 	1 	— 	—
+Indonesia 		1 	1 	1 	— 	—
+Chile 		1 	1 	1 	— 	—
+====== 2025-09-01 ======
+United States 	77 Locations 	307 	234 	1.31 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Seattle, WA 	24 	14 	1.71 		
+	Chicago, IL 	10 	6 	1.67 		
+	Santa Barbara, CA 	9 	6 	1.5 		
+	San Jose, CA 	8 	6 	1.33 		
+	Ashburn, VA 	7 	7 	1 		4 days ago from Ashburn, Virginia
+	Phoenix, AZ 	6 	4 	1.5 		4 days ago from Phoenix, Arizona
+	Los Angeles, CA 	6 	4 	1.5 		
+	Frisco, TX 	5 	1 	5 		
+	Nashville, TN 	4 	4 	1 		6 days ago from Nashville, Tennessee
+	Boardman, OR 	4 	4 	1 		
+	Denver, CO 	4 	3 	1.33 		
+	Madison, WI 	3 	3 	1 		
+	Washington, DC 	3 	2 	1.5 		
+	Clarksville, TN 	3 	2 	1.5 		
+	Austin, TX 	3 	2 	1.5 		
+	Chapel Hill, NC 	3 	1 	3 		
+	Pittsburgh, PA 	2 	2 	1 		
+	New York, NY 	2 	2 	1 		
+	Charlotte, NC 	2 	2 	1 		
+	Redwood City, CA 	2 	1 	2 		
+Japan 	11 Locations 	29 	23 	1.26 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Bunkyo-ku 	3 	3 	1 		-
+	Sumida 	2 	2 	1 		-
+	Shibuya 	2 	2 	1 		-
+	Shinjuku 	2 	1 	2 		-
+	Kofu 	2 	1 	2 		-
+	Bunkyo 	2 	1 	2 		-
+	Osaka 	1 	1 	1 		-
+	Kawagoe 	1 	1 	1 		-
+	Akishima 	1 	1 	1 		-
+	Akasaka 	1 	1 	1 		-
+China 	8 Locations 	18 	18 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	10 	10 	1 		-
+	Shanghai 	2 	2 	1 		-
+	Zhumadian 	1 	1 	1 		-
+	Nanjing 	1 	1 	1 		-
+	Kunshan 	1 	1 	1 		-
+	Hongkou 	1 	1 	1 		-
+	Beijing 	1 	1 	1 		-
+	Banbidian 	1 	1 	1 		-
+India 	3 Locations 	17 	8 	2.13 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Hyderabad 	8 	3 	2.67 		-
+	Bangalore 	6 	2 	3 		-
+	Unknown location 	3 	3 	1 		-
+Iran 	3 Locations 	16 	12 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	14 	10 	1.4 		-
+	Tiran 	1 	1 	1 		-
+	Tehran 	1 	1 	1 		-
+United Kingdom 	3 Locations 	11 	6 	1.83 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	7 	4 	1.75 		-
+	Brockenhurst 	3 	1 	3 		-
+	Chiswick 	1 	1 	1 		-
+Republic of Korea 	5 Locations 	10 	7 	1.43 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Gangnam-gu 	4 	3 	1.33 		-
+	Incheon 	2 	1 	2 		-
+	Daejeon 	2 	1 	2 		-
+	Seoul 	1 	1 	1 		-
+	Geoje 	1 	1 	1 		-
+Germany 	3 Locations 	9 	5 	1.8 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Bremen 	5 	1 	5 		-
+	Unknown location 	3 	3 	1 		-
+	Berlin 	1 	1 	1 		-
+Canada 	7 Locations 	8 	8 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	2 	1 		-
+	Waterloo 	1 	1 	1 		-
+	Montreal 	1 	1 	1 		-
+	Joliette 	1 	1 	1 		-
+	Hamilton 	1 	1 	1 		-
+	Burnaby 	1 	1 	1 		-
+	Brantford 	1 	1 	1 		-
+Taiwan 		8 	2 	4 	— 	—
+Australia 	2 Locations 	6 	4 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	2 	2 		-
+	Sydney 	2 	2 	1 		-
+Greece 		6 	1 	6 	— 	—
+Russia 	5 Locations 	5 	5 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Zheleznogorsk 	1 	1 	1 		-
+	Saint Petersburg 	1 	1 	1 		-
+	Moscow 	1 	1 	1 		-
+	Gatchina 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Bangladesh 	2 Locations 	5 	5 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Dhaka 	3 	3 	1 		-
+	Unknown location 	2 	2 	1 		-
+France 	3 Locations 	5 	3 	1.67 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Paris 	2 	1 	2 		-
+	Chalons-en-Champagne 	2 	1 	2 		-
+	Lyon 	1 	1 	1 		-
+Turkey 	2 Locations 	4 	3 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Mersin 	3 	2 	1.5 		-
+	Ankara 	1 	1 	1 		-
+Thailand 	2 Locations 	4 	3 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Bangkok 	2 	2 	1 		-
+	Wiphawadi 	2 	1 	2 		-
+Netherlands 	2 Locations 	4 	2 	2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Amsterdam 	2 	1 	2 		-
+	Unknown location 	2 	1 	2 		-
+Pakistan 		3 	3 	1 	— 	—
+Tajikistan 		3 	1 	3 	— 	—
+United Arab Emirates 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Dubai 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Singapore 	2 Locations 	2 	2 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Singapore 	1 	1 	1 		-
+	Unknown location 	1 	1 	1 		-
+Hong Kong 		2 	2 	1 	— 	—
+Finland 		2 	1 	2 	— 	—
+Uzbekistan 		1 	1 	1 	— 	—
+South Africa 		1 	1 	1 	— 	—
+Libya 		1 	1 	1 	— 	—
+Kazakhstan 		1 	1 	1 	— 	—
+Italy 		1 	1 	1 	— 	—
+Israel 		1 	1 	1 	— 	—
+Ireland 		1 	1 	1 	— 	—
+Indonesia 		1 	1 	1 	— 	—
+Chile 		1 	1 	1 	— 	—
+====== 2025-10-01 ======
+ United States 	104 Locations 	474 	354 	1.34 	— 	—
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Seattle, WA 	30 	25 	1.2 		
+	Ashburn, VA 	16 	14 	1.14 		4 days ago from Ashburn, Virginia
+	Santa Barbara, CA 	12 	8 	1.5 		
+	Los Angeles, CA 	9 	6 	1.5 		
+	Pittsburgh, PA 	9 	4 	2.25 		
+	Chicago, IL 	7 	7 	1 		
+	Goleta, CA 	7 	6 	1.17 		
+	Atlanta, GA 	7 	3 	2.33 		
+	New York, NY 	6 	6 	1 		
+	Galesburg, IL 	6 	5 	1.2 		
+	Boardman, OR 	6 	5 	1.2 		
+	Four Oaks, NC 	4 	3 	1.33 		1 day ago from Four Oaks, North Carolina
+	Coral Gables, FL 	4 	3 	1.33 		
+	Madison, WI 	4 	2 	2 		
+	Redmond, WA 	3 	3 	1 		
+	Frisco, TX 	3 	3 	1 		
+	Columbus, OH 	3 	3 	1 		
+	Boston, MA 	3 	3 	1 		
+	Austin, TX 	3 	3 	1 		
+	Washington, DC 	3 	2 	1.5 		
+Iran 	3 Locations 	30 	27 	1.11 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	28 	25 	1.12 		-
+	Tehran 	1 	1 	1 		-
+	Isfahan 	1 	1 	1 		-
+China 	8 Locations 	18 	17 	1.06 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	9 	9 	1 		-
+	Baoding 	2 	2 	1 		-
+	Nanjing 	2 	1 	2 		-
+	Xi'an 	1 	1 	1 		-
+	Shijiazhuang 	1 	1 	1 		-
+	Shanghai 	1 	1 	1 		-
+	Luoyang 	1 	1 	1 		-
+	Hongkou 	1 	1 	1 		-
+Canada 	3 Locations 	15 	10 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	9 	6 	1.5 		-
+	Burnaby 	4 	3 	1.33 		-
+	Waterloo 	2 	1 	2 		-
+India 	2 Locations 	11 	8 	1.38 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	10 	7 	1.43 		-
+	Chennai 	1 	1 	1 		-
+Bangladesh 	4 Locations 	11 	6 	1.83 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	6 	2 	3 		-
+	Dhaka 	2 	2 	1 		-
+	Pabna 	2 	1 	2 		-
+	Rajshahi 	1 	1 	1 		-
+Denmark 	2 Locations 	11 	6 	1.83 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Kobenhavn O 	10 	5 	2 		-
+	Unknown location 	1 	1 	1 		-
+Germany 	5 Locations 	8 	7 	1.14 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Cologne 	2 	2 	1 		-
+	Unknown location 	2 	2 	1 		-
+	Regensburg 	2 	1 	2 		-
+	Landsberg am Lech 	1 	1 	1 		-
+	Berlin 	1 	1 	1 		-
+United Kingdom 	3 Locations 	8 	6 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	3 	1.33 		-
+	Clapham 	2 	2 	1 		-
+	Manchester 	2 	1 	2 		-
+Japan 	2 Locations 	7 	7 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	4 	1 		-
+	Tokyo 	3 	3 	1 		-
+Republic of Korea 	3 Locations 	6 	5 	1.2 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	3 	2 	1.5 		-
+	Gangnam-gu 	2 	2 	1 		-
+	Seoul 	1 	1 	1 		-
+Russia 	4 Locations 	5 	5 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	2 	1 		-
+	Volgograd 	1 	1 	1 		-
+	Nizhniy Novgorod 	1 	1 	1 		-
+	Moscow 	1 	1 	1 		-
+Taiwan 	2 Locations 	5 	4 	1.25 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Taipei 	4 	3 	1.33 		-
+	Hsinchu 	1 	1 	1 		-
+Turkey 	3 Locations 	4 	3 	1.33 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Mersin 	2 	1 	2 		-
+	Tekirdağ 	1 	1 	1 		-
+	Istanbul 	1 	1 	1 		-
+Singapore 	2 Locations 	3 	3 	1 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	2 	2 	1 		-
+	Singapore 	1 	1 	1 		-
+France 	2 Locations 	3 	2 	1.5 	— 	—
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Paris 	2 	1 	2 		-
+	Unknown location 	1 	1 	1 		-
+Vietnam 		3 	1 	3 	— 	—
+Switzerland 		2 	2 	1 	— 	—
+Malaysia 		2 	1 	2 	— 	—
+Ukraine 		1 	1 	1 	— 	—
+Thailand 		1 	1 	1 	— 	—
+Spain 		1 	1 	1 	— 	—
+Saudi Arabia 		1 	1 	1 	— 	—
+Jamaica 		1 	1 	1 	— 	—
+Italy 		1 	1 	1 	— 	—
+Ireland 		1 	1 	1 	— 	—
+Chile 		1 	1 	1 	— 	—
+Brazil 		1 	1 	1 	— 	—
+Australia 		1 	1 	1 	— 	—
+====== 2025-11-01 ======
+United States 	179 Locations 	1,639 	942 	1.74 		10 minutes ago
+Top locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Seattle, WA 	341 	36 	9.47 		
+	Ashburn, VA 	32 	31 	1.03 		4 days ago from Ashburn, Virginia
+	Santa Barbara, CA 	20 	15 	1.33 		
+	New York, NY 	19 	15 	1.27 		
+	Ithaca, NY 	15 	9 	1.67 		
+	San Jose, CA 	14 	9 	1.56 		
+	Stanford, CA 	13 	11 	1.18 		
+	Los Angeles, CA 	13 	9 	1.44 		
+	Baltimore, MD 	12 	10 	1.2 		
+	Washington, DC 	12 	6 	2 		
+	Cambridge, MA 	11 	10 	1.1 		
+	Chicago, IL 	10 	9 	1.11 		
+	Clarksville, TN 	10 	3 	3.33 		
+	Pflugerville, TX 	10 	2 	5 		
+	Easley, SC 	10 	2 	5 		
+	Austin, TX 	9 	8 	1.13 		
+	Four Oaks, NC 	9 	7 	1.29 		1 day ago from Four Oaks, North Carolina
+	Oceanside, CA 	9 	6 	1.5 		
+	Atlanta, GA 	9 	5 	1.8 		
+	San Francisco, CA 	8 	8 	1 		
+Canada 	19 Locations 	69 	50 	1.38 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Montreal 	21 	13 	1.62 		
+	Corner Brook 	3 	1 	3 		
+	Vancouver 	2 	2 	1 		
+	Toronto 	2 	2 	1 		
+	Québec 	2 	2 	1 		
+	Burnaby 	2 	2 	1 		
+	Barrie 	2 	1 	2 		
+	Victoria 	1 	1 	1 		
+	Saint-Michel-des-Saints 	1 	1 	1 		
+	Ottawa 	1 	1 	1 		
+India 	13 Locations 	64 	39 	1.64 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Hyderabad 	7 	6 	1.17 		
+	Thane 	7 	1 	7 		
+	Delhi 	5 	2 	2.5 		
+	New Delhi 	2 	1 	2 		
+	Madurai 	2 	1 	2 		
+	Ahmedabad 	2 	1 	2 		
+	Pune 	1 	1 	1 		
+	Nellore 	1 	1 	1 		
+	Mumbai 	1 	1 	1 		
+	Lucknow 	1 	1 	1 		
+Germany 	13 Locations 	49 	34 	1.44 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Frankfurt am Main 	6 	2 	3 		
+	Hamburg 	5 	1 	5 		
+	Berlin 	4 	4 	1 		
+	Remagen 	4 	1 	4 		
+	Munich 	3 	2 	1.5 		
+	Pullach im Isartal 	1 	1 	1 		
+	Puchheim 	1 	1 	1 		
+	Laatzen 	1 	1 	1 		
+	Kaiserslautern 	1 	1 	1 		
+	Erlangen 	1 	1 	1 		
+United Kingdom 	15 Locations 	45 	32 	1.41 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	London 	6 	4 	1.5 		
+	Cambridge 	5 	4 	1.25 		
+	Hackney 	4 	2 	2 		
+	Bradford 	2 	2 	1 		
+	Coventry 	2 	1 	2 		
+	Westbury 	1 	1 	1 		
+	Watford 	1 	1 	1 		
+	Sheffield 	1 	1 	1 		
+	Peterborough 	1 	1 	1 		
+	Oxford 	1 	1 	1 		
+Republic of Korea 	11 Locations 	34 	29 	1.17 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Daejeon 	10 	8 	1.25 		
+	Seoul 	9 	6 	1.5 		
+	Gangnam-gu 	3 	3 	1 		
+	Dongjak-gu 	2 	2 	1 		
+	Geumcheon 	1 	1 	1 		
+	Ulsan 	1 	1 	1 		
+	Seongnam-si 	1 	1 	1 		
+	Incheon 	1 	1 	1 		
+	Gwangjin-gu 	1 	1 	1 		
+	Gimpo-si 	1 	1 	1 		
+Bangladesh 	4 Locations 	29 	20 	1.45 		2 days ago from Dhaka, Dhaka Division
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Dhaka 	18 	10 	1.8 		2 days ago from Dhaka, Dhaka Division
+	Unknown location 	8 	7 	1.14 		
+	Rangpur 	2 	2 	1 		
+	Kushtia 	1 	1 	1 		
+Israel 	6 Locations 	28 	15 	1.87 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Tel Aviv 	17 	5 	3.4 		
+	Unknown location 	6 	5 	1.2 		
+	Ashdod 	2 	2 	1 		
+	Rehovot 	1 	1 	1 		
+	Ramat Gan 	1 	1 	1 		
+	Holon 	1 	1 	1 		
+Japan 	9 Locations 	26 	20 	1.3 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	13 	8 	1.63 		
+	Tokyo 	3 	3 	1 		
+	Saitama 	2 	2 	1 		
+	Bunkyo-ku 	2 	2 	1 		
+	Yokohama 	2 	1 	2 		
+	Setagaya-ku 	1 	1 	1 		
+	Sendai 	1 	1 	1 		
+	Osaka 	1 	1 	1 		
+	Kyoto 	1 	1 	1 		
+Sweden 	4 Locations 	25 	9 	2.78 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Gothenburg 	13 	1 	13 		
+	Unknown location 	7 	5 	1.4 		
+	Ringoen 	4 	2 	2 		
+	Halmstad 	1 	1 	1 		
+China 	9 Locations 	17 	16 	1.06 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	6 	5 	1.2 		
+	Shanghai 	3 	3 	1 		
+	Beijing 	2 	2 	1 		
+	Tianjin 	1 	1 	1 		
+	Shenzhen 	1 	1 	1 		
+	Quanzhou 	1 	1 	1 		
+	Harbin 	1 	1 	1 		
+	Foshan 	1 	1 	1 		
+	Baoding 	1 	1 	1 		
+France 	6 Locations 	17 	12 	1.42 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	5 	1 		
+	Paris 	4 	3 	1.33 		
+	Palaiseau 	4 	1 	4 		
+	Marseille 	2 	1 	2 		
+	Lucon 	1 	1 	1 		
+	La Roche-Chalais 	1 	1 	1 		
+Iran 	3 Locations 	16 	16 	1 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	13 	13 	1 		
+	Tehran 	2 	2 	1 		
+	Tabriz 	1 	1 	1 		
+Denmark 	5 Locations 	15 	9 	1.67 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	7 	4 	1.75 		
+	Copenhagen 	3 	1 	3 		
+	Aarhus C 	2 	2 	1 		
+	Kobenhavn O 	2 	1 	2 		
+	Kolding 	1 	1 	1 		
+Switzerland 	3 Locations 	14 	12 	1.17 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	11 	10 	1.1 		
+	Bern 	2 	1 	2 		
+	Onex 	1 	1 	1 		
+Netherlands 	7 Locations 	14 	11 	1.27 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	6 	4 	1.5 		
+	Utrecht 	2 	2 	1 		
+	Zandvoort 	2 	1 	2 		
+	Lelystad 	1 	1 	1 		
+	Kortenhoef 	1 	1 	1 		
+	Diemen 	1 	1 	1 		
+	Amsterdam 	1 	1 	1 		
+Taiwan 	2 Locations 	13 	10 	1.3 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Taipei 	8 	6 	1.33 		
+	Unknown location 	5 	4 	1.25 		
+Hong Kong 	5 Locations 	11 	10 	1.1 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	4 	1 		
+	Central 	3 	2 	1.5 		
+	Kowloon 	2 	2 	1 		
+	Tsimshatsui 	1 	1 	1 		
+	Central District 	1 	1 	1 		
+Singapore 	2 Locations 	10 	9 	1.11 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	6 	5 	1.2 		
+	Singapore 	4 	4 	1 		
+Poland 	5 Locations 	10 	6 	1.67 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Lancut 	5 	1 	5 		
+	Białystok 	2 	2 	1 		
+	Warsaw 	1 	1 	1 		
+	Lublin 	1 	1 	1 		
+	Krakow 	1 	1 	1 		
+Turkey 	2 Locations 	9 	6 	1.5 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	3 	1.67 		
+	Tekirdağ 	4 	3 	1.33 		
+Spain 	4 Locations 	8 	6 	1.33 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Barcelona 	3 	3 	1 		
+	Bormujos 	2 	1 	2 		
+	Bilbao 	2 	1 	2 		
+	Unknown location 	1 	1 	1 		
+Czech Republic 	2 Locations 	6 	5 	1.2 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	5 	4 	1.25 		
+	Milevsko 	1 	1 	1 		
+Italy 	2 Locations 	5 	3 	1.67 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Unknown location 	4 	2 	2 		
+	Casalnuovo di Napoli 	1 	1 	1 		
+United Arab Emirates 		4 	2 	2 		
+Thailand 		4 	2 	2 		
+Puerto Rico 		4 	1 	4 		
+New Zealand 		4 	1 	4 		
+Russia 	3 Locations 	3 	3 	1 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Chelyabinsk 	1 	1 	1 		
+	Unknown location 	1 	1 	1 		
+	Unknown location 	1 	1 	1 		
+Australia 	3 Locations 	3 	3 	1 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Melbourne 	1 	1 	1 		
+	Brunswick East 	1 	1 	1 		
+	Unknown location 	1 	1 	1 		
+Ireland 	2 Locations 	3 	3 	1 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Dublin 	2 	2 	1 		
+	Unknown location 	1 	1 	1 		
+Portugal 		3 	3 	1 		
+Malaysia 		3 	3 	1 		
+Saudi Arabia 		3 	2 	1.5 		
+Norway 		3 	1 	3 		
+Belgium 		3 	1 	3 		
+Brazil 	2 Locations 	2 	2 	1 		
+Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
+	Belo Horizonte 	1 	1 	1 		
+	Unknown location 	1 	1 	1 		
+Uganda 		2 	2 	1 		
+Qatar 		2 	1 	2 		
+Sudan 		1 	1 	1 		
+Republic of Moldova 		1 	1 	1 		
+Republic of Lithuania 		1 	1 	1 		
+Oman 		1 	1 	1 		
+Nigeria 		1 	1 	1 		
+Luxembourg 		1 	1 	1 		
