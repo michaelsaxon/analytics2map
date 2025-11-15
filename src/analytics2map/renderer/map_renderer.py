@@ -40,38 +40,39 @@ class MapRenderer:
         aggregates: Dict[str, Tuple[Location, int]],
         output_path: Path,
     ) -> None:
+        font_size = scale.title_font_size
+        title_margin_top = 10
+        title_margin_bottom = 10
+        map_padding_bottom = 10
+        rect_height = font_size + 20
+        rect_y = title_margin_top
+        total_height = (
+            title_margin_top
+            + rect_height
+            + title_margin_bottom
+            + scale.height
+            + map_padding_bottom
+        )
         dwg = svgwrite.Drawing(
             filename=str(output_path),
-            size=(scale.width, scale.height),
+            size=(scale.width, total_height),
             profile="full",
         )
 
-        if self.config.background_path and self.config.background_path.exists():
-            dwg.add(
-                dwg.image(
-                    href=self.config.background_path.as_posix(),
-                    insert=(0, 0),
-                    size=(scale.width, scale.height),
-                )
+        # Base background
+        dwg.add(
+            dwg.rect(
+                insert=(0, 0),
+                size=("100%", "100%"),
+                fill=self.config.theme.background_color,
             )
-        else:
-            dwg.add(
-                dwg.rect(
-                    insert=(0, 0),
-                    size=("100%", "100%"),
-                    fill=self.config.theme.background_color,
-                )
-            )
-            self._draw_world_map(dwg, scale)
+        )
 
         total_visits = sum(count for _, count in aggregates.values())
         title_text = f"{total_visits:,} unique visits"
-        font_size = scale.title_font_size
         text_width_estimate = len(title_text) * (font_size * 0.6)
         rect_width = text_width_estimate + 40
-        rect_height = font_size + 20
         rect_x = (scale.width - rect_width) / 2
-        rect_y = 20
         dwg.add(
             dwg.rect(
                 insert=(rect_x, rect_y),
@@ -94,6 +95,32 @@ class MapRenderer:
             )
         )
 
+        map_offset = rect_y + rect_height + title_margin_bottom
+        effective_height = scale.height
+
+        if self.config.background_path and self.config.background_path.exists():
+            dwg.add(
+                dwg.image(
+                    href=self.config.background_path.as_posix(),
+                    insert=(0, map_offset),
+                    size=(scale.width, effective_height),
+                )
+            )
+        else:
+            dwg.add(
+                dwg.rect(
+                    insert=(0, map_offset),
+                    size=(scale.width, effective_height),
+                    fill=self.config.theme.background_color,
+                )
+            )
+            self._draw_world_map(
+                dwg,
+                scale,
+                y_offset=map_offset,
+                effective_height=effective_height,
+            )
+
         max_visits = max((count for _, count in aggregates.values()), default=1)
         for location, count in aggregates.values():
             coords = self.lookup.lookup(location.city, location.country)
@@ -105,7 +132,13 @@ class MapRenderer:
                 )
                 continue
             latitude, longitude = coords
-            x, y = project_point(latitude, longitude, scale)
+            x, y = project_point(
+                latitude,
+                longitude,
+                scale,
+                y_offset=map_offset,
+                height_override=effective_height,
+            )
             log_max = math.log(max_visits + 1)
             log_value = math.log(count + 1)
             normalized = log_value / log_max if log_max > 0 else 0
@@ -126,7 +159,13 @@ class MapRenderer:
         dwg.save()
         LOGGER.info("Rendered %s", output_path)
 
-    def _draw_world_map(self, dwg: svgwrite.Drawing, scale: RenderScale) -> None:
+    def _draw_world_map(
+        self,
+        dwg: svgwrite.Drawing,
+        scale: RenderScale,
+        y_offset: float = 0.0,
+        effective_height: float | None = None,
+    ) -> None:
         polygons = self.land_provider.get_polygons(
             resolution=scale.land_resolution,
             simplify_tolerance=scale.simplify_tolerance,
@@ -140,7 +179,16 @@ class MapRenderer:
             )
         )
         for polygon in polygons:
-            points = [project_point(lat, lon, scale) for lon, lat in polygon]
+            points = [
+                project_point(
+                    lat,
+                    lon,
+                    scale,
+                    y_offset=y_offset,
+                    height_override=effective_height,
+                )
+                for lon, lat in polygon
+            ]
             land_group.add(dwg.polygon(points=points))
         # optional graticule lines
         grid = dwg.add(
@@ -151,18 +199,24 @@ class MapRenderer:
             )
         )
         for lon in range(-180, 181, 30):
-            start = project_point(85, lon, scale)
-            end = project_point(-85, lon, scale)
+            start = project_point(85, lon, scale, y_offset, effective_height)
+            end = project_point(-85, lon, scale, y_offset, effective_height)
             grid.add(dwg.line(start=start, end=end))
         for lat in range(-60, 90, 30):
-            start = project_point(lat, -180, scale)
-            end = project_point(lat, 180, scale)
+            start = project_point(lat, -180, scale, y_offset, effective_height)
+            end = project_point(lat, 180, scale, y_offset, effective_height)
             grid.add(dwg.line(start=start, end=end))
 
-
-def project_point(latitude: float, longitude: float, scale: RenderScale) -> tuple[float, float]:
+def project_point(
+    latitude: float,
+    longitude: float,
+    scale: RenderScale,
+    y_offset: float = 0.0,
+    height_override: float | None = None,
+) -> tuple[float, float]:
     """Project lat/lon onto an equirectangular canvas."""
     x = (longitude + 180) / 360 * scale.width
-    y = (90 - latitude) / 180 * scale.height
+    height = height_override if height_override is not None else scale.height
+    y = y_offset + (90 - latitude) / 180 * height
     return x, y
 
