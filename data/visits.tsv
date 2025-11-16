@@ -2563,8 +2563,7 @@ timestamp	country	city	num_unique
 2025-11-01T00:00:00	Lithuania	NULL	1
 2025-11-01T00:00:00	Oman	NULL	1
 2025-11-01T00:00:00	Nigeria	NULL	1
-2025-11-01T00:00:00	Luxembourg	NULL	1
-2025-11-08T14:24:00	(not set)	NULL	1
+2025-11-01T00:00:00	Luxembourg	NULL	12025-11-08T14:24:00	(not set)	NULL	1
 2025-11-08T14:32:00	(not set)	NULL	1
 2025-11-08T15:55:00	United States	San Jose	1
 2025-11-08T16:05:00	United States	San Jose	1
@@ -2950,24 +2949,6 @@ timestamp	country	city	num_unique
 2025-11-15T07:41:00	United States	Clinton	1
 2025-11-15T08:27:00	China	Lanzhou	1
 2025-11-15T08:27:00	Singapore	Singapore	1
-2025-11-15T02:17:00	China	Lanzhou	1
-2025-11-15T02:17:00	Singapore	Singapore	1
-2025-11-15T04:27:00	Italy	Milan	1
-2025-11-15T04:30:00	Italy	Milan	1
-2025-11-15T04:38:00	Italy	Milan	1
-2025-11-15T04:42:00	Italy	Milan	1
-2025-11-15T07:41:00	United States	Clinton	1
-2025-11-15T08:27:00	China	Lanzhou	1
-2025-11-15T08:27:00	Singapore	Singapore	1
-2025-11-15T02:17:00	China	Lanzhou	1
-2025-11-15T02:17:00	Singapore	Singapore	1
-2025-11-15T04:27:00	Italy	Milan	1
-2025-11-15T04:30:00	Italy	Milan	1
-2025-11-15T04:38:00	Italy	Milan	1
-2025-11-15T04:42:00	Italy	Milan	1
-2025-11-15T07:41:00	United States	Clinton	1
-2025-11-15T08:27:00	China	Lanzhou	1
-2025-11-15T08:27:00	Singapore	Singapore	1
 2025-11-15T10:27:00	China	Lanzhou	1
 2025-11-15T10:27:00	Singapore	Singapore	1
 2025-11-15T10:28:00	China	Lanzhou	1
@@ -2984,10 +2965,44 @@ timestamp	country	city	num_unique
 2025-11-15T14:05:00	United States	Seattle	1
 2025-11-15T14:14:00	United States	Chapel Hill	1
 2025-11-15T14:25:00	United States	Chicago	1
+2025-11-15T14:25:00	China	Lanzhou	1
 2025-11-15T14:25:00	Singapore	Singapore	1
 2025-11-15T14:33:00	United States		1
 2025-11-15T14:34:00	United States	San Jose	1
 2025-11-15T14:35:00	United States	San Jose	1
 2025-11-15T14:35:00	United States		1
 2025-11-15T14:40:00	United States	Ashburn	1
+2025-11-15T14:40:00	United States	Stanford	1
+2025-11-15T14:41:00	United States		1
+2025-11-15T14:41:00	United States	Stanford	1
+2025-11-15T14:43:00	United States	Seattle	1
 2025-11-15T14:44:00	United States	Seattle	1
+2025-11-15T14:45:00	United States	Seattle	1
+2025-11-15T14:46:00	United States	Seattle	1
+2025-11-15T14:57:00	United States	Seattle	1
+2025-11-15T14:58:00	India	Bengaluru	1
+2025-11-15T14:59:00	India	Bengaluru	1
+2025-11-15T15:13:00	United States	Moses Lake	1
+2025-11-15T15:13:00	United States	Seattle	1
+2025-11-15T15:14:00	United States	Seattle	1
+2025-11-15T15:30:00	Canada	Montreal	1
+2025-11-15T15:31:00	Canada	Montreal	1
+2025-11-15T15:44:00	United States	Anaheim	1
+2025-11-15T16:04:00	United States	Seattle	1
+2025-11-15T16:06:00	United States	Visalia	1
+2025-11-15T16:13:00	United States	San Francisco	1
+2025-11-15T16:18:00	Denmark	Copenhagen	1
+2025-11-15T16:44:00	United States	Chicago	1
+2025-11-15T16:45:00	United States	Chicago	1
+2025-11-15T16:47:00	United States		1
+2025-11-15T16:48:00	United States		1
+2025-11-15T16:53:00	United States	Champaign	1
+2025-11-15T17:26:00	United States	Seattle	1
+2025-11-15T17:49:00	United States	Seattle	1
+2025-11-15T19:57:00	United States	Seattle	1
+2025-11-15T19:58:00	United States	Seattle	1
+2025-11-15T19:59:00	United States	Seattle	1
+2025-11-15T20:00:00	United States	Seattle	1
+2025-11-15T20:13:00	United States	Seattle	1
+2025-11-15T20:18:00	China	Lanzhou	1
+2025-11-15T20:19:00	United States	Washington	1

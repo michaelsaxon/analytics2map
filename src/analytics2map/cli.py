@@ -63,13 +63,17 @@ def ingest_ga(
     written = 0
     newest: datetime | None = None
     for event in events:
+        timestamp = event.occurred_at
+        if event.occurred_at <= last_seen:
+            continue
+
         city = event.location.city if event.location else None
         if city and city.strip().lower() == "(not set)":
             city = None
         store.append_visit(
             city=city,
             country=event.location.country or "Unknown",
-            timestamp=event.occurred_at,
+            timestamp=timestamp,
             num_unique=1,
         )
         written += 1
