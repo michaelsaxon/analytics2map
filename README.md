@@ -1,7 +1,7 @@
 # analytics2map
 
 Convert Google Analytics and Clustrmaps visitor telemetry into self-hosted SVG
-visitor maps that you can embed anywhere.
+visitor maps that you can embed anywhere. All you have to do is fork it and do a little setup!
 
 ## Features
 
