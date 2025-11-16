@@ -47,6 +47,15 @@ def ingest_ga(
     client = GoogleAnalyticsClient(config.google_analytics)
     events = client.fetch_events(since=last_seen)
 
+    if verbose:
+        console.print(f"Found {len(events)} events")
+        for idx, event in enumerate(events):
+            if event.location:
+                location = event.location
+                console.print(f"Event {idx} location: {location}")
+            else:
+                console.print(f"Event {idx}location: none")
+
     inserted = db.record_events(events)
     if events:
         newest = max(event.occurred_at for event in events)
