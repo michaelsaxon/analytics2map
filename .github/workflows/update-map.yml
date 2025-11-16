@@ -2,7 +2,7 @@ name: update map
 
 on:
   schedule:
-    - cron: '0 0 * * *' # At 00:00 every night
+    - cron: '0 * * * *' # On the top of the hour
   workflow_dispatch:
     inputs:
       tags:
