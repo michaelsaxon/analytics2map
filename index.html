@@ -60,19 +60,17 @@
       <h1>analytics2map</h1>
       <p>
         analytics2map is a simple static site visitor map renderer by Michael Saxon. It turns Google Analytics visit telemetry and historical
-        Clustrmaps exports into simple static visitor maps. The pipeline periodically pulls incremental GA4 data
-        and puts it in SQLite to renders multi-scale SVGs.
-        The stack is pure Python (Typer, Cartopy, svgwrite) and runs in a simple CLI. a compact
-        800×400 variant and a large 1920×960 version.
+        Clustrmaps exports into simple static visitor maps. The stack is pure Python (Typer, Cartopy, svgwrite) and runs in a simple CLI.
       </p>
       <p>
-        Each run emits two SVG files, an 800x400 one intended for embedding in a footer, and a higher-resolution one
+        The pipeline periodically pulls incremental GA4 data and puts it in a TSV store. Finally, a renderer module reads out the TSV and writes 
+        the SVG map. Each render emits two SVG files, an 800x400 one intended for embedding in a footer, and a higher-resolution one
         to be displayed full-width.
       </p>
       <p>
-        Every midnight, a Github actions workflow pulls the latest visit data from Google Analytics and updates the maps.
-        The entire repo is also hosted on Github pages, so on my main website all I have to do is point to the output URL
-        and as soon as the map gets updated, the changes are visible on my site.
+        Every day at midnight, a Github action pulls the latest visit data from Google Analytics and updates the maps.
+        Since the repo itself is hosted on Github pages, I simply point my website at the map output URLs (in this repo).
+        With a simple combination of static calls here, I replicate the functionality of fancy JS-based spy maps like Clustrmaps.
       </p>
       <p>Source code is available in my <a href="https://github.com/michaelsaxon/analytics2map">[analytics2map]</a> repository on GitHub.</p>
         <p><a href="https://saxon.me">[Go home]</a></p>

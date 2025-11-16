@@ -49,4 +49,5 @@ class RenderScale(BaseModel):
     title_font_size: int = 28
     land_resolution: str = "110m"
     simplify_tolerance: float = 0.5
+    recent_min_radius: float | None = None
 

@@ -110,8 +110,14 @@ def render_maps(
     store = VisitStore(config.database.path)
     aggregates = store.aggregate_locations()
 
+    recent: Dict[str, Tuple[Location, int]] | None = None
+    if config.renderer.most_recent_visits:
+        from .schemas import Location  # local import to avoid cycles at module import time
+
+        recent = store.aggregate_recent_locations(config.renderer.most_recent_visits)
+
     renderer = MapRenderer(config.renderer)
-    renderer.render(aggregates)
+    renderer.render(aggregates, recent)
     console.print(f"Rendered {len(config.renderer.scales)} map variants to {config.renderer.output_dir}.")
 
 

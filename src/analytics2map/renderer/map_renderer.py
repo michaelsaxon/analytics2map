@@ -22,7 +22,11 @@ class MapRenderer:
         self.lookup = GeoNamesLookup()
         self.land_provider = LandGeometryProvider()
 
-    def render(self, aggregates: Dict[str, Tuple[Location, int]]) -> None:
+    def render(
+        self,
+        aggregates: Dict[str, Tuple[Location, int]],
+        recent: Dict[str, Tuple[Location, int]] | None = None,
+    ) -> None:
         output_dir = self.config.output_dir
         output_dir.mkdir(parents=True, exist_ok=True)
         LOGGER.info(
@@ -33,13 +37,14 @@ class MapRenderer:
 
         for scale in self.config.scales:
             path = output_dir / f"visitors-{scale.slug}.svg"
-            self._render_scale(scale, aggregates, path)
+            self._render_scale(scale, aggregates, path, recent)
 
     def _render_scale(
         self,
         scale: RenderScale,
         aggregates: Dict[str, Tuple[Location, int]],
         output_path: Path,
+        recent: Dict[str, Tuple[Location, int]] | None = None,
     ) -> None:
         font_size = scale.title_font_size
         title_margin_top = 10
@@ -124,6 +129,7 @@ class MapRenderer:
             )
 
         max_visits = max((count for _, count in aggregates.values()), default=1)
+        log_max = math.log(max_visits + 1)
         for location, count in aggregates.values():
             coords = self.lookup.lookup(location.city, location.country)
             if not coords:
@@ -141,7 +147,6 @@ class MapRenderer:
                 y_offset=map_offset,
                 height_override=effective_height,
             )
-            log_max = math.log(max_visits + 1)
             log_value = math.log(count + 1)
             normalized = log_value / log_max if log_max > 0 else 0
             radius = scale.dot_min_radius + normalized * (
@@ -158,6 +163,37 @@ class MapRenderer:
                     stroke_width=1,
                 )
             )
+
+        # Second pass: highlight recent visits (if provided), drawn on top
+        if recent:
+            recent_min = scale.recent_min_radius or scale.dot_min_radius
+            for location, recent_count in recent.values():
+                coords = self.lookup.lookup(location.city, location.country)
+                if not coords:
+                    continue
+                latitude, longitude = coords
+                x, y = project_point(
+                    latitude,
+                    longitude,
+                    scale,
+                    y_offset=map_offset,
+                    height_override=effective_height,
+                )
+                log_value = math.log(recent_count + 1)
+                normalized = log_value / log_max if log_max > 0 else 0
+                radius = recent_min + normalized * (
+                    scale.dot_max_radius - recent_min
+                )
+                dwg.add(
+                    dwg.circle(
+                        center=(x, y),
+                        r=radius,
+                        fill=self.config.theme.bubble_fill_recent,
+                        fill_opacity=self.config.theme.bubble_opacity,
+                        stroke=self.config.theme.bubble_stroke_recent,
+                        stroke_width=1.5,
+                    )
+                )
         dwg.save()
         LOGGER.info("Rendered %s", output_path)
 

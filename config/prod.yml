@@ -22,6 +22,8 @@ renderer:
     grid_stroke: "#625987"
     bubble_fill: "#dcd7ba"
     bubble_stroke: "#efede3"
+    bubble_fill_recent: "#b31d1d"
+    bubble_stroke_recent: "#db5555"
     bubble_opacity: 0.75
     title_color: "#dcd7ba"
     title_font_family: "Berkeley Mono, monospace"
@@ -32,6 +34,7 @@ renderer:
       height: 400
       dot_min_radius: 1
       dot_max_radius: 10
+      recent_min_radius: 3
       label_threshold: 10
       title_font_size: 36
       land_resolution: "110m"
@@ -40,11 +43,13 @@ renderer:
       width: 1920
       height: 960
       dot_min_radius: 2
+      recent_min_radius: 4
       dot_max_radius: 10
       label_threshold: 5
       title_font_size: 36
       land_resolution: "10m"
       simplify_tolerance: 0.35
+  most_recent_visits: 30
 
 clustrmaps:
   csv_path: "data/clustrmaps.csv"

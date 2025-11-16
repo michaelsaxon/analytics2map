@@ -36,6 +36,8 @@ class ThemeConfig(BaseModel):
     grid_stroke: str = "#132033"
     bubble_fill: str = "#ff6347"
     bubble_stroke: str = "#ff8261"
+    bubble_fill_recent: str = "#957fb8"
+    bubble_stroke_recent: str = "#938aa9"
     bubble_opacity: float = 0.7
     title_color: str = "#f8f8f2"
     title_font_family: str = "Inter, Arial, sans-serif"
@@ -46,6 +48,7 @@ class RendererConfig(BaseModel):
     background_path: Optional[Path] = None
     output_dir: Path = Path("output")
     theme: ThemeConfig = Field(default_factory=ThemeConfig)
+    most_recent_visits: Optional[int] = None
     scales: List[RenderScale] = Field(
         default_factory=lambda: [
             RenderScale(

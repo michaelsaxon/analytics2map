@@ -97,3 +97,43 @@ class VisitStore:
             aggregates[key] = (location, total)
 
         return aggregates
+
+    def aggregate_recent_locations(self, limit: int) -> Dict[str, Tuple[Location, int]]:
+        """Aggregate only the most recent N visits."""
+        if not self.tsv_path.exists() or limit <= 0:
+            return {}
+
+        # Collect last N data rows (skip header)
+        lines: list[str] = []
+        with self.tsv_path.open("r", encoding="utf-8") as fh:
+            for line in fh:
+                lines.append(line)
+        if len(lines) <= 1:
+            return {}
+        header = lines[0].rstrip("\n")
+        data_lines = lines[1:]
+        recent_lines = data_lines[-limit:]
+
+        aggregates: Dict[str, Tuple[Location, int]] = {}
+        city_counts: Dict[Tuple[str | None, str], int] = defaultdict(int)
+
+        from io import StringIO
+
+        buffer = StringIO("\n".join([header] + recent_lines))
+        reader = csv.DictReader(buffer, delimiter="\t")
+        for row in reader:
+            try:
+                raw_city = row["city"].strip()
+                city = None if raw_city == "NULL" or raw_city == "" else raw_city
+                country = row["country"].strip()
+                num_unique = int(row["num_unique"])
+                city_counts[(city, country)] += num_unique
+            except (KeyError, ValueError):
+                continue
+
+        for (city, country), total in city_counts.items():
+            location = Location(city=city, country=country)
+            key = location.normalized_key()
+            aggregates[key] = (location, total)
+
+        return aggregates
