@@ -59,16 +59,20 @@
     <main class="container">
       <h1>analytics2map</h1>
       <p>
-        analytics2map is a static SVG renderer that turns Google Analytics visit telemetry, plus historical
-        Clustrmaps exports, into self-hosted visitor maps. The pipeline pulls incremental GA4 data, merges
-        in CSV/Text snapshots, stores everything in SQLite, and renders multi-scale SVGs behind a CLI.
-        The stack is pure Python (Typer, Cartopy, svgwrite), producing two sizes by default: a compact
+        analytics2map is a static SVG renderer that turns Google Analytics visit telemetry and historical
+        Clustrmaps exports into simple static visitor maps. The pipeline periodically pulls incremental GA4 data
+        and puts it in SQLite to renders multi-scale SVGs.
+        The stack is pure Python (Typer, Cartopy, svgwrite) and runs in a simple CLI. a compact
         800×400 variant and a large 1920×960 version.
       </p>
       <p>
-        Each run emits two SVG files. The smaller render is easy to embed inline, while the larger map
-        is tuned for high-resolution displays. Both share the same aggregated data and styling, and can be
-        regenerated anytime after new ingests.
+        Each run emits two SVG files, an 800x400 one intended for embedding in a footer, and a higher-resolution one
+        to be displayed full-width.
+      </p>
+      <p>
+        Every midnight, a Github actions workflow pulls the latest visit data from Google Analytics and updates the maps.
+        The entire repo is also hosted on Github pages, so on my main website all I have to do is point to the output URL
+        and as soon as the map gets updated, the changes are visible on my site.
       </p>
       <p>Source code is available in my <a href="https://github.com/michaelsaxon/analytics2map">[analytics2map]</a> repository on GitHub.</p>
         <p><a href="https://saxon.me">[Go home]</a></p>
