@@ -11,11 +11,10 @@ google_analytics:
   max_rows: 5000
 
 database:
-  path: "data/visitors.sqlite3"
+  path: "data/visits.tsv"
 
 renderer:
   output_dir: "output"
-  clustrmaps_overlay_path: "data/clustrmaps_summary.csv"
   theme:
     background_color: "#1f1f28"
     land_fill: "#7aa89f"

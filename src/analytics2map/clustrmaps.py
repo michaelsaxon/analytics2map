@@ -337,3 +337,100 @@ def _parse_int_safe(value: Optional[str]) -> Optional[int]:
     except ValueError:
         return None
 
+
+def ingest_clustrmaps_dump_to_tsv(text_path: Path, store) -> int:
+    """
+    Parse Clustrmaps text dump with date markers and write directly to TSV store.
+    Returns the number of records written.
+    """
+    raw = text_path.read_text(encoding="utf-8")
+    lines = raw.splitlines()
+    
+    current_date: datetime | None = None
+    current_country: str | None = None
+    country_total_uniques: int = 0
+    city_unique_accumulator: int = 0
+    records_written = 0
+    
+    def flush_country_residual() -> None:
+        nonlocal city_unique_accumulator, country_total_uniques, current_country, records_written
+        if current_country and current_date and country_total_uniques > city_unique_accumulator:
+            residual = country_total_uniques - city_unique_accumulator
+            store.append_visit(
+                city=None,
+                country=current_country,
+                timestamp=current_date,
+                num_unique=residual,
+            )
+            records_written += 1
+        city_unique_accumulator = 0
+        country_total_uniques = 0
+    
+    for line in lines:
+        stripped = line.strip()
+        if not stripped:
+            continue
+        
+        # Check for date marker: ====== YYYY-MM-DD
+        if stripped.startswith("======"):
+            if current_country:
+                flush_country_residual()
+            current_country = None
+            # Extract date from marker
+            date_match = re.search(r"(\d{4}-\d{2}-\d{2})", stripped)
+            if date_match:
+                try:
+                    current_date = datetime.strptime(date_match.group(1), "%Y-%m-%d")
+                except ValueError:
+                    current_date = None
+            continue
+        
+        parts = [part.strip() for part in line.split("\t")]
+        if not parts:
+            continue
+        
+        # Skip header lines
+        if parts[0].lower() in {"country", "top locations", "top 10 locations"}:
+            continue
+        
+        # Country summary line (not indented)
+        if not line.startswith("\t"):
+            if current_country:
+                flush_country_residual()
+            current_country = parts[0]
+            # Extract uniques from the country line (column 3: Country, Locations, Visits, Uniques, ...)
+            uniques = _parse_int_safe(parts[3] if len(parts) > 3 else "")
+            country_total_uniques = uniques or 0
+            continue
+        
+        # City-level entry (indented)
+        if current_country is None or current_date is None:
+            continue
+        
+        city_entry = parts[1] if len(parts) > 1 else ""
+        # For cities: empty, City, Locations, Visits, Uniques, ...
+        uniques_value = _parse_int_safe(parts[4] if len(parts) > 4 else "") or 0
+        if uniques_value <= 0:
+            continue
+        
+        city, region = _split_city_region(city_entry)
+        city_clean = _clean_city(city)
+        
+        store.append_visit(
+            city=city_clean,
+            country=current_country,
+            timestamp=current_date,
+            num_unique=uniques_value,
+        )
+        records_written += 1
+        city_unique_accumulator += uniques_value
+    
+    if current_country:
+        flush_country_residual()
+    
+    # Update last_seen if we wrote any records
+    if records_written > 0 and current_date:
+        store.update_last_seen(current_date)
+    
+    return records_written
+

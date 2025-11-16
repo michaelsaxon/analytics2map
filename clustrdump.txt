@@ -50,7 +50,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Remshalden 	2 	1 	2 		-
 	Unknown location 	1 	1 	1 		-
 Russia 		3 	3 	1 	— 	—
-Republic of Korea 	2 Locations 	3 	2 	1.5 	— 	—
+South Korea 	2 Locations 	3 	2 	1.5 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Incheon 	2 	1 	2 		-
 	Unknown location 	1 	1 	1 		-
@@ -105,7 +105,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Central District 	2 	2 	1 		-
 	Unknown location 	1 	1 	1 		-
 Canada 		3 	2 	1.5 	— 	—
-Republic of Korea 		3 	1 	3 	— 	—
+South Korea 		3 	1 	3 	— 	—
 Japan 		3 	1 	3 	— 	—
 India 		3 	1 	3 	— 	—
 Brazil 	2 Locations 	2 	2 	1 	— 	—
@@ -235,7 +235,7 @@ Canada 	2 Locations 	7 	6 	1.17 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Unknown location 	4 	4 	1 		-
 	Vancouver 	3 	2 	1.5 		-
-Republic of Korea 		4 	3 	1.33 	— 	—
+South Korea 		4 	3 	1.33 	— 	—
 Sweden 	3 Locations 	3 	3 	1 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Sundbyberg 	1 	1 	1 		-
@@ -266,7 +266,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 Switzerland 		2 	2 	1 	— 	—
 Mauritius 		2 	1 	2 	— 	—
 Spain 		1 	1 	1 	— 	—
-Netherlands 		1 	1 	1 	— 	—
+The Netherlands 		1 	1 	1 	— 	—
 Macedonia 		1 	1 	1 	— 	—
 Laos 		1 	1 	1 	— 	—
 Italy 		1 	1 	1 	— 	—
@@ -331,8 +331,8 @@ Turkey 		1 	1 	1 	— 	—
 Switzerland 		1 	1 	1 	— 	—
 Sweden 		1 	1 	1 	— 	—
 Singapore 		1 	1 	1 	— 	—
-Republic of Korea 		1 	1 	1 	— 	—
-Netherlands 		1 	1 	1 	— 	—
+South Korea 		1 	1 	1 	— 	—
+The Netherlands 		1 	1 	1 	— 	—
 Macedonia 		1 	1 	1 	— 	—
 Italy 		1 	1 	1 	— 	—
 Guatemala 		1 	1 	1 	— 	—
@@ -376,7 +376,7 @@ Russia 	3 Locations 	3 	3 	1 	— 	—
 Japan 	2 Locations 	3 	2 	1.5 	— 	—
 Israel 		3 	2 	1.5 	— 	—
 Bangladesh 	2 Locations 	2 	2 	1 	— 	—
-Republic of Korea 		2 	2 	1 	— 	—
+South Korea 		2 	2 	1 	— 	—
 Ireland 		2 	2 	1 	— 	—
 Iran 		2 	1 	2 	— 	—
 Åland 		1 	1 	1 	— 	—
@@ -524,11 +524,11 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Unknown location 	2 	2 	1 		-
 Bangladesh 	Dhaka 	6 	4 	1.5 	— 	—
 Ukraine 		6 	1 	6 	— 	—
-Netherlands 	2 Locations 	5 	5 	1 	— 	—
+The Netherlands 	2 Locations 	5 	5 	1 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Amsterdam 	3 	3 	1 		-
 	Unknown location 	2 	2 	1 		-
-Republic of Korea 	4 Locations 	5 	4 	1.25 	— 	—
+South Korea 	4 Locations 	5 	4 	1.25 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Daegu 	2 	1 	2 		-
 	Seoul 	1 	1 	1 		-
@@ -645,7 +645,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Meguro-ku 	2 	1 	2 		-
 	Tokyo 	1 	1 	1 		-
 	Sendai 	1 	1 	1 		-
-Republic of Korea 	7 Locations 	16 	10 	1.6 	— 	—
+South Korea 	7 Locations 	16 	10 	1.6 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Seoul 	6 	4 	1.5 		-
 	Seongnam-si 	3 	1 	3 		-
@@ -668,7 +668,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Gillingham 	1 	1 	1 		-
 	Dartford 	1 	1 	1 		-
 	Bridge 	1 	1 	1 		-
-Netherlands 	5 Locations 	12 	8 	1.5 	— 	—
+The Netherlands 	5 Locations 	12 	8 	1.5 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Amsterdam 	4 	4 	1 		-
 	Utrecht 	3 	1 	3 		-
@@ -743,7 +743,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Medellín 	1 	1 	1 		-
 	Unknown location 	1 	1 	1 		-
 Sweden 		2 	1 	2 	— 	—
-Republic of Lithuania 		2 	1 	2 	— 	—
+Lithuania 		2 	1 	2 	— 	—
 Ghana 		2 	1 	2 	— 	—
 Estonia 		2 	1 	2 	— 	—
 Benin 		2 	1 	2 	— 	—
@@ -829,7 +829,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Nizhniy Novgorod 	1 	1 	1 		-
 	Gatchina 	1 	1 	1 		-
 	Unknown location 	1 	1 	1 		-
-Republic of Korea 	4 Locations 	11 	8 	1.38 	— 	—
+South Korea 	4 Locations 	11 	8 	1.38 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Seoul 	4 	3 	1.33 		-
 	Seongnam-si 	3 	2 	1.5 		-
@@ -863,7 +863,7 @@ Switzerland 	2 Locations 	7 	3 	2.33 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Zurich 	4 	2 	2 		-
 	Unknown location 	3 	1 	3 		-
-Netherlands 	4 Locations 	6 	4 	1.5 	— 	—
+The Netherlands 	4 Locations 	6 	4 	1.5 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Boxtel 	2 	1 	2 		-
 	Unknown location 	2 	1 	2 		-
@@ -980,7 +980,7 @@ Belgium 	2 Locations 	7 	5 	1.4 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Leuven 	6 	4 	1.5 		-
 	Brussels 	1 	1 	1 		-
-Republic of Korea 	3 Locations 	7 	4 	1.75 	— 	—
+South Korea 	3 Locations 	7 	4 	1.75 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Yeongdeungpo-gu 	3 	2 	1.5 		-
 	Daejeon 	2 	1 	2 		-
@@ -1023,7 +1023,7 @@ Turkey 		1 	1 	1 	— 	—
 Thailand 		1 	1 	1 	— 	—
 Sweden 		1 	1 	1 	— 	—
 Romania 		1 	1 	1 	— 	—
-Republic of Moldova 		1 	1 	1 	— 	—
+Moldova 		1 	1 	1 	— 	—
 Malaysia 		1 	1 	1 	— 	—
 Italy 		1 	1 	1 	— 	—
 Israel 		1 	1 	1 	— 	—
@@ -1120,7 +1120,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Melbourne 	2 	1 	2 		-
 	Traralgon 	1 	1 	1 		-
 	Strathalbyn 	1 	1 	1 		-
-Republic of Korea 	3 Locations 	8 	3 	2.67 	— 	—
+South Korea 	3 Locations 	8 	3 	2.67 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Yongsan-dong 	3 	1 	3 		-
 	Yeongdeungpo-gu 	3 	1 	3 		-
@@ -1155,7 +1155,7 @@ China 	2 Locations 	3 	3 	1 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Unknown location 	2 	2 	1 		-
 	Hongkou 	1 	1 	1 		-
-Netherlands 		3 	3 	1 	— 	—
+The Netherlands 		3 	3 	1 	— 	—
 Japan 	2 Locations 	3 	2 	1.5 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Unknown location 	2 	1 	2 		-
@@ -1301,12 +1301,12 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Alexandria 	1 	1 	1 		-
 	Unknown location 	1 	1 	1 		-
 Åland 		2 	1 	2 	— 	—
-Netherlands 		2 	1 	2 	— 	—
+The Netherlands 		2 	1 	2 	— 	—
 Uruguay 		1 	1 	1 	— 	—
 Sweden 		1 	1 	1 	— 	—
 Spain 		1 	1 	1 	— 	—
-Republic of Moldova 		1 	1 	1 	— 	—
-Republic of Korea 		1 	1 	1 	— 	—
+Moldova 		1 	1 	1 	— 	—
+South Korea 		1 	1 	1 	— 	—
 Pakistan 		1 	1 	1 	— 	—
 Kazakhstan 		1 	1 	1 	— 	—
 Italy 		1 	1 	1 	— 	—
@@ -1422,7 +1422,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Unknown location 	3 	2 	1.5 		-
 	Mersin 	1 	1 	1 		-
 	Ankara 	1 	1 	1 		-
-Republic of Korea 	3 Locations 	5 	4 	1.25 	— 	—
+South Korea 	3 Locations 	5 	4 	1.25 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Seoul 	3 	2 	1.5 		-
 	Seo-gu 	1 	1 	1 		-
@@ -1574,7 +1574,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Ōita 	1 	1 	1 		-
 	Nagoya-shi 	1 	1 	1 		-
 	Bunkyo-ku 	1 	1 	1 		-
-Republic of Korea 	5 Locations 	12 	8 	1.5 	— 	—
+South Korea 	5 Locations 	12 	8 	1.5 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Seoul 	5 	4 	1.25 		-
 	Gimhae 	3 	1 	3 		-
@@ -1613,7 +1613,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Trento 	3 	2 	1.5 		-
 	Rome 	2 	2 	1 		-
 	Unknown location 	2 	2 	1 		-
-Netherlands 	2 Locations 	7 	5 	1.4 	— 	—
+The Netherlands 	2 Locations 	7 	5 	1.4 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Amsterdam 	6 	4 	1.5 		-
 	Unknown location 	1 	1 	1 		-
@@ -1737,7 +1737,7 @@ Singapore 	2 Locations 	6 	5 	1.2 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Singapore 	5 	4 	1.25 		-
 	Unknown location 	1 	1 	1 		-
-Netherlands 	2 Locations 	5 	4 	1.25 	— 	—
+The Netherlands 	2 Locations 	5 	4 	1.25 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Unknown location 	4 	3 	1.33 		-
 	Amsterdam 	1 	1 	1 		-
@@ -1767,7 +1767,7 @@ Denmark 		2 	1 	2 	— 	—
 Ukraine 		1 	1 	1 	— 	—
 Sweden 		1 	1 	1 	— 	—
 Romania 		1 	1 	1 	— 	—
-Republic of Korea 		1 	1 	1 	— 	—
+South Korea 		1 	1 	1 	— 	—
 Nigeria 		1 	1 	1 	— 	—
 Japan 		1 	1 	1 	— 	—
 Italy 		1 	1 	1 	— 	—
@@ -1859,7 +1859,7 @@ Sweden 	2 Locations 	6 	2 	3 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Lund 	4 	1 	4 		-
 	Malmo 	2 	1 	2 		-
-Republic of Korea 	2 Locations 	5 	3 	1.67 	— 	—
+South Korea 	2 Locations 	5 	3 	1.67 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Daejeon 	4 	2 	2 		-
 	Seodaemun-gu 	1 	1 	1 		-
@@ -1876,7 +1876,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 United Arab Emirates 		1 	1 	1 	— 	—
 Singapore 		1 	1 	1 	— 	—
 Portugal 		1 	1 	1 	— 	—
-Netherlands 		1 	1 	1 	— 	—
+The Netherlands 		1 	1 	1 	— 	—
 Mexico 		1 	1 	1 	— 	—
 Macedonia 		1 	1 	1 	— 	—
 Latvia 		1 	1 	1 	— 	—
@@ -1947,13 +1947,13 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Unknown location 	1 	1 	1 		-
 Italy 		2 	2 	1 	— 	—
 United Arab Emirates 		2 	1 	2 	— 	—
-Republic of Korea 		2 	1 	2 	— 	—
+South Korea 		2 	1 	2 	— 	—
 Indonesia 		2 	1 	2 	— 	—
 Taiwan 		1 	1 	1 	— 	—
 Portugal 		1 	1 	1 	— 	—
 Philippines 		1 	1 	1 	— 	—
 Nigeria 		1 	1 	1 	— 	—
-Netherlands 		1 	1 	1 	— 	—
+The Netherlands 		1 	1 	1 	— 	—
 Mexico 		1 	1 	1 	— 	—
 Ireland 		1 	1 	1 	— 	—
 Hong Kong 		1 	1 	1 	— 	—
@@ -2022,7 +2022,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Saskatoon 	1 	1 	1 		-
 	Oakville 	1 	1 	1 		-
 	Beauharnois 	1 	1 	1 		-
-Netherlands 	4 Locations 	12 	6 	2 	— 	—
+The Netherlands 	4 Locations 	12 	6 	2 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Groningen 	6 	1 	6 		-
 	Unknown location 	4 	3 	1.33 		-
@@ -2109,7 +2109,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Brussels 	1 	1 	1 		-
 Taiwan 		2 	1 	2 	— 	—
 Saudi Arabia 		2 	1 	2 	— 	—
-Republic of Korea 		2 	1 	2 	— 	—
+South Korea 		2 	1 	2 	— 	—
 Nigeria 		2 	1 	2 	— 	—
 Sweden 		1 	1 	1 	— 	—
 Romania 		1 	1 	1 	— 	—
@@ -2182,7 +2182,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Worthing 	1 	1 	1 		-
 	Oxford 	1 	1 	1 		-
 	Cambridge 	1 	1 	1 		-
-Republic of Korea 	4 Locations 	17 	8 	2.13 	— 	—
+South Korea 	4 Locations 	17 	8 	2.13 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Paju 	8 	3 	2.67 		-
 	Daejeon 	4 	3 	1.33 		-
@@ -2212,7 +2212,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Omsk 	1 	1 	1 		-
 	Moscow 	1 	1 	1 		-
 	Miasskoye 	1 	1 	1 		-
-Netherlands 	3 Locations 	7 	5 	1.4 	— 	—
+The Netherlands 	3 Locations 	7 	5 	1.4 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Unknown location 	5 	3 	1.67 		-
 	The Hague 	1 	1 	1 		-
@@ -2346,7 +2346,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Ammerbuch 	1 	1 	1 		-
 	Unknown location 	1 	1 	1 		-
 United Arab Emirates 		3 	2 	1.5 	— 	—
-Republic of Korea 	2 Locations 	2 	2 	1 	— 	—
+South Korea 	2 Locations 	2 	2 	1 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Seongnam-si 	1 	1 	1 		-
 	Geoje 	1 	1 	1 		-
@@ -2418,7 +2418,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Unknown location 	6 	3 	2 		-
 	Bangalore 	5 	1 	5 		-
 	New Delhi 	1 	1 	1 		-
-Republic of Korea 	4 Locations 	11 	9 	1.22 	— 	—
+South Korea 	4 Locations 	11 	9 	1.22 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Seoul 	6 	5 	1.2 		-
 	Unknown location 	3 	2 	1.5 		-
@@ -2475,7 +2475,7 @@ Austria 		2 	1 	2 	— 	—
 Vietnam 		1 	1 	1 	— 	—
 Spain 		1 	1 	1 	— 	—
 Pakistan 		1 	1 	1 	— 	—
-Netherlands 		1 	1 	1 	— 	—
+The Netherlands 		1 	1 	1 	— 	—
 Hong Kong 		1 	1 	1 	— 	—
 Finland 		1 	1 	1 	— 	—
 Denmark 		1 	1 	1 	— 	—
@@ -2541,7 +2541,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Unknown location 	7 	4 	1.75 		-
 	Brockenhurst 	3 	1 	3 		-
 	Chiswick 	1 	1 	1 		-
-Republic of Korea 	5 Locations 	10 	7 	1.43 	— 	—
+South Korea 	5 Locations 	10 	7 	1.43 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Gangnam-gu 	4 	3 	1.33 		-
 	Incheon 	2 	1 	2 		-
@@ -2592,7 +2592,7 @@ Thailand 	2 Locations 	4 	3 	1.33 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Bangkok 	2 	2 	1 		-
 	Wiphawadi 	2 	1 	2 		-
-Netherlands 	2 Locations 	4 	2 	2 	— 	—
+The Netherlands 	2 Locations 	4 	2 	2 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Amsterdam 	2 	1 	2 		-
 	Unknown location 	2 	1 	2 		-
@@ -2677,7 +2677,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Unknown location 	7 	4 	1.75 		-
 	Brockenhurst 	3 	1 	3 		-
 	Chiswick 	1 	1 	1 		-
-Republic of Korea 	5 Locations 	10 	7 	1.43 	— 	—
+South Korea 	5 Locations 	10 	7 	1.43 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Gangnam-gu 	4 	3 	1.33 		-
 	Incheon 	2 	1 	2 		-
@@ -2728,7 +2728,7 @@ Thailand 	2 Locations 	4 	3 	1.33 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Bangkok 	2 	2 	1 		-
 	Wiphawadi 	2 	1 	2 		-
-Netherlands 	2 Locations 	4 	2 	2 	— 	—
+The Netherlands 	2 Locations 	4 	2 	2 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Amsterdam 	2 	1 	2 		-
 	Unknown location 	2 	1 	2 		-
@@ -2826,7 +2826,7 @@ Japan 	2 Locations 	7 	7 	1 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Unknown location 	4 	4 	1 		-
 	Tokyo 	3 	3 	1 		-
-Republic of Korea 	3 Locations 	6 	5 	1.2 	— 	—
+South Korea 	3 Locations 	6 	5 	1.2 	— 	—
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Unknown location 	3 	2 	1.5 		-
 	Gangnam-gu 	2 	2 	1 		-
@@ -2938,7 +2938,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Sheffield 	1 	1 	1 		
 	Peterborough 	1 	1 	1 		
 	Oxford 	1 	1 	1 		
-Republic of Korea 	11 Locations 	34 	29 	1.17 		
+South Korea 	11 Locations 	34 	29 	1.17 		
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Daejeon 	10 	8 	1.25 		
 	Seoul 	9 	6 	1.5 		
@@ -3017,7 +3017,7 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 	Unknown location 	11 	10 	1.1 		
 	Bern 	2 	1 	2 		
 	Onex 	1 	1 	1 		
-Netherlands 	7 Locations 	14 	11 	1.27 		
+The Netherlands 	7 Locations 	14 	11 	1.27 		
 Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last Visit
 	Unknown location 	6 	4 	1.5 		
 	Utrecht 	2 	2 	1 		
@@ -3096,8 +3096,8 @@ Top 10 locations 	Locations 	Visits 	Uniques 	Visit Depth 	Visits/Uniques 	Last 
 Uganda 		2 	2 	1 		
 Qatar 		2 	1 	2 		
 Sudan 		1 	1 	1 		
-Republic of Moldova 		1 	1 	1 		
-Republic of Lithuania 		1 	1 	1 		
+Moldova 		1 	1 	1 		
+Lithuania 		1 	1 	1 		
 Oman 		1 	1 	1 		
 Nigeria 		1 	1 	1 		
 Luxembourg 		1 	1 	1 		

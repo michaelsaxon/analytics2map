@@ -26,7 +26,7 @@ class GoogleAnalyticsConfig(BaseModel):
 
 
 class DatabaseConfig(BaseModel):
-    path: Path = Path("data/visitors.sqlite3")
+    path: Path = Path("data/visits.tsv")
 
 
 class ThemeConfig(BaseModel):
@@ -45,7 +45,6 @@ class ThemeConfig(BaseModel):
 class RendererConfig(BaseModel):
     background_path: Optional[Path] = None
     output_dir: Path = Path("output")
-    clustrmaps_overlay_path: Optional[Path] = None
     theme: ThemeConfig = Field(default_factory=ThemeConfig)
     scales: List[RenderScale] = Field(
         default_factory=lambda: [

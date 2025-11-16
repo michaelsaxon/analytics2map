@@ -1,23 +1,18 @@
 from __future__ import annotations
 
 import logging
+from datetime import datetime
 from pathlib import Path
 from typing import Optional
 
 import typer
 from rich.console import Console
 
-from .clustrmaps import (
-    export_clustrmaps_summary,
-    load_clustrmaps_csv,
-    load_clustrmaps_summary_csv,
-    load_clustrmaps_text,
-)
+from .clustrmaps import ingest_clustrmaps_dump_to_tsv
 from .config import AppConfig
 from .ga_client import GoogleAnalyticsClient
-from .persistence import VisitorDatabase
+from .persistence import VisitStore
 from .renderer.map_renderer import MapRenderer
-from .schemas import Source
 
 app = typer.Typer(add_completion=False, help="analytics2map command line interface")
 console = Console()
@@ -36,16 +31,21 @@ def ingest_ga(
     config_path: Path = typer.Option(..., exists=True, help="Path to YAML config"),
     verbose: bool = typer.Option(False, "--verbose", "-v"),
 ) -> None:
-    """Fetch new Google Analytics events and store them in the visitor DB."""
+    """Fetch new Google Analytics events and append them to visits.tsv."""
     _setup_logging(verbose)
     config = AppConfig.load(config_path)
 
-    db = VisitorDatabase(config.database.path)
-    db.initialize()
-    last_seen = db.last_seen_at(Source.GOOGLE_ANALYTICS)
+    store = VisitStore(config.database.path)
+    last_seen = store.get_last_timestamp()
+
+    if verbose:
+        console.print(f"Last seen: {last_seen}")
 
     client = GoogleAnalyticsClient(config.google_analytics)
     events = client.fetch_events(since=last_seen)
+
+    # Ensure oldest-first order before appending to the TSV log
+    events = sorted(events, key=lambda e: e.occurred_at)
 
     if verbose:
         console.print(f"Found {len(events)} events")
@@ -54,48 +54,48 @@ def ingest_ga(
                 location = event.location
                 console.print(f"Event {idx} location: {location}")
             else:
-                console.print(f"Event {idx}location: none")
+                console.print(f"Event {idx} location: none")
+            if event.occurred_at:
+                console.print(f"Event {idx} occurred at: {event.occurred_at}")
+            else:
+                console.print(f"Event {idx} occurred at: none")
 
-    inserted = db.record_events(events)
-    if events:
-        newest = max(event.occurred_at for event in events)
-        db.update_last_seen(Source.GOOGLE_ANALYTICS, newest)
+    written = 0
+    newest: datetime | None = None
+    for event in events:
+        city = event.location.city if event.location else None
+        if city and city.strip().lower() == "(not set)":
+            city = None
+        store.append_visit(
+            city=city,
+            country=event.location.country or "Unknown",
+            timestamp=event.occurred_at,
+            num_unique=1,
+        )
+        written += 1
+        if newest is None or event.occurred_at > newest:
+            newest = event.occurred_at
 
-    console.print(f"Ingested {inserted} Google Analytics events.")
+    if newest:
+        store.update_last_seen(newest)
+
+    console.print(f"Ingested {written} Google Analytics events.")
 
 
 @app.command("ingest-clustrmaps")
 def ingest_clustrmaps(
-    csv_path: Optional[Path] = typer.Option(None, exists=True, help="Path to Clustrmaps export CSV"),
-    text_path: Optional[Path] = typer.Option(None, exists=True, help="Path to Clustrmaps text dump"),
+    text_path: Path = typer.Option(..., exists=True, help="Path to Clustrmaps text dump"),
     config_path: Path = typer.Option(..., exists=True),
     verbose: bool = typer.Option(False, "--verbose", "-v"),
 ) -> None:
-    """Import historical Clustrmaps data."""
+    """Import historical Clustrmaps data from text dump into visits.tsv."""
     _setup_logging(verbose)
     config = AppConfig.load(config_path)
 
-    if csv_path and text_path:
-        raise typer.BadParameter("Provide only one of --csv-path or --text-path")
+    store = VisitStore(config.database.path)
+    written = ingest_clustrmaps_dump_to_tsv(text_path, store)
 
-    data_path = text_path or csv_path
-    if not data_path:
-        data_path = config.clustrmaps.csv_path
-    if not data_path:
-        raise typer.BadParameter("Clustrmaps data path must be provided")
-
-    path = Path(data_path)
-    if text_path or path.suffix.lower() in {".txt", ".md"}:
-        events = list(load_clustrmaps_text(path))
-    else:
-        events = list(load_clustrmaps_csv(path))
-    db = VisitorDatabase(config.database.path)
-    db.initialize()
-    inserted = db.record_events(events)
-    newest = max(event.occurred_at for event in events)
-    db.update_last_seen(Source.CLUSTRMAPS, newest)
-
-    console.print(f"Ingested {inserted} Clustrmaps events from {data_path}.")
+    console.print(f"Ingested {written} Clustrmaps records from {text_path}.")
 
 
 @app.command("render")
@@ -107,39 +107,12 @@ def render_maps(
     _setup_logging(verbose)
     config = AppConfig.load(config_path)
 
-    db = VisitorDatabase(config.database.path)
-    db.initialize()
-    aggregates = db.aggregate_locations()
-    overlay_path = config.renderer.clustrmaps_overlay_path
-    if overlay_path and Path(overlay_path).exists():
-        overlay = load_clustrmaps_summary_csv(overlay_path)
-        for key, (location, count) in overlay.items():
-            if key in aggregates:
-                existing_location, existing_count = aggregates[key]
-                aggregates[key] = (existing_location, existing_count + count)
-            else:
-                aggregates[key] = (location, count)
+    store = VisitStore(config.database.path)
+    aggregates = store.aggregate_locations()
 
     renderer = MapRenderer(config.renderer)
     renderer.render(aggregates)
     console.print(f"Rendered {len(config.renderer.scales)} map variants to {config.renderer.output_dir}.")
-
-
-@app.command("clustrmaps-summary")
-def clustrmaps_summary(
-    text_path: Path = typer.Argument(..., exists=True, help="Path to Clustrmaps text dump"),
-    output_path: Path = typer.Option(
-        Path("data/clustrmaps_summary.csv"),
-        "--output",
-        "-o",
-        help="Where to write the summarized CSV",
-    ),
-    verbose: bool = typer.Option(False, "--verbose", "-v"),
-) -> None:
-    """Parse a Clustrmaps text dump and write city-level unique visitor counts to CSV."""
-    _setup_logging(verbose)
-    export_clustrmaps_summary(text_path, output_path)
-    console.print(f"Wrote Clustrmaps summary to {output_path}")
 
 
 if __name__ == "__main__":

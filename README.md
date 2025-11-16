@@ -7,9 +7,9 @@ visitor maps that you can embed anywhere.
 
 - Pull incremental visitor stats from the Google Analytics Data API (GA4)
 - Look up city coordinates on-demand via the `geonamescache` dataset
-- Store visits locally in SQLite for reproducible rendering
-- Import legacy Clustrmaps CSV exports to backfill historical data
-- Render multi-scale SVG maps with aggregated hotspots sized and labeled by volume
+- Store visits in a simple append-only TSV file (`data/visits.tsv`)
+- Import legacy Clustrmaps text dumps with date markers to backfill historical data
+- Render multi-scale SVG maps with aggregated hotspots sized logarithmically by unique visitor count
 
 ## Getting started
 
@@ -30,48 +30,55 @@ cp config/example.yml config/prod.yml
 ### Required inputs
 
 - **Google Analytics service account** with access to your GA4 property
-- Optional **Clustrmaps CSV export** for seeding historical visits
+- Optional **Clustrmaps text dump** for seeding historical visits
 
 ## Workflow
 
-1. **Ingest Google Analytics events**
+The workflow is simple: initialize your `visits.tsv` with historical data, then periodically ingest new GA4 events.
 
-   ```bash
-   analytics2map ingest-ga --config-path config/prod.yml
-   ```
+### 1. Initialize with historical data (first time only)
 
-   The CLI remembers the last ingested timestamp per source to avoid duplicate pulls.
+If you have Clustrmaps data, import it first:
 
-2. **Import historic Clustrmaps data (once)**
+```bash
+analytics2map ingest-clustrmaps \
+    --config-path config/prod.yml \
+    --text-path clustrdump.txt
+```
 
-   ```bash
-   # CSV export
-   analytics2map ingest-clustrmaps --config-path config/prod.yml --csv-path data/clustrmaps.csv
+This parses the text dump (which should have date markers like `====== YYYY-MM-DD`), extracts city/country/uniques per period, and writes directly to `data/visits.tsv`. Each record includes the dump date as the timestamp and the number of unique visitors for that city/country.
 
-   # or paste the dashboard dump into a text file and parse it directly
-   analytics2map ingest-clustrmaps --config-path config/prod.yml --text-path data/clustrmaps.txt
-   ```
+### 2. Ingest Google Analytics events
 
-   The text parser understands the “Country / Top locations” blocks shown in the Clustrmaps UI. Any
-   entries such as “Unknown location” are grouped into a country-level bucket and rendered using the
-   country centroid.
+```bash
+analytics2map ingest-ga --config-path config/prod.yml
+```
 
-   Alternatively, you can build a summarized CSV of unique visitors per city without inserting rows
-   into the SQLite DB:
+This fetches new events since the last timestamp in `visits.tsv` (or `data/last_seen.txt`), appends each event as a row with `num_unique=1`, and updates the last-seen timestamp.
 
-   ```bash
-   analytics2map clustrmaps-summary clustrdump.txt --output data/clustrmaps_summary.csv
-   ```
+### 3. Render SVG visitor maps
 
-   Point `renderer.clustrmaps_overlay_path` at the generated CSV to overlay the historical counts
-   when rendering.
-3. **Render SVG visitor maps**
+```bash
+analytics2map render --config-path config/prod.yml
+```
 
-   ```bash
-   analytics2map render --config-path config/prod.yml
-   ```
+The renderer reads all rows from `visits.tsv`, groups by `(city, country)`, sums `num_unique`, and renders SVG files for every configured scale to `renderer.output_dir` (default `output/`).
 
-   SVG files for every configured scale end up in `renderer.output_dir` (default `output/`).
+## Data format
+
+The `visits.tsv` file is a simple tab-separated log:
+
+```
+city	country	timestamp	num_unique
+Lanzhou	China	2025-11-15T16:00:00	1
+Singapore	Singapore	2025-11-15T16:00:00	1
+Milan	Italy	2025-11-15T16:00:00	1
+```
+
+- `city`: City name (empty for country-only aggregates)
+- `country`: Country name
+- `timestamp`: ISO format datetime
+- `num_unique`: Integer (always 1 for GA4 events, can be >1 for Clustrmaps aggregates)
 
 ## Project roadmap
 

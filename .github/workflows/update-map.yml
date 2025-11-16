@@ -36,7 +36,7 @@ jobs:
       
       - name: ingest google analytics data and update db
         run: |
-          analytics2map ingest-ga --config-path config/prod.yml
+          analytics2map ingest-ga --config-path config/prod.yml --verbose
 
       - name: clean
         run: rm secret.json

@@ -1,0 +1,2952 @@
+timestamp	country	city	num_unique
+2024-01-01T00:00:00	United States	Santa Barbara	2
+2024-01-01T00:00:00	United States	Goleta	2
+2024-01-01T00:00:00	United States	Boardman	1
+2024-01-01T00:00:00	United States	Los Angeles	1
+2024-01-01T00:00:00	United States	Ashburn	1
+2024-01-01T00:00:00	United States	Ames	2
+2024-01-01T00:00:00	United States	Austin	4
+2024-01-01T00:00:00	United States	Seattle	1
+2024-01-01T00:00:00	United States	Santa Clara	1
+2024-01-01T00:00:00	United States	New York	1
+2024-01-01T00:00:00	United States	Four Oaks	1
+2024-01-01T00:00:00	United States	Baltimore	1
+2024-01-01T00:00:00	United States	Dallas	3
+2024-01-01T00:00:00	United States	San Jose	1
+2024-01-01T00:00:00	United States	Lompoc	1
+2024-01-01T00:00:00	United States	Las Vegas	1
+2024-01-01T00:00:00	United States	Chicago	1
+2024-01-01T00:00:00	United States	Stanford	2
+2024-01-01T00:00:00	United States	Solvang	2
+2024-01-01T00:00:00	United States	Oak Creek	2
+2024-01-01T00:00:00	United States	NULL	142
+2024-01-01T00:00:00	India	Kanpur	2
+2024-01-01T00:00:00	India	Gurgaon	2
+2024-01-01T00:00:00	India	Delhi	1
+2024-01-01T00:00:00	India	NULL	1
+2024-01-01T00:00:00	Canada	Waterloo	3
+2024-01-01T00:00:00	Canada	NULL	1
+2024-01-01T00:00:00	Canada	Montreal	2
+2024-01-01T00:00:00	Canada	Shawinigan	1
+2024-01-01T00:00:00	China	Hongkou	1
+2024-01-01T00:00:00	China	Zhengzhou	1
+2024-01-01T00:00:00	China	Shanghai	1
+2024-01-01T00:00:00	China	NULL	1
+2024-01-01T00:00:00	China	NULL	3
+2024-01-01T00:00:00	United Kingdom	NULL	2
+2024-01-01T00:00:00	United Kingdom	London	1
+2024-01-01T00:00:00	United Kingdom	NULL	1
+2024-01-01T00:00:00	Germany	Berlin	3
+2024-01-01T00:00:00	Germany	Remshalden	2
+2024-01-01T00:00:00	Germany	NULL	1
+2024-01-01T00:00:00	Russia	NULL	3
+2024-01-01T00:00:00	South Korea	Incheon	2
+2024-01-01T00:00:00	South Korea	NULL	1
+2024-01-01T00:00:00	Nigeria	NULL	2
+2024-01-01T00:00:00	Vietnam	NULL	1
+2024-01-01T00:00:00	Taiwan	NULL	1
+2024-01-01T00:00:00	Spain	NULL	1
+2024-01-01T00:00:00	Poland	NULL	1
+2024-01-01T00:00:00	Japan	NULL	1
+2024-01-01T00:00:00	Finland	NULL	1
+2024-01-01T00:00:00	Brazil	NULL	1
+2024-01-01T00:00:00	United States	Santa Barbara	2
+2024-01-01T00:00:00	United States	Boardman	1
+2024-01-01T00:00:00	United States	Goleta	2
+2024-01-01T00:00:00	United States	Santa Clara	2
+2024-01-01T00:00:00	United States	Atlanta	2
+2024-01-01T00:00:00	United States	Lompoc	5
+2024-01-01T00:00:00	United States	Manhattan	2
+2024-01-01T00:00:00	United States	Harrison	2
+2024-01-01T00:00:00	United States	Cambridge	1
+2024-01-01T00:00:00	United States	San Diego	1
+2024-01-01T00:00:00	United States	New York	3
+2024-01-01T00:00:00	United States	Rowland Heights	1
+2024-01-01T00:00:00	United States	Solvang	2
+2024-01-01T00:00:00	United States	Saint Paul	2
+2024-01-01T00:00:00	United States	Phoenix	2
+2024-01-01T00:00:00	United States	Mocksville	2
+2024-01-01T00:00:00	United States	Glastonbury	2
+2024-01-01T00:00:00	United States	Des Moines	2
+2024-01-01T00:00:00	United States	Ashburn	2
+2024-01-01T00:00:00	United States	West Milford	1
+2024-01-01T00:00:00	United States	NULL	134
+2024-01-01T00:00:00	United Kingdom	London	1
+2024-01-01T00:00:00	United Kingdom	Portsmouth	3
+2024-01-01T00:00:00	United Kingdom	Hartlepool	2
+2024-01-01T00:00:00	China	Zhengzhou	1
+2024-01-01T00:00:00	China	Tianjin	1
+2024-01-01T00:00:00	China	Taizhou	1
+2024-01-01T00:00:00	China	Hongkou	1
+2024-01-01T00:00:00	China	NULL	1
+2024-01-01T00:00:00	Germany	NULL	1
+2024-01-01T00:00:00	Germany	Berlin	1
+2024-01-01T00:00:00	Germany	NULL	1
+2024-01-01T00:00:00	Switzerland	NULL	1
+2024-01-01T00:00:00	Hong Kong	Central District	1
+2024-01-01T00:00:00	Hong Kong	NULL	1
+2024-01-01T00:00:00	Hong Kong	NULL	1
+2024-01-01T00:00:00	Canada	NULL	2
+2024-01-01T00:00:00	South Korea	NULL	1
+2024-01-01T00:00:00	Japan	NULL	1
+2024-01-01T00:00:00	India	NULL	1
+2024-01-01T00:00:00	Brazil	Recife	1
+2024-01-01T00:00:00	Brazil	NULL	1
+2024-01-01T00:00:00	France	NULL	2
+2024-01-01T00:00:00	Hungary	NULL	1
+2024-01-01T00:00:00	Taiwan	NULL	1
+2024-01-01T00:00:00	Puerto Rico	NULL	1
+2024-01-01T00:00:00	United States	Santa Barbara	1
+2024-01-01T00:00:00	United States	Boardman	1
+2024-01-01T00:00:00	United States	Goleta	1
+2024-01-01T00:00:00	United States	Seattle	2
+2024-01-01T00:00:00	United States	Phoenix	2
+2024-01-01T00:00:00	United States	Auburn	2
+2024-01-01T00:00:00	United States	Ashburn	1
+2024-01-01T00:00:00	United States	Ann Arbor	1
+2024-01-01T00:00:00	United States	Las Vegas	2
+2024-01-01T00:00:00	United States	Pittsburgh	1
+2024-01-01T00:00:00	United States	Rochester	1
+2024-01-01T00:00:00	United States	Mountain View	1
+2024-01-01T00:00:00	United States	Tustin	1
+2024-01-01T00:00:00	United States	Houston	1
+2024-01-01T00:00:00	United States	Chicago	1
+2024-01-01T00:00:00	United States	New York	2
+2024-01-01T00:00:00	United States	Massapequa	2
+2024-01-01T00:00:00	United States	Charlottesville	2
+2024-01-01T00:00:00	United States	Winter Haven	1
+2024-01-01T00:00:00	United States	Stanford	1
+2024-01-01T00:00:00	United States	NULL	150
+2024-01-01T00:00:00	Japan	Setagaya-ku	9
+2024-01-01T00:00:00	Japan	NULL	1
+2024-01-01T00:00:00	Japan	Tokyo	1
+2024-01-01T00:00:00	China	Hongkou	1
+2024-01-01T00:00:00	China	Zhengzhou	1
+2024-01-01T00:00:00	China	Taizhou	1
+2024-01-01T00:00:00	China	Shanghai	1
+2024-01-01T00:00:00	China	Quanzhou	1
+2024-01-01T00:00:00	China	NULL	1
+2024-01-01T00:00:00	Vietnam	Ho Chi Minh City	2
+2024-01-01T00:00:00	Vietnam	Hanoi	2
+2024-01-01T00:00:00	India	Bangalore	1
+2024-01-01T00:00:00	India	Delhi	1
+2024-01-01T00:00:00	India	NULL	1
+2024-01-01T00:00:00	India	NULL	1
+2024-01-01T00:00:00	Canada	Mississauga	1
+2024-01-01T00:00:00	Canada	Beauharnois	1
+2024-01-01T00:00:00	Canada	NULL	1
+2024-01-01T00:00:00	United Kingdom	City of Westminster	2
+2024-01-01T00:00:00	United Kingdom	Warwick	1
+2024-01-01T00:00:00	Bangladesh	Dhaka	1
+2024-01-01T00:00:00	Bangladesh	NULL	1
+2024-01-01T00:00:00	Singapore	NULL	1
+2024-01-01T00:00:00	Saint Kitts and Nevis	NULL	1
+2024-01-01T00:00:00	Australia	NULL	1
+2024-01-01T00:00:00	Nigeria	NULL	1
+2024-01-01T00:00:00	Ireland	NULL	1
+2024-01-01T00:00:00	Germany	NULL	1
+2024-01-01T00:00:00	France	NULL	1
+2024-01-01T00:00:00	United States	Boardman	1
+2024-01-01T00:00:00	United States	Santa Barbara	1
+2024-01-01T00:00:00	United States	Goleta	1
+2024-01-01T00:00:00	United States	Seattle	1
+2024-01-01T00:00:00	United States	Cambridge	1
+2024-01-01T00:00:00	United States	New York	2
+2024-01-01T00:00:00	United States	Chicago	1
+2024-01-01T00:00:00	United States	Pittsburgh	1
+2024-01-01T00:00:00	United States	Madison	2
+2024-01-01T00:00:00	United States	Ashburn	2
+2024-01-01T00:00:00	United States	Princeton	1
+2024-01-01T00:00:00	United States	Irvine	1
+2024-01-01T00:00:00	United States	Durham	1
+2024-01-01T00:00:00	United States	Syracuse	1
+2024-01-01T00:00:00	United States	College Park	1
+2024-01-01T00:00:00	United States	Brooklyn	1
+2024-01-01T00:00:00	United States	Studio City	3
+2024-01-01T00:00:00	United States	Phoenix	3
+2024-01-01T00:00:00	United States	Palo Alto	3
+2024-01-01T00:00:00	United States	Troy	1
+2024-01-01T00:00:00	United States	NULL	305
+2024-01-01T00:00:00	China	Zhengzhou	1
+2024-01-01T00:00:00	China	NULL	2
+2024-01-01T00:00:00	China	Hongkou	1
+2024-01-01T00:00:00	China	Shanghai	1
+2024-01-01T00:00:00	China	NULL	7
+2024-01-01T00:00:00	Russia	Moscow	1
+2024-01-01T00:00:00	Russia	Voronezh	1
+2024-01-01T00:00:00	Russia	Gatchina	1
+2024-01-01T00:00:00	Russia	NULL	1
+2024-01-01T00:00:00	Russia	Engel's	1
+2024-01-01T00:00:00	Russia	NULL	7
+2024-01-01T00:00:00	Rwanda	NULL	6
+2024-01-01T00:00:00	Germany	Darmstadt	2
+2024-01-01T00:00:00	Germany	NULL	1
+2024-01-01T00:00:00	Germany	Mannheim	1
+2024-01-01T00:00:00	Germany	Gladenbach	1
+2024-01-01T00:00:00	Germany	NULL	1
+2024-01-01T00:00:00	Taiwan	Taipei	1
+2024-01-01T00:00:00	Taiwan	NULL	1
+2024-01-01T00:00:00	Taiwan	Taoyuan	2
+2024-01-01T00:00:00	Taiwan	Hsinchu	1
+2024-01-01T00:00:00	Taiwan	NULL	1
+2024-01-01T00:00:00	Japan	NULL	2
+2024-01-01T00:00:00	Japan	Setagaya-ku	1
+2024-01-01T00:00:00	Japan	NULL	1
+2024-01-01T00:00:00	Canada	NULL	1
+2024-01-01T00:00:00	Canada	Vancouver	1
+2024-01-01T00:00:00	Canada	NULL	4
+2024-01-01T00:00:00	South Korea	NULL	3
+2024-01-01T00:00:00	Sweden	Sundbyberg	1
+2024-01-01T00:00:00	Sweden	Stockholm	1
+2024-01-01T00:00:00	Sweden	Danderyd	1
+2024-01-01T00:00:00	India	Kolkata	1
+2024-01-01T00:00:00	India	Hyderabad	1
+2024-01-01T00:00:00	India	Bangalore	1
+2024-01-01T00:00:00	Turkey	Istanbul	2
+2024-01-01T00:00:00	Turkey	Ankara	1
+2024-01-01T00:00:00	Australia	NULL	2
+2024-01-01T00:00:00	United Kingdom	London	1
+2024-01-01T00:00:00	United Kingdom	NULL	1
+2024-01-01T00:00:00	Singapore	Singapore	1
+2024-01-01T00:00:00	Singapore	NULL	1
+2024-01-01T00:00:00	Bangladesh	Sylhet	1
+2024-01-01T00:00:00	Bangladesh	Chittagong	1
+2024-01-01T00:00:00	Switzerland	NULL	2
+2024-01-01T00:00:00	Mauritius	NULL	1
+2024-01-01T00:00:00	Spain	NULL	1
+2024-01-01T00:00:00	The Netherlands	NULL	1
+2024-01-01T00:00:00	Macedonia	NULL	1
+2024-01-01T00:00:00	Laos	NULL	1
+2024-01-01T00:00:00	Italy	NULL	1
+2024-01-01T00:00:00	Guatemala	NULL	1
+2024-01-01T00:00:00	France	NULL	1
+2024-01-01T00:00:00	Finland	NULL	1
+2024-01-01T00:00:00	Denmark	NULL	1
+2024-01-01T00:00:00	Bulgaria	NULL	1
+2024-01-01T00:00:00	Brazil	NULL	1
+2024-01-01T00:00:00	Belgium	NULL	1
+2024-01-01T00:00:00	United States	Boardman	1
+2024-01-01T00:00:00	United States	Santa Barbara	1
+2024-01-01T00:00:00	United States	Goleta	1
+2024-01-01T00:00:00	United States	Seattle	2
+2024-01-01T00:00:00	United States	Cambridge	1
+2024-01-01T00:00:00	United States	Madison	2
+2024-01-01T00:00:00	United States	Syracuse	1
+2024-01-01T00:00:00	United States	Palo Alto	3
+2024-01-01T00:00:00	United States	Troy	1
+2024-01-01T00:00:00	United States	Stanford	1
+2024-01-01T00:00:00	United States	Durham	1
+2024-01-01T00:00:00	United States	Ann Arbor	1
+2024-01-01T00:00:00	United States	Ventura	2
+2024-01-01T00:00:00	United States	State College	1
+2024-01-01T00:00:00	United States	Sonoma	1
+2024-01-01T00:00:00	United States	Somerville	1
+2024-01-01T00:00:00	United States	Sherman Oaks	1
+2024-01-01T00:00:00	United States	Santa Cruz	1
+2024-01-01T00:00:00	United States	Rockville	1
+2024-01-01T00:00:00	United States	Redwood City	1
+2024-01-01T00:00:00	United States	NULL	132
+2024-01-01T00:00:00	Germany	Darmstadt	2
+2024-01-01T00:00:00	Germany	Mannheim	1
+2024-01-01T00:00:00	Germany	Gladenbach	1
+2024-01-01T00:00:00	Germany	NULL	1
+2024-01-01T00:00:00	Rwanda	NULL	5
+2024-01-01T00:00:00	China	Zhengzhou	1
+2024-01-01T00:00:00	China	NULL	2
+2024-01-01T00:00:00	China	Hongkou	1
+2024-01-01T00:00:00	China	NULL	1
+2024-01-01T00:00:00	Canada	Vancouver	1
+2024-01-01T00:00:00	Canada	NULL	1
+2024-01-01T00:00:00	Canada	NULL	2
+2024-01-01T00:00:00	Russia	Voronezh	1
+2024-01-01T00:00:00	Russia	Gatchina	1
+2024-01-01T00:00:00	Russia	NULL	1
+2024-01-01T00:00:00	India	Kolkata	1
+2024-01-01T00:00:00	India	Hyderabad	1
+2024-01-01T00:00:00	Taiwan	NULL	2
+2024-01-01T00:00:00	United Kingdom	NULL	1
+2024-01-01T00:00:00	Turkey	NULL	1
+2024-01-01T00:00:00	Switzerland	NULL	1
+2024-01-01T00:00:00	Sweden	NULL	1
+2024-01-01T00:00:00	Singapore	NULL	1
+2024-01-01T00:00:00	South Korea	NULL	1
+2024-01-01T00:00:00	The Netherlands	NULL	1
+2024-01-01T00:00:00	Macedonia	NULL	1
+2024-01-01T00:00:00	Italy	NULL	1
+2024-01-01T00:00:00	Guatemala	NULL	1
+2024-01-01T00:00:00	Denmark	NULL	1
+2024-01-01T00:00:00	Bulgaria	NULL	1
+2024-01-01T00:00:00	Brazil	NULL	1
+2024-01-01T00:00:00	Belgium	NULL	1
+2024-01-01T00:00:00	Bangladesh	NULL	1
+2024-01-01T00:00:00	United States	Boardman	1
+2024-01-01T00:00:00	United States	Santa Barbara	1
+2024-01-01T00:00:00	United States	Goleta	3
+2024-01-01T00:00:00	United States	Chicago	1
+2024-01-01T00:00:00	United States	Santa Clara	2
+2024-01-01T00:00:00	United States	Seattle	1
+2024-01-01T00:00:00	United States	Pittsburgh	1
+2024-01-01T00:00:00	United States	New York	1
+2024-01-01T00:00:00	United States	Mountain View	1
+2024-01-01T00:00:00	United States	State College	3
+2024-01-01T00:00:00	United States	Chino Hills	7
+2024-01-01T00:00:00	United States	Troy	6
+2024-01-01T00:00:00	United States	Cambridge	1
+2024-01-01T00:00:00	United States	San Jose	1
+2024-01-01T00:00:00	United States	San Bruno	5
+2024-01-01T00:00:00	United States	Portland	1
+2024-01-01T00:00:00	United States	Los Angeles	2
+2024-01-01T00:00:00	United States	Irvine	2
+2024-01-01T00:00:00	United States	Four Oaks	2
+2024-01-01T00:00:00	United States	Clarksville	2
+2024-01-01T00:00:00	United States	NULL	333
+2024-01-01T00:00:00	Canada	NULL	27
+2024-01-01T00:00:00	Germany	NULL	7
+2024-01-01T00:00:00	United Kingdom	NULL	4
+2024-01-01T00:00:00	China	NULL	12
+2024-01-01T00:00:00	Sweden	NULL	5
+2024-01-01T00:00:00	France	NULL	4
+2024-01-01T00:00:00	Singapore	NULL	4
+2024-01-01T00:00:00	India	NULL	3
+2024-01-01T00:00:00	Russia	NULL	3
+2024-01-01T00:00:00	Japan	NULL	2
+2024-01-01T00:00:00	Israel	NULL	2
+2024-01-01T00:00:00	Bangladesh	NULL	2
+2024-01-01T00:00:00	South Korea	NULL	2
+2024-01-01T00:00:00	Ireland	NULL	2
+2024-01-01T00:00:00	Iran	NULL	1
+2024-01-01T00:00:00	Åland	NULL	1
+2024-01-01T00:00:00	United Arab Emirates	NULL	1
+2024-01-01T00:00:00	United States	Boardman	1
+2024-01-01T00:00:00	United States	Seattle	1
+2024-01-01T00:00:00	United States	Austin	1
+2024-01-01T00:00:00	United States	Los Angeles	2
+2024-01-01T00:00:00	United States	Santa Barbara	1
+2024-01-01T00:00:00	United States	Pittsburgh	1
+2024-01-01T00:00:00	United States	Goleta	1
+2024-01-01T00:00:00	United States	San Diego	1
+2024-01-01T00:00:00	United States	Cambridge	1
+2024-01-01T00:00:00	United States	San Jose	1
+2024-01-01T00:00:00	United States	New York	1
+2024-01-01T00:00:00	United States	Rohnert Park	3
+2024-01-01T00:00:00	United States	San Francisco	1
+2024-01-01T00:00:00	United States	Ann Arbor	1
+2024-01-01T00:00:00	United States	Mountain View	1
+2024-01-01T00:00:00	United States	Chicago	1
+2024-01-01T00:00:00	United States	Oakland	1
+2024-01-01T00:00:00	United States	Stanford	1
+2024-01-01T00:00:00	United States	San Antonio	1
+2024-01-01T00:00:00	United States	Redondo Beach	1
+2024-01-01T00:00:00	United States	NULL	562
+2024-01-01T00:00:00	Germany	NULL	1
+2024-01-01T00:00:00	Germany	Darmstadt	1
+2024-01-01T00:00:00	Germany	Munich	1
+2024-01-01T00:00:00	Germany	Berlin	1
+2024-01-01T00:00:00	Germany	Dachau	1
+2024-01-01T00:00:00	Germany	Rüsselsheim	1
+2024-01-01T00:00:00	Germany	Nuremberg	1
+2024-01-01T00:00:00	Germany	Kusterdingen	1
+2024-01-01T00:00:00	Germany	NULL	20
+2024-01-01T00:00:00	Canada	Thornhill	3
+2024-01-01T00:00:00	Canada	Vancouver	1
+2024-01-01T00:00:00	Canada	Montreal	1
+2024-01-01T00:00:00	Canada	Edmonton	1
+2024-01-01T00:00:00	Canada	Beauharnois	1
+2024-01-01T00:00:00	Canada	Stittsville	1
+2024-01-01T00:00:00	Canada	Richmond Hill	1
+2024-01-01T00:00:00	Canada	Québec	1
+2024-01-01T00:00:00	Canada	Ottawa	1
+2024-01-01T00:00:00	Canada	London	1
+2024-01-01T00:00:00	Canada	NULL	11
+2024-01-01T00:00:00	United Kingdom	NULL	1
+2024-01-01T00:00:00	United Kingdom	Bradford	1
+2024-01-01T00:00:00	United Kingdom	Maidstone	1
+2024-01-01T00:00:00	United Kingdom	Hampstead	1
+2024-01-01T00:00:00	United Kingdom	Guildford	1
+2024-01-01T00:00:00	United Kingdom	Glasgow	1
+2024-01-01T00:00:00	United Kingdom	Croydon	1
+2024-01-01T00:00:00	United Kingdom	Cambridge	1
+2024-01-01T00:00:00	United Kingdom	NULL	9
+2024-01-01T00:00:00	China	NULL	1
+2024-01-01T00:00:00	China	Hongkou	1
+2024-01-01T00:00:00	China	Beijing	1
+2024-01-01T00:00:00	China	Shanghai	1
+2024-01-01T00:00:00	China	Shenzhen	1
+2024-01-01T00:00:00	China	Huzhou	1
+2024-01-01T00:00:00	China	NULL	11
+2024-01-01T00:00:00	India	NULL	1
+2024-01-01T00:00:00	India	Bangalore	1
+2024-01-01T00:00:00	India	Delhi	1
+2024-01-01T00:00:00	India	Hyderabad	1
+2024-01-01T00:00:00	India	Mumbai	1
+2024-01-01T00:00:00	India	Ahmedabad	1
+2024-01-01T00:00:00	India	NULL	9
+2024-01-01T00:00:00	Italy	NULL	4
+2024-01-01T00:00:00	Italy	Milan	1
+2024-01-01T00:00:00	Italy	Verona	2
+2024-01-01T00:00:00	Italy	Taranto	1
+2024-01-01T00:00:00	Singapore	Singapore	2
+2024-01-01T00:00:00	Singapore	NULL	1
+2024-01-01T00:00:00	Singapore	NULL	3
+2024-01-01T00:00:00	Russia	Moscow	1
+2024-01-01T00:00:00	Russia	NULL	1
+2024-01-01T00:00:00	Russia	Volosovo	1
+2024-01-01T00:00:00	Russia	Saint Petersburg	1
+2024-01-01T00:00:00	Russia	Omsk	1
+2024-01-01T00:00:00	Russia	Berezniki	1
+2024-01-01T00:00:00	Russia	Apatity	1
+2024-01-01T00:00:00	Russia	NULL	1
+2024-01-01T00:00:00	Russia	NULL	2
+2024-01-01T00:00:00	Czech Republic	Prague	1
+2024-01-01T00:00:00	Czech Republic	NULL	2
+2024-01-01T00:00:00	Czech Republic	Brno	1
+2024-01-01T00:00:00	Czech Republic	NULL	4
+2024-01-01T00:00:00	Australia	NULL	1
+2024-01-01T00:00:00	Australia	Sydney	1
+2024-01-01T00:00:00	Australia	Ormiston	1
+2024-01-01T00:00:00	Australia	Canberra	1
+2024-01-01T00:00:00	Australia	Auburn	1
+2024-01-01T00:00:00	Australia	NULL	3
+2024-01-01T00:00:00	Switzerland	NULL	1
+2024-01-01T00:00:00	Switzerland	Zurich	1
+2024-01-01T00:00:00	Switzerland	NULL	5
+2024-01-01T00:00:00	Spain	Obanos	2
+2024-01-01T00:00:00	Spain	Villaluenga	1
+2024-01-01T00:00:00	Spain	Santiago de Compostela	1
+2024-01-01T00:00:00	Spain	La Orotava	1
+2024-01-01T00:00:00	Spain	Barcelona	1
+2024-01-01T00:00:00	Spain	NULL	1
+2024-01-01T00:00:00	Sweden	NULL	1
+2024-01-01T00:00:00	Sweden	Stockholm	1
+2024-01-01T00:00:00	Sweden	Norrköping	1
+2024-01-01T00:00:00	Sweden	NULL	2
+2024-01-01T00:00:00	France	NULL	1
+2024-01-01T00:00:00	France	Saint-Emilion	1
+2024-01-01T00:00:00	France	Grigny	1
+2024-01-01T00:00:00	France	NULL	2
+2024-01-01T00:00:00	Japan	Tokyo	1
+2024-01-01T00:00:00	Japan	Setagaya-ku	1
+2024-01-01T00:00:00	Japan	Saitama	1
+2024-01-01T00:00:00	Japan	Kyoto	1
+2024-01-01T00:00:00	Japan	Edogawa-ku	1
+2024-01-01T00:00:00	Japan	NULL	1
+2024-01-01T00:00:00	Hong Kong	NULL	1
+2024-01-01T00:00:00	Hong Kong	Shatin	2
+2024-01-01T00:00:00	Hong Kong	Central	1
+2024-01-01T00:00:00	Hong Kong	NULL	1
+2024-01-01T00:00:00	Israel	Tel Aviv	1
+2024-01-01T00:00:00	Israel	NULL	1
+2024-01-01T00:00:00	Israel	NULL	3
+2024-01-01T00:00:00	Bangladesh	NULL	4
+2024-01-01T00:00:00	Ukraine	NULL	1
+2024-01-01T00:00:00	The Netherlands	Amsterdam	1
+2024-01-01T00:00:00	The Netherlands	NULL	1
+2024-01-01T00:00:00	The Netherlands	NULL	3
+2024-01-01T00:00:00	South Korea	Daegu	2
+2024-01-01T00:00:00	South Korea	Seoul	1
+2024-01-01T00:00:00	South Korea	Seongnam-si	1
+2024-01-01T00:00:00	South Korea	Seodaemun-gu	1
+2024-01-01T00:00:00	Ireland	NULL	1
+2024-01-01T00:00:00	Ireland	Galway	2
+2024-01-01T00:00:00	Ireland	NULL	1
+2024-01-01T00:00:00	Denmark	Copenhagen	2
+2024-01-01T00:00:00	Denmark	NULL	2
+2024-01-01T00:00:00	Philippines	NULL	2
+2024-01-01T00:00:00	Belgium	Ghent	1
+2024-01-01T00:00:00	Belgium	Brussels	1
+2024-01-01T00:00:00	Belgium	NULL	1
+2024-01-01T00:00:00	Taiwan	NULL	1
+2024-01-01T00:00:00	Vietnam	NULL	1
+2024-01-01T00:00:00	Sri Lanka	NULL	1
+2024-01-01T00:00:00	Romania	NULL	1
+2024-01-01T00:00:00	Portugal	NULL	1
+2024-01-01T00:00:00	Mexico	NULL	1
+2024-01-01T00:00:00	Kazakhstan	NULL	1
+2024-01-01T00:00:00	Greece	NULL	1
+2024-01-01T00:00:00	Brazil	NULL	1
+2024-01-01T00:00:00	United States	Boardman	1
+2024-01-01T00:00:00	United States	Mesa	3
+2024-01-01T00:00:00	United States	Seattle	1
+2024-01-01T00:00:00	United States	Santa Barbara	1
+2024-01-01T00:00:00	United States	Goleta	1
+2024-01-01T00:00:00	United States	Cambridge	1
+2024-01-01T00:00:00	United States	Stanford	1
+2024-01-01T00:00:00	United States	Pittsburgh	1
+2024-01-01T00:00:00	United States	New York	1
+2024-01-01T00:00:00	United States	Chicago	1
+2024-01-01T00:00:00	United States	St Louis	2
+2024-01-01T00:00:00	United States	Hazelwood	1
+2024-01-01T00:00:00	United States	San Jose	2
+2024-01-01T00:00:00	United States	Boulder	2
+2024-01-01T00:00:00	United States	Amherst	3
+2024-01-01T00:00:00	United States	Los Angeles	1
+2024-01-01T00:00:00	United States	Madison	2
+2024-01-01T00:00:00	United States	Ann Arbor	1
+2024-01-01T00:00:00	United States	Austin	1
+2024-01-01T00:00:00	United States	Tempe	1
+2024-01-01T00:00:00	United States	NULL	1025
+2024-01-01T00:00:00	India	Delhi	3
+2024-01-01T00:00:00	India	Ludhiana	4
+2024-01-01T00:00:00	India	Guwahati	4
+2024-01-01T00:00:00	India	Bangalore	2
+2024-01-01T00:00:00	India	Chennai	2
+2024-01-01T00:00:00	India	Mumbai	1
+2024-01-01T00:00:00	India	Kolkata	1
+2024-01-01T00:00:00	India	Hyderabad	1
+2024-01-01T00:00:00	India	Pune	2
+2024-01-01T00:00:00	India	New Delhi	2
+2024-01-01T00:00:00	India	NULL	23
+2024-01-01T00:00:00	Canada	Toronto	2
+2024-01-01T00:00:00	Canada	Vancouver	2
+2024-01-01T00:00:00	Canada	Edmonton	1
+2024-01-01T00:00:00	Canada	London	2
+2024-01-01T00:00:00	Canada	Surrey	1
+2024-01-01T00:00:00	Canada	Québec	1
+2024-01-01T00:00:00	Canada	Montreal	1
+2024-01-01T00:00:00	Canada	Kingston	1
+2024-01-01T00:00:00	Canada	Kamloops	1
+2024-01-01T00:00:00	Canada	Garden Bay	1
+2024-01-01T00:00:00	Canada	NULL	16
+2024-01-01T00:00:00	Russia	Moscow	1
+2024-01-01T00:00:00	Russia	Volosovo	1
+2024-01-01T00:00:00	Russia	Voronezh	1
+2024-01-01T00:00:00	Russia	Nizhniy Novgorod	1
+2024-01-01T00:00:00	Russia	Balakovo	1
+2024-01-01T00:00:00	Russia	Volgograd	1
+2024-01-01T00:00:00	Russia	Sukhoy Log	1
+2024-01-01T00:00:00	Russia	Saint Petersburg	1
+2024-01-01T00:00:00	Russia	Rostov-on-Don	1
+2024-01-01T00:00:00	Russia	Peschanka	1
+2024-01-01T00:00:00	Russia	NULL	23
+2024-01-01T00:00:00	Germany	NULL	1
+2024-01-01T00:00:00	Germany	Darmstadt	2
+2024-01-01T00:00:00	Germany	Heidelberg	1
+2024-01-01T00:00:00	Germany	Saarbrücken	1
+2024-01-01T00:00:00	Germany	Gundelfingen	1
+2024-01-01T00:00:00	Germany	Cochem	1
+2024-01-01T00:00:00	Germany	Aachen	1
+2024-01-01T00:00:00	Germany	NULL	12
+2024-01-01T00:00:00	China	NULL	1
+2024-01-01T00:00:00	China	Shanghai	1
+2024-01-01T00:00:00	China	Hongkou	1
+2024-01-01T00:00:00	China	Taiyuan	3
+2024-01-01T00:00:00	China	Quanzhou	1
+2024-01-01T00:00:00	China	Hangzhou	1
+2024-01-01T00:00:00	China	NULL	13
+2024-01-01T00:00:00	Hong Kong	NULL	3
+2024-01-01T00:00:00	Hong Kong	Kowloon	1
+2024-01-01T00:00:00	Hong Kong	Central	2
+2024-01-01T00:00:00	Hong Kong	NULL	2
+2024-01-01T00:00:00	Japan	Osaka	2
+2024-01-01T00:00:00	Japan	Yokohama	4
+2024-01-01T00:00:00	Japan	Shibuya	3
+2024-01-01T00:00:00	Japan	Meguro-ku	2
+2024-01-01T00:00:00	Japan	Tokyo	1
+2024-01-01T00:00:00	Japan	Sendai	1
+2024-01-01T00:00:00	South Korea	Seoul	1
+2024-01-01T00:00:00	South Korea	Seongnam-si	3
+2024-01-01T00:00:00	South Korea	Gwanak-gu	3
+2024-01-01T00:00:00	South Korea	Incheon	1
+2024-01-01T00:00:00	South Korea	Gyeonggi-do	1
+2024-01-01T00:00:00	South Korea	Daejeon	1
+2024-01-01T00:00:00	South Korea	Ansan-si	1
+2024-01-01T00:00:00	Bangladesh	Chittagong	1
+2024-01-01T00:00:00	Bangladesh	NULL	2
+2024-01-01T00:00:00	Bangladesh	Dhaka	1
+2024-01-01T00:00:00	Bangladesh	NULL	7
+2024-01-01T00:00:00	United Kingdom	Oxford	2
+2024-01-01T00:00:00	United Kingdom	NULL	1
+2024-01-01T00:00:00	United Kingdom	Hammersmith	2
+2024-01-01T00:00:00	United Kingdom	Newcastle upon Tyne	1
+2024-01-01T00:00:00	United Kingdom	Gillingham	1
+2024-01-01T00:00:00	United Kingdom	Dartford	1
+2024-01-01T00:00:00	United Kingdom	Bridge	1
+2024-01-01T00:00:00	The Netherlands	Amsterdam	1
+2024-01-01T00:00:00	The Netherlands	Utrecht	3
+2024-01-01T00:00:00	The Netherlands	Apeldoorn	3
+2024-01-01T00:00:00	The Netherlands	Groningen	1
+2024-01-01T00:00:00	The Netherlands	NULL	1
+2024-01-01T00:00:00	Australia	Sydney	1
+2024-01-01T00:00:00	Australia	Moonee Ponds	1
+2024-01-01T00:00:00	Australia	Preston	1
+2024-01-01T00:00:00	Australia	Paramatta	1
+2024-01-01T00:00:00	Australia	Brighton East	1
+2024-01-01T00:00:00	Australia	NULL	1
+2024-01-01T00:00:00	Australia	NULL	3
+2024-01-01T00:00:00	Ireland	Dublin	2
+2024-01-01T00:00:00	Ireland	Celbridge	4
+2024-01-01T00:00:00	Ireland	NULL	1
+2024-01-01T00:00:00	Vietnam	Ho Chi Minh City	2
+2024-01-01T00:00:00	Vietnam	Hanoi	2
+2024-01-01T00:00:00	Vietnam	NULL	1
+2024-01-01T00:00:00	Vietnam	NULL	1
+2024-01-01T00:00:00	France	NULL	1
+2024-01-01T00:00:00	France	Villepinte	2
+2024-01-01T00:00:00	France	Saint-Emilion	1
+2024-01-01T00:00:00	France	Paris	1
+2024-01-01T00:00:00	France	NULL	1
+2024-01-01T00:00:00	Singapore	Singapore	1
+2024-01-01T00:00:00	Singapore	NULL	2
+2024-01-01T00:00:00	Singapore	NULL	3
+2024-01-01T00:00:00	Italy	Perugia	2
+2024-01-01T00:00:00	Italy	Livorno	2
+2024-01-01T00:00:00	Italy	Turin	1
+2024-01-01T00:00:00	Italy	Rome	1
+2024-01-01T00:00:00	Portugal	Senhora da Hora	2
+2024-01-01T00:00:00	Portugal	Lisbon	1
+2024-01-01T00:00:00	Turkey	Istanbul	1
+2024-01-01T00:00:00	Turkey	Mersin	2
+2024-01-01T00:00:00	Iran	NULL	2
+2024-01-01T00:00:00	Chile	Rio Bueno	1
+2024-01-01T00:00:00	Chile	NULL	1
+2024-01-01T00:00:00	Chile	NULL	2
+2024-01-01T00:00:00	Brazil	Curitiba	2
+2024-01-01T00:00:00	Brazil	São Carlos	1
+2024-01-01T00:00:00	Brazil	Ponta Grossa	1
+2024-01-01T00:00:00	Belgium	NULL	2
+2024-01-01T00:00:00	Morocco	NULL	1
+2024-01-01T00:00:00	Denmark	NULL	1
+2024-01-01T00:00:00	Switzerland	Langnau am Albis	1
+2024-01-01T00:00:00	Switzerland	NULL	1
+2024-01-01T00:00:00	Mexico	Mexico City	1
+2024-01-01T00:00:00	Mexico	NULL	1
+2024-01-01T00:00:00	Colombia	Medellín	1
+2024-01-01T00:00:00	Colombia	NULL	1
+2024-01-01T00:00:00	Sweden	NULL	1
+2024-01-01T00:00:00	Lithuania	NULL	1
+2024-01-01T00:00:00	Ghana	NULL	1
+2024-01-01T00:00:00	Estonia	NULL	1
+2024-01-01T00:00:00	Benin	NULL	1
+2024-01-01T00:00:00	Argentina	NULL	1
+2024-01-01T00:00:00	Taiwan	NULL	1
+2024-01-01T00:00:00	Sri Lanka	NULL	1
+2024-01-01T00:00:00	Spain	NULL	1
+2024-01-01T00:00:00	Saudi Arabia	NULL	1
+2024-01-01T00:00:00	Qatar	NULL	1
+2024-01-01T00:00:00	Luxembourg	NULL	1
+2024-01-01T00:00:00	Indonesia	NULL	1
+2024-01-01T00:00:00	Iceland	NULL	1
+2024-01-01T00:00:00	Ethiopia	NULL	1
+2024-01-01T00:00:00	Bahrain	NULL	1
+2024-01-01T00:00:00	Austria	NULL	1
+2024-03-01T00:00:00	United States	Boardman	1
+2024-03-01T00:00:00	United States	Council Bluffs	1
+2024-03-01T00:00:00	United States	Ashburn	3
+2024-03-01T00:00:00	United States	Santa Barbara	1
+2024-03-01T00:00:00	United States	Cambridge	1
+2024-03-01T00:00:00	United States	Chicago	4
+2024-03-01T00:00:00	United States	Mountain View	1
+2024-03-01T00:00:00	United States	Seattle	1
+2024-03-01T00:00:00	United States	Los Angeles	1
+2024-03-01T00:00:00	United States	Goleta	1
+2024-03-01T00:00:00	United States	Ann Arbor	1
+2024-03-01T00:00:00	United States	Mesa	2
+2024-03-01T00:00:00	United States	San Francisco	1
+2024-03-01T00:00:00	United States	Pittsburgh	1
+2024-03-01T00:00:00	United States	New York	1
+2024-03-01T00:00:00	United States	San Antonio	1
+2024-03-01T00:00:00	United States	Minneapolis	2
+2024-03-01T00:00:00	United States	Highland	5
+2024-03-01T00:00:00	United States	Ventura	1
+2024-03-01T00:00:00	United States	Portland	1
+2024-03-01T00:00:00	United States	NULL	418
+2024-03-01T00:00:00	India	NULL	2
+2024-03-01T00:00:00	India	Kolkata	1
+2024-03-01T00:00:00	India	Delhi	1
+2024-03-01T00:00:00	India	Hyderabad	5
+2024-03-01T00:00:00	India	Bangalore	2
+2024-03-01T00:00:00	India	Secunderabad	1
+2024-03-01T00:00:00	India	NULL	15
+2024-03-01T00:00:00	Canada	NULL	1
+2024-03-01T00:00:00	Canada	Kingston	3
+2024-03-01T00:00:00	Canada	Vancouver	1
+2024-03-01T00:00:00	Canada	Toronto	1
+2024-03-01T00:00:00	Canada	Burnaby	3
+2024-03-01T00:00:00	Canada	Stirling	1
+2024-03-01T00:00:00	Canada	North Vancouver	1
+2024-03-01T00:00:00	Canada	Brampton	1
+2024-03-01T00:00:00	Canada	Beauharnois	1
+2024-03-01T00:00:00	Canada	NULL	6
+2024-03-01T00:00:00	Germany	NULL	1
+2024-03-01T00:00:00	Germany	Darmstadt	1
+2024-03-01T00:00:00	Germany	Munich	3
+2024-03-01T00:00:00	Germany	Bonn	3
+2024-03-01T00:00:00	Germany	Sindelfingen	2
+2024-03-01T00:00:00	Germany	Heidelberg	2
+2024-03-01T00:00:00	Germany	Frankfurt am Main	1
+2024-03-01T00:00:00	Germany	Berlin	1
+2024-03-01T00:00:00	Germany	NULL	1
+2024-03-01T00:00:00	Japan	Osaka	2
+2024-03-01T00:00:00	Japan	NULL	1
+2024-03-01T00:00:00	Japan	Taito	2
+2024-03-01T00:00:00	Japan	Setagaya-ku	1
+2024-03-01T00:00:00	Japan	NULL	5
+2024-03-01T00:00:00	Russia	NULL	2
+2024-03-01T00:00:00	Russia	Moscow	1
+2024-03-01T00:00:00	Russia	Voronezh	1
+2024-03-01T00:00:00	Russia	Volosovo	1
+2024-03-01T00:00:00	Russia	Saratov	1
+2024-03-01T00:00:00	Russia	Peschanka	1
+2024-03-01T00:00:00	Russia	Omsk	1
+2024-03-01T00:00:00	Russia	Nizhniy Novgorod	1
+2024-03-01T00:00:00	Russia	Gatchina	1
+2024-03-01T00:00:00	Russia	NULL	1
+2024-03-01T00:00:00	Russia	NULL	2
+2024-03-01T00:00:00	South Korea	Seoul	1
+2024-03-01T00:00:00	South Korea	Seongnam-si	1
+2024-03-01T00:00:00	South Korea	NULL	1
+2024-03-01T00:00:00	South Korea	Daejeon	2
+2024-03-01T00:00:00	South Korea	NULL	3
+2024-03-01T00:00:00	France	NULL	1
+2024-03-01T00:00:00	France	Saint-Emilion	2
+2024-03-01T00:00:00	France	Choignes	1
+2024-03-01T00:00:00	France	NULL	2
+2024-03-01T00:00:00	Turkey	Magnesia ad Sipylum	4
+2024-03-01T00:00:00	Turkey	Eskişehir	4
+2024-03-01T00:00:00	Turkey	Istanbul	1
+2024-03-01T00:00:00	Turkey	NULL	1
+2024-03-01T00:00:00	United Kingdom	NULL	1
+2024-03-01T00:00:00	United Kingdom	Cambridge	1
+2024-03-01T00:00:00	United Kingdom	Leeds	2
+2024-03-01T00:00:00	United Kingdom	Tottenham	1
+2024-03-01T00:00:00	United Kingdom	NULL	3
+2024-03-01T00:00:00	China	NULL	1
+2024-03-01T00:00:00	China	Shanghai	1
+2024-03-01T00:00:00	China	Hongkou	1
+2024-03-01T00:00:00	China	Taizhou	1
+2024-03-01T00:00:00	China	Chengdu	1
+2024-03-01T00:00:00	China	NULL	4
+2024-03-01T00:00:00	Switzerland	Zurich	2
+2024-03-01T00:00:00	Switzerland	NULL	3
+2024-03-01T00:00:00	The Netherlands	Boxtel	2
+2024-03-01T00:00:00	The Netherlands	NULL	2
+2024-03-01T00:00:00	The Netherlands	Tilburg	1
+2024-03-01T00:00:00	The Netherlands	Amsterdam	1
+2024-03-01T00:00:00	Singapore	Singapore	2
+2024-03-01T00:00:00	Singapore	NULL	1
+2024-03-01T00:00:00	Singapore	NULL	1
+2024-03-01T00:00:00	Vietnam	Quảng Ngãi	3
+2024-03-01T00:00:00	Vietnam	Ho Chi Minh City	2
+2024-03-01T00:00:00	Vietnam	Hanoi	1
+2024-03-01T00:00:00	Saudi Arabia	Jeddah	1
+2024-03-01T00:00:00	Saudi Arabia	NULL	1
+2024-03-01T00:00:00	Saudi Arabia	NULL	2
+2024-03-01T00:00:00	Cuba	NULL	3
+2024-03-01T00:00:00	Italy	Verona	1
+2024-03-01T00:00:00	Italy	Milan	1
+2024-03-01T00:00:00	Italy	NULL	1
+2024-03-01T00:00:00	Iran	Tiran	1
+2024-03-01T00:00:00	Iran	NULL	1
+2024-03-01T00:00:00	Iran	NULL	1
+2024-03-01T00:00:00	Cambodia	NULL	3
+2024-03-01T00:00:00	Hong Kong	NULL	2
+2024-03-01T00:00:00	Hong Kong	Central	1
+2024-03-01T00:00:00	Ireland	NULL	1
+2024-03-01T00:00:00	United Arab Emirates	Abu Dhabi	1
+2024-03-01T00:00:00	United Arab Emirates	NULL	1
+2024-03-01T00:00:00	Thailand	NULL	2
+2024-03-01T00:00:00	Norway	NULL	1
+2024-03-01T00:00:00	Mexico	NULL	1
+2024-03-01T00:00:00	Egypt	NULL	1
+2024-03-01T00:00:00	Bangladesh	NULL	1
+2024-03-01T00:00:00	Australia	NULL	1
+2024-03-01T00:00:00	Taiwan	NULL	1
+2024-03-01T00:00:00	Serbia	NULL	1
+2024-03-01T00:00:00	Nigeria	NULL	1
+2024-03-01T00:00:00	Israel	NULL	1
+2024-03-01T00:00:00	Greece	NULL	1
+2024-03-01T00:00:00	Ethiopia	NULL	1
+2024-03-01T00:00:00	Brazil	NULL	1
+2024-03-01T00:00:00	Armenia	NULL	1
+2024-03-01T00:00:00	United States	Santa Barbara	1
+2024-03-01T00:00:00	United States	Boardman	1
+2024-03-01T00:00:00	United States	College Park	3
+2024-03-01T00:00:00	United States	Goleta	1
+2024-03-01T00:00:00	United States	Washington	1
+2024-03-01T00:00:00	United States	Ashburn	5
+2024-03-01T00:00:00	United States	Baltimore	1
+2024-03-01T00:00:00	United States	Pittsburgh	1
+2024-03-01T00:00:00	United States	Seattle	1
+2024-03-01T00:00:00	United States	Halethorpe	2
+2024-03-01T00:00:00	United States	Bristow	1
+2024-03-01T00:00:00	United States	Council Bluffs	1
+2024-03-01T00:00:00	United States	New York	1
+2024-03-01T00:00:00	United States	Chicago	1
+2024-03-01T00:00:00	United States	Cambridge	1
+2024-03-01T00:00:00	United States	Falls Church	2
+2024-03-01T00:00:00	United States	San Francisco	6
+2024-03-01T00:00:00	United States	Ann Arbor	1
+2024-03-01T00:00:00	United States	San Jose	1
+2024-03-01T00:00:00	United States	Mountain View	1
+2024-03-01T00:00:00	United States	NULL	404
+2024-03-01T00:00:00	Iran	NULL	1
+2024-03-01T00:00:00	Iran	Gostar	2
+2024-03-01T00:00:00	Iran	Tiran	1
+2024-03-01T00:00:00	Iran	Tabriz	1
+2024-03-01T00:00:00	Iran	NULL	17
+2024-03-01T00:00:00	India	NULL	1
+2024-03-01T00:00:00	India	Delhi	3
+2024-03-01T00:00:00	India	Gurgaon	1
+2024-03-01T00:00:00	India	New Delhi	1
+2024-03-01T00:00:00	India	Mumbai	1
+2024-03-01T00:00:00	India	NULL	7
+2024-03-01T00:00:00	Singapore	Singapore	1
+2024-03-01T00:00:00	Singapore	NULL	1
+2024-03-01T00:00:00	Singapore	NULL	9
+2024-03-01T00:00:00	Canada	NULL	1
+2024-03-01T00:00:00	Canada	Montreal	1
+2024-03-01T00:00:00	Canada	Victoria	1
+2024-03-01T00:00:00	Canada	Vancouver	1
+2024-03-01T00:00:00	Canada	Ottawa	1
+2024-03-01T00:00:00	Canada	Gatineau	1
+2024-03-01T00:00:00	Canada	NULL	4
+2024-03-01T00:00:00	Germany	NULL	8
+2024-03-01T00:00:00	China	Hongkou	1
+2024-03-01T00:00:00	China	NULL	1
+2024-03-01T00:00:00	China	Shanghai	1
+2024-03-01T00:00:00	China	NULL	5
+2024-03-01T00:00:00	United Kingdom	NULL	1
+2024-03-01T00:00:00	United Kingdom	London	1
+2024-03-01T00:00:00	United Kingdom	Bristol	1
+2024-03-01T00:00:00	United Kingdom	Bridge	1
+2024-03-01T00:00:00	United Kingdom	NULL	3
+2024-03-01T00:00:00	Belgium	Leuven	1
+2024-03-01T00:00:00	Belgium	Brussels	1
+2024-03-01T00:00:00	Belgium	NULL	3
+2024-03-01T00:00:00	South Korea	Yeongdeungpo-gu	1
+2024-03-01T00:00:00	South Korea	Daejeon	2
+2024-03-01T00:00:00	South Korea	NULL	2
+2024-03-01T00:00:00	Bangladesh	Mirpur	2
+2024-03-01T00:00:00	Bangladesh	Dhaka	1
+2024-03-01T00:00:00	Bangladesh	Chittagong	1
+2024-03-01T00:00:00	Bangladesh	NULL	1
+2024-03-01T00:00:00	Russia	NULL	1
+2024-03-01T00:00:00	Russia	Moscow	1
+2024-03-01T00:00:00	Russia	Balakovo	1
+2024-03-01T00:00:00	Russia	NULL	1
+2024-03-01T00:00:00	Cambodia	Phnom Penh	1
+2024-03-01T00:00:00	Cambodia	Bavet	1
+2024-03-01T00:00:00	Cambodia	NULL	2
+2024-03-01T00:00:00	Japan	Tokyo	1
+2024-03-01T00:00:00	Japan	Minamikyushu	1
+2024-03-01T00:00:00	Japan	NULL	1
+2024-03-01T00:00:00	Hong Kong	Kwai Chung	1
+2024-03-01T00:00:00	Hong Kong	Central	1
+2024-03-01T00:00:00	Hong Kong	NULL	1
+2024-03-01T00:00:00	Taiwan	NULL	2
+2024-03-01T00:00:00	Taiwan	Pingtung	1
+2024-03-01T00:00:00	Switzerland	NULL	2
+2024-03-01T00:00:00	South Africa	NULL	1
+2024-03-01T00:00:00	Greece	NULL	2
+2024-03-01T00:00:00	Vietnam	NULL	1
+2024-03-01T00:00:00	Mexico	NULL	1
+2024-03-01T00:00:00	Turkey	NULL	1
+2024-03-01T00:00:00	Thailand	NULL	1
+2024-03-01T00:00:00	Sweden	NULL	1
+2024-03-01T00:00:00	Romania	NULL	1
+2024-03-01T00:00:00	Moldova	NULL	1
+2024-03-01T00:00:00	Malaysia	NULL	1
+2024-03-01T00:00:00	Italy	NULL	1
+2024-03-01T00:00:00	Israel	NULL	1
+2024-03-01T00:00:00	Ireland	NULL	1
+2024-03-01T00:00:00	Australia	NULL	1
+2024-07-01T00:00:00	United States	Boardman	1
+2024-07-01T00:00:00	United States	Santa Barbara	1
+2024-07-01T00:00:00	United States	College Park	2
+2024-07-01T00:00:00	United States	Seattle	1
+2024-07-01T00:00:00	United States	Greenbelt	2
+2024-07-01T00:00:00	United States	San Francisco	1
+2024-07-01T00:00:00	United States	Stanford	1
+2024-07-01T00:00:00	United States	Clarksburg	3
+2024-07-01T00:00:00	United States	Redmond	2
+2024-07-01T00:00:00	United States	Goleta	1
+2024-07-01T00:00:00	United States	Ashburn	1
+2024-07-01T00:00:00	United States	Ann Arbor	1
+2024-07-01T00:00:00	United States	Mountain View	1
+2024-07-01T00:00:00	United States	Cambridge	1
+2024-07-01T00:00:00	United States	Washington	1
+2024-07-01T00:00:00	United States	Everett	1
+2024-07-01T00:00:00	United States	Belmont	1
+2024-07-01T00:00:00	United States	Baltimore	1
+2024-07-01T00:00:00	United States	Albuquerque	1
+2024-07-01T00:00:00	United States	Four Oaks	1
+2024-07-01T00:00:00	United States	NULL	384
+2024-07-01T00:00:00	Iran	NULL	1
+2024-07-01T00:00:00	Iran	Tehran	1
+2024-07-01T00:00:00	Iran	Tabriz	1
+2024-07-01T00:00:00	Iran	Sabz	1
+2024-07-01T00:00:00	Iran	NULL	28
+2024-07-01T00:00:00	Mexico	"""Colonia Mexico"""	3
+2024-07-01T00:00:00	Mexico	Mexico City	1
+2024-07-01T00:00:00	Mexico	Toluca	1
+2024-07-01T00:00:00	Mexico	NULL	1
+2024-07-01T00:00:00	Mexico	Monterrey	2
+2024-07-01T00:00:00	Mexico	Culiacán	1
+2024-07-01T00:00:00	Mexico	NULL	8
+2024-07-01T00:00:00	India	NULL	1
+2024-07-01T00:00:00	India	Chennai	1
+2024-07-01T00:00:00	India	Virar	1
+2024-07-01T00:00:00	India	Raipur	1
+2024-07-01T00:00:00	India	Pune	1
+2024-07-01T00:00:00	India	New Delhi	1
+2024-07-01T00:00:00	India	NULL	14
+2024-07-01T00:00:00	Russia	Moscow	1
+2024-07-01T00:00:00	Russia	Rostov-on-Don	1
+2024-07-01T00:00:00	Russia	Perm	1
+2024-07-01T00:00:00	Russia	Gatchina	1
+2024-07-01T00:00:00	Russia	Balakovo	1
+2024-07-01T00:00:00	Russia	Volosovo	1
+2024-07-01T00:00:00	Russia	Peschanka	1
+2024-07-01T00:00:00	Russia	Omsk	1
+2024-07-01T00:00:00	Russia	Kunashak	1
+2024-07-01T00:00:00	Russia	NULL	14
+2024-07-01T00:00:00	United Kingdom	NULL	1
+2024-07-01T00:00:00	United Kingdom	Reading	3
+2024-07-01T00:00:00	United Kingdom	Glasgow	2
+2024-07-01T00:00:00	United Kingdom	Northwich	1
+2024-07-01T00:00:00	United Kingdom	London	1
+2024-07-01T00:00:00	United Kingdom	Coventry	1
+2024-07-01T00:00:00	United Kingdom	Canterbury	1
+2024-07-01T00:00:00	United Kingdom	Bridge	1
+2024-07-01T00:00:00	United Kingdom	NULL	4
+2024-07-01T00:00:00	Germany	NULL	1
+2024-07-01T00:00:00	Germany	Frankfurt am Main	1
+2024-07-01T00:00:00	Germany	Saarbrücken	3
+2024-07-01T00:00:00	Germany	Sylt-Ost	1
+2024-07-01T00:00:00	Germany	Remscheid	1
+2024-07-01T00:00:00	Germany	Ingolstadt	1
+2024-07-01T00:00:00	Germany	Dortmund	1
+2024-07-01T00:00:00	Germany	Cologne	1
+2024-07-01T00:00:00	Germany	NULL	4
+2024-07-01T00:00:00	Canada	NULL	1
+2024-07-01T00:00:00	Canada	Toronto	1
+2024-07-01T00:00:00	Canada	Sherbrooke	1
+2024-07-01T00:00:00	Canada	Jonquiere	1
+2024-07-01T00:00:00	Canada	Brampton	1
+2024-07-01T00:00:00	Canada	Beauharnois	1
+2024-07-01T00:00:00	Canada	NULL	3
+2024-07-01T00:00:00	Australia	NULL	1
+2024-07-01T00:00:00	Australia	Sydney	2
+2024-07-01T00:00:00	Australia	Melbourne	2
+2024-07-01T00:00:00	Australia	Traralgon	1
+2024-07-01T00:00:00	Australia	Strathalbyn	1
+2024-07-01T00:00:00	South Korea	Yongsan-dong	3
+2024-07-01T00:00:00	South Korea	Yeongdeungpo-gu	3
+2024-07-01T00:00:00	South Korea	Yeongdeungpo-dong	2
+2024-07-01T00:00:00	Cambodia	Phnom Penh	1
+2024-07-01T00:00:00	Cambodia	Bavet	1
+2024-07-01T00:00:00	Cambodia	NULL	3
+2024-07-01T00:00:00	Sweden	NULL	3
+2024-07-01T00:00:00	Sweden	Kalmar	1
+2024-07-01T00:00:00	Sweden	Jönköping	1
+2024-07-01T00:00:00	Singapore	Singapore	1
+2024-07-01T00:00:00	Singapore	Jurong West New Town	1
+2024-07-01T00:00:00	Singapore	NULL	1
+2024-07-01T00:00:00	Italy	NULL	1
+2024-07-01T00:00:00	Italy	Milan	1
+2024-07-01T00:00:00	Italy	NULL	1
+2024-07-01T00:00:00	Taiwan	NULL	3
+2024-07-01T00:00:00	Indonesia	Patam	1
+2024-07-01T00:00:00	Indonesia	Jakarta	1
+2024-07-01T00:00:00	Indonesia	NULL	1
+2024-07-01T00:00:00	France	NULL	1
+2024-07-01T00:00:00	France	Claye-Souilly	1
+2024-07-01T00:00:00	France	NULL	1
+2024-07-01T00:00:00	China	NULL	1
+2024-07-01T00:00:00	China	Hongkou	1
+2024-07-01T00:00:00	China	NULL	1
+2024-07-01T00:00:00	The Netherlands	NULL	3
+2024-07-01T00:00:00	Japan	NULL	2
+2024-07-01T00:00:00	Japan	Setagaya-ku	1
+2024-07-01T00:00:00	Turkey	NULL	1
+2024-07-01T00:00:00	Nigeria	NULL	1
+2024-07-01T00:00:00	Israel	NULL	1
+2024-07-01T00:00:00	Denmark	NULL	1
+2024-07-01T00:00:00	Brazil	NULL	1
+2024-07-01T00:00:00	Spain	NULL	1
+2024-07-01T00:00:00	Saudi Arabia	NULL	1
+2024-07-01T00:00:00	Romania	NULL	1
+2024-07-01T00:00:00	Puerto Rico	NULL	1
+2024-07-01T00:00:00	Latvia	NULL	1
+2024-07-01T00:00:00	Kyrgyzstan	NULL	1
+2024-07-01T00:00:00	Hungary	NULL	1
+2024-07-01T00:00:00	Hong Kong	NULL	1
+2024-07-01T00:00:00	Hashemite Kingdom of Jordan	NULL	1
+2024-07-01T00:00:00	British Virgin Islands	NULL	1
+2024-09-01T00:00:00	United States	Bellevue	161
+2024-09-01T00:00:00	United States	Everett	147
+2024-09-01T00:00:00	United States	Boardman	1
+2024-09-01T00:00:00	United States	Seattle	1
+2024-09-01T00:00:00	United States	Burlingame	1
+2024-09-01T00:00:00	United States	Oceanside	1
+2024-09-01T00:00:00	United States	Stanford	1
+2024-09-01T00:00:00	United States	Wauchula	1
+2024-09-01T00:00:00	United States	Santa Barbara	1
+2024-09-01T00:00:00	United States	San Jose	1
+2024-09-01T00:00:00	United States	Frisco	1
+2024-09-01T00:00:00	United States	Cambridge	1
+2024-09-01T00:00:00	United States	New York	1
+2024-09-01T00:00:00	United States	Redmond	1
+2024-09-01T00:00:00	United States	Santa Clara	1
+2024-09-01T00:00:00	United States	Redwood City	2
+2024-09-01T00:00:00	United States	Salt Lake City	1
+2024-09-01T00:00:00	United States	Castro Valley	1
+2024-09-01T00:00:00	United States	New Brunswick	2
+2024-09-01T00:00:00	United States	Amherst	2
+2024-09-01T00:00:00	United States	NULL	140
+2024-09-01T00:00:00	Germany	NULL	1
+2024-09-01T00:00:00	Germany	Zweibrücken	2
+2024-09-01T00:00:00	Germany	Leipzig	2
+2024-09-01T00:00:00	Germany	Idstein	1
+2024-09-01T00:00:00	Germany	Heidelberg	1
+2024-09-01T00:00:00	Germany	NULL	18
+2024-09-01T00:00:00	India	NULL	1
+2024-09-01T00:00:00	India	New Delhi	3
+2024-09-01T00:00:00	India	Kollam	1
+2024-09-01T00:00:00	India	Hyderabad	1
+2024-09-01T00:00:00	India	Vellore	1
+2024-09-01T00:00:00	India	Lucknow	1
+2024-09-01T00:00:00	India	Chennai	1
+2024-09-01T00:00:00	India	Bilaspur	1
+2024-09-01T00:00:00	India	NULL	9
+2024-09-01T00:00:00	United Kingdom	Birmingham	1
+2024-09-01T00:00:00	United Kingdom	Cambridge	3
+2024-09-01T00:00:00	United Kingdom	Walsall	2
+2024-09-01T00:00:00	United Kingdom	Oxford	2
+2024-09-01T00:00:00	United Kingdom	Stourbridge	1
+2024-09-01T00:00:00	United Kingdom	Stockport	1
+2024-09-01T00:00:00	United Kingdom	Sheerness	1
+2024-09-01T00:00:00	United Kingdom	Reading	1
+2024-09-01T00:00:00	United Kingdom	Pinner	1
+2024-09-01T00:00:00	United Kingdom	London	1
+2024-09-01T00:00:00	United Kingdom	NULL	8
+2024-09-01T00:00:00	Canada	NULL	1
+2024-09-01T00:00:00	Canada	Montreal	1
+2024-09-01T00:00:00	Canada	Toronto	2
+2024-09-01T00:00:00	Canada	Laval	1
+2024-09-01T00:00:00	Canada	Oshawa	3
+2024-09-01T00:00:00	Canada	Grimsby	1
+2024-09-01T00:00:00	Canada	Beauharnois	1
+2024-09-01T00:00:00	Canada	NULL	7
+2024-09-01T00:00:00	Singapore	Singapore	1
+2024-09-01T00:00:00	Singapore	NULL	1
+2024-09-01T00:00:00	Singapore	NULL	15
+2024-09-01T00:00:00	Iran	NULL	1
+2024-09-01T00:00:00	Iran	Tehran	2
+2024-09-01T00:00:00	Iran	Zanjan	1
+2024-09-01T00:00:00	Iran	Peshgoman	1
+2024-09-01T00:00:00	Iran	NULL	9
+2024-09-01T00:00:00	Russia	Moscow	1
+2024-09-01T00:00:00	Russia	NULL	1
+2024-09-01T00:00:00	Russia	Yekaterinburg	1
+2024-09-01T00:00:00	Russia	Voronezh	1
+2024-09-01T00:00:00	Russia	Rostov-on-Don	1
+2024-09-01T00:00:00	Russia	Perm	1
+2024-09-01T00:00:00	Russia	Nizhniy Novgorod	1
+2024-09-01T00:00:00	Russia	Chaykovskiy	1
+2024-09-01T00:00:00	Russia	Balakovo	1
+2024-09-01T00:00:00	Russia	NULL	3
+2024-09-01T00:00:00	China	NULL	1
+2024-09-01T00:00:00	China	Shenzhen	1
+2024-09-01T00:00:00	China	Guangzhou	1
+2024-09-01T00:00:00	China	Beijing	1
+2024-09-01T00:00:00	China	NULL	3
+2024-09-01T00:00:00	Taiwan	NULL	6
+2024-09-01T00:00:00	Hong Kong	Central District	1
+2024-09-01T00:00:00	Hong Kong	Kowloon	1
+2024-09-01T00:00:00	Hong Kong	Central	1
+2024-09-01T00:00:00	Hong Kong	NULL	1
+2024-09-01T00:00:00	Bangladesh	NULL	3
+2024-09-01T00:00:00	Bangladesh	Dhaka	1
+2024-09-01T00:00:00	Greece	Athens	4
+2024-09-01T00:00:00	Greece	Komotini	1
+2024-09-01T00:00:00	Denmark	NULL	2
+2024-09-01T00:00:00	Switzerland	NULL	3
+2024-09-01T00:00:00	Turkey	Istanbul	2
+2024-09-01T00:00:00	Turkey	NULL	2
+2024-09-01T00:00:00	Nigeria	NULL	1
+2024-09-01T00:00:00	Nigeria	Suleja	1
+2024-09-01T00:00:00	Nigeria	NULL	1
+2024-09-01T00:00:00	Poland	NULL	2
+2024-09-01T00:00:00	Poland	Warsaw	1
+2024-09-01T00:00:00	United Arab Emirates	NULL	2
+2024-09-01T00:00:00	Japan	Tokyo	1
+2024-09-01T00:00:00	Japan	Heiwajima	1
+2024-09-01T00:00:00	Egypt	Alexandria	1
+2024-09-01T00:00:00	Egypt	NULL	1
+2024-09-01T00:00:00	Åland	NULL	1
+2024-09-01T00:00:00	The Netherlands	NULL	1
+2024-09-01T00:00:00	Uruguay	NULL	1
+2024-09-01T00:00:00	Sweden	NULL	1
+2024-09-01T00:00:00	Spain	NULL	1
+2024-09-01T00:00:00	Moldova	NULL	1
+2024-09-01T00:00:00	South Korea	NULL	1
+2024-09-01T00:00:00	Pakistan	NULL	1
+2024-09-01T00:00:00	Kazakhstan	NULL	1
+2024-09-01T00:00:00	Italy	NULL	1
+2024-09-01T00:00:00	Ireland	NULL	1
+2024-09-01T00:00:00	Indonesia	NULL	1
+2024-09-01T00:00:00	Georgia	NULL	1
+2024-09-01T00:00:00	France	NULL	1
+2024-09-01T00:00:00	Finland	NULL	1
+2024-09-01T00:00:00	Czech Republic	NULL	1
+2024-09-01T00:00:00	Belgium	NULL	1
+2024-09-01T00:00:00	Bahrain	NULL	1
+2024-09-01T00:00:00	Azerbaijan	NULL	1
+2024-09-01T00:00:00	Australia	NULL	1
+2024-09-01T00:00:00	United States	Amherst	2
+2024-09-01T00:00:00	United States	Seattle	3
+2024-09-01T00:00:00	United States	Boardman	1
+2024-09-01T00:00:00	United States	Austin	2
+2024-09-01T00:00:00	United States	Santa Barbara	1
+2024-09-01T00:00:00	United States	Houston	2
+2024-09-01T00:00:00	United States	State College	2
+2024-09-01T00:00:00	United States	Goleta	1
+2024-09-01T00:00:00	United States	San Jose	1
+2024-09-01T00:00:00	United States	Lynnwood	6
+2024-09-01T00:00:00	United States	Pittsburgh	1
+2024-09-01T00:00:00	United States	Cambridge	1
+2024-09-01T00:00:00	United States	Ashburn	1
+2024-09-01T00:00:00	United States	Los Angeles	1
+2024-09-01T00:00:00	United States	Des Moines	1
+2024-09-01T00:00:00	United States	Chicago	1
+2024-09-01T00:00:00	United States	San Francisco	2
+2024-09-01T00:00:00	United States	Redmond	1
+2024-09-01T00:00:00	United States	Boulder	1
+2024-09-01T00:00:00	United States	New York	1
+2024-09-01T00:00:00	United States	NULL	774
+2024-09-01T00:00:00	Iran	NULL	1
+2024-09-01T00:00:00	Iran	Tehran	3
+2024-09-01T00:00:00	Iran	Gostar	1
+2024-09-01T00:00:00	Iran	NULL	25
+2024-09-01T00:00:00	United Kingdom	Leeds	4
+2024-09-01T00:00:00	United Kingdom	Bridge	5
+2024-09-01T00:00:00	United Kingdom	Birmingham	1
+2024-09-01T00:00:00	United Kingdom	London	2
+2024-09-01T00:00:00	United Kingdom	Barnsley	2
+2024-09-01T00:00:00	United Kingdom	Ashford	2
+2024-09-01T00:00:00	United Kingdom	Redhill	1
+2024-09-01T00:00:00	United Kingdom	Newcastle upon Tyne	1
+2024-09-01T00:00:00	United Kingdom	Edinburgh	1
+2024-09-01T00:00:00	United Kingdom	Bath	1
+2024-09-01T00:00:00	Germany	NULL	2
+2024-09-01T00:00:00	Germany	Leipzig	2
+2024-09-01T00:00:00	Germany	Saarbrücken	1
+2024-09-01T00:00:00	Germany	Aachen	1
+2024-09-01T00:00:00	Germany	Tübingen	1
+2024-09-01T00:00:00	Germany	Osterburg	1
+2024-09-01T00:00:00	Germany	Heidelberg	1
+2024-09-01T00:00:00	Germany	Frankfurt am Main	1
+2024-09-01T00:00:00	Germany	NULL	8
+2024-09-01T00:00:00	Canada	NULL	1
+2024-09-01T00:00:00	Canada	Scarborough	2
+2024-09-01T00:00:00	Canada	Vancouver	1
+2024-09-01T00:00:00	Canada	Toronto	1
+2024-09-01T00:00:00	Canada	Sault Ste. Marie	1
+2024-09-01T00:00:00	Canada	Montreal	1
+2024-09-01T00:00:00	Canada	Laval	1
+2024-09-01T00:00:00	Canada	Edmonton	1
+2024-09-01T00:00:00	Canada	Beauharnois	1
+2024-09-01T00:00:00	Canada	NULL	9
+2024-09-01T00:00:00	Russia	NULL	1
+2024-09-01T00:00:00	Russia	Moscow	1
+2024-09-01T00:00:00	Russia	Rostov-on-Don	1
+2024-09-01T00:00:00	Russia	Yekaterinburg	1
+2024-09-01T00:00:00	Russia	Voronezh	1
+2024-09-01T00:00:00	Russia	Perm	1
+2024-09-01T00:00:00	Russia	Omsk	1
+2024-09-01T00:00:00	Russia	Gatchina	1
+2024-09-01T00:00:00	Russia	NULL	1
+2024-09-01T00:00:00	Russia	NULL	10
+2024-09-01T00:00:00	India	NULL	1
+2024-09-01T00:00:00	India	Hyderabad	1
+2024-09-01T00:00:00	India	Jaipur	2
+2024-09-01T00:00:00	India	Delhi	2
+2024-09-01T00:00:00	India	Kolkata	1
+2024-09-01T00:00:00	India	Kanpur	1
+2024-09-01T00:00:00	India	NULL	3
+2024-09-01T00:00:00	China	Hongkou	1
+2024-09-01T00:00:00	China	Hangzhou	1
+2024-09-01T00:00:00	China	Shanghai	1
+2024-09-01T00:00:00	China	Wuhan	2
+2024-09-01T00:00:00	China	NULL	1
+2024-09-01T00:00:00	China	NULL	4
+2024-09-01T00:00:00	Australia	NULL	1
+2024-09-01T00:00:00	Australia	Moonee Ponds	1
+2024-09-01T00:00:00	Australia	Melbourne	1
+2024-09-01T00:00:00	Australia	Sydney	1
+2024-09-01T00:00:00	Australia	NULL	5
+2024-09-01T00:00:00	Switzerland	NULL	1
+2024-09-01T00:00:00	Switzerland	Lausanne	1
+2024-09-01T00:00:00	Switzerland	NULL	4
+2024-09-01T00:00:00	Singapore	NULL	5
+2024-09-01T00:00:00	Turkey	NULL	1
+2024-09-01T00:00:00	Turkey	Mersin	1
+2024-09-01T00:00:00	Turkey	Ankara	1
+2024-09-01T00:00:00	Turkey	NULL	1
+2024-09-01T00:00:00	South Korea	Seoul	1
+2024-09-01T00:00:00	South Korea	Seo-gu	1
+2024-09-01T00:00:00	South Korea	Incheon	1
+2024-09-01T00:00:00	South Korea	NULL	1
+2024-09-01T00:00:00	Sweden	NULL	1
+2024-09-01T00:00:00	Sweden	Tavelsjo	1
+2024-09-01T00:00:00	Sweden	Hudiksvall	1
+2024-09-01T00:00:00	Sweden	NULL	1
+2024-09-01T00:00:00	Bulgaria	Sofia	1
+2024-09-01T00:00:00	Bulgaria	NULL	1
+2024-09-01T00:00:00	Bulgaria	NULL	2
+2024-09-01T00:00:00	Spain	NULL	3
+2024-09-01T00:00:00	Japan	NULL	2
+2024-09-01T00:00:00	Hong Kong	NULL	1
+2024-09-01T00:00:00	Hong Kong	Central	1
+2024-09-01T00:00:00	Hong Kong	NULL	1
+2024-09-01T00:00:00	Bangladesh	Dhaka	1
+2024-09-01T00:00:00	Bangladesh	Sylhet	1
+2024-09-01T00:00:00	Bangladesh	NULL	1
+2024-09-01T00:00:00	Qatar	NULL	1
+2024-09-01T00:00:00	Vietnam	Hanoi	1
+2024-09-01T00:00:00	Vietnam	NULL	1
+2024-09-01T00:00:00	Israel	Qiryat Gat	1
+2024-09-01T00:00:00	Israel	Haifa	1
+2024-09-01T00:00:00	Puerto Rico	NULL	1
+2024-09-01T00:00:00	Philippines	NULL	1
+2024-09-01T00:00:00	Italy	NULL	1
+2024-09-01T00:00:00	France	NULL	1
+2024-09-01T00:00:00	Uruguay	NULL	1
+2024-09-01T00:00:00	United Arab Emirates	NULL	1
+2024-09-01T00:00:00	Taiwan	NULL	1
+2024-09-01T00:00:00	Nigeria	NULL	1
+2024-09-01T00:00:00	Lebanon	NULL	1
+2024-09-01T00:00:00	Ireland	NULL	1
+2024-09-01T00:00:00	Finland	NULL	1
+2024-09-01T00:00:00	Estonia	NULL	1
+2024-09-01T00:00:00	Denmark	NULL	1
+2024-09-01T00:00:00	Cyprus	NULL	1
+2024-09-01T00:00:00	Belgium	NULL	1
+2025-01-01T00:00:00	United States	Boardman	1
+2025-01-01T00:00:00	United States	Austin	1
+2025-01-01T00:00:00	United States	Santa Barbara	1
+2025-01-01T00:00:00	United States	Council Bluffs	1
+2025-01-01T00:00:00	United States	Seattle	1
+2025-01-01T00:00:00	United States	Boston	3
+2025-01-01T00:00:00	United States	Mountain View	1
+2025-01-01T00:00:00	United States	Hoodsport	2
+2025-01-01T00:00:00	United States	Mesa	1
+2025-01-01T00:00:00	United States	State College	2
+2025-01-01T00:00:00	United States	San Jose	1
+2025-01-01T00:00:00	United States	Miami	1
+2025-01-01T00:00:00	United States	College Park	1
+2025-01-01T00:00:00	United States	New York	1
+2025-01-01T00:00:00	United States	Chicago	1
+2025-01-01T00:00:00	United States	Pittsburgh	1
+2025-01-01T00:00:00	United States	Ann Arbor	1
+2025-01-01T00:00:00	United States	Lowell	7
+2025-01-01T00:00:00	United States	Ashburn	1
+2025-01-01T00:00:00	United States	Goleta	1
+2025-01-01T00:00:00	United States	NULL	649
+2025-01-01T00:00:00	Iran	NULL	1
+2025-01-01T00:00:00	Iran	Farsi	2
+2025-01-01T00:00:00	Iran	Tehran	1
+2025-01-01T00:00:00	Iran	Gostar	1
+2025-01-01T00:00:00	Iran	Tabriz	1
+2025-01-01T00:00:00	Iran	Sabz	1
+2025-01-01T00:00:00	Iran	NULL	54
+2025-01-01T00:00:00	Canada	Vancouver	1
+2025-01-01T00:00:00	Canada	Burnaby	1
+2025-01-01T00:00:00	Canada	Richmond	1
+2025-01-01T00:00:00	Canada	Kamloops	1
+2025-01-01T00:00:00	Canada	Baie-D'Urfe	2
+2025-01-01T00:00:00	Canada	Toronto	1
+2025-01-01T00:00:00	Canada	Montreal	1
+2025-01-01T00:00:00	Canada	Kitchener	1
+2025-01-01T00:00:00	Canada	Calgary	1
+2025-01-01T00:00:00	Canada	Beauharnois	1
+2025-01-01T00:00:00	Canada	NULL	30
+2025-01-01T00:00:00	India	New Delhi	3
+2025-01-01T00:00:00	India	Delhi	1
+2025-01-01T00:00:00	India	Howrah	5
+2025-01-01T00:00:00	India	Hyderabad	2
+2025-01-01T00:00:00	India	Bangalore	1
+2025-01-01T00:00:00	India	Mumbai	3
+2025-01-01T00:00:00	India	Meerut	3
+2025-01-01T00:00:00	India	Ahmedabad	1
+2025-01-01T00:00:00	India	Pune	2
+2025-01-01T00:00:00	India	Kolkata	2
+2025-01-01T00:00:00	India	NULL	9
+2025-01-01T00:00:00	United Kingdom	NULL	1
+2025-01-01T00:00:00	United Kingdom	London	1
+2025-01-01T00:00:00	United Kingdom	Sheffield	1
+2025-01-01T00:00:00	United Kingdom	West Cowes	2
+2025-01-01T00:00:00	United Kingdom	Bath	2
+2025-01-01T00:00:00	United Kingdom	Sandown	1
+2025-01-01T00:00:00	United Kingdom	Manchester	1
+2025-01-01T00:00:00	United Kingdom	NULL	9
+2025-01-01T00:00:00	Russia	Voronezh	1
+2025-01-01T00:00:00	Russia	Volosovo	1
+2025-01-01T00:00:00	Russia	Saratov	1
+2025-01-01T00:00:00	Russia	Moscow	1
+2025-01-01T00:00:00	Russia	Gatchina	1
+2025-01-01T00:00:00	Russia	Yekaterinburg	1
+2025-01-01T00:00:00	Russia	Volgograd	1
+2025-01-01T00:00:00	Russia	Perm	1
+2025-01-01T00:00:00	Russia	Degtyarsk	1
+2025-01-01T00:00:00	Russia	NULL	12
+2025-01-01T00:00:00	China	NULL	1
+2025-01-01T00:00:00	China	Beijing	1
+2025-01-01T00:00:00	China	Hongkou	1
+2025-01-01T00:00:00	China	Xi'an	1
+2025-01-01T00:00:00	China	Shanghai	1
+2025-01-01T00:00:00	China	Nanjing	1
+2025-01-01T00:00:00	China	Guangzhou	1
+2025-01-01T00:00:00	China	NULL	13
+2025-01-01T00:00:00	Germany	NULL	1
+2025-01-01T00:00:00	Germany	Aachen	1
+2025-01-01T00:00:00	Germany	NULL	13
+2025-01-01T00:00:00	Singapore	Singapore	2
+2025-01-01T00:00:00	Singapore	NULL	1
+2025-01-01T00:00:00	Singapore	NULL	7
+2025-01-01T00:00:00	Switzerland	NULL	1
+2025-01-01T00:00:00	Switzerland	Zurich	1
+2025-01-01T00:00:00	Switzerland	NULL	9
+2025-01-01T00:00:00	Japan	Atsugi	2
+2025-01-01T00:00:00	Japan	Saitama	1
+2025-01-01T00:00:00	Japan	Fukuoka	2
+2025-01-01T00:00:00	Japan	Ōita	1
+2025-01-01T00:00:00	Japan	Nagoya-shi	1
+2025-01-01T00:00:00	Japan	Bunkyo-ku	1
+2025-01-01T00:00:00	Japan	NULL	2
+2025-01-01T00:00:00	South Korea	Seoul	1
+2025-01-01T00:00:00	South Korea	Gimhae	3
+2025-01-01T00:00:00	South Korea	Guri-si	2
+2025-01-01T00:00:00	South Korea	Incheon	1
+2025-01-01T00:00:00	South Korea	NULL	1
+2025-01-01T00:00:00	Hong Kong	NULL	1
+2025-01-01T00:00:00	Hong Kong	Central District	1
+2025-01-01T00:00:00	Hong Kong	Kowloon	2
+2025-01-01T00:00:00	Hong Kong	Central	2
+2025-01-01T00:00:00	Hong Kong	NULL	2
+2025-01-01T00:00:00	Spain	Valladolid	4
+2025-01-01T00:00:00	Spain	NULL	1
+2025-01-01T00:00:00	Spain	Madrid	1
+2025-01-01T00:00:00	Bangladesh	NULL	1
+2025-01-01T00:00:00	Bangladesh	Khulna	1
+2025-01-01T00:00:00	Bangladesh	Dhaka	1
+2025-01-01T00:00:00	Bangladesh	Gopalganj	1
+2025-01-01T00:00:00	Bangladesh	NULL	4
+2025-01-01T00:00:00	Turkey	NULL	1
+2025-01-01T00:00:00	Turkey	Izmir	1
+2025-01-01T00:00:00	Turkey	Mustafakemalpasa	2
+2025-01-01T00:00:00	Turkey	Istanbul	1
+2025-01-01T00:00:00	Turkey	NULL	2
+2025-01-01T00:00:00	Mexico	Ciudad Obregón	2
+2025-01-01T00:00:00	Mexico	Mexico City	1
+2025-01-01T00:00:00	Mexico	NULL	1
+2025-01-01T00:00:00	Italy	Trento	1
+2025-01-01T00:00:00	Italy	Rome	1
+2025-01-01T00:00:00	Italy	NULL	1
+2025-01-01T00:00:00	Italy	NULL	3
+2025-01-01T00:00:00	The Netherlands	Amsterdam	1
+2025-01-01T00:00:00	The Netherlands	NULL	1
+2025-01-01T00:00:00	The Netherlands	NULL	3
+2025-01-01T00:00:00	Australia	NULL	1
+2025-01-01T00:00:00	Australia	Moonee Ponds	1
+2025-01-01T00:00:00	Australia	Sydney	1
+2025-01-01T00:00:00	Australia	NULL	2
+2025-01-01T00:00:00	France	NULL	1
+2025-01-01T00:00:00	France	Paris	1
+2025-01-01T00:00:00	France	NULL	3
+2025-01-01T00:00:00	Ireland	NULL	5
+2025-01-01T00:00:00	Denmark	Frederiksberg	1
+2025-01-01T00:00:00	Denmark	NULL	1
+2025-01-01T00:00:00	Denmark	NULL	2
+2025-01-01T00:00:00	Israel	NULL	4
+2025-01-01T00:00:00	Barbados	NULL	1
+2025-01-01T00:00:00	Taiwan	Taipei	2
+2025-01-01T00:00:00	Taiwan	Taoyuan	1
+2025-01-01T00:00:00	Pakistan	NULL	1
+2025-01-01T00:00:00	South Africa	Johannesburg	1
+2025-01-01T00:00:00	South Africa	NULL	1
+2025-01-01T00:00:00	United Arab Emirates	NULL	2
+2025-01-01T00:00:00	Nigeria	NULL	2
+2025-01-01T00:00:00	Vietnam	NULL	1
+2025-01-01T00:00:00	Peru	NULL	1
+2025-01-01T00:00:00	Estonia	NULL	1
+2025-01-01T00:00:00	Ukraine	NULL	1
+2025-01-01T00:00:00	Saudi Arabia	NULL	1
+2025-01-01T00:00:00	Morocco	NULL	1
+2025-01-01T00:00:00	Bulgaria	NULL	1
+2025-01-01T00:00:00	Belgium	NULL	1
+2025-01-01T00:00:00	Azerbaijan	NULL	1
+2025-02-01T00:00:00	United States	Goleta	15
+2025-02-01T00:00:00	United States	Austin	1
+2025-02-01T00:00:00	United States	Santa Barbara	3
+2025-02-01T00:00:00	United States	Hoodsport	7
+2025-02-01T00:00:00	United States	Council Bluffs	1
+2025-02-01T00:00:00	United States	Seattle	1
+2025-02-01T00:00:00	United States	Mesa	7
+2025-02-01T00:00:00	United States	Mountain View	2
+2025-02-01T00:00:00	United States	San Jose	1
+2025-02-01T00:00:00	United States	Chicago	1
+2025-02-01T00:00:00	United States	Boardman	1
+2025-02-01T00:00:00	United States	New York	1
+2025-02-01T00:00:00	United States	Lynnwood	2
+2025-02-01T00:00:00	United States	Sunnyvale	1
+2025-02-01T00:00:00	United States	Los Angeles	1
+2025-02-01T00:00:00	United States	College Station	1
+2025-02-01T00:00:00	United States	Ashburn	1
+2025-02-01T00:00:00	United States	Laurel	2
+2025-02-01T00:00:00	United States	Alameda	2
+2025-02-01T00:00:00	United States	Stanford	1
+2025-02-01T00:00:00	United States	NULL	385
+2025-02-01T00:00:00	Iran	NULL	1
+2025-02-01T00:00:00	Iran	Tehran	1
+2025-02-01T00:00:00	Iran	Qazvin	1
+2025-02-01T00:00:00	Iran	Isfahan	1
+2025-02-01T00:00:00	Iran	Hur	1
+2025-02-01T00:00:00	Iran	Farsi	1
+2025-02-01T00:00:00	Iran	NULL	34
+2025-02-01T00:00:00	India	NULL	3
+2025-02-01T00:00:00	India	New Delhi	5
+2025-02-01T00:00:00	India	Delhi	1
+2025-02-01T00:00:00	India	Hyderabad	1
+2025-02-01T00:00:00	India	Mumbai	1
+2025-02-01T00:00:00	India	Bangalore	1
+2025-02-01T00:00:00	India	NULL	1
+2025-02-01T00:00:00	India	NULL	1
+2025-02-01T00:00:00	Russia	Moscow	1
+2025-02-01T00:00:00	Russia	Voronezh	1
+2025-02-01T00:00:00	Russia	Yekaterinburg	1
+2025-02-01T00:00:00	Russia	Volosovo	1
+2025-02-01T00:00:00	Russia	Peschanka	1
+2025-02-01T00:00:00	Russia	Omsk	1
+2025-02-01T00:00:00	Russia	Nizhniy Novgorod	1
+2025-02-01T00:00:00	Russia	Gatchina	1
+2025-02-01T00:00:00	Russia	Balakovo	1
+2025-02-01T00:00:00	Russia	NULL	11
+2025-02-01T00:00:00	Germany	Bremen	3
+2025-02-01T00:00:00	Germany	NULL	3
+2025-02-01T00:00:00	Germany	Tübingen	1
+2025-02-01T00:00:00	Germany	Frankfurt am Main	1
+2025-02-01T00:00:00	Germany	Rennerod	1
+2025-02-01T00:00:00	Germany	Bonn	1
+2025-02-01T00:00:00	Czech Republic	NULL	1
+2025-02-01T00:00:00	China	NULL	1
+2025-02-01T00:00:00	China	Hongkou	1
+2025-02-01T00:00:00	China	Quanzhou	1
+2025-02-01T00:00:00	China	Chengdu	1
+2025-02-01T00:00:00	China	NULL	6
+2025-02-01T00:00:00	United Kingdom	NULL	1
+2025-02-01T00:00:00	United Kingdom	Bath	2
+2025-02-01T00:00:00	United Kingdom	Newcastle upon Tyne	1
+2025-02-01T00:00:00	United Kingdom	London	1
+2025-02-01T00:00:00	United Kingdom	Glasgow	1
+2025-02-01T00:00:00	Canada	Smiths Falls	4
+2025-02-01T00:00:00	Canada	Toronto	1
+2025-02-01T00:00:00	Canada	London	1
+2025-02-01T00:00:00	Canada	Calgary	1
+2025-02-01T00:00:00	Canada	Beauharnois	1
+2025-02-01T00:00:00	Singapore	Singapore	1
+2025-02-01T00:00:00	Singapore	NULL	1
+2025-02-01T00:00:00	Singapore	NULL	3
+2025-02-01T00:00:00	The Netherlands	NULL	1
+2025-02-01T00:00:00	The Netherlands	Amsterdam	1
+2025-02-01T00:00:00	The Netherlands	NULL	2
+2025-02-01T00:00:00	Spain	Valladolid	2
+2025-02-01T00:00:00	Spain	NULL	1
+2025-02-01T00:00:00	France	Le Chesnay	2
+2025-02-01T00:00:00	France	Biguglia	1
+2025-02-01T00:00:00	France	NULL	1
+2025-02-01T00:00:00	Belgium	NULL	2
+2025-02-01T00:00:00	Belgium	Brussels	1
+2025-02-01T00:00:00	United Arab Emirates	Sharjah	1
+2025-02-01T00:00:00	United Arab Emirates	NULL	1
+2025-02-01T00:00:00	Hong Kong	Tsimshatsui	1
+2025-02-01T00:00:00	Hong Kong	Central	1
+2025-02-01T00:00:00	Switzerland	NULL	2
+2025-02-01T00:00:00	Denmark	NULL	1
+2025-02-01T00:00:00	Ukraine	NULL	1
+2025-02-01T00:00:00	Sweden	NULL	1
+2025-02-01T00:00:00	Romania	NULL	1
+2025-02-01T00:00:00	South Korea	NULL	1
+2025-02-01T00:00:00	Nigeria	NULL	1
+2025-02-01T00:00:00	Japan	NULL	1
+2025-02-01T00:00:00	Italy	NULL	1
+2025-02-01T00:00:00	Israel	NULL	1
+2025-02-01T00:00:00	Greece	NULL	1
+2025-02-01T00:00:00	Estonia	NULL	1
+2025-02-01T00:00:00	Burkina Faso	NULL	1
+2025-02-01T00:00:00	Algeria	NULL	1
+2025-03-01T00:00:00	United States	Santa Barbara	1
+2025-03-01T00:00:00	United States	Puyallup	2
+2025-03-01T00:00:00	United States	Dearborn	3
+2025-03-01T00:00:00	United States	Chapel Hill	3
+2025-03-01T00:00:00	United States	Boardman	1
+2025-03-01T00:00:00	United States	San Jose	1
+2025-03-01T00:00:00	United States	Los Angeles	1
+2025-03-01T00:00:00	United States	College Park	2
+2025-03-01T00:00:00	United States	Chicago	1
+2025-03-01T00:00:00	United States	Cambridge	1
+2025-03-01T00:00:00	United States	Laurel	2
+2025-03-01T00:00:00	United States	Austin	1
+2025-03-01T00:00:00	United States	Ann Arbor	1
+2025-03-01T00:00:00	United States	Cumming	2
+2025-03-01T00:00:00	United States	Dallas	4
+2025-03-01T00:00:00	United States	Chevy Chase	4
+2025-03-01T00:00:00	United States	New York	1
+2025-03-01T00:00:00	United States	Phoenix	3
+2025-03-01T00:00:00	United States	Clarksville	3
+2025-03-01T00:00:00	United States	Baltimore	3
+2025-03-01T00:00:00	United States	NULL	179
+2025-03-01T00:00:00	Iran	NULL	1
+2025-03-01T00:00:00	Iran	Tehran	1
+2025-03-01T00:00:00	Iran	Tiran	2
+2025-03-01T00:00:00	Iran	Qazvin	1
+2025-03-01T00:00:00	Iran	NULL	30
+2025-03-01T00:00:00	India	Bangalore	3
+2025-03-01T00:00:00	India	Hyderabad	1
+2025-03-01T00:00:00	India	NULL	2
+2025-03-01T00:00:00	India	Dehradun	2
+2025-03-01T00:00:00	India	New Delhi	1
+2025-03-01T00:00:00	India	Kochi	1
+2025-03-01T00:00:00	India	Bhubaneswar	1
+2025-03-01T00:00:00	Russia	Voronezh	1
+2025-03-01T00:00:00	Russia	Moscow	1
+2025-03-01T00:00:00	Russia	Engel's	1
+2025-03-01T00:00:00	Russia	NULL	1
+2025-03-01T00:00:00	Russia	Saratov	1
+2025-03-01T00:00:00	Russia	Peschanka	1
+2025-03-01T00:00:00	Russia	Omsk	1
+2025-03-01T00:00:00	Russia	Nizhniy Novgorod	1
+2025-03-01T00:00:00	Russia	Gatchina	1
+2025-03-01T00:00:00	Russia	Artëm	1
+2025-03-01T00:00:00	Russia	NULL	4
+2025-03-01T00:00:00	Canada	Vancouver	2
+2025-03-01T00:00:00	Canada	Smiths Falls	2
+2025-03-01T00:00:00	Canada	Red Lake	1
+2025-03-01T00:00:00	Canada	Montreal	1
+2025-03-01T00:00:00	Canada	Calgary	1
+2025-03-01T00:00:00	Canada	Beauharnois	1
+2025-03-01T00:00:00	Canada	NULL	1
+2025-03-01T00:00:00	China	NULL	1
+2025-03-01T00:00:00	China	Zhengzhou	1
+2025-03-01T00:00:00	China	Hongkou	1
+2025-03-01T00:00:00	China	Shanghai	1
+2025-03-01T00:00:00	China	NULL	6
+2025-03-01T00:00:00	Germany	NULL	1
+2025-03-01T00:00:00	Germany	Darmstadt	1
+2025-03-01T00:00:00	Germany	Munich	1
+2025-03-01T00:00:00	Germany	NULL	4
+2025-03-01T00:00:00	United Kingdom	NULL	1
+2025-03-01T00:00:00	United Kingdom	Stoke-on-Trent	1
+2025-03-01T00:00:00	United Kingdom	Sheffield	1
+2025-03-01T00:00:00	United Kingdom	Middlesbrough	1
+2025-03-01T00:00:00	United Kingdom	London	1
+2025-03-01T00:00:00	United Kingdom	Camden Town	1
+2025-03-01T00:00:00	United Kingdom	Cambridge	1
+2025-03-01T00:00:00	United Kingdom	NULL	1
+2025-03-01T00:00:00	Sweden	Lund	4
+2025-03-01T00:00:00	Sweden	Malmo	2
+2025-03-01T00:00:00	South Korea	Daejeon	2
+2025-03-01T00:00:00	South Korea	Seodaemun-gu	1
+2025-03-01T00:00:00	Ukraine	NULL	1
+2025-03-01T00:00:00	Bangladesh	NULL	1
+2025-03-01T00:00:00	Nepal	Kathmandu	1
+2025-03-01T00:00:00	Nepal	NULL	1
+2025-03-01T00:00:00	Hong Kong	Central District	1
+2025-03-01T00:00:00	Hong Kong	NULL	1
+2025-03-01T00:00:00	United Arab Emirates	NULL	1
+2025-03-01T00:00:00	Singapore	NULL	1
+2025-03-01T00:00:00	Portugal	NULL	1
+2025-03-01T00:00:00	The Netherlands	NULL	1
+2025-03-01T00:00:00	Mexico	NULL	1
+2025-03-01T00:00:00	Macedonia	NULL	1
+2025-03-01T00:00:00	Latvia	NULL	1
+2025-03-01T00:00:00	Japan	NULL	1
+2025-03-01T00:00:00	Israel	NULL	1
+2025-03-01T00:00:00	Austria	NULL	1
+2025-03-01T00:00:00	Australia	NULL	1
+2025-04-01T00:00:00	United States	Santa Barbara	8
+2025-04-01T00:00:00	United States	Goleta	5
+2025-04-01T00:00:00	United States	Seattle	1
+2025-04-01T00:00:00	United States	Chapel Hill	2
+2025-04-01T00:00:00	United States	Pittsburgh	1
+2025-04-01T00:00:00	United States	Council Bluffs	1
+2025-04-01T00:00:00	United States	Madison	1
+2025-04-01T00:00:00	United States	Moraga	1
+2025-04-01T00:00:00	United States	Minooka	1
+2025-04-01T00:00:00	United States	Ithaca	1
+2025-04-01T00:00:00	United States	Round Rock	2
+2025-04-01T00:00:00	United States	Auburn	4
+2025-04-01T00:00:00	United States	New York	1
+2025-04-01T00:00:00	United States	Chicago	1
+2025-04-01T00:00:00	United States	Boardman	1
+2025-04-01T00:00:00	United States	Laurel	1
+2025-04-01T00:00:00	United States	Durham	3
+2025-04-01T00:00:00	United States	Berkeley	3
+2025-04-01T00:00:00	United States	Providence	1
+2025-04-01T00:00:00	United States	Mountain View	1
+2025-04-01T00:00:00	United States	NULL	172
+2025-04-01T00:00:00	Iran	NULL	1
+2025-04-01T00:00:00	Iran	Tehran	1
+2025-04-01T00:00:00	Iran	NULL	9
+2025-04-01T00:00:00	China	NULL	1
+2025-04-01T00:00:00	China	Guangzhou	2
+2025-04-01T00:00:00	China	Quanzhou	1
+2025-04-01T00:00:00	China	NULL	3
+2025-04-01T00:00:00	India	NULL	1
+2025-04-01T00:00:00	India	Chandigarh	2
+2025-04-01T00:00:00	India	Kolkata	1
+2025-04-01T00:00:00	India	NULL	2
+2025-04-01T00:00:00	Russia	Saratov	1
+2025-04-01T00:00:00	Russia	Minino	1
+2025-04-01T00:00:00	Russia	Gatchina	1
+2025-04-01T00:00:00	Russia	Engel's	1
+2025-04-01T00:00:00	Russia	NULL	1
+2025-04-01T00:00:00	Russia	NULL	1
+2025-04-01T00:00:00	Singapore	NULL	1
+2025-04-01T00:00:00	Canada	NULL	1
+2025-04-01T00:00:00	Canada	Lethbridge	1
+2025-04-01T00:00:00	Canada	Beauharnois	1
+2025-04-01T00:00:00	Canada	NULL	1
+2025-04-01T00:00:00	United Kingdom	NULL	3
+2025-04-01T00:00:00	Macedonia	Skopje	3
+2025-04-01T00:00:00	Macedonia	Veles	1
+2025-04-01T00:00:00	France	NULL	1
+2025-04-01T00:00:00	Australia	Moonee Ponds	1
+2025-04-01T00:00:00	Australia	NULL	1
+2025-04-01T00:00:00	Italy	NULL	2
+2025-04-01T00:00:00	United Arab Emirates	NULL	1
+2025-04-01T00:00:00	South Korea	NULL	1
+2025-04-01T00:00:00	Indonesia	NULL	1
+2025-04-01T00:00:00	Taiwan	NULL	1
+2025-04-01T00:00:00	Portugal	NULL	1
+2025-04-01T00:00:00	Philippines	NULL	1
+2025-04-01T00:00:00	Nigeria	NULL	1
+2025-04-01T00:00:00	The Netherlands	NULL	1
+2025-04-01T00:00:00	Mexico	NULL	1
+2025-04-01T00:00:00	Ireland	NULL	1
+2025-04-01T00:00:00	Hong Kong	NULL	1
+2025-04-01T00:00:00	Ghana	NULL	1
+2025-04-01T00:00:00	Germany	NULL	1
+2025-04-01T00:00:00	Croatia	NULL	1
+2025-04-01T00:00:00	Austria	NULL	1
+2025-05-01T00:00:00	United States	Santa Barbara	3
+2025-05-01T00:00:00	United States	Goleta	16
+2025-05-01T00:00:00	United States	San Diego	11
+2025-05-01T00:00:00	United States	Seattle	1
+2025-05-01T00:00:00	United States	Council Bluffs	1
+2025-05-01T00:00:00	United States	Hoodsport	4
+2025-05-01T00:00:00	United States	Las Vegas	8
+2025-05-01T00:00:00	United States	Mountain View	1
+2025-05-01T00:00:00	United States	Chapel Hill	2
+2025-05-01T00:00:00	United States	Spring Valley	3
+2025-05-01T00:00:00	United States	Ashburn	1
+2025-05-01T00:00:00	United States	New York	1
+2025-05-01T00:00:00	United States	West Jordan	8
+2025-05-01T00:00:00	United States	Pittsburgh	1
+2025-05-01T00:00:00	United States	Halethorpe	1
+2025-05-01T00:00:00	United States	Boardman	1
+2025-05-01T00:00:00	United States	Houston	1
+2025-05-01T00:00:00	United States	Washington	1
+2025-05-01T00:00:00	United States	Antioch	5
+2025-05-01T00:00:00	United States	Richardson	1
+2025-05-01T00:00:00	United States	NULL	411
+2025-05-01T00:00:00	India	Hyderabad	1
+2025-05-01T00:00:00	India	NULL	1
+2025-05-01T00:00:00	India	Bangalore	1
+2025-05-01T00:00:00	India	New Delhi	2
+2025-05-01T00:00:00	India	Guntur	2
+2025-05-01T00:00:00	India	Shimla	1
+2025-05-01T00:00:00	India	Kolkata	1
+2025-05-01T00:00:00	India	Coimbatore	1
+2025-05-01T00:00:00	India	Chennai	1
+2025-05-01T00:00:00	India	NULL	34
+2025-05-01T00:00:00	Iran	NULL	1
+2025-05-01T00:00:00	Iran	Tehran	1
+2025-05-01T00:00:00	Iran	Kerman	1
+2025-05-01T00:00:00	Iran	NULL	26
+2025-05-01T00:00:00	United Kingdom	NULL	1
+2025-05-01T00:00:00	United Kingdom	Stourbridge	3
+2025-05-01T00:00:00	United Kingdom	Westbury	1
+2025-05-01T00:00:00	United Kingdom	Manchester	1
+2025-05-01T00:00:00	United Kingdom	Middlesbrough	2
+2025-05-01T00:00:00	United Kingdom	Radstock	1
+2025-05-01T00:00:00	United Kingdom	NULL	9
+2025-05-01T00:00:00	China	NULL	1
+2025-05-01T00:00:00	China	Beijing	1
+2025-05-01T00:00:00	China	Shenyang	1
+2025-05-01T00:00:00	China	Hongkou	1
+2025-05-01T00:00:00	China	Changsha	1
+2025-05-01T00:00:00	China	NULL	22
+2025-05-01T00:00:00	Canada	NULL	1
+2025-05-01T00:00:00	Canada	Barrie	2
+2025-05-01T00:00:00	Canada	Saskatoon	1
+2025-05-01T00:00:00	Canada	Oakville	1
+2025-05-01T00:00:00	Canada	Beauharnois	1
+2025-05-01T00:00:00	Canada	NULL	7
+2025-05-01T00:00:00	The Netherlands	Groningen	6
+2025-05-01T00:00:00	The Netherlands	NULL	1
+2025-05-01T00:00:00	The Netherlands	Rotterdam	1
+2025-05-01T00:00:00	The Netherlands	Nieuwegein	1
+2025-05-01T00:00:00	Germany	NULL	1
+2025-05-01T00:00:00	Germany	Berlin	1
+2025-05-01T00:00:00	Germany	Potsdam	2
+2025-05-01T00:00:00	Germany	Frankfurt am Main	1
+2025-05-01T00:00:00	Germany	Cologne	1
+2025-05-01T00:00:00	Germany	NULL	3
+2025-05-01T00:00:00	Czech Republic	Zubri	2
+2025-05-01T00:00:00	Czech Republic	Ostrata	1
+2025-05-01T00:00:00	Czech Republic	NULL	1
+2025-05-01T00:00:00	Czech Republic	NULL	3
+2025-05-01T00:00:00	Turkey	NULL	6
+2025-05-01T00:00:00	Russia	NULL	1
+2025-05-01T00:00:00	Russia	Yekaterinburg	1
+2025-05-01T00:00:00	Russia	Volgograd	1
+2025-05-01T00:00:00	Russia	Moscow	1
+2025-05-01T00:00:00	Russia	Gatchina	1
+2025-05-01T00:00:00	Russia	NULL	1
+2025-05-01T00:00:00	Russia	NULL	3
+2025-05-01T00:00:00	Denmark	Copenhagen	2
+2025-05-01T00:00:00	Denmark	NULL	3
+2025-05-01T00:00:00	Denmark	Aarhus C	2
+2025-05-01T00:00:00	New Zealand	NULL	8
+2025-05-01T00:00:00	Austria	Vienna	1
+2025-05-01T00:00:00	Austria	NULL	1
+2025-05-01T00:00:00	Austria	Tulln	1
+2025-05-01T00:00:00	Austria	Spittal an der Drau	1
+2025-05-01T00:00:00	Austria	NULL	3
+2025-05-01T00:00:00	Italy	NULL	1
+2025-05-01T00:00:00	Italy	Trieste	1
+2025-05-01T00:00:00	Italy	Buonabitacolo	1
+2025-05-01T00:00:00	Italy	NULL	1
+2025-05-01T00:00:00	France	Paris	1
+2025-05-01T00:00:00	France	NULL	1
+2025-05-01T00:00:00	France	NULL	2
+2025-05-01T00:00:00	Singapore	Singapore	1
+2025-05-01T00:00:00	Singapore	NULL	1
+2025-05-01T00:00:00	Singapore	NULL	1
+2025-05-01T00:00:00	Australia	Moonee Ponds	1
+2025-05-01T00:00:00	Australia	NULL	1
+2025-05-01T00:00:00	Australia	NULL	1
+2025-05-01T00:00:00	Hong Kong	NULL	2
+2025-05-01T00:00:00	United Arab Emirates	Dubai	1
+2025-05-01T00:00:00	United Arab Emirates	NULL	1
+2025-05-01T00:00:00	Spain	Madrid	1
+2025-05-01T00:00:00	Spain	NULL	1
+2025-05-01T00:00:00	South Africa	Johannesburg	1
+2025-05-01T00:00:00	South Africa	NULL	1
+2025-05-01T00:00:00	Philippines	Manajao	1
+2025-05-01T00:00:00	Philippines	Makati City	1
+2025-05-01T00:00:00	Japan	Tokyo	1
+2025-05-01T00:00:00	Japan	NULL	1
+2025-05-01T00:00:00	Israel	Yaqum	1
+2025-05-01T00:00:00	Israel	Rehovot	1
+2025-05-01T00:00:00	Belgium	Ixelles-Elsene	1
+2025-05-01T00:00:00	Belgium	Brussels	1
+2025-05-01T00:00:00	Taiwan	NULL	1
+2025-05-01T00:00:00	Saudi Arabia	NULL	1
+2025-05-01T00:00:00	South Korea	NULL	1
+2025-05-01T00:00:00	Nigeria	NULL	1
+2025-05-01T00:00:00	Sweden	NULL	1
+2025-05-01T00:00:00	Romania	NULL	1
+2025-05-01T00:00:00	Portugal	NULL	1
+2025-05-01T00:00:00	Poland	NULL	1
+2025-05-01T00:00:00	Pakistan	NULL	1
+2025-05-01T00:00:00	Norway	NULL	1
+2025-05-01T00:00:00	Malaysia	NULL	1
+2025-05-01T00:00:00	Ireland	NULL	1
+2025-05-01T00:00:00	Egypt	NULL	1
+2025-05-01T00:00:00	Bulgaria	NULL	1
+2025-05-01T00:00:00	Bangladesh	NULL	1
+2025-06-01T00:00:00	United States	Council Bluffs	1
+2025-06-01T00:00:00	United States	Santa Barbara	2
+2025-06-01T00:00:00	United States	Mountain View	1
+2025-06-01T00:00:00	United States	Seattle	2
+2025-06-01T00:00:00	United States	Boardman	1
+2025-06-01T00:00:00	United States	Chicago	1
+2025-06-01T00:00:00	United States	Pittsburgh	1
+2025-06-01T00:00:00	United States	Durham	4
+2025-06-01T00:00:00	United States	Ashburn	1
+2025-06-01T00:00:00	United States	Ann Arbor	1
+2025-06-01T00:00:00	United States	San Jose	1
+2025-06-01T00:00:00	United States	College Park	1
+2025-06-01T00:00:00	United States	Laurel	2
+2025-06-01T00:00:00	United States	Chapel Hill	3
+2025-06-01T00:00:00	United States	Middletown	6
+2025-06-01T00:00:00	United States	Oceanside	5
+2025-06-01T00:00:00	United States	Sequim	1
+2025-06-01T00:00:00	United States	Redmond	1
+2025-06-01T00:00:00	United States	Cleveland	1
+2025-06-01T00:00:00	United States	Brooklyn	2
+2025-06-01T00:00:00	United States	NULL	375
+2025-06-01T00:00:00	India	Hyderabad	1
+2025-06-01T00:00:00	India	NULL	1
+2025-06-01T00:00:00	India	Delhi	3
+2025-06-01T00:00:00	India	Guntur	1
+2025-06-01T00:00:00	India	Bangalore	1
+2025-06-01T00:00:00	India	Bhatkal	1
+2025-06-01T00:00:00	India	NULL	9
+2025-06-01T00:00:00	Iran	NULL	1
+2025-06-01T00:00:00	Iran	Tehran	1
+2025-06-01T00:00:00	Iran	Farsi	1
+2025-06-01T00:00:00	Iran	NULL	26
+2025-06-01T00:00:00	China	NULL	1
+2025-06-01T00:00:00	China	Shenyang	1
+2025-06-01T00:00:00	China	Shanghai	1
+2025-06-01T00:00:00	China	Foshan	1
+2025-06-01T00:00:00	China	Dongguan	1
+2025-06-01T00:00:00	China	Changsha	1
+2025-06-01T00:00:00	China	Changde	1
+2025-06-01T00:00:00	China	NULL	12
+2025-06-01T00:00:00	Germany	NULL	1
+2025-06-01T00:00:00	Germany	Munich	2
+2025-06-01T00:00:00	Germany	Bielefeld	1
+2025-06-01T00:00:00	Germany	Saarbrücken	2
+2025-06-01T00:00:00	Germany	Ammerbuch	1
+2025-06-01T00:00:00	Germany	NULL	5
+2025-06-01T00:00:00	United Kingdom	Westbury	1
+2025-06-01T00:00:00	United Kingdom	Edinburgh	1
+2025-06-01T00:00:00	United Kingdom	NULL	1
+2025-06-01T00:00:00	United Kingdom	Worthing	1
+2025-06-01T00:00:00	United Kingdom	Oxford	1
+2025-06-01T00:00:00	United Kingdom	Cambridge	1
+2025-06-01T00:00:00	United Kingdom	NULL	8
+2025-06-01T00:00:00	South Korea	Paju	2
+2025-06-01T00:00:00	South Korea	Daejeon	1
+2025-06-01T00:00:00	South Korea	Bucheon-si	4
+2025-06-01T00:00:00	South Korea	Seoul	1
+2025-06-01T00:00:00	Canada	NULL	1
+2025-06-01T00:00:00	Canada	Toronto	1
+2025-06-01T00:00:00	Canada	Laval	2
+2025-06-01T00:00:00	Canada	Victoria	1
+2025-06-01T00:00:00	Canada	Mississauga	1
+2025-06-01T00:00:00	Canada	Beauharnois	1
+2025-06-01T00:00:00	Canada	NULL	4
+2025-06-01T00:00:00	Japan	NULL	3
+2025-06-01T00:00:00	Japan	Kita-ku	4
+2025-06-01T00:00:00	Japan	Tokyo	1
+2025-06-01T00:00:00	Japan	Kyoto	1
+2025-06-01T00:00:00	Russia	NULL	1
+2025-06-01T00:00:00	Russia	Saint Petersburg	1
+2025-06-01T00:00:00	Russia	Yekaterinburg	1
+2025-06-01T00:00:00	Russia	Voronezh	1
+2025-06-01T00:00:00	Russia	Volgograd	1
+2025-06-01T00:00:00	Russia	Omsk	1
+2025-06-01T00:00:00	Russia	Moscow	1
+2025-06-01T00:00:00	Russia	Miasskoye	1
+2025-06-01T00:00:00	Russia	NULL	4
+2025-06-01T00:00:00	The Netherlands	NULL	1
+2025-06-01T00:00:00	The Netherlands	The Hague	1
+2025-06-01T00:00:00	The Netherlands	Schiedam	1
+2025-06-01T00:00:00	The Netherlands	NULL	2
+2025-06-01T00:00:00	Australia	Moonee Ponds	1
+2025-06-01T00:00:00	Australia	Ringwood	1
+2025-06-01T00:00:00	Australia	Kensington	1
+2025-06-01T00:00:00	Australia	NULL	1
+2025-06-01T00:00:00	Australia	NULL	1
+2025-06-01T00:00:00	Switzerland	NULL	3
+2025-06-01T00:00:00	Switzerland	Zurich	1
+2025-06-01T00:00:00	Switzerland	Bern	1
+2025-06-01T00:00:00	New Zealand	NULL	4
+2025-06-01T00:00:00	Turkey	Ankara	3
+2025-06-01T00:00:00	Turkey	Balıkesir	1
+2025-06-01T00:00:00	Ireland	NULL	3
+2025-06-01T00:00:00	Saudi Arabia	NULL	2
+2025-06-01T00:00:00	Saudi Arabia	Jeddah	1
+2025-06-01T00:00:00	Romania	NULL	2
+2025-06-01T00:00:00	Italy	Avigliano Umbro	1
+2025-06-01T00:00:00	Italy	NULL	1
+2025-06-01T00:00:00	Sweden	NULL	2
+2025-06-01T00:00:00	Singapore	NULL	2
+2025-06-01T00:00:00	Hong Kong	NULL	2
+2025-06-01T00:00:00	Qatar	NULL	1
+2025-06-01T00:00:00	Finland	NULL	1
+2025-06-01T00:00:00	Czech Republic	NULL	1
+2025-06-01T00:00:00	Ukraine	NULL	1
+2025-06-01T00:00:00	Taiwan	NULL	1
+2025-06-01T00:00:00	Slovenia	NULL	1
+2025-06-01T00:00:00	Peru	NULL	1
+2025-06-01T00:00:00	Hungary	NULL	1
+2025-06-01T00:00:00	Ghana	NULL	1
+2025-06-01T00:00:00	France	NULL	1
+2025-06-01T00:00:00	Croatia	NULL	1
+2025-06-01T00:00:00	Brazil	NULL	1
+2025-06-01T00:00:00	Austria	NULL	1
+2025-06-01T00:00:00	Argentina	NULL	1
+2025-07-01T00:00:00	United States	Council Bluffs	1
+2025-07-01T00:00:00	United States	Santa Barbara	1
+2025-07-01T00:00:00	United States	Mountain View	1
+2025-07-01T00:00:00	United States	Chapel Hill	1
+2025-07-01T00:00:00	United States	San Jose	1
+2025-07-01T00:00:00	United States	Boardman	1
+2025-07-01T00:00:00	United States	Seattle	1
+2025-07-01T00:00:00	United States	Clarksville	1
+2025-07-01T00:00:00	United States	Brooklyn	3
+2025-07-01T00:00:00	United States	Tempe	1
+2025-07-01T00:00:00	United States	San Francisco	1
+2025-07-01T00:00:00	United States	Goleta	1
+2025-07-01T00:00:00	United States	Las Cruces	1
+2025-07-01T00:00:00	United States	Atlanta	1
+2025-07-01T00:00:00	United States	Coolidge	4
+2025-07-01T00:00:00	United States	New York	1
+2025-07-01T00:00:00	United States	Columbus	1
+2025-07-01T00:00:00	United States	Ashburn	1
+2025-07-01T00:00:00	United States	Ann Arbor	1
+2025-07-01T00:00:00	United States	Stanford	1
+2025-07-01T00:00:00	United States	NULL	311
+2025-07-01T00:00:00	Bangladesh	NULL	6
+2025-07-01T00:00:00	China	NULL	1
+2025-07-01T00:00:00	China	Shanghai	1
+2025-07-01T00:00:00	China	Beijing	2
+2025-07-01T00:00:00	China	Xiamen	1
+2025-07-01T00:00:00	China	Nanjing	2
+2025-07-01T00:00:00	China	NULL	18
+2025-07-01T00:00:00	Switzerland	NULL	2
+2025-07-01T00:00:00	Switzerland	Zurich	1
+2025-07-01T00:00:00	Switzerland	Aarau	1
+2025-07-01T00:00:00	Switzerland	NULL	8
+2025-07-01T00:00:00	India	NULL	1
+2025-07-01T00:00:00	India	Bangalore	2
+2025-07-01T00:00:00	India	Kolkata	1
+2025-07-01T00:00:00	India	Nellore	2
+2025-07-01T00:00:00	India	Hyderabad	2
+2025-07-01T00:00:00	India	Noida	1
+2025-07-01T00:00:00	India	Chandigarh	1
+2025-07-01T00:00:00	India	NULL	7
+2025-07-01T00:00:00	United Kingdom	NULL	2
+2025-07-01T00:00:00	United Kingdom	Edinburgh	2
+2025-07-01T00:00:00	United Kingdom	Sheffield	1
+2025-07-01T00:00:00	United Kingdom	Oxford	1
+2025-07-01T00:00:00	United Kingdom	Camden Town	1
+2025-07-01T00:00:00	United Kingdom	Cambridge	1
+2025-07-01T00:00:00	United Kingdom	NULL	1
+2025-07-01T00:00:00	Iran	NULL	1
+2025-07-01T00:00:00	Iran	Sanandaj	1
+2025-07-01T00:00:00	Iran	NULL	12
+2025-07-01T00:00:00	Panama	Panama City	6
+2025-07-01T00:00:00	Panama	NULL	1
+2025-07-01T00:00:00	Canada	Burnaby	4
+2025-07-01T00:00:00	Canada	NULL	1
+2025-07-01T00:00:00	Canada	Victoria	1
+2025-07-01T00:00:00	Canada	Toronto	1
+2025-07-01T00:00:00	Canada	North Vancouver	1
+2025-07-01T00:00:00	Russia	NULL	1
+2025-07-01T00:00:00	Russia	Saratov	1
+2025-07-01T00:00:00	Russia	Saint Petersburg	1
+2025-07-01T00:00:00	Russia	Rostov-on-Don	1
+2025-07-01T00:00:00	Russia	Moscow	1
+2025-07-01T00:00:00	Russia	Kazan’	1
+2025-07-01T00:00:00	Russia	NULL	2
+2025-07-01T00:00:00	Singapore	Singapore	1
+2025-07-01T00:00:00	Singapore	NULL	1
+2025-07-01T00:00:00	Singapore	NULL	4
+2025-07-01T00:00:00	Germany	Regensburg	2
+2025-07-01T00:00:00	Germany	Ammerbuch	1
+2025-07-01T00:00:00	Germany	NULL	1
+2025-07-01T00:00:00	United Arab Emirates	NULL	2
+2025-07-01T00:00:00	South Korea	Seongnam-si	1
+2025-07-01T00:00:00	South Korea	Geoje	1
+2025-07-01T00:00:00	Pakistan	Lahore	1
+2025-07-01T00:00:00	Pakistan	Karachi	1
+2025-07-01T00:00:00	Italy	NULL	2
+2025-07-01T00:00:00	Vietnam	NULL	1
+2025-07-01T00:00:00	Ukraine	NULL	1
+2025-07-01T00:00:00	Turkey	NULL	1
+2025-07-01T00:00:00	Taiwan	NULL	1
+2025-07-01T00:00:00	Sweden	NULL	1
+2025-07-01T00:00:00	Philippines	NULL	1
+2025-07-01T00:00:00	Morocco	NULL	1
+2025-07-01T00:00:00	Kazakhstan	NULL	1
+2025-07-01T00:00:00	Japan	NULL	1
+2025-07-01T00:00:00	Ireland	NULL	1
+2025-07-01T00:00:00	Hungary	NULL	1
+2025-07-01T00:00:00	France	NULL	1
+2025-07-01T00:00:00	Azerbaijan	NULL	1
+2025-07-01T00:00:00	Australia	NULL	1
+2025-08-01T00:00:00	United States	Seattle	2
+2025-08-01T00:00:00	United States	Chicago	1
+2025-08-01T00:00:00	United States	Mountain View	2
+2025-08-01T00:00:00	United States	New York	3
+2025-08-01T00:00:00	United States	Boardman	1
+2025-08-01T00:00:00	United States	Ashburn	1
+2025-08-01T00:00:00	United States	Oceanside	1
+2025-08-01T00:00:00	United States	Council Bluffs	1
+2025-08-01T00:00:00	United States	Arlington	5
+2025-08-01T00:00:00	United States	Santa Barbara	1
+2025-08-01T00:00:00	United States	Los Alamos	4
+2025-08-01T00:00:00	United States	Columbus	1
+2025-08-01T00:00:00	United States	Berkeley	1
+2025-08-01T00:00:00	United States	San Francisco	1
+2025-08-01T00:00:00	United States	Pittsburgh	1
+2025-08-01T00:00:00	United States	Lubbock	3
+2025-08-01T00:00:00	United States	Lewisville	3
+2025-08-01T00:00:00	United States	Lansing	3
+2025-08-01T00:00:00	United States	Menlo Park	1
+2025-08-01T00:00:00	United States	Green Hill	1
+2025-08-01T00:00:00	United States	NULL	181
+2025-08-01T00:00:00	China	NULL	1
+2025-08-01T00:00:00	China	Hongkou	1
+2025-08-01T00:00:00	China	Shanghai	1
+2025-08-01T00:00:00	China	Quanzhou	1
+2025-08-01T00:00:00	China	Beijing	1
+2025-08-01T00:00:00	China	NULL	18
+2025-08-01T00:00:00	Japan	NULL	1
+2025-08-01T00:00:00	Japan	Tokyo	1
+2025-08-01T00:00:00	Japan	Setagaya-ku	1
+2025-08-01T00:00:00	Japan	Koto	1
+2025-08-01T00:00:00	Japan	Kawasaki	1
+2025-08-01T00:00:00	Japan	Bunkyo-ku	1
+2025-08-01T00:00:00	Japan	Akasaka	1
+2025-08-01T00:00:00	Japan	NULL	6
+2025-08-01T00:00:00	Iran	NULL	1
+2025-08-01T00:00:00	Iran	Zanjan	1
+2025-08-01T00:00:00	Iran	Tiran	1
+2025-08-01T00:00:00	Iran	NULL	9
+2025-08-01T00:00:00	India	NULL	2
+2025-08-01T00:00:00	India	Bangalore	5
+2025-08-01T00:00:00	India	New Delhi	1
+2025-08-01T00:00:00	South Korea	Seoul	1
+2025-08-01T00:00:00	South Korea	NULL	1
+2025-08-01T00:00:00	South Korea	Incheon	1
+2025-08-01T00:00:00	South Korea	Gyeonggi-do	1
+2025-08-01T00:00:00	South Korea	NULL	5
+2025-08-01T00:00:00	France	NULL	3
+2025-08-01T00:00:00	United Kingdom	NULL	2
+2025-08-01T00:00:00	United Kingdom	Westbury	1
+2025-08-01T00:00:00	United Kingdom	NULL	1
+2025-08-01T00:00:00	Canada	Vancouver	1
+2025-08-01T00:00:00	Canada	Blainville	1
+2025-08-01T00:00:00	Canada	Beauharnois	1
+2025-08-01T00:00:00	Canada	NULL	2
+2025-08-01T00:00:00	Singapore	NULL	4
+2025-08-01T00:00:00	Singapore	Singapore	1
+2025-08-01T00:00:00	Russia	NULL	1
+2025-08-01T00:00:00	Russia	Perm	1
+2025-08-01T00:00:00	Russia	NULL	3
+2025-08-01T00:00:00	Germany	NULL	1
+2025-08-01T00:00:00	Germany	Saarbrücken	1
+2025-08-01T00:00:00	Germany	Kronberg	1
+2025-08-01T00:00:00	Germany	NULL	1
+2025-08-01T00:00:00	Ireland	NULL	2
+2025-08-01T00:00:00	Bangladesh	Dhaka	1
+2025-08-01T00:00:00	Bangladesh	NULL	1
+2025-08-01T00:00:00	Bangladesh	NULL	2
+2025-08-01T00:00:00	Sweden	NULL	1
+2025-08-01T00:00:00	Sweden	Boden	1
+2025-08-01T00:00:00	Sweden	NULL	1
+2025-08-01T00:00:00	United Arab Emirates	NULL	3
+2025-08-01T00:00:00	Switzerland	NULL	3
+2025-08-01T00:00:00	Taiwan	Taipei	1
+2025-08-01T00:00:00	Taiwan	NULL	1
+2025-08-01T00:00:00	Italy	Terracina	1
+2025-08-01T00:00:00	Italy	Quartu Sant'Elena	1
+2025-08-01T00:00:00	Australia	Darlinghurst	1
+2025-08-01T00:00:00	Australia	NULL	1
+2025-08-01T00:00:00	Kazakhstan	NULL	1
+2025-08-01T00:00:00	Austria	NULL	1
+2025-08-01T00:00:00	Vietnam	NULL	1
+2025-08-01T00:00:00	Spain	NULL	1
+2025-08-01T00:00:00	Pakistan	NULL	1
+2025-08-01T00:00:00	The Netherlands	NULL	1
+2025-08-01T00:00:00	Hong Kong	NULL	1
+2025-08-01T00:00:00	Finland	NULL	1
+2025-08-01T00:00:00	Denmark	NULL	1
+2025-08-01T00:00:00	Brazil	NULL	1
+2025-08-01T00:00:00	Belgium	NULL	1
+2025-08-01T00:00:00	Azerbaijan	NULL	1
+2025-08-01T00:00:00	United States	Seattle	1
+2025-08-01T00:00:00	United States	Chicago	1
+2025-08-01T00:00:00	United States	Santa Barbara	1
+2025-08-01T00:00:00	United States	San Jose	1
+2025-08-01T00:00:00	United States	Ashburn	1
+2025-08-01T00:00:00	United States	Phoenix	1
+2025-08-01T00:00:00	United States	Los Angeles	1
+2025-08-01T00:00:00	United States	Frisco	5
+2025-08-01T00:00:00	United States	Nashville	1
+2025-08-01T00:00:00	United States	Boardman	1
+2025-08-01T00:00:00	United States	Denver	1
+2025-08-01T00:00:00	United States	Madison	1
+2025-08-01T00:00:00	United States	Washington	1
+2025-08-01T00:00:00	United States	Clarksville	1
+2025-08-01T00:00:00	United States	Austin	1
+2025-08-01T00:00:00	United States	Chapel Hill	3
+2025-08-01T00:00:00	United States	Pittsburgh	1
+2025-08-01T00:00:00	United States	New York	1
+2025-08-01T00:00:00	United States	Charlotte	1
+2025-08-01T00:00:00	United States	Redwood City	2
+2025-08-01T00:00:00	United States	NULL	207
+2025-08-01T00:00:00	Japan	Bunkyo-ku	1
+2025-08-01T00:00:00	Japan	Sumida	1
+2025-08-01T00:00:00	Japan	Shibuya	1
+2025-08-01T00:00:00	Japan	Shinjuku	2
+2025-08-01T00:00:00	Japan	Kofu	2
+2025-08-01T00:00:00	Japan	Bunkyo	2
+2025-08-01T00:00:00	Japan	Osaka	1
+2025-08-01T00:00:00	Japan	Kawagoe	1
+2025-08-01T00:00:00	Japan	Akishima	1
+2025-08-01T00:00:00	Japan	Akasaka	1
+2025-08-01T00:00:00	Japan	NULL	10
+2025-08-01T00:00:00	China	NULL	1
+2025-08-01T00:00:00	China	Shanghai	1
+2025-08-01T00:00:00	China	Zhumadian	1
+2025-08-01T00:00:00	China	Nanjing	1
+2025-08-01T00:00:00	China	Kunshan	1
+2025-08-01T00:00:00	China	Hongkou	1
+2025-08-01T00:00:00	China	Beijing	1
+2025-08-01T00:00:00	China	Banbidian	1
+2025-08-01T00:00:00	China	NULL	10
+2025-08-01T00:00:00	India	Hyderabad	2
+2025-08-01T00:00:00	India	Bangalore	3
+2025-08-01T00:00:00	India	NULL	1
+2025-08-01T00:00:00	India	NULL	2
+2025-08-01T00:00:00	Iran	NULL	1
+2025-08-01T00:00:00	Iran	Tiran	1
+2025-08-01T00:00:00	Iran	Tehran	1
+2025-08-01T00:00:00	Iran	NULL	9
+2025-08-01T00:00:00	United Kingdom	NULL	1
+2025-08-01T00:00:00	United Kingdom	Brockenhurst	3
+2025-08-01T00:00:00	United Kingdom	Chiswick	1
+2025-08-01T00:00:00	United Kingdom	NULL	1
+2025-08-01T00:00:00	South Korea	Gangnam-gu	1
+2025-08-01T00:00:00	South Korea	Incheon	2
+2025-08-01T00:00:00	South Korea	Daejeon	2
+2025-08-01T00:00:00	South Korea	Seoul	1
+2025-08-01T00:00:00	South Korea	Geoje	1
+2025-08-01T00:00:00	Germany	Bremen	5
+2025-08-01T00:00:00	Germany	NULL	1
+2025-08-01T00:00:00	Germany	Berlin	1
+2025-08-01T00:00:00	Canada	NULL	1
+2025-08-01T00:00:00	Canada	Waterloo	1
+2025-08-01T00:00:00	Canada	Montreal	1
+2025-08-01T00:00:00	Canada	Joliette	1
+2025-08-01T00:00:00	Canada	Hamilton	1
+2025-08-01T00:00:00	Canada	Burnaby	1
+2025-08-01T00:00:00	Canada	Brantford	1
+2025-08-01T00:00:00	Canada	NULL	1
+2025-08-01T00:00:00	Taiwan	NULL	2
+2025-08-01T00:00:00	Australia	NULL	2
+2025-08-01T00:00:00	Australia	Sydney	1
+2025-08-01T00:00:00	Australia	NULL	1
+2025-08-01T00:00:00	Greece	NULL	1
+2025-08-01T00:00:00	Russia	Zheleznogorsk	1
+2025-08-01T00:00:00	Russia	Saint Petersburg	1
+2025-08-01T00:00:00	Russia	Moscow	1
+2025-08-01T00:00:00	Russia	Gatchina	1
+2025-08-01T00:00:00	Russia	NULL	1
+2025-08-01T00:00:00	Bangladesh	Dhaka	1
+2025-08-01T00:00:00	Bangladesh	NULL	1
+2025-08-01T00:00:00	Bangladesh	NULL	3
+2025-08-01T00:00:00	France	Paris	2
+2025-08-01T00:00:00	France	Chalons-en-Champagne	2
+2025-08-01T00:00:00	France	Lyon	1
+2025-08-01T00:00:00	Turkey	Mersin	1
+2025-08-01T00:00:00	Turkey	Ankara	1
+2025-08-01T00:00:00	Turkey	NULL	1
+2025-08-01T00:00:00	Thailand	Bangkok	1
+2025-08-01T00:00:00	Thailand	Wiphawadi	2
+2025-08-01T00:00:00	The Netherlands	Amsterdam	2
+2025-08-01T00:00:00	The Netherlands	NULL	2
+2025-08-01T00:00:00	Pakistan	NULL	3
+2025-08-01T00:00:00	Tajikistan	NULL	1
+2025-08-01T00:00:00	United Arab Emirates	Dubai	1
+2025-08-01T00:00:00	United Arab Emirates	NULL	1
+2025-08-01T00:00:00	Singapore	Singapore	1
+2025-08-01T00:00:00	Singapore	NULL	1
+2025-08-01T00:00:00	Hong Kong	NULL	2
+2025-08-01T00:00:00	Finland	NULL	1
+2025-08-01T00:00:00	Uzbekistan	NULL	1
+2025-08-01T00:00:00	South Africa	NULL	1
+2025-08-01T00:00:00	Libya	NULL	1
+2025-08-01T00:00:00	Kazakhstan	NULL	1
+2025-08-01T00:00:00	Italy	NULL	1
+2025-08-01T00:00:00	Israel	NULL	1
+2025-08-01T00:00:00	Ireland	NULL	1
+2025-08-01T00:00:00	Indonesia	NULL	1
+2025-08-01T00:00:00	Chile	NULL	1
+2025-09-01T00:00:00	United States	Seattle	1
+2025-09-01T00:00:00	United States	Chicago	1
+2025-09-01T00:00:00	United States	Santa Barbara	1
+2025-09-01T00:00:00	United States	San Jose	1
+2025-09-01T00:00:00	United States	Ashburn	1
+2025-09-01T00:00:00	United States	Phoenix	1
+2025-09-01T00:00:00	United States	Los Angeles	1
+2025-09-01T00:00:00	United States	Frisco	5
+2025-09-01T00:00:00	United States	Nashville	1
+2025-09-01T00:00:00	United States	Boardman	1
+2025-09-01T00:00:00	United States	Denver	1
+2025-09-01T00:00:00	United States	Madison	1
+2025-09-01T00:00:00	United States	Washington	1
+2025-09-01T00:00:00	United States	Clarksville	1
+2025-09-01T00:00:00	United States	Austin	1
+2025-09-01T00:00:00	United States	Chapel Hill	3
+2025-09-01T00:00:00	United States	Pittsburgh	1
+2025-09-01T00:00:00	United States	New York	1
+2025-09-01T00:00:00	United States	Charlotte	1
+2025-09-01T00:00:00	United States	Redwood City	2
+2025-09-01T00:00:00	United States	NULL	207
+2025-09-01T00:00:00	Japan	Bunkyo-ku	1
+2025-09-01T00:00:00	Japan	Sumida	1
+2025-09-01T00:00:00	Japan	Shibuya	1
+2025-09-01T00:00:00	Japan	Shinjuku	2
+2025-09-01T00:00:00	Japan	Kofu	2
+2025-09-01T00:00:00	Japan	Bunkyo	2
+2025-09-01T00:00:00	Japan	Osaka	1
+2025-09-01T00:00:00	Japan	Kawagoe	1
+2025-09-01T00:00:00	Japan	Akishima	1
+2025-09-01T00:00:00	Japan	Akasaka	1
+2025-09-01T00:00:00	Japan	NULL	10
+2025-09-01T00:00:00	China	NULL	1
+2025-09-01T00:00:00	China	Shanghai	1
+2025-09-01T00:00:00	China	Zhumadian	1
+2025-09-01T00:00:00	China	Nanjing	1
+2025-09-01T00:00:00	China	Kunshan	1
+2025-09-01T00:00:00	China	Hongkou	1
+2025-09-01T00:00:00	China	Beijing	1
+2025-09-01T00:00:00	China	Banbidian	1
+2025-09-01T00:00:00	China	NULL	10
+2025-09-01T00:00:00	India	Hyderabad	2
+2025-09-01T00:00:00	India	Bangalore	3
+2025-09-01T00:00:00	India	NULL	1
+2025-09-01T00:00:00	India	NULL	2
+2025-09-01T00:00:00	Iran	NULL	1
+2025-09-01T00:00:00	Iran	Tiran	1
+2025-09-01T00:00:00	Iran	Tehran	1
+2025-09-01T00:00:00	Iran	NULL	9
+2025-09-01T00:00:00	United Kingdom	NULL	1
+2025-09-01T00:00:00	United Kingdom	Brockenhurst	3
+2025-09-01T00:00:00	United Kingdom	Chiswick	1
+2025-09-01T00:00:00	United Kingdom	NULL	1
+2025-09-01T00:00:00	South Korea	Gangnam-gu	1
+2025-09-01T00:00:00	South Korea	Incheon	2
+2025-09-01T00:00:00	South Korea	Daejeon	2
+2025-09-01T00:00:00	South Korea	Seoul	1
+2025-09-01T00:00:00	South Korea	Geoje	1
+2025-09-01T00:00:00	Germany	Bremen	5
+2025-09-01T00:00:00	Germany	NULL	1
+2025-09-01T00:00:00	Germany	Berlin	1
+2025-09-01T00:00:00	Canada	NULL	1
+2025-09-01T00:00:00	Canada	Waterloo	1
+2025-09-01T00:00:00	Canada	Montreal	1
+2025-09-01T00:00:00	Canada	Joliette	1
+2025-09-01T00:00:00	Canada	Hamilton	1
+2025-09-01T00:00:00	Canada	Burnaby	1
+2025-09-01T00:00:00	Canada	Brantford	1
+2025-09-01T00:00:00	Canada	NULL	1
+2025-09-01T00:00:00	Taiwan	NULL	2
+2025-09-01T00:00:00	Australia	NULL	2
+2025-09-01T00:00:00	Australia	Sydney	1
+2025-09-01T00:00:00	Australia	NULL	1
+2025-09-01T00:00:00	Greece	NULL	1
+2025-09-01T00:00:00	Russia	Zheleznogorsk	1
+2025-09-01T00:00:00	Russia	Saint Petersburg	1
+2025-09-01T00:00:00	Russia	Moscow	1
+2025-09-01T00:00:00	Russia	Gatchina	1
+2025-09-01T00:00:00	Russia	NULL	1
+2025-09-01T00:00:00	Bangladesh	Dhaka	1
+2025-09-01T00:00:00	Bangladesh	NULL	1
+2025-09-01T00:00:00	Bangladesh	NULL	3
+2025-09-01T00:00:00	France	Paris	2
+2025-09-01T00:00:00	France	Chalons-en-Champagne	2
+2025-09-01T00:00:00	France	Lyon	1
+2025-09-01T00:00:00	Turkey	Mersin	1
+2025-09-01T00:00:00	Turkey	Ankara	1
+2025-09-01T00:00:00	Turkey	NULL	1
+2025-09-01T00:00:00	Thailand	Bangkok	1
+2025-09-01T00:00:00	Thailand	Wiphawadi	2
+2025-09-01T00:00:00	The Netherlands	Amsterdam	2
+2025-09-01T00:00:00	The Netherlands	NULL	2
+2025-09-01T00:00:00	Pakistan	NULL	3
+2025-09-01T00:00:00	Tajikistan	NULL	1
+2025-09-01T00:00:00	United Arab Emirates	Dubai	1
+2025-09-01T00:00:00	United Arab Emirates	NULL	1
+2025-09-01T00:00:00	Singapore	Singapore	1
+2025-09-01T00:00:00	Singapore	NULL	1
+2025-09-01T00:00:00	Hong Kong	NULL	2
+2025-09-01T00:00:00	Finland	NULL	1
+2025-09-01T00:00:00	Uzbekistan	NULL	1
+2025-09-01T00:00:00	South Africa	NULL	1
+2025-09-01T00:00:00	Libya	NULL	1
+2025-09-01T00:00:00	Kazakhstan	NULL	1
+2025-09-01T00:00:00	Italy	NULL	1
+2025-09-01T00:00:00	Israel	NULL	1
+2025-09-01T00:00:00	Ireland	NULL	1
+2025-09-01T00:00:00	Indonesia	NULL	1
+2025-09-01T00:00:00	Chile	NULL	1
+2025-10-01T00:00:00	United States	Seattle	1
+2025-10-01T00:00:00	United States	Ashburn	1
+2025-10-01T00:00:00	United States	Santa Barbara	1
+2025-10-01T00:00:00	United States	Los Angeles	1
+2025-10-01T00:00:00	United States	Pittsburgh	2
+2025-10-01T00:00:00	United States	Chicago	1
+2025-10-01T00:00:00	United States	Goleta	1
+2025-10-01T00:00:00	United States	Atlanta	2
+2025-10-01T00:00:00	United States	New York	1
+2025-10-01T00:00:00	United States	Galesburg	1
+2025-10-01T00:00:00	United States	Boardman	1
+2025-10-01T00:00:00	United States	Four Oaks	1
+2025-10-01T00:00:00	United States	Coral Gables	1
+2025-10-01T00:00:00	United States	Madison	2
+2025-10-01T00:00:00	United States	Redmond	1
+2025-10-01T00:00:00	United States	Frisco	1
+2025-10-01T00:00:00	United States	Columbus	1
+2025-10-01T00:00:00	United States	Boston	1
+2025-10-01T00:00:00	United States	Austin	1
+2025-10-01T00:00:00	United States	Washington	1
+2025-10-01T00:00:00	United States	NULL	331
+2025-10-01T00:00:00	Iran	NULL	1
+2025-10-01T00:00:00	Iran	Tehran	1
+2025-10-01T00:00:00	Iran	Isfahan	1
+2025-10-01T00:00:00	Iran	NULL	24
+2025-10-01T00:00:00	China	NULL	1
+2025-10-01T00:00:00	China	Baoding	1
+2025-10-01T00:00:00	China	Nanjing	2
+2025-10-01T00:00:00	China	Xi'an	1
+2025-10-01T00:00:00	China	Shijiazhuang	1
+2025-10-01T00:00:00	China	Shanghai	1
+2025-10-01T00:00:00	China	Luoyang	1
+2025-10-01T00:00:00	China	Hongkou	1
+2025-10-01T00:00:00	China	NULL	8
+2025-10-01T00:00:00	Canada	NULL	1
+2025-10-01T00:00:00	Canada	Burnaby	1
+2025-10-01T00:00:00	Canada	Waterloo	2
+2025-10-01T00:00:00	Canada	NULL	6
+2025-10-01T00:00:00	India	NULL	1
+2025-10-01T00:00:00	India	Chennai	1
+2025-10-01T00:00:00	India	NULL	6
+2025-10-01T00:00:00	Bangladesh	NULL	3
+2025-10-01T00:00:00	Bangladesh	Dhaka	1
+2025-10-01T00:00:00	Bangladesh	Pabna	2
+2025-10-01T00:00:00	Bangladesh	Rajshahi	1
+2025-10-01T00:00:00	Denmark	Kobenhavn O	2
+2025-10-01T00:00:00	Denmark	NULL	1
+2025-10-01T00:00:00	Denmark	NULL	3
+2025-10-01T00:00:00	Germany	Cologne	1
+2025-10-01T00:00:00	Germany	NULL	1
+2025-10-01T00:00:00	Germany	Regensburg	2
+2025-10-01T00:00:00	Germany	Landsberg am Lech	1
+2025-10-01T00:00:00	Germany	Berlin	1
+2025-10-01T00:00:00	Germany	NULL	1
+2025-10-01T00:00:00	United Kingdom	NULL	1
+2025-10-01T00:00:00	United Kingdom	Clapham	1
+2025-10-01T00:00:00	United Kingdom	Manchester	2
+2025-10-01T00:00:00	United Kingdom	NULL	2
+2025-10-01T00:00:00	Japan	NULL	1
+2025-10-01T00:00:00	Japan	Tokyo	1
+2025-10-01T00:00:00	Japan	NULL	5
+2025-10-01T00:00:00	South Korea	NULL	1
+2025-10-01T00:00:00	South Korea	Gangnam-gu	1
+2025-10-01T00:00:00	South Korea	Seoul	1
+2025-10-01T00:00:00	South Korea	NULL	2
+2025-10-01T00:00:00	Russia	NULL	1
+2025-10-01T00:00:00	Russia	Volgograd	1
+2025-10-01T00:00:00	Russia	Nizhniy Novgorod	1
+2025-10-01T00:00:00	Russia	Moscow	1
+2025-10-01T00:00:00	Russia	NULL	1
+2025-10-01T00:00:00	Taiwan	Taipei	1
+2025-10-01T00:00:00	Taiwan	Hsinchu	1
+2025-10-01T00:00:00	Taiwan	NULL	2
+2025-10-01T00:00:00	Turkey	Mersin	2
+2025-10-01T00:00:00	Turkey	Tekirdağ	1
+2025-10-01T00:00:00	Turkey	Istanbul	1
+2025-10-01T00:00:00	Singapore	NULL	1
+2025-10-01T00:00:00	Singapore	Singapore	1
+2025-10-01T00:00:00	Singapore	NULL	1
+2025-10-01T00:00:00	France	Paris	2
+2025-10-01T00:00:00	France	NULL	1
+2025-10-01T00:00:00	Vietnam	NULL	1
+2025-10-01T00:00:00	Switzerland	NULL	2
+2025-10-01T00:00:00	Malaysia	NULL	1
+2025-10-01T00:00:00	Ukraine	NULL	1
+2025-10-01T00:00:00	Thailand	NULL	1
+2025-10-01T00:00:00	Spain	NULL	1
+2025-10-01T00:00:00	Saudi Arabia	NULL	1
+2025-10-01T00:00:00	Jamaica	NULL	1
+2025-10-01T00:00:00	Italy	NULL	1
+2025-10-01T00:00:00	Ireland	NULL	1
+2025-10-01T00:00:00	Chile	NULL	1
+2025-10-01T00:00:00	Brazil	NULL	1
+2025-10-01T00:00:00	Australia	NULL	1
+2025-11-01T00:00:00	United States	Seattle	9
+2025-11-01T00:00:00	United States	Ashburn	1
+2025-11-01T00:00:00	United States	Santa Barbara	1
+2025-11-01T00:00:00	United States	New York	1
+2025-11-01T00:00:00	United States	Ithaca	1
+2025-11-01T00:00:00	United States	San Jose	1
+2025-11-01T00:00:00	United States	Stanford	1
+2025-11-01T00:00:00	United States	Los Angeles	1
+2025-11-01T00:00:00	United States	Baltimore	1
+2025-11-01T00:00:00	United States	Washington	2
+2025-11-01T00:00:00	United States	Cambridge	1
+2025-11-01T00:00:00	United States	Chicago	1
+2025-11-01T00:00:00	United States	Clarksville	3
+2025-11-01T00:00:00	United States	Pflugerville	5
+2025-11-01T00:00:00	United States	Easley	5
+2025-11-01T00:00:00	United States	Austin	1
+2025-11-01T00:00:00	United States	Four Oaks	1
+2025-11-01T00:00:00	United States	Oceanside	1
+2025-11-01T00:00:00	United States	Atlanta	1
+2025-11-01T00:00:00	United States	San Francisco	1
+2025-11-01T00:00:00	United States	NULL	903
+2025-11-01T00:00:00	Canada	Montreal	1
+2025-11-01T00:00:00	Canada	Corner Brook	3
+2025-11-01T00:00:00	Canada	Vancouver	1
+2025-11-01T00:00:00	Canada	Toronto	1
+2025-11-01T00:00:00	Canada	Québec	1
+2025-11-01T00:00:00	Canada	Burnaby	1
+2025-11-01T00:00:00	Canada	Barrie	2
+2025-11-01T00:00:00	Canada	Victoria	1
+2025-11-01T00:00:00	Canada	Saint-Michel-des-Saints	1
+2025-11-01T00:00:00	Canada	Ottawa	1
+2025-11-01T00:00:00	Canada	NULL	37
+2025-11-01T00:00:00	India	Hyderabad	1
+2025-11-01T00:00:00	India	Thane	7
+2025-11-01T00:00:00	India	Delhi	2
+2025-11-01T00:00:00	India	New Delhi	2
+2025-11-01T00:00:00	India	Madurai	2
+2025-11-01T00:00:00	India	Ahmedabad	2
+2025-11-01T00:00:00	India	Pune	1
+2025-11-01T00:00:00	India	Nellore	1
+2025-11-01T00:00:00	India	Mumbai	1
+2025-11-01T00:00:00	India	Lucknow	1
+2025-11-01T00:00:00	India	NULL	19
+2025-11-01T00:00:00	Germany	Frankfurt am Main	3
+2025-11-01T00:00:00	Germany	Hamburg	5
+2025-11-01T00:00:00	Germany	Berlin	1
+2025-11-01T00:00:00	Germany	Remagen	4
+2025-11-01T00:00:00	Germany	Munich	1
+2025-11-01T00:00:00	Germany	Pullach im Isartal	1
+2025-11-01T00:00:00	Germany	Puchheim	1
+2025-11-01T00:00:00	Germany	Laatzen	1
+2025-11-01T00:00:00	Germany	Kaiserslautern	1
+2025-11-01T00:00:00	Germany	Erlangen	1
+2025-11-01T00:00:00	Germany	NULL	15
+2025-11-01T00:00:00	United Kingdom	London	1
+2025-11-01T00:00:00	United Kingdom	Cambridge	1
+2025-11-01T00:00:00	United Kingdom	Hackney	2
+2025-11-01T00:00:00	United Kingdom	Bradford	1
+2025-11-01T00:00:00	United Kingdom	Coventry	2
+2025-11-01T00:00:00	United Kingdom	Westbury	1
+2025-11-01T00:00:00	United Kingdom	Watford	1
+2025-11-01T00:00:00	United Kingdom	Sheffield	1
+2025-11-01T00:00:00	United Kingdom	Peterborough	1
+2025-11-01T00:00:00	United Kingdom	Oxford	1
+2025-11-01T00:00:00	United Kingdom	NULL	20
+2025-11-01T00:00:00	South Korea	Daejeon	1
+2025-11-01T00:00:00	South Korea	Seoul	1
+2025-11-01T00:00:00	South Korea	Gangnam-gu	1
+2025-11-01T00:00:00	South Korea	Dongjak-gu	1
+2025-11-01T00:00:00	South Korea	Geumcheon	1
+2025-11-01T00:00:00	South Korea	Ulsan	1
+2025-11-01T00:00:00	South Korea	Seongnam-si	1
+2025-11-01T00:00:00	South Korea	Incheon	1
+2025-11-01T00:00:00	South Korea	Gwangjin-gu	1
+2025-11-01T00:00:00	South Korea	Gimpo-si	1
+2025-11-01T00:00:00	South Korea	NULL	19
+2025-11-01T00:00:00	Bangladesh	Dhaka	1
+2025-11-01T00:00:00	Bangladesh	NULL	1
+2025-11-01T00:00:00	Bangladesh	Rangpur	1
+2025-11-01T00:00:00	Bangladesh	Kushtia	1
+2025-11-01T00:00:00	Bangladesh	NULL	16
+2025-11-01T00:00:00	Israel	Tel Aviv	3
+2025-11-01T00:00:00	Israel	NULL	1
+2025-11-01T00:00:00	Israel	Ashdod	1
+2025-11-01T00:00:00	Israel	Rehovot	1
+2025-11-01T00:00:00	Israel	Ramat Gan	1
+2025-11-01T00:00:00	Israel	Holon	1
+2025-11-01T00:00:00	Israel	NULL	7
+2025-11-01T00:00:00	Japan	NULL	1
+2025-11-01T00:00:00	Japan	Tokyo	1
+2025-11-01T00:00:00	Japan	Saitama	1
+2025-11-01T00:00:00	Japan	Bunkyo-ku	1
+2025-11-01T00:00:00	Japan	Yokohama	2
+2025-11-01T00:00:00	Japan	Setagaya-ku	1
+2025-11-01T00:00:00	Japan	Sendai	1
+2025-11-01T00:00:00	Japan	Osaka	1
+2025-11-01T00:00:00	Japan	Kyoto	1
+2025-11-01T00:00:00	Japan	NULL	10
+2025-11-01T00:00:00	Sweden	Gothenburg	13
+2025-11-01T00:00:00	Sweden	NULL	1
+2025-11-01T00:00:00	Sweden	Ringoen	2
+2025-11-01T00:00:00	Sweden	Halmstad	1
+2025-11-01T00:00:00	China	NULL	1
+2025-11-01T00:00:00	China	Shanghai	1
+2025-11-01T00:00:00	China	Beijing	1
+2025-11-01T00:00:00	China	Tianjin	1
+2025-11-01T00:00:00	China	Shenzhen	1
+2025-11-01T00:00:00	China	Quanzhou	1
+2025-11-01T00:00:00	China	Harbin	1
+2025-11-01T00:00:00	China	Foshan	1
+2025-11-01T00:00:00	China	Baoding	1
+2025-11-01T00:00:00	China	NULL	7
+2025-11-01T00:00:00	France	NULL	1
+2025-11-01T00:00:00	France	Paris	1
+2025-11-01T00:00:00	France	Palaiseau	4
+2025-11-01T00:00:00	France	Marseille	2
+2025-11-01T00:00:00	France	Lucon	1
+2025-11-01T00:00:00	France	La Roche-Chalais	1
+2025-11-01T00:00:00	France	NULL	2
+2025-11-01T00:00:00	Iran	NULL	1
+2025-11-01T00:00:00	Iran	Tehran	1
+2025-11-01T00:00:00	Iran	Tabriz	1
+2025-11-01T00:00:00	Iran	NULL	13
+2025-11-01T00:00:00	Denmark	NULL	1
+2025-11-01T00:00:00	Denmark	Copenhagen	3
+2025-11-01T00:00:00	Denmark	Aarhus C	1
+2025-11-01T00:00:00	Denmark	Kobenhavn O	2
+2025-11-01T00:00:00	Denmark	Kolding	1
+2025-11-01T00:00:00	Denmark	NULL	1
+2025-11-01T00:00:00	Switzerland	NULL	1
+2025-11-01T00:00:00	Switzerland	Bern	2
+2025-11-01T00:00:00	Switzerland	Onex	1
+2025-11-01T00:00:00	Switzerland	NULL	8
+2025-11-01T00:00:00	The Netherlands	NULL	1
+2025-11-01T00:00:00	The Netherlands	Utrecht	1
+2025-11-01T00:00:00	The Netherlands	Zandvoort	2
+2025-11-01T00:00:00	The Netherlands	Lelystad	1
+2025-11-01T00:00:00	The Netherlands	Kortenhoef	1
+2025-11-01T00:00:00	The Netherlands	Diemen	1
+2025-11-01T00:00:00	The Netherlands	Amsterdam	1
+2025-11-01T00:00:00	The Netherlands	NULL	3
+2025-11-01T00:00:00	Taiwan	Taipei	1
+2025-11-01T00:00:00	Taiwan	NULL	1
+2025-11-01T00:00:00	Taiwan	NULL	8
+2025-11-01T00:00:00	Hong Kong	NULL	1
+2025-11-01T00:00:00	Hong Kong	Central	1
+2025-11-01T00:00:00	Hong Kong	Kowloon	1
+2025-11-01T00:00:00	Hong Kong	Tsimshatsui	1
+2025-11-01T00:00:00	Hong Kong	Central District	1
+2025-11-01T00:00:00	Hong Kong	NULL	5
+2025-11-01T00:00:00	Singapore	NULL	1
+2025-11-01T00:00:00	Singapore	Singapore	1
+2025-11-01T00:00:00	Singapore	NULL	7
+2025-11-01T00:00:00	Poland	Lancut	5
+2025-11-01T00:00:00	Poland	Białystok	1
+2025-11-01T00:00:00	Poland	Warsaw	1
+2025-11-01T00:00:00	Poland	Lublin	1
+2025-11-01T00:00:00	Poland	Krakow	1
+2025-11-01T00:00:00	Turkey	NULL	1
+2025-11-01T00:00:00	Turkey	Tekirdağ	1
+2025-11-01T00:00:00	Turkey	NULL	4
+2025-11-01T00:00:00	Spain	Barcelona	1
+2025-11-01T00:00:00	Spain	Bormujos	2
+2025-11-01T00:00:00	Spain	Bilbao	2
+2025-11-01T00:00:00	Spain	NULL	1
+2025-11-01T00:00:00	Czech Republic	NULL	1
+2025-11-01T00:00:00	Czech Republic	Milevsko	1
+2025-11-01T00:00:00	Czech Republic	NULL	3
+2025-11-01T00:00:00	Italy	NULL	2
+2025-11-01T00:00:00	Italy	Casalnuovo di Napoli	1
+2025-11-01T00:00:00	United Arab Emirates	NULL	2
+2025-11-01T00:00:00	Thailand	NULL	2
+2025-11-01T00:00:00	Puerto Rico	NULL	1
+2025-11-01T00:00:00	New Zealand	NULL	1
+2025-11-01T00:00:00	Russia	Chelyabinsk	1
+2025-11-01T00:00:00	Russia	NULL	1
+2025-11-01T00:00:00	Russia	NULL	1
+2025-11-01T00:00:00	Australia	Melbourne	1
+2025-11-01T00:00:00	Australia	Brunswick East	1
+2025-11-01T00:00:00	Australia	NULL	1
+2025-11-01T00:00:00	Ireland	Dublin	1
+2025-11-01T00:00:00	Ireland	NULL	1
+2025-11-01T00:00:00	Ireland	NULL	1
+2025-11-01T00:00:00	Portugal	NULL	3
+2025-11-01T00:00:00	Malaysia	NULL	3
+2025-11-01T00:00:00	Saudi Arabia	NULL	2
+2025-11-01T00:00:00	Norway	NULL	1
+2025-11-01T00:00:00	Belgium	NULL	1
+2025-11-01T00:00:00	Brazil	Belo Horizonte	1
+2025-11-01T00:00:00	Brazil	NULL	1
+2025-11-01T00:00:00	Uganda	NULL	2
+2025-11-01T00:00:00	Qatar	NULL	1
+2025-11-01T00:00:00	Sudan	NULL	1
+2025-11-01T00:00:00	Moldova	NULL	1
+2025-11-01T00:00:00	Lithuania	NULL	1
+2025-11-01T00:00:00	Oman	NULL	1
+2025-11-01T00:00:00	Nigeria	NULL	1
+2025-11-01T00:00:00	Luxembourg	NULL	1
+2025-11-08T14:24:00	(not set)	NULL	1
+2025-11-08T14:32:00	(not set)	NULL	1
+2025-11-08T15:55:00	United States	San Jose	1
+2025-11-08T16:05:00	United States	San Jose	1
+2025-11-08T16:06:00	Denmark	Copenhagen	1
+2025-11-08T17:38:00	Hong Kong	NULL	1
+2025-11-08T18:48:00	United States	Ithaca	1
+2025-11-08T18:50:00	United States	Ithaca	1
+2025-11-08T18:58:00	United States	Stanford	1
+2025-11-08T18:59:00	United States	Stanford	1
+2025-11-08T19:00:00	United States	Berkeley	1
+2025-11-08T20:34:00	United States	Ashburn	1
+2025-11-08T20:35:00	United States	Ashburn	1
+2025-11-08T21:54:00	United States	Concord	1
+2025-11-08T21:55:00	United States	Concord	1
+2025-11-08T21:59:00	United States	Concord	1
+2025-11-08T22:21:00	United States	Concord	1
+2025-11-09T00:04:00	United States	NULL	1
+2025-11-09T01:22:00	United States	San Jose	1
+2025-11-09T02:32:00	China	Lanzhou	1
+2025-11-09T02:32:00	Singapore	Singapore	1
+2025-11-09T03:50:00	Germany	Tubingen	1
+2025-11-09T05:23:00	United States	Anaheim	1
+2025-11-09T05:23:00	Denmark	Copenhagen	1
+2025-11-09T05:38:00	Iran	Tehran	1
+2025-11-09T09:02:00	Iran	Khorramabad	1
+2025-11-09T09:50:00	United States	Cambridge	1
+2025-11-09T09:51:00	United States	Cambridge	1
+2025-11-09T11:04:00	China	Lanzhou	1
+2025-11-09T11:14:00	China	Lanzhou	1
+2025-11-09T11:14:00	Singapore	Singapore	1
+2025-11-09T11:18:00	China	Lanzhou	1
+2025-11-09T11:46:00	China	Lanzhou	1
+2025-11-09T11:46:00	Singapore	Singapore	1
+2025-11-09T11:51:00	United States	Cambridge	1
+2025-11-09T12:27:00	United States	Amherst	1
+2025-11-09T12:28:00	United States	Amherst	1
+2025-11-09T13:43:00	United States	Amherst	1
+2025-11-09T13:44:00	United States	Amherst	1
+2025-11-09T14:16:00	Denmark	Copenhagen	1
+2025-11-09T14:17:00	China	Lanzhou	1
+2025-11-09T14:17:00	Denmark	Copenhagen	1
+2025-11-09T14:17:00	Singapore	Singapore	1
+2025-11-09T14:24:00	United States	Amherst	1
+2025-11-09T14:54:00	United States	Des Moines	1
+2025-11-09T14:54:00	United States	Sammamish	1
+2025-11-09T14:55:00	United States	Des Moines	1
+2025-11-09T14:57:00	United States	Sammamish	1
+2025-11-09T14:59:00	United States	Sammamish	1
+2025-11-09T15:12:00	Bangladesh	Dhaka	1
+2025-11-09T15:37:00	United States	Pittsburgh	1
+2025-11-09T15:38:00	United States	Pittsburgh	1
+2025-11-09T15:39:00	United States	Pittsburgh	1
+2025-11-09T15:40:00	United States	Pittsburgh	1
+2025-11-09T17:13:00	United States	Mountain View	1
+2025-11-09T18:01:00	United States	Huntsville	1
+2025-11-09T18:02:00	United States	Huntsville	1
+2025-11-09T18:25:00	United States	Pittsburgh	1
+2025-11-09T19:28:00	United States	Pittsburgh	1
+2025-11-09T19:29:00	United States	Pittsburgh	1
+2025-11-09T19:32:00	United States	Pittsburgh	1
+2025-11-09T19:41:00	United States	Pittsburgh	1
+2025-11-09T20:16:00	China	Lanzhou	1
+2025-11-09T20:16:00	Singapore	Singapore	1
+2025-11-09T21:01:00	United States	Chicago	1
+2025-11-09T21:21:00	United States	Mountain View	1
+2025-11-09T21:21:00	United States	Sunnyvale	1
+2025-11-09T23:17:00	United States	Baltimore	1
+2025-11-10T00:24:00	Saudi Arabia	Dammam	1
+2025-11-10T00:42:00	Germany	NULL	1
+2025-11-10T00:43:00	Germany	NULL	1
+2025-11-10T00:44:00	Iran	Tehran	1
+2025-11-10T02:30:00	China	Lanzhou	1
+2025-11-10T04:47:00	United States	Ashburn	1
+2025-11-10T08:13:00	United States	Columbia	1
+2025-11-10T08:20:00	China	Lanzhou	1
+2025-11-10T08:20:00	Singapore	NULL	1
+2025-11-10T08:57:00	United States	Corvallis	1
+2025-11-10T08:58:00	United States	Corvallis	1
+2025-11-10T09:13:00	United States	Corvallis	1
+2025-11-10T09:14:00	United States	Corvallis	1
+2025-11-10T09:53:00	United States	Concord	1
+2025-11-10T09:54:00	United States	Concord	1
+2025-11-10T09:55:00	Denmark	Copenhagen	1
+2025-11-10T09:58:00	United States	NULL	1
+2025-11-10T09:59:00	United States	NULL	1
+2025-11-10T10:19:00	United States	Nashville	1
+2025-11-10T11:14:00	Singapore	Singapore	1
+2025-11-10T11:14:00	Singapore	NULL	1
+2025-11-10T11:14:00	China	Lanzhou	1
+2025-11-10T11:40:00	United States	Ithaca	1
+2025-11-10T11:42:00	United States	Ithaca	1
+2025-11-10T11:44:00	United States	Ithaca	1
+2025-11-10T13:01:00	United States	Urbana	1
+2025-11-10T13:02:00	United States	Urbana	1
+2025-11-10T13:07:00	United States	Baltimore	1
+2025-11-10T14:21:00	China	Lanzhou	1
+2025-11-10T14:21:00	Singapore	Singapore	1
+2025-11-10T15:22:00	Hong Kong	NULL	1
+2025-11-10T15:48:00	United States	San Jose	1
+2025-11-10T15:49:00	United States	San Jose	1
+2025-11-10T15:57:00	United States	NULL	1
+2025-11-10T15:59:00	United States	San Jose	1
+2025-11-10T16:30:00	United States	Berkeley	1
+2025-11-10T16:31:00	United States	Berkeley	1
+2025-11-10T17:08:00	United States	Berkeley	1
+2025-11-10T17:51:00	United States	Sayreville	1
+2025-11-10T18:45:00	United States	Santa Clara	1
+2025-11-10T18:46:00	United States	Santa Clara	1
+2025-11-10T18:47:00	United States	New York	1
+2025-11-10T18:48:00	United States	New York	1
+2025-11-10T19:04:00	United States	Chapel Hill	1
+2025-11-10T19:13:00	United States	Chapel Hill	1
+2025-11-10T19:14:00	United States	Chapel Hill	1
+2025-11-10T19:15:00	United States	Chapel Hill	1
+2025-11-10T19:18:00	United States	Chapel Hill	1
+2025-11-10T19:19:00	United States	Chapel Hill	1
+2025-11-10T19:50:00	United States	Baltimore	1
+2025-11-10T20:05:00	United States	College Park	1
+2025-11-10T20:16:00	China	Lanzhou	1
+2025-11-10T20:16:00	United States	NULL	1
+2025-11-10T20:23:00	United States	Chapel Hill	1
+2025-11-10T20:43:00	United States	San Jose	1
+2025-11-10T20:44:00	United States	San Jose	1
+2025-11-10T20:47:00	United States	Stanford	1
+2025-11-10T20:48:00	United States	Stanford	1
+2025-11-10T20:56:00	United States	San Jose	1
+2025-11-10T21:05:00	Iran	Tehran	1
+2025-11-10T21:09:00	United States	Knoxville	1
+2025-11-10T21:10:00	United States	Knoxville	1
+2025-11-10T21:23:00	China	NULL	1
+2025-11-10T21:24:00	China	NULL	1
+2025-11-10T21:35:00	United States	Los Angeles	1
+2025-11-10T21:37:00	United States	Los Angeles	1
+2025-11-10T21:42:00	United States	Los Angeles	1
+2025-11-10T21:43:00	United States	Los Angeles	1
+2025-11-10T21:44:00	United States	Los Angeles	1
+2025-11-10T23:51:00	Singapore	Singapore	1
+2025-11-10T23:57:00	Singapore	Singapore	1
+2025-11-10T23:58:00	Singapore	Singapore	1
+2025-11-11T02:28:00	China	Lanzhou	1
+2025-11-11T02:28:00	Singapore	Singapore	1
+2025-11-11T06:07:00	United States	Des Moines	1
+2025-11-11T06:25:00	United States	Des Moines	1
+2025-11-11T06:40:00	United States	Seattle	1
+2025-11-11T06:41:00	United States	Seattle	1
+2025-11-11T07:45:00	United States	Philadelphia	1
+2025-11-11T07:47:00	United States	Philadelphia	1
+2025-11-11T07:48:00	United States	Philadelphia	1
+2025-11-11T07:56:00	United States	Concord	1
+2025-11-11T07:57:00	United States	Concord	1
+2025-11-11T08:24:00	China	Lanzhou	1
+2025-11-11T08:24:00	Singapore	Singapore	1
+2025-11-11T09:46:00	United States	Concord	1
+2025-11-11T10:20:00	China	Lanzhou	1
+2025-11-11T10:20:00	Singapore	Singapore	1
+2025-11-11T10:24:00	China	Lanzhou	1
+2025-11-11T11:10:00	United States	Pittsburgh	1
+2025-11-11T11:32:00	Singapore	Singapore	1
+2025-11-11T11:39:00	China	Lanzhou	1
+2025-11-11T11:39:00	Singapore	Singapore	1
+2025-11-11T11:46:00	United States	Cairo	1
+2025-11-11T11:50:00	United States	Cairo	1
+2025-11-11T12:31:00	United States	Atlanta	1
+2025-11-11T12:42:00	United States	NULL	1
+2025-11-11T12:52:00	United States	Atlanta	1
+2025-11-11T13:45:00	United States	Matawan	1
+2025-11-11T13:46:00	United States	Bethlehem	1
+2025-11-11T13:49:00	United States	Matawan	1
+2025-11-11T13:49:00	United States	Bethlehem	1
+2025-11-11T13:50:00	United States	Bethlehem	1
+2025-11-11T13:51:00	United States	Seattle	1
+2025-11-11T14:20:00	United States	Matawan	1
+2025-11-11T14:30:00	United States	Matawan	1
+2025-11-11T14:31:00	United States	Matawan	1
+2025-11-11T14:32:00	United States	Matawan	1
+2025-11-11T14:37:00	United States	Matawan	1
+2025-11-11T14:38:00	United States	Matawan	1
+2025-11-11T14:46:00	United States	Pittsburgh	1
+2025-11-11T14:47:00	United States	Pittsburgh	1
+2025-11-11T14:55:00	United States	Seattle	1
+2025-11-11T15:05:00	United States	Seattle	1
+2025-11-11T17:03:00	United States	Anaheim	1
+2025-11-11T17:05:00	United States	Anaheim	1
+2025-11-11T17:07:00	United States	Berkeley	1
+2025-11-11T17:25:00	United States	Seattle	1
+2025-11-11T17:46:00	United States	Fairfax	1
+2025-11-11T17:55:00	United States	Pittsburgh	1
+2025-11-11T18:00:00	United States	Chapel Hill	1
+2025-11-11T18:01:00	United States	Chapel Hill	1
+2025-11-11T18:09:00	United States	Chapel Hill	1
+2025-11-11T18:56:00	United States	East Brunswick	1
+2025-11-11T18:57:00	United States	East Brunswick	1
+2025-11-11T19:12:00	United States	San Francisco	1
+2025-11-11T19:13:00	United States	San Francisco	1
+2025-11-11T19:36:00	United States	San Francisco	1
+2025-11-11T19:37:00	United States	San Francisco	1
+2025-11-11T19:49:00	Canada	Cambridge	1
+2025-11-11T19:58:00	United States	San Ramon	1
+2025-11-11T20:02:00	United States	San Ramon	1
+2025-11-11T20:11:00	United States	San Francisco	1
+2025-11-11T20:41:00	China	Lanzhou	1
+2025-11-11T20:41:00	Singapore	Singapore	1
+2025-11-11T21:04:00	United States	Ashburn	1
+2025-11-11T21:24:00	United States	Newark	1
+2025-11-12T01:01:00	Denmark	Copenhagen	1
+2025-11-12T01:05:00	United States	Baltimore	1
+2025-11-12T01:09:00	Singapore	Singapore	1
+2025-11-12T01:16:00	United States	Seattle	1
+2025-11-12T02:17:00	China	Lanzhou	1
+2025-11-12T02:17:00	Singapore	Singapore	1
+2025-11-12T02:41:00	Iran	Tehran	1
+2025-11-12T06:29:00	United States	NULL	1
+2025-11-12T06:34:00	United States	Atlanta	1
+2025-11-12T06:49:00	India	Coimbatore	1
+2025-11-12T07:09:00	United States	Pittsburgh	1
+2025-11-12T07:25:00	United States	New York	1
+2025-11-12T07:26:00	United States	New York	1
+2025-11-12T07:28:00	United States	New York	1
+2025-11-12T07:34:00	United States	Cambridge	1
+2025-11-12T07:36:00	United States	New York	1
+2025-11-12T08:28:00	China	Lanzhou	1
+2025-11-12T08:35:00	United States	Chapel Hill	1
+2025-11-12T08:36:00	United States	Chapel Hill	1
+2025-11-12T08:37:00	United States	Chapel Hill	1
+2025-11-12T08:46:00	United States	Seattle	1
+2025-11-12T08:54:00	United States	Seattle	1
+2025-11-12T08:55:00	United States	Seattle	1
+2025-11-12T09:03:00	United States	New Haven	1
+2025-11-12T09:05:00	United States	Seattle	1
+2025-11-12T09:15:00	United States	Pittsburgh	1
+2025-11-12T09:31:00	United States	Nashville	1
+2025-11-12T09:34:00	United States	Nashville	1
+2025-11-12T09:35:00	United States	Nashville	1
+2025-11-12T09:37:00	United States	Nashville	1
+2025-11-12T09:46:00	United States	Chapel Hill	1
+2025-11-12T09:53:00	Czechia	Prague	1
+2025-11-12T10:05:00	United States	Seattle	1
+2025-11-12T10:14:00	United States	Seattle	1
+2025-11-12T10:19:00	United States	Seattle	1
+2025-11-12T10:24:00	United States	Cambridge	1
+2025-11-12T10:41:00	United States	Nashville	1
+2025-11-12T11:02:00	China	Lanzhou	1
+2025-11-12T11:02:00	Singapore	Singapore	1
+2025-11-12T11:03:00	United States	Chicago	1
+2025-11-12T11:17:00	United States	San Jose	1
+2025-11-12T12:04:00	United States	Ashburn	1
+2025-11-12T12:13:00	United States	Ashburn	1
+2025-11-12T12:14:00	United States	East Brunswick	1
+2025-11-12T12:15:00	United States	East Brunswick	1
+2025-11-12T12:24:00	United States	East Brunswick	1
+2025-11-12T12:30:00	United States	Washington	1
+2025-11-12T12:32:00	United States	East Brunswick	1
+2025-11-12T12:33:00	United States	East Brunswick	1
+2025-11-12T12:39:00	United States	Council Bluffs	1
+2025-11-12T13:15:00	United States	New York	1
+2025-11-12T13:26:00	United States	New York	1
+2025-11-12T13:36:00	United States	NULL	1
+2025-11-12T14:21:00	China	Lanzhou	1
+2025-11-12T14:39:00	United States	Danville	1
+2025-11-12T14:40:00	United States	Danville	1
+2025-11-12T15:14:00	United States	San Jose	1
+2025-11-12T15:25:00	United States	Chapel Hill	1
+2025-11-12T15:57:00	United States	San Jose	1
+2025-11-12T16:16:00	United States	Ann Arbor	1
+2025-11-12T17:34:00	United States	NULL	1
+2025-11-12T17:36:00	United States	NULL	1
+2025-11-12T17:53:00	United States	NULL	1
+2025-11-12T18:19:00	United States	Ashburn	1
+2025-11-12T18:30:00	United States	Madison	1
+2025-11-12T18:36:00	United States	Phoenix	1
+2025-11-12T18:42:00	United States	Phoenix	1
+2025-11-12T19:46:00	Singapore	Singapore	1
+2025-11-12T19:58:00	Japan	NULL	1
+2025-11-12T19:59:00	Japan	NULL	1
+2025-11-12T20:17:00	China	Lanzhou	1
+2025-11-12T20:27:00	United States	NULL	1
+2025-11-12T20:28:00	United States	NULL	1
+2025-11-12T20:43:00	United States	Seattle	1
+2025-11-12T20:44:00	United States	Seattle	1
+2025-11-12T21:25:00	United States	Anaheim	1
+2025-11-12T22:50:00	United States	NULL	1
+2025-11-12T22:53:00	United States	San Jose	1
+2025-11-12T23:06:00	United States	South Brunswick Township	1
+2025-11-12T23:09:00	United States	South Brunswick Township	1
+2025-11-13T00:46:00	Iran	Tehran	1
+2025-11-13T01:10:00	United States	San Jose	1
+2025-11-13T01:11:00	United States	San Jose	1
+2025-11-13T01:37:00	United States	San Jose	1
+2025-11-13T02:16:00	China	Lanzhou	1
+2025-11-13T02:16:00	Singapore	Singapore	1
+2025-11-13T02:51:00	United States	Pittsburgh	1
+2025-11-13T02:56:00	United States	NULL	1
+2025-11-13T03:09:00	United States	Pittsburgh	1
+2025-11-13T04:55:00	Germany	Berlin	1
+2025-11-13T05:26:00	Italy	Turin	1
+2025-11-13T06:31:00	United States	Chapel Hill	1
+2025-11-13T07:12:00	China	NULL	1
+2025-11-13T08:07:00	United States	Seattle	1
+2025-11-13T08:26:00	China	Lanzhou	1
+2025-11-13T08:26:00	Singapore	Singapore	1
+2025-11-13T10:48:00	China	Lanzhou	1
+2025-11-13T10:48:00	Singapore	Singapore	1
+2025-11-13T10:54:00	United States	Seattle	1
+2025-11-13T11:10:00	China	Lanzhou	1
+2025-11-13T12:06:00	United States	Philadelphia	1
+2025-11-13T12:18:00	United States	Ithaca	1
+2025-11-13T12:24:00	Singapore	Singapore	1
+2025-11-13T13:47:00	United States	Los Gatos	1
+2025-11-13T14:10:00	United States	Seattle	1
+2025-11-13T14:11:00	United States	Seattle	1
+2025-11-13T14:16:00	China	Lanzhou	1
+2025-11-13T14:16:00	Singapore	Singapore	1
+2025-11-13T14:56:00	China	NULL	1
+2025-11-13T16:37:00	United States	Chapel Hill	1
+2025-11-13T18:53:00	United States	New York	1
+2025-11-13T18:56:00	United States	Pittsburgh	1
+2025-11-13T18:57:00	United States	Seattle	1
+2025-11-13T18:58:00	United States	Seattle	1
+2025-11-13T19:26:00	United States	Atlanta	1
+2025-11-13T19:47:00	United States	Amherst	1
+2025-11-13T20:18:00	China	Lanzhou	1
+2025-11-13T20:18:00	China	Beijing	1
+2025-11-13T20:25:00	United States	Des Moines	1
+2025-11-13T21:09:00	United States	Des Moines	1
+2025-11-13T21:10:00	United States	Des Moines	1
+2025-11-13T22:07:00	United States	San Jose	1
+2025-11-13T22:39:00	Singapore	Singapore	1
+2025-11-13T23:40:00	United States	Santa Barbara	1
+2025-11-14T02:23:00	China	Lanzhou	1
+2025-11-14T04:06:00	United States	Council Bluffs	1
+2025-11-14T05:44:00	Iran	Tehran	1
+2025-11-14T08:19:00	China	Lanzhou	1
+2025-11-14T08:19:00	Singapore	Singapore	1
+2025-11-14T08:51:00	United States	NULL	1
+2025-11-14T09:05:00	United States	NULL	1
+2025-11-14T09:40:00	United States	Washington	1
+2025-11-14T10:10:00	United States	Boston	1
+2025-11-14T11:30:00	China	Lanzhou	1
+2025-11-14T11:30:00	Singapore	Singapore	1
+2025-11-14T11:31:00	China	Lanzhou	1
+2025-11-14T11:31:00	Singapore	Singapore	1
+2025-11-14T11:32:00	China	Lanzhou	1
+2025-11-14T11:32:00	Singapore	Singapore	1
+2025-11-14T11:52:00	United States	Pittsburgh	1
+2025-11-14T12:38:00	Netherlands	Amsterdam	1
+2025-11-14T13:13:00	United States	Arvada	1
+2025-11-14T13:14:00	United States	Arvada	1
+2025-11-14T13:27:00	United States	Nashville	1
+2025-11-14T14:21:00	China	Lanzhou	1
+2025-11-14T14:21:00	Singapore	Singapore	1
+2025-11-14T15:51:00	United States	San Jose	1
+2025-11-14T15:52:00	United States	San Jose	1
+2025-11-14T16:13:00	United States	Moses Lake	1
+2025-11-14T16:14:00	United States	Moses Lake	1
+2025-11-14T16:34:00	United States	Camarillo	1
+2025-11-14T16:35:00	United States	Camarillo	1
+2025-11-14T16:36:00	United States	Camarillo	1
+2025-11-14T17:50:00	United States	Seattle	1
+2025-11-14T18:29:00	United States	NULL	1
+2025-11-14T18:30:00	United States	NULL	1
+2025-11-14T20:01:00	United States	NULL	1
+2025-11-14T20:03:00	United States	NULL	1
+2025-11-14T20:19:00	United States	Melrose	1
+2025-11-14T20:20:00	United States	Camp Verde	1
+2025-11-14T20:20:00	China	Lanzhou	1
+2025-11-14T20:20:00	Singapore	Singapore	1
+2025-11-14T20:34:00	United States	Melrose	1
+2025-11-14T20:38:00	United States	Baltimore	1
+2025-11-14T20:38:00	United States	Melrose	1
+2025-11-14T21:45:00	United States	Pittsburgh	1
+2025-11-14T21:46:00	United States	Pittsburgh	1
+2025-11-14T21:47:00	United States	Pittsburgh	1
+2025-11-14T23:38:00	United States	Seattle	1
+2025-11-14T23:39:00	United States	Seattle	1
+2025-11-14T23:40:00	United States	Seattle	1
+2025-11-14T23:41:00	United States	Seattle	1
+2025-11-15T02:17:00	China	Lanzhou	1
+2025-11-15T02:17:00	Singapore	Singapore	1
+2025-11-15T04:27:00	Italy	Milan	1
+2025-11-15T04:30:00	Italy	Milan	1
+2025-11-15T04:38:00	Italy	Milan	1
+2025-11-15T04:42:00	Italy	Milan	1
+2025-11-15T07:41:00	United States	Clinton	1
+2025-11-15T08:27:00	China	Lanzhou	1
+2025-11-15T08:27:00	Singapore	Singapore	1
