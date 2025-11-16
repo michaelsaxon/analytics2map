@@ -58,7 +58,7 @@ Put your GCP json credential file at the path you specify with the `credentials_
 
 For ease of integration with github actions I store my key at `secret.json`. Doing this will make your script work with the existing `update-map` workflow.
 
-> [WARNING]
+> [!CAUTION]
 > `secret.json` **is a magic filename which is included in .gitignore. Do not add keys under any other filename (or if you do, put them in .gitignore). This is very important to avoid committing your keys.**
 
 ```bash
@@ -67,13 +67,24 @@ analytics2map ingest-ga --config-path config/prod.yml
 
 This fetches new events since the last timestamp in `visits.tsv` (or `data/last_seen.txt`), appends each event as a row with `num_unique=1`, and updates the last-seen timestamp.
 
-### 2. Render SVG visitor maps
+### 2. Render the maps
+
+To render the static svg:
 
 ```bash
 analytics2map render --config-path config/prod.yml
 ```
 
 The renderer reads all rows from `visits.tsv`, groups by `(city, country)`, sums `num_unique`, and renders SVG files for every configured scale to `renderer.output_dir` (default `output/`).
+
+You can also render a rotating visitor globe map and/or an interactive (pan and zoom) visitor map using:
+
+```bash
+analytics2map render-globe --config-path config/prod.yml
+analytics2map render-interactive --config-path config/prod.yml
+```
+
+Both of which write `output/visitors-data.json` as a processed latlong/visitor count info file that are read by the generated `visitors-globe.html` and `visitors-interactive.html` using d3js.
 
 ### [Optional] Automation with Github actions and Github pages
 
