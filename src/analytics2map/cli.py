@@ -13,6 +13,8 @@ from .config import AppConfig
 from .ga_client import GoogleAnalyticsClient
 from .persistence import VisitStore
 from .renderer.map_renderer import MapRenderer
+from .renderer.interactive_globe_renderer import InteractiveGlobeRenderer
+from .renderer.interactive_map_renderer import InteractiveMapRenderer
 
 app = typer.Typer(add_completion=False, help="analytics2map command line interface")
 console = Console()
@@ -123,6 +125,52 @@ def render_maps(
     renderer = MapRenderer(config.renderer)
     renderer.render(aggregates, recent)
     console.print(f"Rendered {len(config.renderer.scales)} map variants to {config.renderer.output_dir}.")
+
+
+@app.command("render-interactive")
+def render_interactive_map(
+    config_path: Path = typer.Option(..., exists=True),
+    output_html: Optional[Path] = typer.Option(
+        None,
+        "--output-html",
+        "-o",
+        help="Path for the interactive HTML map output (defaults to output/visitors-interactive.html)",
+    ),
+    verbose: bool = typer.Option(False, "--verbose", "-v"),
+) -> None:
+    """Render an interactive D3.js visitor map as a standalone HTML file."""
+    _setup_logging(verbose)
+    config = AppConfig.load(config_path)
+
+    store = VisitStore(config.database.path)
+    aggregates = store.aggregate_locations_with_last_seen()
+
+    renderer = InteractiveMapRenderer(config.renderer)
+    output_path = renderer.render(aggregates, output_html)
+    console.print(f"Rendered interactive map to {output_path}")
+
+
+@app.command("render-globe")
+def render_globe(
+    config_path: Path = typer.Option(..., exists=True),
+    output_html: Optional[Path] = typer.Option(
+        None,
+        "--output-html",
+        "-o",
+        help="Path for the globe HTML output (defaults to output/visitors-globe.html)",
+    ),
+    verbose: bool = typer.Option(False, "--verbose", "-v"),
+) -> None:
+    """Render a rotating 3D globe visualization as a standalone HTML file."""
+    _setup_logging(verbose)
+    config = AppConfig.load(config_path)
+
+    store = VisitStore(config.database.path)
+    aggregates = store.aggregate_locations_with_last_seen()
+
+    renderer = InteractiveGlobeRenderer(config.renderer)
+    output_path = renderer.render(aggregates, output_html)
+    console.print(f"Rendered rotating globe to {output_path}")
 
 
 if __name__ == "__main__":

@@ -18,7 +18,7 @@ renderer:
   theme:
     background_color: "#1f1f28"
     land_fill: "#7aa89f"
-    land_stroke: "#7aa89f"
+    land_stroke: "#3d6b62"
     grid_stroke: "#625987"
     bubble_fill: "#dcd7ba"
     bubble_stroke: "#efede3"

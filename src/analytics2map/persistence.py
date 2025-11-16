@@ -98,6 +98,45 @@ class VisitStore:
 
         return aggregates
 
+    def aggregate_locations_with_last_seen(
+        self,
+    ) -> Dict[str, Tuple[Location, int, datetime | None]]:
+        """Aggregate visits by city/country, including most recent timestamp per location.
+
+        Returns:
+            Dict mapping normalized location key -> (Location, total_visits, last_timestamp)
+        """
+        if not self.tsv_path.exists():
+            return {}
+
+        aggregates: Dict[str, Tuple[Location, int, datetime | None]] = {}
+
+        with self.tsv_path.open("r", encoding="utf-8") as fh:
+            reader = csv.DictReader(fh, delimiter="\t")
+            for row in reader:
+                try:
+                    raw_city = row["city"].strip()
+                    city = None if raw_city == "NULL" or raw_city == "" else raw_city
+                    country = row["country"].strip()
+                    num_unique = int(row["num_unique"])
+                    ts = datetime.fromisoformat(row["timestamp"])
+                except (KeyError, ValueError):
+                    continue
+
+                location = Location(city=city, country=country)
+                key = location.normalized_key()
+                if key in aggregates:
+                    existing_location, total, last_ts = aggregates[key]
+                    new_total = total + num_unique
+                    if last_ts is None or ts > last_ts:
+                        aggregates[key] = (existing_location, new_total, ts)
+                    else:
+                        aggregates[key] = (existing_location, new_total, last_ts)
+                else:
+                    aggregates[key] = (location, num_unique, ts)
+
+        return aggregates
+
     def aggregate_recent_locations(self, limit: int) -> Dict[str, Tuple[Location, int]]:
         """Aggregate only the most recent N visits."""
         if not self.tsv_path.exists() or limit <= 0:

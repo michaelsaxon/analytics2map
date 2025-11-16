@@ -215,7 +215,7 @@ timestamp	country	city	num_unique
 2024-01-01T00:00:00	Mauritius	NULL	1
 2024-01-01T00:00:00	Spain	NULL	1
 2024-01-01T00:00:00	The Netherlands	NULL	1
-2024-01-01T00:00:00	Macedonia	NULL	1
+2024-01-01T00:00:00	North Macedonia	NULL	1
 2024-01-01T00:00:00	Laos	NULL	1
 2024-01-01T00:00:00	Italy	NULL	1
 2024-01-01T00:00:00	Guatemala	NULL	1
@@ -271,7 +271,7 @@ timestamp	country	city	num_unique
 2024-01-01T00:00:00	Singapore	NULL	1
 2024-01-01T00:00:00	South Korea	NULL	1
 2024-01-01T00:00:00	The Netherlands	NULL	1
-2024-01-01T00:00:00	Macedonia	NULL	1
+2024-01-01T00:00:00	North Macedonia	NULL	1
 2024-01-01T00:00:00	Italy	NULL	1
 2024-01-01T00:00:00	Guatemala	NULL	1
 2024-01-01T00:00:00	Denmark	NULL	1
@@ -971,7 +971,7 @@ timestamp	country	city	num_unique
 2024-07-01T00:00:00	Kyrgyzstan	NULL	1
 2024-07-01T00:00:00	Hungary	NULL	1
 2024-07-01T00:00:00	Hong Kong	NULL	1
-2024-07-01T00:00:00	Hashemite Kingdom of Jordan	NULL	1
+2024-07-01T00:00:00	Jordan	NULL	1
 2024-07-01T00:00:00	British Virgin Islands	NULL	1
 2024-09-01T00:00:00	United States	Bellevue	161
 2024-09-01T00:00:00	United States	Everett	147
@@ -1559,7 +1559,7 @@ timestamp	country	city	num_unique
 2025-03-01T00:00:00	Portugal	NULL	1
 2025-03-01T00:00:00	The Netherlands	NULL	1
 2025-03-01T00:00:00	Mexico	NULL	1
-2025-03-01T00:00:00	Macedonia	NULL	1
+2025-03-01T00:00:00	North Macedonia	NULL	1
 2025-03-01T00:00:00	Latvia	NULL	1
 2025-03-01T00:00:00	Japan	NULL	1
 2025-03-01T00:00:00	Israel	NULL	1
@@ -1609,8 +1609,8 @@ timestamp	country	city	num_unique
 2025-04-01T00:00:00	Canada	Beauharnois	1
 2025-04-01T00:00:00	Canada	NULL	1
 2025-04-01T00:00:00	United Kingdom	NULL	3
-2025-04-01T00:00:00	Macedonia	Skopje	3
-2025-04-01T00:00:00	Macedonia	Veles	1
+2025-04-01T00:00:00	North Macedonia	Skopje	3
+2025-04-01T00:00:00	North Macedonia	Veles	1
 2025-04-01T00:00:00	France	NULL	1
 2025-04-01T00:00:00	Australia	Moonee Ponds	1
 2025-04-01T00:00:00	Australia	NULL	1
@@ -2563,7 +2563,8 @@ timestamp	country	city	num_unique
 2025-11-01T00:00:00	Lithuania	NULL	1
 2025-11-01T00:00:00	Oman	NULL	1
 2025-11-01T00:00:00	Nigeria	NULL	1
-2025-11-01T00:00:00	Luxembourg	NULL	12025-11-08T14:24:00	(not set)	NULL	1
+2025-11-01T00:00:00	Luxembourg	NULL	1
+2025-11-08T14:24:00	(not set)	NULL	1
 2025-11-08T14:32:00	(not set)	NULL	1
 2025-11-08T15:55:00	United States	San Jose	1
 2025-11-08T16:05:00	United States	San Jose	1
@@ -2963,17 +2964,18 @@ timestamp	country	city	num_unique
 2025-11-15T14:03:00	Sweden	Gothenburg	1
 2025-11-15T14:04:00	United States	Seattle	1
 2025-11-15T14:05:00	United States	Seattle	1
+2025-11-15T14:10:00	United States	Chapel Hill	1
 2025-11-15T14:14:00	United States	Chapel Hill	1
 2025-11-15T14:25:00	United States	Chicago	1
 2025-11-15T14:25:00	China	Lanzhou	1
 2025-11-15T14:25:00	Singapore	Singapore	1
-2025-11-15T14:33:00	United States		1
+2025-11-15T14:33:00	United States	NULL	1
 2025-11-15T14:34:00	United States	San Jose	1
 2025-11-15T14:35:00	United States	San Jose	1
-2025-11-15T14:35:00	United States		1
+2025-11-15T14:35:00	United States	NULL	1
 2025-11-15T14:40:00	United States	Ashburn	1
 2025-11-15T14:40:00	United States	Stanford	1
-2025-11-15T14:41:00	United States		1
+2025-11-15T14:41:00	United States	NULL	1
 2025-11-15T14:41:00	United States	Stanford	1
 2025-11-15T14:43:00	United States	Seattle	1
 2025-11-15T14:44:00	United States	Seattle	1
@@ -2982,8 +2984,8 @@ timestamp	country	city	num_unique
 2025-11-15T14:57:00	United States	Seattle	1
 2025-11-15T14:58:00	India	Bengaluru	1
 2025-11-15T14:59:00	India	Bengaluru	1
-2025-11-15T15:13:00	United States	Moses Lake	1
 2025-11-15T15:13:00	United States	Seattle	1
+2025-11-15T15:13:00	United States	Moses Lake	1
 2025-11-15T15:14:00	United States	Seattle	1
 2025-11-15T15:30:00	Canada	Montreal	1
 2025-11-15T15:31:00	Canada	Montreal	1
@@ -2991,11 +2993,12 @@ timestamp	country	city	num_unique
 2025-11-15T16:04:00	United States	Seattle	1
 2025-11-15T16:06:00	United States	Visalia	1
 2025-11-15T16:13:00	United States	San Francisco	1
+2025-11-15T16:17:00	Denmark	Copenhagen	1
 2025-11-15T16:18:00	Denmark	Copenhagen	1
 2025-11-15T16:44:00	United States	Chicago	1
 2025-11-15T16:45:00	United States	Chicago	1
-2025-11-15T16:47:00	United States		1
-2025-11-15T16:48:00	United States		1
+2025-11-15T16:47:00	United States	NULL	1
+2025-11-15T16:48:00	United States	NULL	1
 2025-11-15T16:53:00	United States	Champaign	1
 2025-11-15T17:26:00	United States	Seattle	1
 2025-11-15T17:49:00	United States	Seattle	1
@@ -3005,4 +3008,33 @@ timestamp	country	city	num_unique
 2025-11-15T20:00:00	United States	Seattle	1
 2025-11-15T20:13:00	United States	Seattle	1
 2025-11-15T20:18:00	China	Lanzhou	1
+2025-11-15T20:18:00	Singapore	Singapore	1
 2025-11-15T20:19:00	United States	Washington	1
+2025-11-15T20:20:00	United States	Washington	1
+2025-11-15T23:02:00	United States	Pittsburgh	1
+2025-11-15T23:32:00	India	Chennai	1
+2025-11-15T23:33:00	United States	Seattle	1
+2025-11-15T23:34:00	United States	Seattle	1
+2025-11-15T23:34:00	India	Chennai	1
+2025-11-15T23:35:00	United States	Seattle	1
+2025-11-15T23:53:00	United States	Seattle	1
+2025-11-16T00:08:00	Canada	Montreal	1
+2025-11-16T00:10:00	Canada	Montreal	1
+2025-11-16T00:25:00	United States	Seattle	1
+2025-11-16T00:51:00	Iran	Tehran	1
+2025-11-16T00:59:00	United States	Seattle	1
+2025-11-16T01:03:00	United Kingdom	Norton	1
+2025-11-16T01:06:00	Unknown		1
+2025-11-16T01:35:00	United States	San Francisco	1
+2025-11-16T01:39:00	United States	Seattle	1
+2025-11-16T01:40:00	United States	Seattle	1
+2025-11-16T02:17:00	China	Lanzhou	1
+2025-11-16T02:19:00	United States	Auburn	1
+2025-11-16T02:50:00	Greece	Athens	1
+2025-11-16T03:09:00	China	Hefei	1
+2025-11-16T03:10:00	China	Hefei	1
+2025-11-16T06:59:00	United States		1
+2025-11-16T08:19:00	Singapore	Singapore	1
+2025-11-16T08:30:00	United States	Chicago	1
+2025-11-16T08:31:00	United States	Chicago	1
+2025-11-16T08:35:00	United States	Chicago	1
