@@ -44,6 +44,9 @@ jobs:
       - name: generate updated plot
         run: analytics2map render --config-path config/prod.yml
 
+      - name: generate update json for interactive map
+        run: analytics2map render-interactive --config-path config/prod.yml
+
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
