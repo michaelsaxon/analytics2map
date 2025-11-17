@@ -38,20 +38,21 @@
         border-bottom: 1px solid #111;
         padding-bottom: 6px;
       }
-      .page-title {
+      .full-width {
         margin: 0 auto;
         padding: 0 24px;
         text-align: center;
         padding-bottom: 12px;
         margin: 0;
-        text-align: center;
         max-width: 900px;
         width: 100%;
         @media (min-width: 1848px) {
           max-width: 1848px;
         }
        }
-      .page-title h1 {
+      .full-width h1.title {
+        text-align: center;
+
         font-size: 48px;
         margin-bottom: 8px;
         border-bottom: 1px solid #111;
@@ -197,7 +198,39 @@
   </head>
   <body>
 
-<main class="page-title"><h1>saxon.me visitor map</h1></main>
+<main class="full-width"><h1 class="title">saxon.me visitor map</h1></main>
+
+<main class="full-width">
+
+
+  <h1>Dynamic visitor map: interactive map view</h1>
+  <p>
+    The interactive map view allows you to zoom in for more detail.
+    Use the + and − buttons to zoom, or drag to pan the map.
+  </p>
+  <div class="map-frame" id="map-frame">
+    <div class="zoom-controls">
+      <button class="zoom-button" id="zoom-in" type="button">+</button>
+      <button class="zoom-button" id="zoom-out" type="button">−</button>
+    </div>
+    <div class="visitor-stats" id="visitor-stats">
+      <div class="stat-row">
+        <span>Total:</span>
+        <strong id="total-visitors">0</strong>
+      </div>
+      <div class="stat-row">
+        <span>Visible:</span>
+        <strong id="visible-visitors">0</strong>
+      </div>
+    </div>
+    <div class="tooltip" id="tooltip"></div>
+  </div>
+
+  <hr>
+
+
+</main>
+
 
     <main class="container">
 
@@ -227,33 +260,6 @@
       </p>
 
       <hr>
-
-
-
-      <h1>Dynamic visitor map: interactive map view</h1>
-        <p>
-          The interactive map view allows you to zoom in for more detail.
-          Use the + and − buttons to zoom, or drag to pan the map.
-        </p>
-        <div class="map-frame" id="map-frame">
-          <div class="zoom-controls">
-            <button class="zoom-button" id="zoom-in" type="button">+</button>
-            <button class="zoom-button" id="zoom-out" type="button">−</button>
-          </div>
-          <div class="visitor-stats" id="visitor-stats">
-            <div class="stat-row">
-              <span>Total:</span>
-              <strong id="total-visitors">0</strong>
-            </div>
-            <div class="stat-row">
-              <span>Visible:</span>
-              <strong id="visible-visitors">0</strong>
-            </div>
-          </div>
-          <div class="tooltip" id="tooltip"></div>
-        </div>
-
-        <hr>
 
 
     </main>
@@ -540,8 +546,8 @@
       const map_maxRadius = 20.0;
       const map_theme = {
         landFill: "#dcd7ba",
-        landStroke: "#efede3",
-        waterFill: "#1f1f28",
+        landStroke: "#1f1f28",
+        waterFill: "#2d4f67",
         bubbleFill: "#7aa89f",
         bubbleStroke: "#3d6b62",
         bubbleFillHover: "#b31d1d",
@@ -620,12 +626,11 @@
           .attr("viewBox", `0 0 ${width} ${height}`);
 
         // Background
-        map_svg.append("rect")
-          .attr("x", 0)
-          .attr("y", 0)
-          .attr("width", width)
-          .attr("height", height)
-          .attr("fill", "#1f1f28");
+        // map_svg.append("rect")
+        //   .attr("x", 0)
+        //   .attr("y", 0)
+        //   .attr("width", width)
+        //   .attr("height", height);
 
         // Always use high resolution map (50m) for better detail
         const world = map_worldData.high;
@@ -652,7 +657,7 @@
 
         map_svg.append("path")
           .datum(graticule.outline())
-          .attr("fill", "#1f1f28")
+          .attr("fill", map_theme.waterFill)
           .attr("stroke", "none")
           .attr("d", path);
 
