@@ -3,17 +3,19 @@
   <head>
     <meta charset="utf-8" />
     <title>analytics2map</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/topojson-client@3"></script>
     <link rel="stylesheet" href="https://saxon.me/theme/css/fonts.css" />
     <style>
       :root {
         color-scheme: light;
         font-family: "Berkeley Mono", monospace;
-        background: #f8f6ef;
+        background: #d8d5c4;
         color: #111;
       }
       body {
         margin: 0;
-        background: #f8f6ef;
+        background: #d8d5c4;
         color: #111;
       }
       .container {
@@ -53,10 +55,83 @@
         border: 1px solid #ddd;
         background: #fff;
       }
+      .globe-container {
+        max-width: 800px;
+        margin: 0 auto;
+        position: relative;
+      }
+      .globe-frame {
+        position: relative;
+        border-radius: 12px;
+        overflow: hidden;
+        max-width: 100%;
+      }
+      svg {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      .tooltip {
+        position: absolute;
+        pointer-events: none;
+        background: rgba(15, 23, 42, 0.94);
+        color: #dcd7ba;
+        padding: 8px 10px;
+        border-radius: 8px;
+        font-size: 12px;
+        line-height: 1.4;
+        border: 1px solid #dcd7ba;
+        opacity: 0;
+        transform: translate(-50%, -140%);
+        white-space: nowrap;
+        z-index: 5;
+      }
+      .tooltip strong {
+        font-weight: 600;
+      }
+      .visitor-stats {
+        position: absolute;
+        top: 10px;
+        right: 14px;
+        padding: 8px 12px;
+        border-radius: 8px;
+        background: rgba(15, 23, 42, 0.92);
+        font-size: 12px;
+        color: #dcd7ba;
+        border: 1px solid #aca684;
+        backdrop-filter: blur(8px);
+        line-height: 1.6;
+      }
+      .visitor-stats strong {
+        font-weight: 600;
+        color: #dcd7ba;
+      }
+      .stat-row {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+      }
      </style>
   </head>
   <body>
     <main class="container">
+      <h1>Visitors to saxon.me</h1>
+      <div class="globe-container">
+        <div class="globe-frame" id="globe-frame">
+          <div class="visitor-stats">
+            <div class="stat-row">
+              <span>Total:</span>
+              <strong id="total-visitors">0</strong>
+            </div>
+            <div class="stat-row">
+              <span>Visible:</span>
+              <strong id="visible-visitors">0</strong>
+            </div>
+          </div>
+          <div class="tooltip" id="tooltip"></div>
+        </div>
+      </div>
+      <p>This globe representation of recent visitors is updated hourly along with the static svg maps. Mouseover to see locations.</p>
       <h1>analytics2map</h1>
       <p>
         analytics2map is a simple static site visitor map renderer by Michael Saxon. It turns Google Analytics visit telemetry and historical
@@ -99,5 +174,228 @@
         <figcaption>Scaled-down preview of the 1920×960 SVG.</figcaption>
       </figure>
     </main>
+    <script>
+      const size = 800;
+      const minRadius = 3;
+      const maxRadius = 12;
+      const theme = {
+        landFill: "#dcd7ba",
+        landStroke: "#efede3",
+        waterFill: "#1f1f28",
+        bubbleFill: "#7aa89f",
+        bubbleStroke: "#3d6b62",
+        bubbleFillHover: "#b31d1d",
+        bubbleStrokeHover: "#db5555",
+        bubbleOpacity: 0.75,
+      };
+
+      const container = d3.select("#globe-frame");
+      const tooltip = d3.select("#tooltip");
+      
+      let svg, projection, path, visitData, worldData;
+      let rotation = 0;
+      const rotationSpeed = 0.3; // degrees per frame
+
+      // Load data
+      Promise.all([
+        d3.json("https://unpkg.com/world-atlas@2/countries-50m.json"),
+        d3.json("output/visitors-data.json")
+      ]).then(([world, visitorData]) => {
+        worldData = topojson.feature(world, world.objects.countries);
+        visitData = visitorData;
+        
+        // Calculate total visitors
+        const totalVisitors = visitData.reduce((sum, d) => sum + d.visitors, 0);
+        d3.select("#total-visitors").text(totalVisitors.toLocaleString());
+        
+        initGlobe();
+        animate();
+      }).catch(error => {
+        console.error("Error loading data:", error);
+        container.append("div")
+          .style("padding", "20px")
+          .style("color", "#ff6b6b")
+          .text("Error loading data. Please ensure visitors-data.json is available.");
+      });
+
+      function initGlobe() {
+        // Create SVG
+        svg = container
+          .append("svg")
+          .attr("viewBox", `0 0 ${size} ${size}`);
+
+        // Orthographic projection for globe
+        projection = d3.geoOrthographic()
+          .scale(size / 2.2)
+          .translate([size / 2, size / 2])
+          .clipAngle(90);
+
+        path = d3.geoPath(projection);
+
+        // Draw sphere (ocean)
+        svg.append("path")
+          .datum({type: "Sphere"})
+          .attr("class", "sphere")
+          .attr("d", path)
+          .attr("fill", theme.waterFill)
+          .attr("stroke", "rgba(148, 163, 184, 0.3)")
+          .attr("stroke-width", 1.5);
+
+        // Land
+        svg.append("g")
+          .attr("class", "land")
+          .selectAll("path")
+          .data(worldData.features)
+          .join("path")
+          .attr("d", path)
+          .attr("fill", theme.landFill)
+          .attr("stroke", theme.landStroke)
+          .attr("stroke-width", 0.5)
+          .attr("stroke-opacity", 0.6)
+          .attr("fill-opacity", 0.9);
+
+        // Points group
+        svg.append("g").attr("class", "points");
+      }
+
+      function animate() {
+        rotation += rotationSpeed;
+        projection.rotate([rotation, -20, 0]);
+
+        // Update land
+        svg.select(".land")
+          .selectAll("path")
+          .attr("d", path);
+
+        // Update points
+        drawPoints();
+        updateVisibleCount();
+
+        requestAnimationFrame(animate);
+      }
+
+      function drawPoints() {
+        if (!visitData || visitData.length === 0) return;
+
+        const radii = visitData.map(d => d.normalized || 0);
+        const maxNormalized = d3.max(radii) || 1;
+
+        const radiusScale = d3.scaleLinear()
+          .domain([0, maxNormalized])
+          .range([minRadius, maxRadius]);
+
+        // Sort by size (largest first) so smaller dots render on top
+        const orderedData = [...visitData].sort((a, b) => (b.normalized || 0) - (a.normalized || 0));
+
+        const circles = svg.select(".points")
+          .selectAll("circle")
+          .data(orderedData, d => `${d.lat},${d.lon}`);
+
+        circles.exit().remove();
+
+        const enter = circles.enter()
+          .append("circle")
+          .attr("fill", theme.bubbleFill)
+          .attr("fill-opacity", theme.bubbleOpacity)
+          .attr("stroke", theme.bubbleStroke)
+          .attr("stroke-width", 1)
+          .style("cursor", "default");
+
+        circles.merge(enter)
+          .attr("cx", d => {
+            const proj = projection([d.lon, d.lat]);
+            return proj ? proj[0] : -999;
+          })
+          .attr("cy", d => {
+            const proj = projection([d.lon, d.lat]);
+            return proj ? proj[1] : -999;
+          })
+          .attr("r", d => radiusScale(d.normalized || 0))
+          .style("display", d => {
+            const proj = projection([d.lon, d.lat]);
+            // Hide points on the back of the globe
+            if (!proj) return "none";
+            const distance = d3.geoDistance([d.lon, d.lat], projection.invert([size / 2, size / 2]));
+            return distance > Math.PI / 2 ? "none" : null;
+          })
+          .on("mouseover", function(event, d) {
+            d3.select(this)
+              .attr("fill", theme.bubbleFillHover)
+              .attr("stroke", theme.bubbleStrokeHover)
+              .attr("stroke-width", 1.4);
+
+            const city = d.city && d.city.trim();
+            const country = d.country && d.country.trim();
+            const title = city ? `${city}, ${country || "Unknown"}` : (country || "Unknown");
+
+            const containerRect = container.node().getBoundingClientRect();
+            const x = event.clientX - containerRect.left;
+            const y = event.clientY - containerRect.top;
+
+            tooltip
+              .style("left", x + "px")
+              .style("top", y + "px")
+              .style("opacity", 1)
+              .html(`
+                <strong>${title}</strong><br/>
+                Visitors: ${d.visitors.toLocaleString()}<br/>
+                Most recent: ${formatLastVisit(d.lastVisit)}
+              `);
+          })
+          .on("mousemove", function(event) {
+            const containerRect = container.node().getBoundingClientRect();
+            const x = event.clientX - containerRect.left;
+            const y = event.clientY - containerRect.top;
+            
+            tooltip
+              .style("left", x + "px")
+              .style("top", y + "px");
+          })
+          .on("mouseout", function() {
+            d3.select(this)
+              .attr("fill", theme.bubbleFill)
+              .attr("stroke", theme.bubbleStroke)
+              .attr("stroke-width", 1.0);
+
+            tooltip.style("opacity", 0);
+          });
+      }
+
+      function updateVisibleCount() {
+        let visibleVisitors = 0;
+        
+        visitData.forEach(d => {
+          const proj = projection([d.lon, d.lat]);
+          if (!proj) return;
+          
+          // Check if point is on the visible hemisphere
+          const distance = d3.geoDistance([d.lon, d.lat], projection.invert([size / 2, size / 2]));
+          if (distance <= Math.PI / 2) {
+            visibleVisitors += d.visitors;
+          }
+        });
+        
+        d3.select("#visible-visitors").text(visibleVisitors.toLocaleString());
+      }
+
+      function formatLastVisit(iso) {
+        if (!iso) return "unknown";
+        const date = new Date(iso);
+        if (isNaN(date.getTime())) return iso;
+
+        const year = date.getFullYear();
+
+        if (year >= 2025) {
+          return date.toLocaleString(undefined, {
+            year: "numeric",
+            month: "short",
+          });
+        } else if (year === 2024) {
+          return "2024";
+        } else {
+          return "2023";
+        }
+      }
+    </script>
   </body>
 </html>
