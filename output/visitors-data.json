@@ -1631,11 +1631,11 @@
   {
     "city": "Shenzhen",
     "country": "China",
-    "visitors": 3,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2025-11-16T23:51:00",
     "lat": 22.54554,
     "lon": 114.0683,
-    "normalized": 0.15181070459404147
+    "normalized": 0.17624677005077544
   },
   {
     "city": "Huzhou",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 23,
-    "lastVisit": "2025-11-16T00:51:00",
+    "visitors": 24,
+    "lastVisit": "2025-11-16T23:22:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.34802319388586855
+    "normalized": 0.3524935401015509
   },
   {
     "city": "Sabz",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 48,
-    "lastVisit": "2025-11-16T20:17:00",
+    "visitors": 49,
+    "lastVisit": "2025-11-17T02:21:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.42618652876311525
+    "normalized": 0.4283988923985716
   },
   {
     "city": "Tubingen",
