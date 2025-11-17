@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2025-11-13T19:26:00",
+    "visitors": 11,
+    "lastVisit": "2025-11-17T08:20:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.26258937576011676
+    "normalized": 0.27211784158884783
   },
   {
     "city": "Manhattan",
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 41,
-    "lastVisit": "2025-11-16T14:10:00",
+    "visitors": 42,
+    "lastVisit": "2025-11-17T08:04:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.40930575367338473
+    "normalized": 0.41188253786256956
   },
   {
     "city": "Rochester",
@@ -6972,6 +6972,15 @@
     "lastVisit": "2025-11-16T19:31:00",
     "lat": 30.55435,
     "lon": -91.03677,
+    "normalized": 0.07590535229702074
+  },
+  {
+    "city": "Kirzhach",
+    "country": "Russia",
+    "visitors": 1,
+    "lastVisit": "2025-11-17T06:08:00",
+    "lat": 56.15273,
+    "lon": 38.85509,
     "normalized": 0.07590535229702074
   }
 ]
