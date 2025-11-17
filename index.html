@@ -23,6 +23,7 @@
         margin: 0;
         padding: 0 24px;
         line-height: 1.6;
+        float: left;
       }
       h1 {
         font-size: 32px;
@@ -37,13 +38,37 @@
         border-bottom: 1px solid #111;
         padding-bottom: 6px;
       }
+      .page-title {
+        margin: 0 auto;
+        padding: 0 24px;
+        text-align: center;
+        padding-bottom: 12px;
+        margin: 0;
+        text-align: center;
+        max-width: 900px;
+        width: 100%;
+        @media (min-width: 1848px) {
+          max-width: 1848px;
+        }
+       }
+      .page-title h1 {
+        font-size: 48px;
+        margin-bottom: 8px;
+        border-bottom: 1px solid #111;
+        padding-bottom: 8px;
+      }
+      hr {
+        margin: 20px 0;
+        border: 0;
+        border-top: 1px solid #111;
+      }
       p {
         margin: 12px 0;
       }
       figure {
         margin: 24px auto 48px;
         text-align: center;
-        max-width: 900px;
+        width: 100%;
       }
       figcaption {
         font-size: 14px;
@@ -55,6 +80,7 @@
         border: 1px solid #ddd;
         background: #fff;
       }
+      /* Globe rules */
       .globe-container {
         max-width: 800px;
         margin: 0 auto;
@@ -65,6 +91,63 @@
         border-radius: 12px;
         max-width: 100%;
       }
+      /* Map rules */
+      .map-frame {
+        position: relative;
+        border-radius: 12px;
+        max-width: 100%;
+      }
+      .legend {
+        position: absolute;
+        bottom: 10px;
+        right: 14px;
+        padding: 6px 8px;
+        border-radius: 8px;
+        background: rgba(15, 23, 42, 0.78);
+        font-size: 11px;
+        color: #e5e7eb;
+        border: 1px solid rgba(148, 163, 184, 0.4);
+        display: flex;
+        gap: 6px;
+        align-items: center;
+        backdrop-filter: blur(8px);
+      }
+      .legend-dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 999px;
+        background: #dcd7ba;
+        box-shadow: 0 0 0 1px #efede3;
+      }
+      .zoom-controls {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        z-index: 10;
+      }
+      .zoom-button {
+        width: 28px;
+        height: 28px;
+        border-radius: 999px;
+        border: 1px solid rgba(148, 163, 184, 0.6);
+        background: rgba(15, 23, 42, 0.92);
+        color: #e5e7eb;
+        font-size: 16px;
+        line-height: 1;
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0;
+      }
+      .zoom-button:hover {
+        background: rgba(30, 64, 175, 0.95);
+        border-color: rgba(129, 140, 248, 0.9);
+      }
+      /* Shared globe and map rules */
       svg {
         display: block;
         width: 100%;
@@ -113,8 +196,16 @@
      </style>
   </head>
   <body>
+
+<main class="page-title"><h1>saxon.me visitor map</h1></main>
+
     <main class="container">
-      <h1>Visitors to saxon.me</h1>
+
+
+
+      <h1>Dynamic visitor map: globe view</h1>
+      <p>This globe representation of recent visitors is updated hourly along with the static svg maps. Mouseover to see location, total visitors, and the most recent visit time.</p>
+
       <div class="globe-container">
         <div class="globe-frame" id="globe-frame">
           <div class="visitor-stats">
@@ -130,15 +221,51 @@
           <div class="tooltip" id="tooltip"></div>
         </div>
       </div>
-      <p>This globe representation of recent visitors is updated hourly along with the static svg maps. Mouseover to see locations.</p>
-      <h1>analytics2map</h1>
+      <p>
+        Approximate locations of visitors are aggregated by city and country.
+        All maps on this page are generated using my <a href="https://github.com/michaelsaxon/analytics2map">analytics2map</a> tool from live Google Analytics data.
+      </p>
+
+      <hr>
+
+
+
+      <h1>Dynamic visitor map: interactive map view</h1>
+        <p>
+          The interactive map view allows you to zoom in for more detail.
+          Use the + and − buttons to zoom, or drag to pan the map.
+        </p>
+        <div class="map-frame" id="map-frame">
+          <div class="zoom-controls">
+            <button class="zoom-button" id="zoom-in" type="button">+</button>
+            <button class="zoom-button" id="zoom-out" type="button">−</button>
+          </div>
+          <div class="visitor-stats" id="visitor-stats">
+            <div class="stat-row">
+              <span>Total:</span>
+              <strong id="total-visitors">0</strong>
+            </div>
+            <div class="stat-row">
+              <span>Visible:</span>
+              <strong id="visible-visitors">0</strong>
+            </div>
+          </div>
+          <div class="tooltip" id="tooltip"></div>
+        </div>
+
+        <hr>
+
+
+    </main>
+      <main class="container">
+      <h1>About the analytics2map package</h1>
       <p>
         analytics2map is a simple static site visitor map renderer by Michael Saxon. It turns Google Analytics visit telemetry and historical
         Clustrmaps exports into simple static visitor maps. The stack is pure Python (Typer, Cartopy, svgwrite) and runs in a simple CLI.
       </p>
       <p>
         The pipeline periodically pulls incremental GA4 data and puts it in a TSV store. Finally, a renderer module reads out the TSV and writes 
-        the SVG map. Each render emits two SVG files, an 800x400 one intended for embedding in a footer, and a higher-resolution one
+        the SVG map. Each render emits a json file for dynamic d3js maps, two SVG files, an 800x400 one intended for embedding in a footer, and a higher-resolution one
         to be displayed full-width.
       </p>
       <p>
@@ -149,35 +276,42 @@
       <p>Source code is available in my <a href="https://github.com/michaelsaxon/analytics2map">[analytics2map]</a> repository on GitHub.</p>
         <p><a href="https://saxon.me">[Go home]</a></p>
         <hr>
-      <h2>Small render (300&nbsp;px preview)</h2>
-      <figure>
-        <img
-          class="map"
-          style="max-width: 300px; width: 100%; height: auto; margin-left: auto; margin-right: auto;"
-          height="150"
-          src="output/visitors-small.svg"
-          alt="Small visitor map preview"
-        />
-        <figcaption>Scaled-down preview of the 800×400 SVG.</figcaption>
-      </figure>
 
-      <h2>Large render (900&nbsp;px preview)</h2>
-      <figure>
-        <img
-          class="map"
-          style="max-width: 900px; width: 100%; height: auto; margin-left: auto; margin-right: auto;"
-          height="450"
-          src="output/visitors-large.svg"
-          alt="Large visitor map preview"
-        />
-        <figcaption>Scaled-down preview of the 1920×960 SVG.</figcaption>
-      </figure>
-    </main>
+        <h1>Static SVG maps</h1>
+        <p>Two sizes of SVG map are rendered: one for display in the web page footer at 300px and the other for full-width display at 900px.</p>
+        <!-- <figure>
+          <img
+            class="map"
+            style="max-width: 300px; width: 100%; height: auto; margin-left: auto; margin-right: auto;"
+            height="150"
+            src="output/visitors-small.svg"
+            alt="Small visitor map preview"
+          />
+          <figcaption>Scaled-down preview of the 800×400 SVG.</figcaption>
+        </figure> -->
+  
+        <figure>
+          <img
+            class="map"
+            style="width: 100%; height: auto; margin-left: auto; margin-right: auto;"
+            height="450"
+            src="output/visitors-large.svg"
+            alt="Large visitor map preview"
+          />
+          <figcaption>900px full-width SVG map.</figcaption>
+        </figure>
+
+        <hr>
+
+      </main>
+
+
     <script>
-      const size = 800;
-      const minRadius = 3;
-      const maxRadius = 12;
-      const theme = {
+      // ============ GLOBE VARIABLES ============
+      const globe_size = 800;
+      const globe_minRadius = 3;
+      const globe_maxRadius = 12;
+      const globe_theme = {
         landFill: "#dcd7ba",
         landStroke: "#efede3",
         waterFill: "#1f1f28",
@@ -188,105 +322,105 @@
         bubbleOpacity: 0.75,
       };
 
-      const container = d3.select("#globe-frame");
-      const tooltip = d3.select("#tooltip");
+      const globe_container = d3.select("#globe-frame");
+      const globe_tooltip = d3.select("#globe-frame .tooltip");
       
-      let svg, projection, path, visitData, worldData;
-      let rotation = 0;
-      const rotationSpeed = 0.3; // degrees per frame
+      let globe_svg, globe_projection, globe_path, globe_visitData, globe_worldData;
+      let globe_rotation = 0;
+      const globe_rotationSpeed = 0.3; // degrees per frame
 
       // Load data
       Promise.all([
         d3.json("https://unpkg.com/world-atlas@2/countries-50m.json"),
         d3.json("output/visitors-data.json")
       ]).then(([world, visitorData]) => {
-        worldData = topojson.feature(world, world.objects.countries);
-        visitData = visitorData;
+        globe_worldData = topojson.feature(world, world.objects.countries);
+        globe_visitData = visitorData;
         
-        // Calculate total visitors
-        const totalVisitors = visitData.reduce((sum, d) => sum + d.visitors, 0);
-        d3.select("#total-visitors").text(totalVisitors.toLocaleString());
+        // Calculate total visitors for globe
+        const globeTotalVisitors = globe_visitData.reduce((sum, d) => sum + d.visitors, 0);
+        d3.select("#globe-frame #total-visitors").text(globeTotalVisitors.toLocaleString());
         
-        initGlobe();
-        animate();
+        globe_initGlobe();
+        globe_animate();
       }).catch(error => {
-        console.error("Error loading data:", error);
-        container.append("div")
+        console.error("Error loading globe data:", error);
+        globe_container.append("div")
           .style("padding", "20px")
           .style("color", "#ff6b6b")
           .text("Error loading data. Please ensure visitors-data.json is available.");
       });
 
-      function initGlobe() {
+      function globe_initGlobe() {
         // Create SVG
-        svg = container
+        globe_svg = globe_container
           .append("svg")
-          .attr("viewBox", `0 0 ${size} ${size}`);
+          .attr("viewBox", `0 0 ${globe_size} ${globe_size}`);
 
         // Orthographic projection for globe
-        projection = d3.geoOrthographic()
-          .scale(size / 2.2)
-          .translate([size / 2, size / 2])
+        globe_projection = d3.geoOrthographic()
+          .scale(globe_size / 2.2)
+          .translate([globe_size / 2, globe_size / 2])
           .clipAngle(90);
 
-        path = d3.geoPath(projection);
+        globe_path = d3.geoPath(globe_projection);
 
         // Draw sphere (ocean)
-        svg.append("path")
+        globe_svg.append("path")
           .datum({type: "Sphere"})
           .attr("class", "sphere")
-          .attr("d", path)
-          .attr("fill", theme.waterFill)
+          .attr("d", globe_path)
+          .attr("fill", globe_theme.waterFill)
           .attr("stroke", "rgba(148, 163, 184, 0.3)")
           .attr("stroke-width", 1.5);
 
         // Land
-        svg.append("g")
+        globe_svg.append("g")
           .attr("class", "land")
           .selectAll("path")
-          .data(worldData.features)
+          .data(globe_worldData.features)
           .join("path")
-          .attr("d", path)
-          .attr("fill", theme.landFill)
-          .attr("stroke", theme.landStroke)
+          .attr("d", globe_path)
+          .attr("fill", globe_theme.landFill)
+          .attr("stroke", globe_theme.landStroke)
           .attr("stroke-width", 0.5)
           .attr("stroke-opacity", 0.6)
           .attr("fill-opacity", 0.9);
 
         // Points group
-        svg.append("g").attr("class", "points");
+        globe_svg.append("g").attr("class", "points");
       }
 
-      function animate() {
-        rotation += rotationSpeed;
-        projection.rotate([rotation, -20, 0]);
+      function globe_animate() {
+        globe_rotation += globe_rotationSpeed;
+        globe_projection.rotate([globe_rotation, -20, 0]);
 
         // Update land
-        svg.select(".land")
+        globe_svg.select(".land")
           .selectAll("path")
-          .attr("d", path);
+          .attr("d", globe_path);
 
         // Update points
-        drawPoints();
-        updateVisibleCount();
+        globe_drawPoints();
+        globe_updateVisibleCount();
 
-        requestAnimationFrame(animate);
+        requestAnimationFrame(globe_animate);
       }
 
-      function drawPoints() {
-        if (!visitData || visitData.length === 0) return;
+      function globe_drawPoints() {
+        if (!globe_visitData || globe_visitData.length === 0) return;
 
-        const radii = visitData.map(d => d.normalized || 0);
+        const radii = globe_visitData.map(d => d.normalized || 0);
         const maxNormalized = d3.max(radii) || 1;
 
         const radiusScale = d3.scaleLinear()
           .domain([0, maxNormalized])
-          .range([minRadius, maxRadius]);
+          .range([globe_minRadius, globe_maxRadius]);
 
         // Sort by size (largest first) so smaller dots render on top
-        const orderedData = [...visitData].sort((a, b) => (b.normalized || 0) - (a.normalized || 0));
+        const orderedData = [...globe_visitData].sort((a, b) => (b.normalized || 0) - (a.normalized || 0));
 
-        const circles = svg.select(".points")
+        const circles = globe_svg.select(".points")
           .selectAll("circle")
           .data(orderedData, d => `${d.lat},${d.lon}`);
 
@@ -294,90 +428,90 @@
 
         const enter = circles.enter()
           .append("circle")
-          .attr("fill", theme.bubbleFill)
-          .attr("fill-opacity", theme.bubbleOpacity)
-          .attr("stroke", theme.bubbleStroke)
+          .attr("fill", globe_theme.bubbleFill)
+          .attr("fill-opacity", globe_theme.bubbleOpacity)
+          .attr("stroke", globe_theme.bubbleStroke)
           .attr("stroke-width", 1)
           .style("cursor", "default");
 
         circles.merge(enter)
           .attr("cx", d => {
-            const proj = projection([d.lon, d.lat]);
+            const proj = globe_projection([d.lon, d.lat]);
             return proj ? proj[0] : -999;
           })
           .attr("cy", d => {
-            const proj = projection([d.lon, d.lat]);
+            const proj = globe_projection([d.lon, d.lat]);
             return proj ? proj[1] : -999;
           })
           .attr("r", d => radiusScale(d.normalized || 0))
           .style("display", d => {
-            const proj = projection([d.lon, d.lat]);
+            const proj = globe_projection([d.lon, d.lat]);
             // Hide points on the back of the globe
             if (!proj) return "none";
-            const distance = d3.geoDistance([d.lon, d.lat], projection.invert([size / 2, size / 2]));
+            const distance = d3.geoDistance([d.lon, d.lat], globe_projection.invert([globe_size / 2, globe_size / 2]));
             return distance > Math.PI / 2 ? "none" : null;
           })
           .on("mouseover", function(event, d) {
             d3.select(this)
-              .attr("fill", theme.bubbleFillHover)
-              .attr("stroke", theme.bubbleStrokeHover)
+              .attr("fill", globe_theme.bubbleFillHover)
+              .attr("stroke", globe_theme.bubbleStrokeHover)
               .attr("stroke-width", 1.4);
 
             const city = d.city && d.city.trim();
             const country = d.country && d.country.trim();
             const title = city ? `${city}, ${country || "Unknown"}` : (country || "Unknown");
 
-            const containerRect = container.node().getBoundingClientRect();
+            const containerRect = globe_container.node().getBoundingClientRect();
             const x = event.clientX - containerRect.left;
             const y = event.clientY - containerRect.top;
 
-            tooltip
+            globe_tooltip
               .style("left", x + "px")
               .style("top", y + "px")
               .style("opacity", 1)
               .html(`
                 <strong>${title}</strong><br/>
                 Visitors: ${d.visitors.toLocaleString()}<br/>
-                Most recent: ${formatLastVisit(d.lastVisit)}
+                Most recent: ${globe_formatLastVisit(d.lastVisit)}
               `);
           })
           .on("mousemove", function(event) {
-            const containerRect = container.node().getBoundingClientRect();
+            const containerRect = globe_container.node().getBoundingClientRect();
             const x = event.clientX - containerRect.left;
             const y = event.clientY - containerRect.top;
             
-            tooltip
+            globe_tooltip
               .style("left", x + "px")
               .style("top", y + "px");
           })
           .on("mouseout", function() {
             d3.select(this)
-              .attr("fill", theme.bubbleFill)
-              .attr("stroke", theme.bubbleStroke)
+              .attr("fill", globe_theme.bubbleFill)
+              .attr("stroke", globe_theme.bubbleStroke)
               .attr("stroke-width", 1.0);
 
-            tooltip.style("opacity", 0);
+            globe_tooltip.style("opacity", 0);
           });
       }
 
-      function updateVisibleCount() {
+      function globe_updateVisibleCount() {
         let visibleVisitors = 0;
         
-        visitData.forEach(d => {
-          const proj = projection([d.lon, d.lat]);
+        globe_visitData.forEach(d => {
+          const proj = globe_projection([d.lon, d.lat]);
           if (!proj) return;
           
           // Check if point is on the visible hemisphere
-          const distance = d3.geoDistance([d.lon, d.lat], projection.invert([size / 2, size / 2]));
+          const distance = d3.geoDistance([d.lon, d.lat], globe_projection.invert([globe_size / 2, globe_size / 2]));
           if (distance <= Math.PI / 2) {
             visibleVisitors += d.visitors;
           }
         });
         
-        d3.select("#visible-visitors").text(visibleVisitors.toLocaleString());
+        d3.select("#globe-frame #visible-visitors").text(visibleVisitors.toLocaleString());
       }
 
-      function formatLastVisit(iso) {
+      function globe_formatLastVisit(iso) {
         if (!iso) return "unknown";
         const date = new Date(iso);
         if (isNaN(date.getTime())) return iso;
@@ -396,5 +530,417 @@
         }
       }
     </script>
+
+    <!-- MAP SCRIPT -->
+    <script>
+      // ============ MAP VARIABLES ============
+      const map_baseWidth = 1920;
+      const map_baseHeight = 960;
+      const map_minRadius = 4.0;
+      const map_maxRadius = 20.0;
+      const map_theme = {
+        landFill: "#dcd7ba",
+        landStroke: "#efede3",
+        waterFill: "#1f1f28",
+        bubbleFill: "#7aa89f",
+        bubbleStroke: "#3d6b62",
+        bubbleFillHover: "#b31d1d",
+        bubbleStrokeHover: "#db5555",
+        bubbleOpacity: 0.75,
+      };
+
+
+      const map_container = d3.select("#map-frame");
+      const map_tooltip = d3.select("#map-frame .tooltip");
+      
+      // State: zoom level and pan offset
+      let map_zoomState = {
+        scale: 1,
+        translateX: 0,
+        translateY: 0,
+        isDragging: false,
+        dragStartX: 0,
+        dragStartY: 0,
+        dragStartTranslateX: 0,
+        dragStartTranslateY: 0
+      };
+
+      // Determine initial scale based on viewport width
+      const map_viewportWidth = window.innerWidth || document.documentElement.clientWidth;
+      if (map_viewportWidth < 800) {
+        map_zoomState.scale = 0.6;
+      } else if (map_viewportWidth < 1200) {
+        map_zoomState.scale = 0.8;
+      }
+
+      let map_svg, map_worldData, map_visitData;
+
+      // Load both world map data and visitor data
+      Promise.all([
+        d3.json("https://unpkg.com/world-atlas@2/countries-110m.json"),
+        d3.json("https://unpkg.com/world-atlas@2/countries-50m.json"),
+        d3.json("output/visitors-data.json")
+      ]).then(([world110m, world50m, visitorData]) => {
+        map_worldData = { low: world110m, high: world50m };
+        map_visitData = visitorData;
+        
+        // Calculate total visitors
+        const mapTotalVisitors = map_visitData.reduce((sum, d) => sum + d.visitors, 0);
+        d3.select("#map-frame #total-visitors").text(mapTotalVisitors.toLocaleString());
+        
+        map_render();
+        map_setupZoomButtons();
+        
+        // Add legend after first render
+        const legend = d3.select("#map-frame")
+          .append("div")
+          .attr("class", "legend");
+        legend.append("div").attr("class", "legend-dot");
+        legend.append("span").text("Visitor locations (circle size ≈ relative visitors)");
+      }).catch(error => {
+        console.error("Error loading map data:", error);
+        d3.select("#map-frame").append("div")
+          .style("padding", "20px")
+          .style("color", "#ff6b6b")
+          .text("Error loading visitor data. Please ensure visitors-data.json is available.");
+      });
+
+      function map_render() {
+        // Clear existing SVG
+        map_container.selectAll("svg").remove();
+
+        // ViewBox stays constant, but we scale the projection
+        const width = map_baseWidth;
+        const height = map_baseHeight;
+
+        // Create SVG
+        map_svg = map_container
+          .insert("svg", ":first-child")
+          .style("cursor", map_zoomState.isDragging ? "grabbing" : "grab")
+          .attr("viewBox", `0 0 ${width} ${height}`);
+
+        // Background
+        map_svg.append("rect")
+          .attr("x", 0)
+          .attr("y", 0)
+          .attr("width", width)
+          .attr("height", height)
+          .attr("fill", "#1f1f28");
+
+        // Always use high resolution map (50m) for better detail
+        const world = map_worldData.high;
+        const countries = topojson.feature(world, world.objects.countries);
+
+        // Scale and translate the projection
+        const baseProjection = d3.geoNaturalEarth1()
+          .fitSize([width, height], { type: "Sphere" });
+        
+        const baseScale = baseProjection.scale();
+        const baseTranslate = baseProjection.translate();
+        
+        const projection = d3.geoNaturalEarth1()
+          .scale(baseScale * map_zoomState.scale)
+          .translate([
+            baseTranslate[0] - map_zoomState.translateX,
+            baseTranslate[1] - map_zoomState.translateY
+          ]);
+
+        const path = d3.geoPath(projection);
+
+        // Graticule
+        const graticule = d3.geoGraticule();
+
+        map_svg.append("path")
+          .datum(graticule.outline())
+          .attr("fill", "#1f1f28")
+          .attr("stroke", "none")
+          .attr("d", path);
+
+        map_svg.append("g")
+          .selectAll("path")
+          .data(countries.features)
+          .join("path")
+          .attr("fill", map_theme.landFill)
+          .attr("stroke", map_theme.landStroke)
+          .attr("stroke-width", 0.5)
+          .attr("stroke-opacity", 0.6)
+          .attr("fill-opacity", 0.9)
+          .attr("d", path);
+
+        map_svg.append("path")
+          .datum(graticule())
+          .attr("fill", "none")
+          .attr("stroke", map_theme.gridStroke)
+          .attr("stroke-width", 0.35)
+          .attr("opacity", 0.5)
+          .attr("d", path);
+
+        // Draw points with constant screen size
+        map_drawPoints(projection, width, height);
+
+        // Update visible visitor count
+        map_updateVisibleCount(projection);
+
+        // Set up drag behavior
+        map_setupDrag();
+      }
+
+      function map_updateVisibleCount(projection) {
+        // Calculate which points are visible in the current viewport
+        let visibleVisitors = 0;
+        
+        map_visitData.forEach(d => {
+          const projected = projection([d.lon, d.lat]);
+          if (!projected) return;
+          
+          const [x, y] = projected;
+          
+          // Check if the point is within the viewBox bounds
+          if (x >= 0 && x <= map_baseWidth && y >= 0 && y <= map_baseHeight) {
+            visibleVisitors += d.visitors;
+          }
+        });
+        
+        d3.select("#map-frame #visible-visitors").text(visibleVisitors.toLocaleString());
+      }
+
+      function map_drawPoints(projection, width, height) {
+        if (!map_visitData || map_visitData.length === 0) return;
+
+        const radii = map_visitData.map(d => d.normalized || 0);
+        const maxNormalized = d3.max(radii) || 1;
+
+        const radiusScale = d3.scaleLinear()
+          .domain([0, maxNormalized])
+          .range([map_minRadius, map_maxRadius]);
+
+        // Draw larger points first so smaller points render on top
+        const orderedData = [...map_visitData].sort((a, b) => (b.normalized || 0) - (a.normalized || 0));
+
+        const circles = map_svg.append("g")
+          .selectAll("circle")
+          .data(orderedData)
+          .join("circle")
+          .attr("cx", d => projection([d.lon, d.lat])[0])
+          .attr("cy", d => projection([d.lon, d.lat])[1])
+          .attr("r", d => radiusScale(d.normalized || 0))
+          .attr("fill", map_theme.bubbleFill)
+          .attr("fill-opacity", map_theme.bubbleOpacity)
+          .attr("stroke", map_theme.bubbleStroke)
+          .attr("stroke-width", 1);
+
+        circles
+          .style("cursor", "default")
+          .on("mouseover", function (event, d) {
+            d3.select(this)
+              .attr("fill", map_theme.bubbleFillHover)
+              .attr("stroke", map_theme.bubbleStrokeHover)
+              .attr("stroke-width", 1.4);
+
+            const city = d.city && d.city.trim();
+            const country = d.country && d.country.trim();
+            const title = city ? `${city}, ${country || "Unknown"}` : (country || "Unknown");
+
+            // Get screen coordinates relative to the map-frame container
+            const svgRect = map_svg.node().getBoundingClientRect();
+            const containerRect = map_container.node().getBoundingClientRect();
+            const x = event.clientX - containerRect.left;
+            const y = event.clientY - containerRect.top;
+
+            map_tooltip
+              .style("left", x + "px")
+              .style("top", y + "px")
+              .style("opacity", 1)
+              .html(`
+                <strong>${title}</strong><br/>
+                Visitors: ${d.visitors.toLocaleString()}<br/>
+                Most recent: ${map_formatLastVisit(d.lastVisit)}
+              `);
+          })
+          .on("mousemove", function (event) {
+            // Get screen coordinates relative to the map-frame container
+            const containerRect = map_container.node().getBoundingClientRect();
+            const x = event.clientX - containerRect.left;
+            const y = event.clientY - containerRect.top;
+            
+            map_tooltip
+              .style("left", x + "px")
+              .style("top", y + "px");
+          })
+          .on("mouseout", function () {
+            d3.select(this)
+              .attr("fill", map_theme.bubbleFill)
+              .attr("stroke", map_theme.bubbleStroke)
+              .attr("stroke-width", 1.0);
+
+            map_tooltip.style("opacity", 0);
+          });
+      }
+
+      function map_setupDrag() {
+        map_svg.on("mousedown", (event) => {
+          map_zoomState.isDragging = true;
+          map_zoomState.dragStartX = event.clientX;
+          map_zoomState.dragStartY = event.clientY;
+          map_zoomState.dragStartTranslateX = map_zoomState.translateX;
+          map_zoomState.dragStartTranslateY = map_zoomState.translateY;
+          map_svg.style("cursor", "grabbing");
+          event.preventDefault();
+        })
+        .on("dblclick", (event) => {
+          // Double-click to zoom in centered on mouse position
+          const svgRect = map_svg.node().getBoundingClientRect();
+          
+          // Get mouse position relative to SVG in screen coordinates
+          const mouseX = event.clientX - svgRect.left;
+          const mouseY = event.clientY - svgRect.top;
+          
+          // Convert to viewBox coordinates (where the mouse is in the viewport)
+          const viewBoxX = (mouseX / svgRect.width) * map_baseWidth;
+          const viewBoxY = (mouseY / svgRect.height) * map_baseHeight;
+          
+          // Calculate what point in the world this corresponds to
+          // The projection translates by: baseTranslate - map_zoomState.translate
+          // So a point at viewBoxX in the viewport corresponds to a world point that,
+          // when projected, gives us viewBoxX
+          // Since projection.translate = [map_baseWidth/2 - translateX, map_baseHeight/2 - translateY]
+          // A point at viewBoxX corresponds to world coordinates that project to viewBoxX
+          
+          // Store the old scale
+          const oldScale = map_zoomState.scale;
+          
+          // Calculate the center offset before zoom (where in the viewport is the click relative to center)
+          const offsetX = viewBoxX - map_baseWidth / 2;
+          const offsetY = viewBoxY - map_baseHeight / 2;
+          
+          // Zoom in
+          map_zoomState.scale = Math.min(8, map_zoomState.scale * 1.4);
+          const zoomRatio = map_zoomState.scale / oldScale;
+          
+          // Adjust translation to keep the clicked point under the cursor
+          // The offset from center should scale with the zoom
+          map_zoomState.translateX = map_zoomState.translateX * zoomRatio + offsetX * (zoomRatio - 1);
+          map_zoomState.translateY = map_zoomState.translateY * zoomRatio + offsetY * (zoomRatio - 1);
+          
+          // Constrain panning
+          const scaledMapWidth = map_baseWidth * map_zoomState.scale;
+          const scaledMapHeight = map_baseHeight * map_zoomState.scale;
+          const maxTranslateX = Math.max(0, (scaledMapWidth - map_baseWidth) / 2);
+          const maxTranslateY = Math.max(0, (scaledMapHeight - map_baseHeight) / 2);
+          map_zoomState.translateX = Math.max(-maxTranslateX, Math.min(maxTranslateX, map_zoomState.translateX));
+          map_zoomState.translateY = Math.max(-maxTranslateY, Math.min(maxTranslateY, map_zoomState.translateY));
+          
+          map_render();
+          event.preventDefault();
+        });
+
+        d3.select(window)
+          .on("mousemove.map", (event) => {
+            if (!map_zoomState.isDragging) return;
+            
+            const dx = event.clientX - map_zoomState.dragStartX;
+            const dy = event.clientY - map_zoomState.dragStartY;
+            
+            // Convert screen pixels to viewBox coordinates
+            const svgRect = map_svg.node().getBoundingClientRect();
+            const viewBoxWidth = map_baseWidth;
+            const viewBoxHeight = map_baseHeight;
+            const scaleX = viewBoxWidth / svgRect.width;
+            const scaleY = viewBoxHeight / svgRect.height;
+            
+            map_zoomState.translateX = map_zoomState.dragStartTranslateX - dx * scaleX;
+            map_zoomState.translateY = map_zoomState.dragStartTranslateY - dy * scaleY;
+            
+            // Constrain panning based on the scaled map size
+            // When zoomed in, the map is larger than the viewBox, so we can pan more
+            // The map should never show empty space beyond its edges
+            const scaledMapWidth = viewBoxWidth * map_zoomState.scale;
+            const scaledMapHeight = viewBoxHeight * map_zoomState.scale;
+            
+            // Max translate is how far we can pan before hitting the edge
+            // At scale=1, maxTranslate=0 (can't pan at all)
+            // At scale=2, maxTranslate=viewBoxWidth/2 (can pan half the width in each direction)
+            const maxTranslateX = Math.max(0, (scaledMapWidth - viewBoxWidth) / 2);
+            const maxTranslateY = Math.max(0, (scaledMapHeight - viewBoxHeight) / 2);
+            
+            map_zoomState.translateX = Math.max(-maxTranslateX, Math.min(maxTranslateX, map_zoomState.translateX));
+            map_zoomState.translateY = Math.max(-maxTranslateY, Math.min(maxTranslateY, map_zoomState.translateY));
+            
+            map_render();
+          })
+          .on("mouseup.map", () => {
+            if (map_zoomState.isDragging) {
+              map_zoomState.isDragging = false;
+              if (map_svg) map_svg.style("cursor", "grab");
+            }
+          });
+      }
+
+      function map_setupZoomButtons() {
+        d3.select("#zoom-in").on("click", () => {
+          const oldScale = map_zoomState.scale;
+          map_zoomState.scale = Math.min(8, map_zoomState.scale * 1.4);
+          const zoomRatio = map_zoomState.scale / oldScale;
+          
+          // Scale the translation to keep the center point stable
+          map_zoomState.translateX = map_zoomState.translateX * zoomRatio;
+          map_zoomState.translateY = map_zoomState.translateY * zoomRatio;
+          
+          // Constrain panning after zoom
+          const scaledMapWidth = map_baseWidth * map_zoomState.scale;
+          const scaledMapHeight = map_baseHeight * map_zoomState.scale;
+          const maxTranslateX = Math.max(0, (scaledMapWidth - map_baseWidth) / 2);
+          const maxTranslateY = Math.max(0, (scaledMapHeight - map_baseHeight) / 2);
+          map_zoomState.translateX = Math.max(-maxTranslateX, Math.min(maxTranslateX, map_zoomState.translateX));
+          map_zoomState.translateY = Math.max(-maxTranslateY, Math.min(maxTranslateY, map_zoomState.translateY));
+          
+          map_render();
+        });
+
+        d3.select("#zoom-out").on("click", () => {
+          const oldScale = map_zoomState.scale;
+          map_zoomState.scale = Math.max(0.5, map_zoomState.scale / 1.4);
+          const zoomRatio = map_zoomState.scale / oldScale;
+          
+          // Scale the translation to keep the center point stable
+          map_zoomState.translateX = map_zoomState.translateX * zoomRatio;
+          map_zoomState.translateY = map_zoomState.translateY * zoomRatio;
+          
+          // Constrain panning after zoom out - important to prevent being out of bounds
+          const scaledMapWidth = map_baseWidth * map_zoomState.scale;
+          const scaledMapHeight = map_baseHeight * map_zoomState.scale;
+          const maxTranslateX = Math.max(0, (scaledMapWidth - map_baseWidth) / 2);
+          const maxTranslateY = Math.max(0, (scaledMapHeight - map_baseHeight) / 2);
+          map_zoomState.translateX = Math.max(-maxTranslateX, Math.min(maxTranslateX, map_zoomState.translateX));
+          map_zoomState.translateY = Math.max(-maxTranslateY, Math.min(maxTranslateY, map_zoomState.translateY));
+          
+          map_render();
+        });
+      }
+
+      function map_formatLastVisit(iso) {
+        if (!iso) return "unknown";
+        const date = new Date(iso);
+        if (isNaN(date.getTime())) return iso;
+
+        const year = date.getFullYear();
+
+        // Bucketization rules:
+        // - Dates in 2025: show "Mon 2025" (e.g., "Jan 2025")
+        // - Dates in 2024 (before 2025-01-01): show "2024"
+        // - Dates in 2023 or earlier (before 2024-01-01): show "2023"
+        if (year >= 2025) {
+          return date.toLocaleString(undefined, {
+            year: "numeric",
+            month: "short",
+          });
+        } else if (year === 2024) {
+          return "2024";
+        } else {
+          return "2023";
+        }
+      }
+    </script>
+  
   </body>
 </html>
