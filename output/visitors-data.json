@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 98,
-    "lastVisit": "2025-11-17T16:32:00",
+    "visitors": 99,
+    "lastVisit": "2025-11-18T03:41:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5031559856081681
+    "normalized": 0.5042564763041646
   },
   {
     "city": "Santa Clara",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 40,
-    "lastVisit": "2025-11-16T14:20:00",
+    "visitors": 41,
+    "lastVisit": "2025-11-18T06:51:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.40662835231486727
+    "normalized": 0.4092669836696404
   },
   {
     "city": "Four Oaks",
@@ -6923,11 +6923,11 @@
   {
     "city": "Hefei",
     "country": "China",
-    "visitors": 2,
-    "lastVisit": "2025-11-16T03:10:00",
+    "visitors": 4,
+    "lastVisit": "2025-11-18T06:58:00",
     "lat": 31.86389,
     "lon": 117.28083,
-    "normalized": 0.12029574133737937
+    "normalized": 0.17623007571439372
   },
   {
     "city": "Hong Kong",
@@ -7022,10 +7022,10 @@
   {
     "city": "Gandhinagar",
     "country": "India",
-    "visitors": 5,
-    "lastVisit": "2025-11-18T01:16:00",
+    "visitors": 8,
+    "lastVisit": "2025-11-18T03:51:00",
     "lat": 23.21667,
     "lon": 72.68333,
-    "normalized": 0.1961939037750679
+    "normalized": 0.24059148267475874
   }
 ]
