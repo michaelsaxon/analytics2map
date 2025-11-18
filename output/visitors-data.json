@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 96,
-    "lastVisit": "2025-11-16T17:11:00",
+    "visitors": 97,
+    "lastVisit": "2025-11-17T14:32:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5009687094158454
+    "normalized": 0.502091881060136
   },
   {
     "city": "Santa Clara",
@@ -299,20 +299,20 @@
   {
     "city": null,
     "country": "United Kingdom",
-    "visitors": 109,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 110,
+    "lastVisit": "2025-11-17T09:30:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.5147414981079129
+    "normalized": 0.5157325299877722
   },
   {
     "city": "London",
     "country": "United Kingdom",
-    "visitors": 12,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 13,
+    "lastVisit": "2025-11-17T09:25:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.2808831804593877
+    "normalized": 0.28899861667857835
   },
   {
     "city": "Berlin",
@@ -659,11 +659,11 @@
   {
     "city": "Ann Arbor",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2025-11-12T16:16:00",
+    "visitors": 15,
+    "lastVisit": "2025-11-17T12:36:00",
     "lat": 42.27756,
     "lon": -83.74088,
-    "normalized": 0.2808831804593877
+    "normalized": 0.30362140918808295
   },
   {
     "city": "Pittsburgh",
@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 17,
-    "lastVisit": "2025-11-09T21:21:00",
+    "visitors": 18,
+    "lastVisit": "2025-11-17T14:12:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.31651962628663344
+    "normalized": 0.32244043444014264
   },
   {
     "city": "Tustin",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 62,
-    "lastVisit": "2025-11-16T20:17:00",
+    "visitors": 64,
+    "lastVisit": "2025-11-17T12:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.45370753837117034
+    "normalized": 0.45712995051016314
   },
   {
     "city": "Sylhet",
@@ -1622,11 +1622,11 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 11,
-    "lastVisit": "2025-11-13T20:18:00",
+    "visitors": 12,
+    "lastVisit": "2025-11-17T14:21:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.27211784158884783
+    "normalized": 0.2808831804593877
   },
   {
     "city": "Shenzhen",
@@ -1802,11 +1802,11 @@
   {
     "city": "Zurich",
     "country": "Switzerland",
-    "visitors": 6,
-    "lastVisit": "2025-07-01T00:00:00",
+    "visitors": 8,
+    "lastVisit": "2025-11-17T08:51:00",
     "lat": 47.36667,
     "lon": 8.55,
-    "normalized": 0.21309326438155762
+    "normalized": 0.24061427398961271
   },
   {
     "city": "Obanos",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 49,
-    "lastVisit": "2025-11-17T02:21:00",
+    "visitors": 52,
+    "lastVisit": "2025-11-17T14:21:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.4283988923985716
+    "normalized": 0.4347798200329308
   },
   {
     "city": "Tubingen",
