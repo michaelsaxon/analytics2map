@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 22,
-    "lastVisit": "2025-11-17T23:49:00",
+    "visitors": 23,
+    "lastVisit": "2025-11-18T21:12:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.3433137911035591
+    "normalized": 0.3479737590600596
   },
   {
     "city": "Ashburn",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 40,
-    "lastVisit": "2025-11-18T14:30:00",
+    "visitors": 41,
+    "lastVisit": "2025-11-18T22:06:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.4066091075147253
+    "normalized": 0.4092476139890449
   },
   {
     "city": "Lompoc",
@@ -281,20 +281,20 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 17,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 18,
+    "lastVisit": "2025-11-19T02:28:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.3164746663734279
+    "normalized": 0.3223946335079337
   },
   {
     "city": null,
     "country": "China",
-    "visitors": 228,
-    "lastVisit": "2025-11-17T17:49:00",
+    "visitors": 229,
+    "lastVisit": "2025-11-19T02:28:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.5949530033785224
+    "normalized": 0.5954300965964312
   },
   {
     "city": null,
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 17,
-    "lastVisit": "2025-11-18T17:20:00",
+    "visitors": 18,
+    "lastVisit": "2025-11-18T23:09:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.3164746663734279
+    "normalized": 0.3223946335079337
   },
   {
     "city": "Rowland Heights",
@@ -7053,6 +7053,24 @@
     "lastVisit": "2025-11-18T14:00:00",
     "lat": 42.21197,
     "lon": -88.23814,
+    "normalized": 0.07589457034933825
+  },
+  {
+    "city": "Shiraz",
+    "country": "Iran",
+    "visitors": 1,
+    "lastVisit": "2025-11-18T20:48:00",
+    "lat": 29.61031,
+    "lon": 52.53113,
+    "normalized": 0.07589457034933825
+  },
+  {
+    "city": "Misawa",
+    "country": "Japan",
+    "visitors": 1,
+    "lastVisit": "2025-11-18T22:04:00",
+    "lat": 40.68682,
+    "lon": 141.38969,
     "normalized": 0.07589457034933825
   }
 ]
