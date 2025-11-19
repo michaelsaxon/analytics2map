@@ -338,6 +338,7 @@
       let globe_recentVisitors = new Set(); // Track recent visitor locations
       let globe_activeTooltip = null; // Currently displayed auto-tooltip
       let globe_activeRipples = []; // Track active ripple animations with their geo coordinates
+      let globe_tooltipSchedule = []; // Pre-computed schedule of tooltip displays
 
       // Load data
       Promise.all([
@@ -347,17 +348,17 @@
         globe_worldData = topojson.feature(world, world.objects.countries);
         globe_visitData = visitorData;
         
-        // Identify the 25 most recent visitors
-        const sortedByDate = [...visitorData]
-          .filter(d => d.lastVisit)
-          .sort((a, b) => new Date(b.lastVisit) - new Date(a.lastVisit))
-          .slice(0, 25);
+        // Select 15 visitors balancing recency with spatial distribution
+        const selectedVisitors = globe_selectBalancedRecentVisitors(visitorData, 15);
         
-        sortedByDate.forEach(d => {
+        selectedVisitors.forEach(d => {
           globe_recentVisitors.add(`${d.lat},${d.lon}`);
         });
         
-        console.log(`Showing ${globe_recentVisitors.size} most recent visitors as red dots`);
+        console.log(`Showing ${globe_recentVisitors.size} balanced recent visitors as red dots`);
+        
+        // Pre-compute tooltip display schedule
+        globe_computeTooltipSchedule(selectedVisitors);
         
         // Calculate total visitors for globe
         const globeTotalVisitors = globe_visitData.reduce((sum, d) => sum + d.visitors, 0);
@@ -372,6 +373,278 @@
           .style("color", "#ff6b6b")
           .text("Error loading data. Please ensure visitors-data.json is available.");
       });
+
+      /**
+       * Calculate geographic distance between two points in degrees
+       * Uses simple Euclidean distance approximation (works well for small distances)
+       */
+      function globe_pointDistance(lat1, lon1, lat2, lon2) {
+        const dLat = lat1 - lat2;
+        const dLon = globe_angularDistance(lon1, lon2);
+        return Math.sqrt(dLat * dLat + dLon * dLon);
+      }
+
+      /**
+       * Deconflict visitors within K degrees of each other, keeping the newest ones
+       * Algorithm:
+       * 1. Sort by recency (newest first)
+       * 2. For each visitor, if no already-selected visitor is within K degrees, keep it
+       * 3. This naturally keeps the newest visitor when there are conflicts
+       */
+      function globe_deconflictNearbyVisitors(visitorData, K) {
+        // Filter and sort by recency (newest first)
+        const sorted = [...visitorData]
+          .filter(d => d.lastVisit)
+          .sort((a, b) => new Date(b.lastVisit) - new Date(a.lastVisit));
+        
+        const selected = [];
+        
+        for (const visitor of sorted) {
+          // Check if there's already a selected visitor within K degrees
+          const hasNearby = selected.some(selectedVisitor => {
+            const distance = globe_pointDistance(
+              visitor.lat, visitor.lon,
+              selectedVisitor.lat, selectedVisitor.lon
+            );
+            return distance <= K;
+          });
+          
+          // If no nearby visitor, add this one (it's the newest in its area)
+          if (!hasNearby) {
+            selected.push(visitor);
+          }
+        }
+        
+        return selected;
+      }
+
+      /**
+       * Determine which 120-degree segment a longitude belongs to
+       * Segment 1: Central/East Asia and Pacific (60°E to 180°E)
+       * Segment 2: Pacific, Americas, Atlantic (180°E to 300°E / -60°W)
+       * Segment 3: Atlantic, Africa, Europe, Middle East (300°E to 60°E / -60°W to 60°E)
+       */
+      function globe_getSegment(lon) {
+        // Normalize longitude to [0, 360)
+        const normalizedLon = ((lon % 360) + 360) % 360;
+        
+        if (normalizedLon >= 60 && normalizedLon < 180) {
+          return 1; // Central/East Asia and Pacific
+        } else if (normalizedLon >= 180 && normalizedLon < 300) {
+          return 2; // Pacific, Americas, Atlantic
+        } else {
+          return 3; // Atlantic, Africa, Europe, Middle East (wraps around: 300-360 and 0-60)
+        }
+      }
+
+      /**
+       * Select N visitors balancing recency with spatial distribution
+       * Algorithm:
+       * 0. First deconflict nearby visitors (within K degrees, keep newest)
+       * 1. Start with the 2N most recent visitors from deconflicted set
+       * 2. Partition globe into 3 segments of 120 degrees each
+       * 3. Count visitors in each segment
+       * 4. Remove the oldest visitor from the segment with the most visitors
+       * 5. Repeat until N visitors remain
+       */
+      function globe_selectBalancedRecentVisitors(visitorData, N, deconflictRadius = 10) {
+        // Step 0: Deconflict nearby visitors first (within K degrees, keep newest)
+        const deconflicted = globe_deconflictNearbyVisitors(visitorData, deconflictRadius);
+        
+        // Get 2N most recent visitors from deconflicted set
+        const candidates = deconflicted
+          .sort((a, b) => new Date(b.lastVisit) - new Date(a.lastVisit))
+          .slice(0, 2 * N);
+        
+        // If we have N or fewer, return them all
+        if (candidates.length <= N) {
+          return candidates;
+        }
+        
+        // Track original recency index and assign to segments
+        const normalized = candidates.map((d, originalIdx) => ({
+          visitor: d,
+          lon: d.lon,
+          segment: globe_getSegment(d.lon),
+          originalIdx // Track original position (higher = less recent)
+        }));
+        
+        // Greedily remove oldest from segment with most visitors until we have N
+        let remaining = [...normalized];
+        
+        while (remaining.length > N) {
+          // Count visitors per segment
+          const segmentCounts = { 1: 0, 2: 0, 3: 0 };
+          remaining.forEach(v => {
+            segmentCounts[v.segment]++;
+          });
+          
+          // Find segment with most visitors
+          let maxSegment = 1;
+          let maxCount = segmentCounts[1];
+          if (segmentCounts[2] > maxCount) {
+            maxSegment = 2;
+            maxCount = segmentCounts[2];
+          }
+          if (segmentCounts[3] > maxCount) {
+            maxSegment = 3;
+            maxCount = segmentCounts[3];
+          }
+          
+          // Find oldest visitor in that segment (highest originalIdx = least recent)
+          let oldestInSegment = null;
+          let oldestIdx = -1;
+          
+          remaining.forEach((visitor, idx) => {
+            if (visitor.segment === maxSegment) {
+              if (oldestInSegment === null || visitor.originalIdx > oldestInSegment.originalIdx) {
+                oldestInSegment = visitor;
+                oldestIdx = idx;
+              }
+            }
+          });
+          
+          // Remove the oldest visitor from the segment with most visitors
+          if (oldestIdx !== -1) {
+            remaining.splice(oldestIdx, 1);
+          } else {
+            // Fallback: shouldn't happen, but break to avoid infinite loop
+            break;
+          }
+        }
+        
+        // Return the original visitor objects
+        return remaining.map(n => n.visitor);
+      }
+
+      /**
+       * Pre-compute tooltip display schedule with overlap-aware partitioning
+       * Algorithm:
+       * 1. Sort visitors by: right-to-left (lon desc), then top-to-bottom (lat desc)
+       * 2. For each visitor's 90-degree optimal window, find all overlapping visitors
+       * 3. Partition the window equally among overlapping visitors in sorted order
+       */
+      function globe_computeTooltipSchedule(recentVisitors) {
+        const MAX_DISPLAY_DEGREES = 90; // Maximum degrees a tooltip can be shown
+        
+        // Step 1: Sort visitors lexicographically: right-to-left, then top-to-bottom
+        const sortedVisitors = recentVisitors.map((visitor, index) => {
+          const lon = visitor.lon;
+          const lat = visitor.lat;
+          
+          // Normalize longitude to [-180, 180]
+          const normLon = ((lon + 180) % 360) - 180;
+          
+          return {
+            visitor,
+            lon: normLon,
+            lat,
+            key: `${lat},${lon}`
+          };
+        }).sort((a, b) => {
+          // Primary: right to left (higher lon first)
+          if (Math.abs(a.lon - b.lon) > 0.001) return b.lon - a.lon;
+          // Secondary: top to bottom (higher lat first)
+          return b.lat - a.lat;
+        });
+        
+        // Step 2: For each visitor, compute their display window
+        const schedule = [];
+        
+        sortedVisitors.forEach((visitor, idx) => {
+          // A point at longitude L is centered when globe_rotation = -L
+          // Normalize -L to [0, 360) first
+          const rotationWhenCentered = ((-visitor.lon % 360) + 360) % 360;
+          
+          // Window spans 45 degrees on each side of center
+          let windowStart = rotationWhenCentered - (MAX_DISPLAY_DEGREES / 2);
+          let windowEnd = rotationWhenCentered + (MAX_DISPLAY_DEGREES / 2);
+          
+          // Normalize to [0, 360)
+          windowStart = ((windowStart % 360) + 360) % 360;
+          windowEnd = ((windowEnd % 360) + 360) % 360;
+          
+          // Find all visitors (in sorted order) whose optimal windows overlap with this one
+          const overlappingInOrder = [];
+          sortedVisitors.forEach((other) => {
+            const otherRotationCenter = ((-other.lon % 360) + 360) % 360;
+            const otherStart = ((otherRotationCenter - MAX_DISPLAY_DEGREES / 2) % 360 + 360) % 360;
+            const otherEnd = ((otherRotationCenter + MAX_DISPLAY_DEGREES / 2) % 360 + 360) % 360;
+            
+            const overlap = globe_computeOverlap(windowStart, windowEnd, otherStart, otherEnd);
+            if (overlap > 0) {
+              overlappingInOrder.push(other);
+            }
+          });
+          
+          // Partition the window equally among overlapping visitors
+          const numOverlapping = overlappingInOrder.length;
+          const sharePerVisitor = MAX_DISPLAY_DEGREES / numOverlapping;
+          
+          // Find this visitor's position in the overlapping list
+          const positionInOverlap = overlappingInOrder.findIndex(v => v.key === visitor.key);
+          
+          // Calculate start and end for this visitor
+          const startOffset = positionInOverlap * sharePerVisitor;
+          let displayStart = (windowStart + startOffset) % 360;
+          let displayEnd = (displayStart + sharePerVisitor) % 360;
+          
+          schedule.push({
+            key: visitor.key,
+            visitor: visitor.visitor,
+            displayStart,
+            displayEnd,
+            duration: sharePerVisitor,
+            overlaps: numOverlapping,
+            position: positionInOverlap,
+            sortOrder: idx,
+            lon: visitor.lon,
+            lat: visitor.lat
+          });
+        });
+        
+        globe_tooltipSchedule = schedule;
+        console.log(`Computed tooltip schedule for ${schedule.length} visitors:`, schedule);
+      }
+      
+      /**
+       * Calculate overlap between two angular windows (handles wrap-around)
+       */
+      function globe_computeOverlap(start1, end1, start2, end2) {
+        // Convert to ranges that might wrap around 360
+        const range1 = end1 >= start1 ? 
+          [[start1, end1]] : 
+          [[start1, 360], [0, end1]];
+        
+        const range2 = end2 >= start2 ? 
+          [[start2, end2]] : 
+          [[start2, 360], [0, end2]];
+        
+        let totalOverlap = 0;
+        
+        for (const [s1, e1] of range1) {
+          for (const [s2, e2] of range2) {
+            const overlapStart = Math.max(s1, s2);
+            const overlapEnd = Math.min(e1, e2);
+            if (overlapEnd > overlapStart) {
+              totalOverlap += overlapEnd - overlapStart;
+            }
+          }
+        }
+        
+        return totalOverlap;
+      }
+      
+      /**
+       * Calculate angular distance between two longitudes (shortest path)
+       */
+      function globe_angularDistance(lon1, lon2) {
+        let diff = Math.abs(lon1 - lon2);
+        if (diff > 180) {
+          diff = 360 - diff;
+        }
+        return diff;
+      }
 
       function globe_initGlobe() {
         // Create SVG
@@ -681,39 +954,71 @@
       }
 
       function globe_updateAutoTooltips() {
-        // Find recent visitors in the center 90-degree zone
-        const centerLon = globe_projection.invert([globe_size / 2, globe_size / 2]);
-        if (!centerLon) return;
-
-        let candidateForTooltip = null;
-        let minDistanceFromCenter = Infinity;
-
-        globe_visitData.forEach(d => {
-          const isRecent = globe_recentVisitors.has(`${d.lat},${d.lon}`);
-          if (!isRecent) return;
-
-          const proj = globe_projection([d.lon, d.lat]);
-          if (!proj) return;
-
-          // Check if visible on front hemisphere
-          const distance = d3.geoDistance([d.lon, d.lat], centerLon);
-          if (distance > Math.PI / 2) return; // Back of globe
-
-          // Check if in center 90-degree zone (45 degrees from center = π/4 radians)
-          if (distance <= Math.PI / 4) {
-            // Find the one closest to center for tooltip
-            if (distance < minDistanceFromCenter) {
-              minDistanceFromCenter = distance;
-              candidateForTooltip = { data: d, proj: proj };
-            }
-          }
+        // Use pre-computed schedule to determine which tooltip to show
+        // Only consider start times - show tooltip when its start time is reached,
+        // and hide it when the next tooltip's start time is reached
+        const currentRotation = ((globe_rotation % 360) + 360) % 360;
+        
+        // Sort schedule by displayStart to find the active tooltip
+        const sortedSchedule = [...globe_tooltipSchedule].sort((a, b) => {
+          return a.displayStart - b.displayStart;
         });
-
-        // Update tooltip if we have a candidate
-        if (candidateForTooltip) {
-          const d = candidateForTooltip.data;
-          const proj = candidateForTooltip.proj;
-          const key = `${d.lat},${d.lon}`;
+        
+        // Find the tooltip whose start time we've most recently passed
+        // Show it until the next tooltip's start time
+        let activeScheduleItem = null;
+        
+        for (let i = 0; i < sortedSchedule.length; i++) {
+          const item = sortedSchedule[i];
+          const nextItem = sortedSchedule[(i + 1) % sortedSchedule.length];
+          
+          const start = item.displayStart;
+          const nextStart = nextItem.displayStart;
+          
+          // Check if current rotation is >= this item's start and < next item's start
+          let isActive = false;
+          
+          if (nextStart > start) {
+            // Normal case: no wrap-around between consecutive items
+            isActive = currentRotation >= start && currentRotation < nextStart;
+          } else {
+            // Wrap-around case: next start wraps around 360
+            // Active if: (rotation >= start) OR (rotation < nextStart)
+            isActive = currentRotation >= start || currentRotation < nextStart;
+          }
+          
+          if (isActive) {
+            activeScheduleItem = item;
+            break;
+          }
+        }
+        
+        if (activeScheduleItem) {
+          const d = activeScheduleItem.visitor;
+          const key = activeScheduleItem.key;
+          
+          // Check if this point is visible on the front hemisphere
+          const proj = globe_projection([d.lon, d.lat]);
+          if (!proj) {
+            globe_tooltip.style("opacity", 0);
+            globe_activeTooltip = null;
+            return;
+          }
+          
+          const centerLon = globe_projection.invert([globe_size / 2, globe_size / 2]);
+          if (!centerLon) {
+            globe_tooltip.style("opacity", 0);
+            globe_activeTooltip = null;
+            return;
+          }
+          
+          const distance = d3.geoDistance([d.lon, d.lat], centerLon);
+          if (distance > Math.PI / 2) {
+            // On back of globe
+            globe_tooltip.style("opacity", 0);
+            globe_activeTooltip = null;
+            return;
+          }
           
           // If this is a new tooltip (different from the previous one), trigger ripple animation
           if (globe_activeTooltip !== key) {
@@ -741,7 +1046,7 @@
           
           globe_activeTooltip = key;
         } else if (globe_activeTooltip) {
-          // Hide tooltip if no candidate
+          // No scheduled tooltip for current rotation
           globe_tooltip.style("opacity", 0);
           globe_activeTooltip = null;
         }
