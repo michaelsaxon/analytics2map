@@ -2,7 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>analytics2map</title>
+    <title>Visitor analytics for saxon.me</title>
+    <link rel="icon" type="image/png" href="https://saxon.me/theme/img/logomark_fill.png">
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://unpkg.com/topojson-client@3"></script>
     <script src="tz.js"></script>
@@ -385,6 +386,40 @@
       }
 
       /**
+       * Check if a visitor should be excluded from recent visitors view
+       * Excludes large countries without a city name
+       */
+      function globe_shouldExcludeVisitor(visitor) {
+        // List of large countries that require a city name
+        const largeCountriesRequiringCity = [
+          "United States",
+          "China",
+          "Canada",
+          "Mexico",
+          "Brazil",
+          "India",
+          "Russia",
+          "Australia",
+          "United Kingdom",
+          "Spain",
+          "Poland",
+          "Ukraine",
+          "Turkey",
+          "Iran",
+        ];
+        
+        const country = visitor.country && visitor.country.trim();
+        const city = visitor.city && visitor.city.trim();
+        
+        // Exclude if country is in blacklist and has no city
+        if (country && largeCountriesRequiringCity.includes(country)) {
+          return !city || city.length === 0;
+        }
+        
+        return false;
+      }
+
+      /**
        * Deconflict visitors within K degrees of each other, keeping the newest ones
        * Algorithm:
        * 1. Sort by recency (newest first)
@@ -393,8 +428,9 @@
        */
       function globe_deconflictNearbyVisitors(visitorData, K) {
         // Filter and sort by recency (newest first)
+        // Also exclude large countries without cities
         const sorted = [...visitorData]
-          .filter(d => d.lastVisit)
+          .filter(d => d.lastVisit && !globe_shouldExcludeVisitor(d))
           .sort((a, b) => new Date(b.lastVisit) - new Date(a.lastVisit));
         
         const selected = [];
