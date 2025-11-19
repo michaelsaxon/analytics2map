@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 34,
-    "lastVisit": "2025-11-15T14:40:00",
+    "visitors": 35,
+    "lastVisit": "2025-11-18T13:52:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.3893031556089662
+    "normalized": 0.3923878075501358
   },
   {
     "city": "Ames",
@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 99,
-    "lastVisit": "2025-11-18T03:41:00",
+    "visitors": 101,
+    "lastVisit": "2025-11-18T09:53:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5042564763041646
+    "normalized": 0.5064248224583021
   },
   {
     "city": "Santa Clara",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 41,
-    "lastVisit": "2025-11-18T06:51:00",
+    "visitors": 42,
+    "lastVisit": "2025-11-18T11:42:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.4092669836696404
+    "normalized": 0.41184352378228406
   },
   {
     "city": "Four Oaks",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 38,
-    "lastVisit": "2025-11-18T00:28:00",
+    "visitors": 40,
+    "lastVisit": "2025-11-18T14:30:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.4011523161557264
+    "normalized": 0.40662835231486727
   },
   {
     "city": "Lompoc",
@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2025-11-17T08:20:00",
+    "visitors": 12,
+    "lastVisit": "2025-11-18T13:14:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.2720920662127565
+    "normalized": 0.280856574818347
   },
   {
     "city": "Manhattan",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2025-11-17T15:53:00",
+    "visitors": 16,
+    "lastVisit": "2025-11-18T14:15:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.2965258170517731
+    "normalized": 0.3102309186832342
   },
   {
     "city": "Rowland Heights",
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 42,
-    "lastVisit": "2025-11-17T08:04:00",
+    "visitors": 44,
+    "lastVisit": "2025-11-18T10:44:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.41184352378228406
+    "normalized": 0.41682155838915247
   },
   {
     "city": "Rochester",
@@ -1028,11 +1028,11 @@
   {
     "city": "Mannheim",
     "country": "Germany",
-    "visitors": 2,
-    "lastVisit": "2024-01-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2025-11-18T09:26:00",
     "lat": 49.4891,
     "lon": 8.46694,
-    "normalized": 0.12029574133737937
+    "normalized": 0.1517963248753771
   },
   {
     "city": "Gladenbach",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 66,
-    "lastVisit": "2025-11-18T02:19:00",
+    "visitors": 70,
+    "lastVisit": "2025-11-18T11:26:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.46040502273887063
+    "normalized": 0.4667545058268736
   },
   {
     "city": "Sylhet",
@@ -2702,11 +2702,11 @@
   {
     "city": null,
     "country": "Morocco",
-    "visitors": 3,
-    "lastVisit": "2025-07-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2025-11-18T11:26:00",
     "lat": 34.01325,
     "lon": -6.83255,
-    "normalized": 0.1517963248753771
+    "normalized": 0.17623007571439372
   },
   {
     "city": "Langnau am Albis",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 24,
-    "lastVisit": "2025-11-16T23:22:00",
+    "visitors": 25,
+    "lastVisit": "2025-11-18T07:06:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.35246015142878745
+    "normalized": 0.3567547372560356
   },
   {
     "city": "Sabz",
@@ -3710,11 +3710,11 @@
   {
     "city": "Bellevue",
     "country": "United States",
-    "visitors": 161,
-    "lastVisit": "2024-09-01T00:00:00",
+    "visitors": 162,
+    "lastVisit": "2025-11-18T14:15:00",
     "lat": 47.61038,
     "lon": -122.20068,
-    "normalized": 0.557081127787206
+    "normalized": 0.5577549631602455
   },
   {
     "city": "Burlingame",
@@ -6590,20 +6590,20 @@
   {
     "city": "Concord",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2025-11-11T09:46:00",
+    "visitors": 10,
+    "lastVisit": "2025-11-18T11:04:00",
     "lat": 37.97798,
     "lon": -122.03107,
-    "normalized": 0.2521282381520823
+    "normalized": 0.26256450293340944
   },
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 54,
-    "lastVisit": "2025-11-18T02:19:00",
+    "visitors": 59,
+    "lastVisit": "2025-11-18T14:33:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.4387945786478032
+    "normalized": 0.4483221419271502
   },
   {
     "city": "Tubingen",
@@ -7027,5 +7027,32 @@
     "lat": 23.21667,
     "lon": 72.68333,
     "normalized": 0.24059148267475874
+  },
+  {
+    "city": "Duluth",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-11-18T09:35:00",
+    "lat": 46.78327,
+    "lon": -92.10658,
+    "normalized": 0.07589816243768854
+  },
+  {
+    "city": "West Lafayette",
+    "country": "United States",
+    "visitors": 3,
+    "lastVisit": "2025-11-18T09:38:00",
+    "lat": 40.42587,
+    "lon": -86.90807,
+    "normalized": 0.1517963248753771
+  },
+  {
+    "city": "Cary",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-11-18T14:00:00",
+    "lat": 42.21197,
+    "lon": -88.23814,
+    "normalized": 0.07589816243768854
   }
 ]
