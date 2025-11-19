@@ -334,6 +334,9 @@
       let globe_svg, globe_projection, globe_path, globe_visitData, globe_worldData;
       let globe_rotation = 0;
       const globe_rotationSpeed = 0.3; // degrees per frame
+      let globe_recentVisitors = new Set(); // Track recent visitor locations
+      let globe_activeTooltip = null; // Currently displayed auto-tooltip
+      let globe_activeRipples = []; // Track active ripple animations with their geo coordinates
 
       // Load data
       Promise.all([
@@ -342,6 +345,18 @@
       ]).then(([world, visitorData]) => {
         globe_worldData = topojson.feature(world, world.objects.countries);
         globe_visitData = visitorData;
+        
+        // Identify the 25 most recent visitors
+        const sortedByDate = [...visitorData]
+          .filter(d => d.lastVisit)
+          .sort((a, b) => new Date(b.lastVisit) - new Date(a.lastVisit))
+          .slice(0, 25);
+        
+        sortedByDate.forEach(d => {
+          globe_recentVisitors.add(`${d.lat},${d.lon}`);
+        });
+        
+        console.log(`Showing ${globe_recentVisitors.size} most recent visitors as red dots`);
         
         // Calculate total visitors for globe
         const globeTotalVisitors = globe_visitData.reduce((sum, d) => sum + d.visitors, 0);
@@ -393,8 +408,10 @@
           .attr("stroke-opacity", 0.6)
           .attr("fill-opacity", 0.9);
 
-        // Points group
-        globe_svg.append("g").attr("class", "points");
+        // Points groups - regular points first, then recent on top
+        globe_svg.append("g").attr("class", "points-regular");
+        globe_svg.append("g").attr("class", "points-recent");
+        globe_svg.append("g").attr("class", "ripples");
       }
 
       function globe_animate() {
@@ -405,6 +422,9 @@
         globe_svg.select(".land")
           .selectAll("path")
           .attr("d", globe_path);
+
+        // Update ripple positions to follow globe rotation
+        globe_updateRipplePositions();
 
         // Update points
         globe_drawPoints();
@@ -423,12 +443,35 @@
           .domain([0, maxNormalized])
           .range([globe_minRadius, globe_maxRadius]);
 
-        // Sort by size (largest first) so smaller dots render on top
-        const orderedData = [...globe_visitData].sort((a, b) => (b.normalized || 0) - (a.normalized || 0));
+        // Separate data into regular and recent visitors
+        const regularData = [];
+        const recentData = [];
+        
+        globe_visitData.forEach(d => {
+          if (globe_recentVisitors.has(`${d.lat},${d.lon}`)) {
+            recentData.push(d);
+          } else {
+            regularData.push(d);
+          }
+        });
 
-        const circles = globe_svg.select(".points")
+        // Sort regular data by size (largest first) so smaller dots render on top
+        regularData.sort((a, b) => (b.normalized || 0) - (a.normalized || 0));
+
+        // Draw regular visitors
+        globe_drawRegularPoints(regularData, radiusScale);
+        
+        // Draw recent visitors (on top)
+        globe_drawRecentPoints(recentData);
+
+        // Auto-display tooltips for recent visitors in the center zone (middle 90 degrees)
+        globe_updateAutoTooltips();
+      }
+
+      function globe_drawRegularPoints(data, radiusScale) {
+        const circles = globe_svg.select(".points-regular")
           .selectAll("circle")
-          .data(orderedData, d => `${d.lat},${d.lon}`);
+          .data(data, d => `${d.lat},${d.lon}`);
 
         circles.exit().remove();
 
@@ -440,7 +483,7 @@
           .attr("stroke-width", 1)
           .style("cursor", "default");
 
-        circles.merge(enter)
+        const allCircles = circles.merge(enter)
           .attr("cx", d => {
             const proj = globe_projection([d.lon, d.lat]);
             return proj ? proj[0] : -999;
@@ -452,20 +495,20 @@
           .attr("r", d => radiusScale(d.normalized || 0))
           .style("display", d => {
             const proj = globe_projection([d.lon, d.lat]);
-            // Hide points on the back of the globe
             if (!proj) return "none";
             const distance = d3.geoDistance([d.lon, d.lat], globe_projection.invert([globe_size / 2, globe_size / 2]));
             return distance > Math.PI / 2 ? "none" : null;
-          })
+          });
+
+        // Handle manual hover tooltips
+        allCircles
           .on("mouseover", function(event, d) {
-            d3.select(this)
-              .attr("fill", globe_theme.bubbleFillHover)
-              .attr("stroke", globe_theme.bubbleStrokeHover)
-              .attr("stroke-width", 1.4);
+            d3.select(this).attr("stroke-width", 1.4);
 
             const city = d.city && d.city.trim();
             const country = d.country && d.country.trim();
             const title = city ? `${city}, ${country || "Unknown"}` : (country || "Unknown");
+            const timeDisplay = globe_formatLastVisit(d.lastVisit);
 
             const containerRect = globe_container.node().getBoundingClientRect();
             const x = event.clientX - containerRect.left;
@@ -475,29 +518,232 @@
               .style("left", x + "px")
               .style("top", y + "px")
               .style("opacity", 1)
-              .html(`
-                <strong>${title}</strong><br/>
-                Visitors: ${d.visitors.toLocaleString()}<br/>
-                Most recent: ${globe_formatLastVisit(d.lastVisit)}
-              `);
+              .html(`<strong>${title}</strong><br/>${timeDisplay}`);
           })
           .on("mousemove", function(event) {
             const containerRect = globe_container.node().getBoundingClientRect();
             const x = event.clientX - containerRect.left;
             const y = event.clientY - containerRect.top;
-            
-            globe_tooltip
-              .style("left", x + "px")
-              .style("top", y + "px");
+            globe_tooltip.style("left", x + "px").style("top", y + "px");
           })
           .on("mouseout", function() {
-            d3.select(this)
-              .attr("fill", globe_theme.bubbleFill)
-              .attr("stroke", globe_theme.bubbleStroke)
-              .attr("stroke-width", 1.0);
-
+            d3.select(this).attr("stroke-width", 1.0);
             globe_tooltip.style("opacity", 0);
           });
+      }
+
+      function globe_drawRecentPoints(data) {
+        const circles = globe_svg.select(".points-recent")
+          .selectAll("circle")
+          .data(data, d => `${d.lat},${d.lon}`);
+
+        circles.exit().remove();
+
+        const enter = circles.enter()
+          .append("circle")
+          .attr("fill", globe_theme.bubbleFillHover)
+          .attr("fill-opacity", globe_theme.bubbleOpacity)
+          .attr("stroke", globe_theme.bubbleStrokeHover)
+          .attr("stroke-width", 1)
+          .attr("r", globe_minRadius)
+          .style("cursor", "default");
+
+        const allCircles = circles.merge(enter)
+          .attr("cx", d => {
+            const proj = globe_projection([d.lon, d.lat]);
+            return proj ? proj[0] : -999;
+          })
+          .attr("cy", d => {
+            const proj = globe_projection([d.lon, d.lat]);
+            return proj ? proj[1] : -999;
+          });
+
+        // Check visibility
+        allCircles.each(function(d) {
+          const proj = globe_projection([d.lon, d.lat]);
+          
+          if (!proj) {
+            d3.select(this).style("display", "none");
+            return;
+          }
+
+          const centerLon = globe_projection.invert([globe_size / 2, globe_size / 2]);
+          const distance = d3.geoDistance([d.lon, d.lat], centerLon);
+          const isVisible = distance <= Math.PI / 2;
+          
+          d3.select(this).style("display", isVisible ? null : "none");
+        });
+
+        // Handle manual hover tooltips
+        allCircles
+          .on("mouseover", function(event, d) {
+            d3.select(this).attr("stroke-width", 1.4);
+
+            const city = d.city && d.city.trim();
+            const country = d.country && d.country.trim();
+            const title = city ? `${city}, ${country || "Unknown"}` : (country || "Unknown");
+            const timeDisplay = globe_formatFullDateTime(d.lastVisit);
+
+            const containerRect = globe_container.node().getBoundingClientRect();
+            const x = event.clientX - containerRect.left;
+            const y = event.clientY - containerRect.top;
+
+            globe_tooltip
+              .style("left", x + "px")
+              .style("top", y + "px")
+              .style("opacity", 1)
+              .html(`<strong>${title}</strong><br/>${timeDisplay}`);
+          })
+          .on("mousemove", function(event) {
+            const containerRect = globe_container.node().getBoundingClientRect();
+            const x = event.clientX - containerRect.left;
+            const y = event.clientY - containerRect.top;
+            globe_tooltip.style("left", x + "px").style("top", y + "px");
+          })
+          .on("mouseout", function() {
+            d3.select(this).attr("stroke-width", 1.0);
+            globe_tooltip.style("opacity", 0);
+          });
+      }
+
+      function globe_createRipple(lat, lon) {
+        const startTime = Date.now();
+        const duration = 600; // ms
+        const startRadius = globe_minRadius * 4;
+        const endRadius = globe_minRadius;
+        
+        const rippleId = `ripple-${Date.now()}-${Math.random()}`;
+        
+        const ripple = globe_svg.select(".ripples")
+          .append("circle")
+          .attr("class", rippleId)
+          .attr("fill", "none")
+          .attr("stroke", globe_theme.bubbleStrokeHover)
+          .attr("stroke-width", 2);
+
+        // Store ripple data for position updates
+        globe_activeRipples.push({
+          id: rippleId,
+          lat: lat,
+          lon: lon,
+          startTime: startTime,
+          duration: duration,
+          startRadius: startRadius,
+          endRadius: endRadius,
+          element: ripple
+        });
+      }
+
+      function globe_updateRipplePositions() {
+        const now = Date.now();
+        
+        // Update all active ripples
+        globe_activeRipples = globe_activeRipples.filter(ripple => {
+          const elapsed = now - ripple.startTime;
+          const progress = Math.min(elapsed / ripple.duration, 1);
+          
+          // Remove completed ripples
+          if (progress >= 1) {
+            ripple.element.remove();
+            return false;
+          }
+          
+          // Update position based on current globe rotation
+          const proj = globe_projection([ripple.lon, ripple.lat]);
+          if (!proj) {
+            ripple.element.style("display", "none");
+            return true;
+          }
+          
+          // Check if on visible hemisphere
+          const centerLon = globe_projection.invert([globe_size / 2, globe_size / 2]);
+          const distance = d3.geoDistance([ripple.lon, ripple.lat], centerLon);
+          if (distance > Math.PI / 2) {
+            ripple.element.style("display", "none");
+            return true;
+          }
+          
+          // Calculate current radius and opacity based on animation progress
+          const currentRadius = ripple.startRadius - (ripple.startRadius - ripple.endRadius) * progress;
+          const currentOpacity = 0.8 * (1 - progress);
+          
+          // Update ripple position and appearance
+          ripple.element
+            .attr("cx", proj[0])
+            .attr("cy", proj[1])
+            .attr("r", currentRadius)
+            .attr("opacity", currentOpacity)
+            .style("display", null);
+          
+          return true;
+        });
+      }
+
+      function globe_updateAutoTooltips() {
+        // Find recent visitors in the center 90-degree zone
+        const centerLon = globe_projection.invert([globe_size / 2, globe_size / 2]);
+        if (!centerLon) return;
+
+        let candidateForTooltip = null;
+        let minDistanceFromCenter = Infinity;
+
+        globe_visitData.forEach(d => {
+          const isRecent = globe_recentVisitors.has(`${d.lat},${d.lon}`);
+          if (!isRecent) return;
+
+          const proj = globe_projection([d.lon, d.lat]);
+          if (!proj) return;
+
+          // Check if visible on front hemisphere
+          const distance = d3.geoDistance([d.lon, d.lat], centerLon);
+          if (distance > Math.PI / 2) return; // Back of globe
+
+          // Check if in center 90-degree zone (45 degrees from center = π/4 radians)
+          if (distance <= Math.PI / 4) {
+            // Find the one closest to center for tooltip
+            if (distance < minDistanceFromCenter) {
+              minDistanceFromCenter = distance;
+              candidateForTooltip = { data: d, proj: proj };
+            }
+          }
+        });
+
+        // Update tooltip if we have a candidate
+        if (candidateForTooltip) {
+          const d = candidateForTooltip.data;
+          const proj = candidateForTooltip.proj;
+          const key = `${d.lat},${d.lon}`;
+          
+          // If this is a new tooltip (different from the previous one), trigger ripple animation
+          if (globe_activeTooltip !== key) {
+            globe_createRipple(d.lat, d.lon);
+          }
+          
+          const city = d.city && d.city.trim();
+          const country = d.country && d.country.trim();
+          const title = city ? `${city}, ${country || "Unknown"}` : (country || "Unknown");
+
+          // Position tooltip relative to the dot's screen position
+          const svgRect = globe_svg.node().getBoundingClientRect();
+          const containerRect = globe_container.node().getBoundingClientRect();
+          const x = svgRect.left - containerRect.left + proj[0];
+          const y = svgRect.top - containerRect.top + proj[1];
+
+          globe_tooltip
+            .style("left", x + "px")
+            .style("top", y + "px")
+            .style("opacity", 1)
+            .html(`
+              <strong>${title}</strong><br/>
+               ${globe_formatFullDateTime(d.lastVisit)}
+            `);
+          
+          globe_activeTooltip = key;
+        } else if (globe_activeTooltip) {
+          // Hide tooltip if no candidate
+          globe_tooltip.style("opacity", 0);
+          globe_activeTooltip = null;
+        }
       }
 
       function globe_updateVisibleCount() {
@@ -534,6 +780,22 @@
         } else {
           return "2023";
         }
+      }
+
+      function globe_formatFullDateTime(iso) {
+        if (!iso) return "unknown";
+        const date = new Date(iso);
+        if (isNaN(date.getTime())) return iso;
+
+        // Format as full datetime with local time
+        return date.toLocaleString(undefined, {
+          year: "numeric",
+          month: "short",
+          day: "numeric",
+          hour: "numeric",
+          minute: "2-digit",
+          hour12: true
+        });
       }
     </script>
 
