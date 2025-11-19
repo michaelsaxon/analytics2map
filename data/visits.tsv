@@ -3169,3 +3169,18 @@ timestamp	country	city	num_unique
 2025-11-18T14:15:00	United States	San Diego	1
 2025-11-18T14:30:00	United States	San Jose	1
 2025-11-18T14:33:00	China	Lanzhou	1
+2025-11-18T14:42:00	United States	New York	1
+2025-11-18T14:43:00	United States	New York	1
+2025-11-18T15:26:00	United States	Urbana	1
+2025-11-18T15:28:00	United States	Urbana	1
+2025-11-18T16:01:00	United States	San Francisco	1
+2025-11-18T17:20:00	United States	San Diego	1
+2025-11-18T18:11:00	Singapore	Singapore	1
+2025-11-18T18:12:00	Singapore	Singapore	1
+2025-11-18T18:32:00	United States	Goleta	1
+2025-11-18T18:45:00	United States		1
+2025-11-18T18:46:00	United States		1
+2025-11-18T20:14:00	United States		1
+2025-11-18T20:15:00	United States		1
+2025-11-18T20:17:00	Iran	Tehran	1
+2025-11-18T20:41:00	United States	Kingston	1
