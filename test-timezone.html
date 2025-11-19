@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Timezone Conversion Test</title>
+  <script src="tz.js"></script>
+  <style>
+    body {
+      font-family: monospace;
+      padding: 20px;
+      background: #f0f0f0;
+    }
+    .test {
+      background: white;
+      padding: 15px;
+      margin: 10px 0;
+      border-left: 4px solid #4CAF50;
+    }
+    .error {
+      border-left-color: #f44336;
+    }
+    h1 {
+      color: #333;
+    }
+    pre {
+      background: #f5f5f5;
+      padding: 10px;
+      overflow-x: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>Timezone Conversion Test</h1>
+  <div id="results"></div>
+
+  <script>
+    const results = document.getElementById('results');
+
+    function addResult(title, content, isError = false) {
+      const div = document.createElement('div');
+      div.className = 'test' + (isError ? ' error' : '');
+      div.innerHTML = `<h3>${title}</h3><pre>${content}</pre>`;
+      results.appendChild(div);
+    }
+
+    // Test data
+    const testCases = [
+      {
+        name: "Hong Kong",
+        iso: "2025-11-01T00:00:00",
+        lat: 22.3193,
+        lon: 114.1694
+      },
+      {
+        name: "New York",
+        iso: "2025-11-01T00:00:00",
+        lat: 40.7128,
+        lon: -74.0060
+      },
+      {
+        name: "London",
+        iso: "2025-11-01T00:00:00",
+        lat: 51.5074,
+        lon: -0.1278
+      },
+      {
+        name: "Los Angeles",
+        iso: "2025-11-01T00:00:00",
+        lat: 34.0522,
+        lon: -118.2437
+      },
+      {
+        name: "Tokyo",
+        iso: "2025-11-01T00:00:00",
+        lat: 35.6762,
+        lon: 139.6503
+      }
+    ];
+
+    // Test 1: Check if tzlookup is loaded
+    addResult(
+      "Test 1: tzlookup library loaded?",
+      `typeof tzlookup: ${typeof tzlookup}\n` +
+      `Available: ${typeof tzlookup !== 'undefined' ? 'YES ✓' : 'NO ✗'}`
+    );
+
+    // Test 2: Test timezone lookups
+    let tzResults = "Timezone lookups:\n\n";
+    testCases.forEach(tc => {
+      try {
+        const tz = tzlookup(tc.lat, tc.lon);
+        tzResults += `${tc.name} (${tc.lat}, ${tc.lon}): ${tz}\n`;
+      } catch (e) {
+        tzResults += `${tc.name}: ERROR - ${e.message}\n`;
+      }
+    });
+    addResult("Test 2: Timezone Lookups", tzResults);
+
+    // Test 3: Date parsing methods
+    const testIso = "2025-11-01T00:00:00";
+    let dateResults = "Date parsing comparison:\n\n";
+    
+    // Method 1: Direct parse (treats as local time)
+    const date1 = new Date(testIso);
+    dateResults += `Method 1 - Direct parse:\n`;
+    dateResults += `  Input: "${testIso}"\n`;
+    dateResults += `  Result: ${date1.toString()}\n`;
+    dateResults += `  ISO: ${date1.toISOString()}\n\n`;
+
+    // Method 2: Add -08:00 (PST)
+    const date2 = new Date(testIso + '-08:00');
+    dateResults += `Method 2 - Add PST offset:\n`;
+    dateResults += `  Input: "${testIso}-08:00"\n`;
+    dateResults += `  Result: ${date2.toString()}\n`;
+    dateResults += `  ISO: ${date2.toISOString()}\n\n`;
+
+    // Method 3: Add Z (UTC)
+    const date3 = new Date(testIso + 'Z');
+    dateResults += `Method 3 - Add Z (UTC):\n`;
+    dateResults += `  Input: "${testIso}Z"\n`;
+    dateResults += `  Result: ${date3.toString()}\n`;
+    dateResults += `  ISO: ${date3.toISOString()}\n`;
+
+    addResult("Test 3: Date Parsing Methods", dateResults);
+
+    // Test 4: Timezone conversion
+    function formatFullDateTime(iso, lat, lon) {
+      // Parse as Pacific Time
+      const pacificDate = new Date(iso + (iso.includes('Z') || iso.includes('+') || iso.includes('-') ? '' : '-08:00'));
+      
+      if (isNaN(pacificDate.getTime())) return "INVALID DATE";
+
+      // Get timezone
+      let targetTimezone = null;
+      try {
+        if (typeof tzlookup !== 'undefined' && lat != null && lon != null) {
+          targetTimezone = tzlookup(lat, lon);
+        }
+      } catch (e) {
+        return `TZ LOOKUP ERROR: ${e.message}`;
+      }
+
+      if (!targetTimezone) {
+        targetTimezone = "America/Los_Angeles";
+      }
+
+      // Format in target timezone
+      try {
+        const formatted = pacificDate.toLocaleString("en-US", {
+          year: "numeric",
+          month: "short",
+          day: "numeric",
+          hour: "numeric",
+          minute: "2-digit",
+          hour12: true,
+          timeZone: targetTimezone
+        });
+        
+        const tzAbbr = pacificDate.toLocaleString("en-US", {
+          timeZoneName: "short",
+          timeZone: targetTimezone
+        }).split(" ").pop();
+        
+        return `${formatted} ${tzAbbr}`;
+      } catch (e) {
+        return `FORMAT ERROR: ${e.message}`;
+      }
+    }
+
+    let conversionResults = "Timezone conversions from '2025-11-01T00:00:00' (midnight PST):\n\n";
+    testCases.forEach(tc => {
+      const result = formatFullDateTime(tc.iso, tc.lat, tc.lon);
+      conversionResults += `${tc.name}: ${result}\n`;
+    });
+    
+    conversionResults += `\nExpected results:\n`;
+    conversionResults += `- Los Angeles: Nov 1, 2025, 12:00 AM PDT/PST (same time)\n`;
+    conversionResults += `- New York: Nov 1, 2025, 3:00 AM EDT/EST (+3 hours)\n`;
+    conversionResults += `- London: Nov 1, 2025, 8:00 AM GMT (+8 hours)\n`;
+    conversionResults += `- Hong Kong: Nov 1, 2025, 4:00 PM HKT (+16 hours)\n`;
+    conversionResults += `- Tokyo: Nov 1, 2025, 5:00 PM JST (+17 hours)\n`;
+
+    addResult("Test 4: Timezone Conversions", conversionResults);
+
+    // Test 5: Manual verification
+    const hkTest = new Date("2025-11-01T00:00:00-08:00");
+    let manualResults = "Manual Hong Kong conversion:\n\n";
+    manualResults += `Pacific Time: ${hkTest.toLocaleString("en-US", { timeZone: "America/Los_Angeles", timeZoneName: "short" })}\n`;
+    manualResults += `Hong Kong Time: ${hkTest.toLocaleString("en-US", { timeZone: "Asia/Hong_Kong", timeZoneName: "short" })}\n`;
+    manualResults += `UTC: ${hkTest.toISOString()}\n`;
+    
+    addResult("Test 5: Manual Hong Kong Verification", manualResults);
+  </script>
+</body>
+</html>
+

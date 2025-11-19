@@ -5,6 +5,7 @@
     <title>analytics2map</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://unpkg.com/topojson-client@3"></script>
+    <script src="tz.js"></script>
     <link rel="stylesheet" href="https://saxon.me/theme/css/fonts.css" />
     <style>
       :root {
@@ -214,25 +215,25 @@
       <button class="zoom-button" id="zoom-out" type="button">−</button>
     </div>
     <div class="visitor-stats" id="visitor-stats">
-      <div class="stat-row">
-        <span>Total:</span>
-        <strong id="total-visitors">0</strong>
-      </div>
-      <div class="stat-row">
-        <span>Visible:</span>
-        <strong id="visible-visitors">0</strong>
-      </div>
-    </div>
-    <div class="tooltip" id="tooltip"></div>
-  </div>
+            <div class="stat-row">
+              <span>Total:</span>
+              <strong id="total-visitors">0</strong>
+            </div>
+            <div class="stat-row">
+              <span>Visible:</span>
+              <strong id="visible-visitors">0</strong>
+            </div>
+          </div>
+          <div class="tooltip" id="tooltip"></div>
+        </div>
 
   <hr>
 
 
-</main>
+    </main>
 
 
-    <main class="container">
+      <main class="container">
 
 
 
@@ -262,7 +263,7 @@
       <hr>
 
 
-    </main>
+      </main>
       <main class="container">
       <h1>About the analytics2map package</h1>
       <p>
@@ -286,30 +287,30 @@
         <h1>Static SVG maps</h1>
         <p>Two sizes of SVG map are rendered: one for display in the web page footer at 300px and the other for full-width display at 900px.</p>
         <!-- <figure>
-          <img
-            class="map"
-            style="max-width: 300px; width: 100%; height: auto; margin-left: auto; margin-right: auto;"
-            height="150"
-            src="output/visitors-small.svg"
-            alt="Small visitor map preview"
-          />
-          <figcaption>Scaled-down preview of the 800×400 SVG.</figcaption>
+        <img
+          class="map"
+          style="max-width: 300px; width: 100%; height: auto; margin-left: auto; margin-right: auto;"
+          height="150"
+          src="output/visitors-small.svg"
+          alt="Small visitor map preview"
+        />
+        <figcaption>Scaled-down preview of the 800×400 SVG.</figcaption>
         </figure> -->
-  
-        <figure>
-          <img
-            class="map"
+
+      <figure>
+        <img
+          class="map"
             style="width: 100%; height: auto; margin-left: auto; margin-right: auto;"
-            height="450"
-            src="output/visitors-large.svg"
-            alt="Large visitor map preview"
-          />
+          height="450"
+          src="output/visitors-large.svg"
+          alt="Large visitor map preview"
+        />
           <figcaption>900px full-width SVG map.</figcaption>
-        </figure>
+      </figure>
 
         <hr>
 
-      </main>
+    </main>
 
 
     <script>
@@ -582,7 +583,7 @@
             const city = d.city && d.city.trim();
             const country = d.country && d.country.trim();
             const title = city ? `${city}, ${country || "Unknown"}` : (country || "Unknown");
-            const timeDisplay = globe_formatFullDateTime(d.lastVisit);
+            const timeDisplay = globe_formatFullDateTime(d.lastVisit, d.lat, d.lon);
 
             const containerRect = globe_container.node().getBoundingClientRect();
             const x = event.clientX - containerRect.left;
@@ -735,7 +736,7 @@
             .style("opacity", 1)
             .html(`
               <strong>${title}</strong><br/>
-               ${globe_formatFullDateTime(d.lastVisit)}
+               ${globe_formatFullDateTime(d.lastVisit, d.lat, d.lon)}
             `);
           
           globe_activeTooltip = key;
@@ -782,20 +783,64 @@
         }
       }
 
-      function globe_formatFullDateTime(iso) {
+      function globe_formatFullDateTime(iso, lat, lon) {
         if (!iso) return "unknown";
-        const date = new Date(iso);
-        if (isNaN(date.getTime())) return iso;
+        
+        // Parse the ISO string and treat it as Pacific Time
+        // The input timestamps are in Pacific Time but don't have timezone info
+        // So we need to parse them as if they're in Pacific Time
+        
+        // First, parse as if it's in Pacific Time by adding the timezone
+        const pacificDate = new Date(iso + (iso.includes('Z') || iso.includes('+') || iso.includes('-') ? '' : '-08:00'));
+        if (isNaN(pacificDate.getTime())) return iso;
 
-        // Format as full datetime with local time
-        return date.toLocaleString(undefined, {
-          year: "numeric",
-          month: "short",
-          day: "numeric",
-          hour: "numeric",
-          minute: "2-digit",
-          hour12: true
-        });
+        // Try to get the timezone for the location
+        let targetTimezone = null;
+        try {
+          if (typeof tzlookup !== 'undefined' && lat != null && lon != null) {
+            targetTimezone = tzlookup(lat, lon);
+          }
+        } catch (e) {
+          console.warn("Timezone lookup failed for", lat, lon, e);
+        }
+
+        // If we couldn't determine the timezone, show in Pacific Time
+        if (!targetTimezone) {
+          targetTimezone = "America/Los_Angeles";
+        }
+
+        // Format the date in the target timezone
+        try {
+          const formatted = pacificDate.toLocaleString("en-US", {
+            year: "numeric",
+            month: "short",
+            day: "numeric",
+            hour: "numeric",
+            minute: "2-digit",
+            hour12: true,
+            timeZone: targetTimezone
+          });
+          
+          // Add timezone abbreviation
+          const tzAbbr = pacificDate.toLocaleString("en-US", {
+            timeZoneName: "short",
+            timeZone: targetTimezone
+          }).split(" ").pop();
+          
+          return `${formatted} ${tzAbbr}`;
+        } catch (e) {
+          console.warn("Timezone formatting failed:", e);
+          // Fallback to Pacific Time
+          return pacificDate.toLocaleString("en-US", {
+            year: "numeric",
+            month: "short",
+            day: "numeric",
+            hour: "numeric",
+            minute: "2-digit",
+            hour12: true,
+            timeZone: "America/Los_Angeles"
+          }) + " PST";
+        }
       }
     </script>
 
