@@ -3191,3 +3191,13 @@ timestamp	country	city	num_unique
 2025-11-18T23:09:00	United States	San Diego	1
 2025-11-19T02:28:00	China		1
 2025-11-19T02:28:00	China	Shanghai	1
+2025-11-19T02:51:00	United States	Seattle	1
+2025-11-19T06:58:00	Germany	Tubingen	1
+2025-11-19T06:59:00	Germany	Tubingen	1
+2025-11-19T07:02:00	United States		1
+2025-11-19T07:03:00	United States		1
+2025-11-19T07:04:00	Germany	Tubingen	1
+2025-11-19T07:05:00	Germany	Tubingen	1
+2025-11-19T07:06:00	Germany	Tubingen	1
+2025-11-19T07:14:00	United States	Newberg	1
+2025-11-19T08:38:00	United States		1
