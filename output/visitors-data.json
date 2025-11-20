@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 25,
-    "lastVisit": "2025-11-20T02:02:00",
+    "visitors": 27,
+    "lastVisit": "2025-11-20T06:20:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.35664514740693404
+    "normalized": 0.3647573222134065
   },
   {
     "city": "Ashburn",
@@ -110,11 +110,11 @@
   {
     "city": "Dallas",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2025-03-01T00:00:00",
+    "visitors": 8,
+    "lastVisit": "2025-11-20T04:13:00",
     "lat": 44.91928,
     "lon": -123.31705,
-    "normalized": 0.22762454288934805
+    "normalized": 0.24051757648227415
   },
   {
     "city": "San Jose",
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 46,
-    "lastVisit": "2025-11-19T19:36:00",
+    "visitors": 48,
+    "lastVisit": "2025-11-20T03:47:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.4214535827671303
+    "normalized": 0.4260152539076823
   },
   {
     "city": "Rochester",
@@ -4250,11 +4250,11 @@
   {
     "city": "Boston",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2025-11-14T10:10:00",
+    "visitors": 6,
+    "lastVisit": "2025-11-20T04:03:00",
     "lat": 42.35843,
     "lon": -71.05977,
-    "normalized": 0.19613363587091975
+    "normalized": 0.21300762695384115
   },
   {
     "city": "Hoodsport",
@@ -6608,11 +6608,11 @@
   {
     "city": "Tubingen",
     "country": "Germany",
-    "visitors": 6,
-    "lastVisit": "2025-11-19T07:06:00",
+    "visitors": 8,
+    "lastVisit": "2025-11-20T04:29:00",
     "lat": 48.52266,
     "lon": 9.05222,
-    "normalized": 0.21300762695384115
+    "normalized": 0.24051757648227415
   },
   {
     "city": "Anaheim",
