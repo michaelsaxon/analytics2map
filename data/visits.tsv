@@ -3350,3 +3350,9 @@ timestamp	country	city	num_unique
 2025-11-21T12:44:00	United States	Cambridge	1
 2025-11-21T14:23:00	China	Lanzhou	1
 2025-11-21T14:23:00	Singapore	Singapore	1
+2025-11-21T17:35:00	United States		1
+2025-11-21T18:08:00	United States	San Francisco	1
+2025-11-21T19:52:00	United States		1
+2025-11-21T20:13:00	United States	Seattle	1
+2025-11-21T20:14:00	China	Lanzhou	1
+2025-11-21T20:14:00	Singapore	Singapore	1
