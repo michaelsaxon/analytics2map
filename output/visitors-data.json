@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 86,
-    "lastVisit": "2025-11-22T02:17:00",
+    "visitors": 87,
+    "lastVisit": "2025-11-22T08:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.4888112389333417
+    "normalized": 0.4900621547194508
   },
   {
     "city": "Sylhet",
@@ -7144,5 +7144,14 @@
     "lat": 35.6895,
     "lon": 139.69171,
     "normalized": 0.07586768986074287
+  },
+  {
+    "city": "Tychy",
+    "country": "Poland",
+    "visitors": 4,
+    "lastVisit": "2025-11-22T06:44:00",
+    "lat": 50.13717,
+    "lon": 18.96641,
+    "normalized": 0.17615932058185993
   }
 ]
