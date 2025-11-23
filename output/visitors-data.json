@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 115,
-    "lastVisit": "2025-11-22T11:31:00",
+    "visitors": 117,
+    "lastVisit": "2025-11-23T00:57:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5202991752092073
+    "normalized": 0.5221702282911818
   },
   {
     "city": "Santa Clara",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 51,
-    "lastVisit": "2025-11-20T13:45:00",
+    "visitors": 53,
+    "lastVisit": "2025-11-23T00:41:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.4324791926057889
+    "normalized": 0.4366100201976032
   },
   {
     "city": "Lompoc",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 89,
-    "lastVisit": "2025-11-22T20:21:00",
+    "visitors": 90,
+    "lastVisit": "2025-11-23T02:23:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.492521897333843
+    "normalized": 0.49373134543999936
   },
   {
     "city": "Sylhet",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 81,
-    "lastVisit": "2025-11-22T14:23:00",
+    "visitors": 82,
+    "lastVisit": "2025-11-23T02:23:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.4823327837599089
+    "normalized": 0.48365951442743504
   },
   {
     "city": "Tubingen",
@@ -7170,6 +7170,15 @@
     "lastVisit": "2025-11-22T17:23:00",
     "lat": 36.85293,
     "lon": -75.97799,
+    "normalized": 0.07586768986074287
+  },
+  {
+    "city": "Chiyoda City",
+    "country": "Japan",
+    "visitors": 1,
+    "lastVisit": "2025-11-22T22:03:00",
+    "lat": 35.6895,
+    "lon": 139.69171,
     "normalized": 0.07586768986074287
   }
 ]
