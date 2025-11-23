@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 45,
-    "lastVisit": "2025-11-19T20:06:00",
+    "visitors": 46,
+    "lastVisit": "2025-11-22T17:40:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.4190598854087317
+    "normalized": 0.4214138243030188
   },
   {
     "city": "Four Oaks",
@@ -965,11 +965,11 @@
   {
     "city": "Troy",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2024-01-01T00:00:00",
+    "visitors": 9,
+    "lastVisit": "2025-11-22T20:11:00",
     "lat": 40.0395,
     "lon": -84.20328,
-    "normalized": 0.24049488689124024
+    "normalized": 0.25202701044260284
   },
   {
     "city": "Moscow",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 88,
-    "lastVisit": "2025-11-22T10:36:00",
+    "visitors": 89,
+    "lastVisit": "2025-11-22T20:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.49129893556140297
+    "normalized": 0.492521897333843
   },
   {
     "city": "Sylhet",
@@ -4583,11 +4583,11 @@
   {
     "city": "Sunnyvale",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-11-09T21:21:00",
+    "visitors": 4,
+    "lastVisit": "2025-11-22T18:58:00",
     "lat": 37.36883,
     "lon": -122.03635,
-    "normalized": 0.12024744344562012
+    "normalized": 0.17615932058185993
   },
   {
     "city": "College Station",
@@ -6617,11 +6617,11 @@
   {
     "city": "Anaheim",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2025-11-17T20:37:00",
+    "visitors": 10,
+    "lastVisit": "2025-11-22T18:54:00",
     "lat": 33.83529,
     "lon": -117.9145,
-    "normalized": 0.22760306958222856
+    "normalized": 0.26245908513722216
   },
   {
     "city": "Khorramabad",
@@ -7153,5 +7153,23 @@
     "lat": 50.13717,
     "lon": 18.96641,
     "normalized": 0.17615932058185993
+  },
+  {
+    "city": "Indianapolis",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-11-22T16:02:00",
+    "lat": 39.76838,
+    "lon": -86.15804,
+    "normalized": 0.07586768986074287
+  },
+  {
+    "city": "Virginia Beach",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-11-22T17:23:00",
+    "lat": 36.85293,
+    "lon": -75.97799,
+    "normalized": 0.07586768986074287
   }
 ]
