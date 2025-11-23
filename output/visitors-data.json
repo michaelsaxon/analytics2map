@@ -3008,11 +3008,11 @@
   {
     "city": "Leeds",
     "country": "United Kingdom",
-    "visitors": 7,
-    "lastVisit": "2025-11-17T23:19:00",
+    "visitors": 8,
+    "lastVisit": "2025-11-23T07:49:00",
     "lat": 53.79648,
     "lon": -1.54785,
-    "normalized": 0.22760306958222856
+    "normalized": 0.24049488689124024
   },
   {
     "city": "Tottenham",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 82,
-    "lastVisit": "2025-11-23T02:23:00",
+    "visitors": 83,
+    "lastVisit": "2025-11-23T08:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.48365951442743504
+    "normalized": 0.48497035572280206
   },
   {
     "city": "Tubingen",
