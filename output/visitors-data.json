@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 113,
-    "lastVisit": "2025-11-21T20:13:00",
+    "visitors": 115,
+    "lastVisit": "2025-11-22T11:31:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5183955804472176
+    "normalized": 0.5202991752092073
   },
   {
     "city": "Santa Clara",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 31,
-    "lastVisit": "2025-11-16T08:35:00",
+    "visitors": 32,
+    "lastVisit": "2025-11-22T12:38:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.3793384493037143
+    "normalized": 0.38270652858284226
   },
   {
     "city": "Stanford",
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 49,
-    "lastVisit": "2025-11-21T23:35:00",
+    "visitors": 50,
+    "lastVisit": "2025-11-22T14:36:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.42818633102446274
+    "normalized": 0.4303538066029117
   },
   {
     "city": "Rochester",
@@ -830,11 +830,11 @@
   {
     "city": "Dhaka",
     "country": "Bangladesh",
-    "visitors": 13,
-    "lastVisit": "2025-11-15T12:21:00",
+    "visitors": 14,
+    "lastVisit": "2025-11-22T12:23:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.28885522241643913
+    "normalized": 0.29640676402748006
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 87,
-    "lastVisit": "2025-11-22T08:19:00",
+    "visitors": 88,
+    "lastVisit": "2025-11-22T10:36:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.4900621547194508
+    "normalized": 0.49129893556140297
   },
   {
     "city": "Sylhet",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 78,
-    "lastVisit": "2025-11-21T20:14:00",
+    "visitors": 81,
+    "lastVisit": "2025-11-22T14:23:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.47825328275282203
+    "normalized": 0.4823327837599089
   },
   {
     "city": "Tubingen",
