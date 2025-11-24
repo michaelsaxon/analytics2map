@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 90,
-    "lastVisit": "2025-11-24T02:24:00",
+    "visitors": 91,
+    "lastVisit": "2025-11-24T08:25:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.4937138900652698
+    "normalized": 0.49491007760324346
   },
   {
     "city": "Tubingen",
@@ -7216,5 +7216,23 @@
     "lat": -16.35778,
     "lon": -49.49611,
     "normalized": 0.07586500763493602
+  },
+  {
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "visitors": 1,
+    "lastVisit": "2025-11-24T03:26:00",
+    "lat": 54.59682,
+    "lon": -5.92541,
+    "normalized": 0.07586500763493602
+  },
+  {
+    "city": "Saarbrucken",
+    "country": "Germany",
+    "visitors": 2,
+    "lastVisit": "2025-11-24T04:40:00",
+    "lat": 49.23262,
+    "lon": 7.00982,
+    "normalized": 0.12024319221829782
   }
 ]
