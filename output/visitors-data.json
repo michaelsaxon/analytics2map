@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 117,
-    "lastVisit": "2025-11-23T00:57:00",
+    "visitors": 119,
+    "lastVisit": "2025-11-23T09:39:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5221702282911818
+    "normalized": 0.5240098336097087
   },
   {
     "city": "Santa Clara",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 32,
-    "lastVisit": "2025-11-22T12:38:00",
+    "visitors": 33,
+    "lastVisit": "2025-11-23T12:59:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.38270652858284226
+    "normalized": 0.3859740530180345
   },
   {
     "city": "Stanford",
@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 13,
-    "lastVisit": "2025-11-21T08:58:00",
+    "visitors": 14,
+    "lastVisit": "2025-11-23T09:06:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.28885522241643913
+    "normalized": 0.29640676402748006
   },
   {
     "city": "Manhattan",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 90,
-    "lastVisit": "2025-11-23T02:23:00",
+    "visitors": 97,
+    "lastVisit": "2025-11-23T14:22:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.49373134543999936
+    "normalized": 0.5018427549721355
   },
   {
     "city": "Sylhet",
@@ -2189,11 +2189,11 @@
   {
     "city": "Toronto",
     "country": "Canada",
-    "visitors": 12,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 14,
+    "lastVisit": "2025-11-23T12:21:00",
     "lat": 43.70643,
     "lon": -79.39864,
-    "normalized": 0.2807438128843031
+    "normalized": 0.29640676402748006
   },
   {
     "city": "Surrey",
@@ -4169,11 +4169,11 @@
   {
     "city": "Lausanne",
     "country": "Switzerland",
-    "visitors": 1,
-    "lastVisit": "2024-09-01T00:00:00",
+    "visitors": 2,
+    "lastVisit": "2025-11-23T10:01:00",
     "lat": 46.516,
     "lon": 6.63282,
-    "normalized": 0.07586768986074287
+    "normalized": 0.12024744344562012
   },
   {
     "city": "Seo-gu",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 83,
-    "lastVisit": "2025-11-23T08:17:00",
+    "visitors": 87,
+    "lastVisit": "2025-11-23T14:22:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.48497035572280206
+    "normalized": 0.4900621547194508
   },
   {
     "city": "Tubingen",
@@ -7179,6 +7179,33 @@
     "lastVisit": "2025-11-22T22:03:00",
     "lat": 35.6895,
     "lon": 139.69171,
+    "normalized": 0.07586768986074287
+  },
+  {
+    "city": "Raleigh",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2025-11-23T13:36:00",
+    "lat": 35.7721,
+    "lon": -78.63861,
+    "normalized": 0.12024744344562012
+  },
+  {
+    "city": "Ardmore",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-11-23T10:07:00",
+    "lat": 34.17426,
+    "lon": -97.14363,
+    "normalized": 0.07586768986074287
+  },
+  {
+    "city": "Waukesha",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-11-23T13:08:00",
+    "lat": 43.01168,
+    "lon": -88.23148,
     "normalized": 0.07586768986074287
   }
 ]
