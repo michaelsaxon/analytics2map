@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 18,
-    "lastVisit": "2025-11-19T02:28:00",
+    "visitors": 19,
+    "lastVisit": "2025-11-25T05:47:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.3222690532400524
+    "normalized": 0.32788310791627423
   },
   {
     "city": null,
@@ -6608,11 +6608,11 @@
   {
     "city": "Tubingen",
     "country": "Germany",
-    "visitors": 8,
-    "lastVisit": "2025-11-20T04:29:00",
+    "visitors": 9,
+    "lastVisit": "2025-11-25T07:31:00",
     "lat": 48.52266,
     "lon": 9.05222,
-    "normalized": 0.24048638443659565
+    "normalized": 0.25201810028133825
   },
   {
     "city": "Anaheim",
@@ -7269,6 +7269,24 @@
     "lastVisit": "2025-11-24T10:53:00",
     "lat": 33.76696,
     "lon": -118.18923,
+    "normalized": 0.12024319221829782
+  },
+  {
+    "city": "Kusatsu",
+    "country": "Japan",
+    "visitors": 2,
+    "lastVisit": "2025-11-25T04:08:00",
+    "lat": 35.01667,
+    "lon": 135.96667,
+    "normalized": 0.12024319221829782
+  },
+  {
+    "city": "Tokorozawa",
+    "country": "Japan",
+    "visitors": 2,
+    "lastVisit": "2025-11-25T05:16:00",
+    "lat": 35.79916,
+    "lon": 139.46903,
     "normalized": 0.12024319221829782
   }
 ]
