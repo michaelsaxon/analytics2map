@@ -335,11 +335,11 @@
   {
     "city": null,
     "country": "Germany",
-    "visitors": 151,
-    "lastVisit": "2025-11-19T13:04:00",
+    "visitors": 152,
+    "lastVisit": "2025-11-26T06:44:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.5498511200105295
+    "normalized": 0.5505688110502949
   },
   {
     "city": null,
@@ -1622,11 +1622,11 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 13,
-    "lastVisit": "2025-11-25T20:44:00",
+    "visitors": 14,
+    "lastVisit": "2025-11-26T03:24:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.28883820434019997
+    "normalized": 0.2963893010477014
   },
   {
     "city": "Shenzhen",
