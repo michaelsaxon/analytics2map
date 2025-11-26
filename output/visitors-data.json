@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 50,
-    "lastVisit": "2025-11-24T10:18:00",
+    "visitors": 51,
+    "lastVisit": "2025-11-26T01:48:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.430328452053912
+    "normalized": 0.432453712838416
   },
   {
     "city": "Four Oaks",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 55,
-    "lastVisit": "2025-11-25T13:26:00",
+    "visitors": 56,
+    "lastVisit": "2025-11-26T01:03:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.44056464448206284
+    "normalized": 0.4425018187941181
   },
   {
     "city": "Lompoc",
@@ -227,11 +227,11 @@
   {
     "city": "Waterloo",
     "country": "Canada",
-    "visitors": 7,
-    "lastVisit": "2025-10-01T00:00:00",
+    "visitors": 8,
+    "lastVisit": "2025-11-25T22:37:00",
     "lat": 43.4668,
     "lon": -80.51639,
-    "normalized": 0.22758966021279425
+    "normalized": 0.24048071799276577
   },
   {
     "city": null,
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2025-11-24T11:40:00",
+    "visitors": 26,
+    "lastVisit": "2025-11-25T23:07:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.35229788410263696
+    "normalized": 0.3607210769891486
   },
   {
     "city": "Rowland Heights",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 114,
-    "lastVisit": "2025-11-25T20:16:00",
+    "visitors": 115,
+    "lastVisit": "2025-11-26T02:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5193209182281647
+    "normalized": 0.5202685214756283
   },
   {
     "city": "Sylhet",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 25,
-    "lastVisit": "2025-11-21T18:08:00",
+    "visitors": 33,
+    "lastVisit": "2025-11-25T23:06:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.35659049276748456
+    "normalized": 0.38595131312846054
   },
   {
     "city": "Oakland",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 103,
-    "lastVisit": "2025-11-25T11:38:00",
+    "visitors": 104,
+    "lastVisit": "2025-11-26T02:14:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5083169329093473
+    "normalized": 0.5093642853169699
   },
   {
     "city": "Tubingen",
@@ -7315,5 +7315,14 @@
     "lat": 42.3173,
     "lon": -85.17816,
     "normalized": 0.07586322007093142
+  },
+  {
+    "city": "Chandler",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2025-11-25T20:56:00",
+    "lat": 33.30616,
+    "lon": -111.84125,
+    "normalized": 0.12024035899638288
   }
 ]
