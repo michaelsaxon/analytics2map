@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 124,
-    "lastVisit": "2025-11-24T23:14:00",
+    "visitors": 127,
+    "lastVisit": "2025-11-25T17:37:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5284468261539556
+    "normalized": 0.5310425404965199
   },
   {
     "city": "Santa Clara",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 113,
-    "lastVisit": "2025-11-25T14:19:00",
+    "visitors": 114,
+    "lastVisit": "2025-11-25T20:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5183650388650496
+    "normalized": 0.5193209182281647
   },
   {
     "city": "Sylhet",
@@ -1622,11 +1622,11 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 12,
-    "lastVisit": "2025-11-17T14:21:00",
+    "visitors": 13,
+    "lastVisit": "2025-11-25T20:44:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.2807272726965531
+    "normalized": 0.28883820434019997
   },
   {
     "city": "Shenzhen",
@@ -2000,11 +2000,11 @@
   {
     "city": "Copenhagen",
     "country": "Denmark",
-    "visitors": 15,
-    "lastVisit": "2025-11-15T16:18:00",
+    "visitors": 17,
+    "lastVisit": "2025-11-25T15:45:00",
     "lat": 55.67594,
     "lon": 12.56553,
-    "normalized": 0.3034528802837257
+    "normalized": 0.31634393806369715
   },
   {
     "city": null,
@@ -6671,11 +6671,11 @@
   {
     "city": "Corvallis",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2025-11-10T09:14:00",
+    "visitors": 5,
+    "lastVisit": "2025-11-25T16:28:00",
     "lat": 44.56457,
     "lon": -123.26204,
-    "normalized": 0.17614894205131848
+    "normalized": 0.1961035790673143
   },
   {
     "city": "Urbana",
@@ -7306,5 +7306,14 @@
     "lat": 37.54598,
     "lon": -77.32776,
     "normalized": 0.12024035899638288
+  },
+  {
+    "city": "Battle Creek",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-11-25T18:36:00",
+    "lat": 42.3173,
+    "lon": -85.17816,
+    "normalized": 0.07586322007093142
   }
 ]
