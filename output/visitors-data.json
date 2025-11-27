@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 16,
-    "lastVisit": "2025-11-24T15:04:00",
+    "visitors": 17,
+    "lastVisit": "2025-11-26T21:04:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.31008809305752916
+    "normalized": 0.31634393806369715
   },
   {
     "city": "Mocksville",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 105,
-    "lastVisit": "2025-11-26T14:22:00",
+    "visitors": 106,
+    "lastVisit": "2025-11-27T02:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.510401710064249
+    "normalized": 0.511429393590269
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 2,
-    "lastVisit": "2025-11-18T00:11:00",
+    "visitors": 46,
+    "lastVisit": "2025-11-27T02:38:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.12024035899638288
+    "normalized": 0.42138899645836286
   },
   {
     "city": "Riegelsberg",
