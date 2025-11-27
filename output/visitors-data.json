@@ -11,11 +11,11 @@
   {
     "city": "Goleta",
     "country": "United States",
-    "visitors": 58,
-    "lastVisit": "2025-11-26T11:03:00",
+    "visitors": 60,
+    "lastVisit": "2025-11-26T19:00:00",
     "lat": 34.43583,
     "lon": -119.82764,
-    "normalized": 0.4462762442524725
+    "normalized": 0.44992483182242315
   },
   {
     "city": "Boardman",
@@ -281,20 +281,20 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 19,
-    "lastVisit": "2025-11-25T05:47:00",
+    "visitors": 20,
+    "lastVisit": "2025-11-26T20:16:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.32787538219318135
+    "normalized": 0.33321534326565144
   },
   {
     "city": null,
     "country": "China",
-    "visitors": 231,
-    "lastVisit": "2025-11-21T20:39:00",
+    "visitors": 232,
+    "lastVisit": "2025-11-26T20:16:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.5961317415465597
+    "normalized": 0.5966024841706773
   },
   {
     "city": null,
@@ -902,11 +902,11 @@
   {
     "city": "Irvine",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2024-01-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2025-11-26T16:12:00",
     "lat": 33.66946,
     "lon": -117.82311,
-    "normalized": 0.15172644014186285
+    "normalized": 0.17614894205131848
   },
   {
     "city": "Durham",
@@ -965,11 +965,11 @@
   {
     "city": "Troy",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2025-11-22T20:11:00",
+    "visitors": 10,
+    "lastVisit": "2025-11-26T17:47:00",
     "lat": 40.0395,
     "lon": -84.20328,
-    "normalized": 0.25201216212224997
+    "normalized": 0.2624436222050198
   },
   {
     "city": "Moscow",
@@ -1307,11 +1307,11 @@
   {
     "city": "Rockville",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2024-01-01T00:00:00",
+    "visitors": 2,
+    "lastVisit": "2025-11-26T17:50:00",
     "lat": 39.084,
     "lon": -77.15276,
-    "normalized": 0.07586322007093142
+    "normalized": 0.12024035899638288
   },
   {
     "city": "Redwood City",
@@ -4916,11 +4916,11 @@
   {
     "city": "Berkeley",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2025-11-11T17:07:00",
+    "visitors": 11,
+    "lastVisit": "2025-11-26T15:47:00",
     "lat": 37.87159,
     "lon": -122.27275,
-    "normalized": 0.25201216212224997
+    "normalized": 0.27196679913824573
   },
   {
     "city": "Providence",
@@ -7342,5 +7342,23 @@
     "lat": 41.14961,
     "lon": -8.61099,
     "normalized": 0.07586322007093142
+  },
+  {
+    "city": "Carbondale",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2025-11-26T14:59:00",
+    "lat": 37.72727,
+    "lon": -89.21675,
+    "normalized": 0.12024035899638288
+  },
+  {
+    "city": "Wilson",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2025-11-26T19:37:00",
+    "lat": 35.72127,
+    "lon": -77.91554,
+    "normalized": 0.12024035899638288
   }
 ]
