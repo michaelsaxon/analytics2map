@@ -3531,3 +3531,13 @@ timestamp	country	city	num_unique
 2025-11-26T03:24:00	China	Beijing	1
 2025-11-26T06:44:00	Germany		1
 2025-11-26T08:04:00	Unknown		1
+2025-11-26T08:14:00	Singapore	Singapore	1
+2025-11-26T10:16:00	United States	Denver	1
+2025-11-26T10:16:00	United States	Gilbert	1
+2025-11-26T10:35:00	United States	Sunnyvale	1
+2025-11-26T11:03:00	United States	Goleta	1
+2025-11-26T11:03:00	United States	Ann Arbor	1
+2025-11-26T11:21:00	Portugal	Porto	1
+2025-11-26T11:28:00	United Arab Emirates	Abu Dhabi	1
+2025-11-26T11:29:00	United Arab Emirates	Abu Dhabi	1
+2025-11-26T14:22:00	China	Lanzhou	1

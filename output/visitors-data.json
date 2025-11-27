@@ -11,11 +11,11 @@
   {
     "city": "Goleta",
     "country": "United States",
-    "visitors": 57,
-    "lastVisit": "2025-11-18T18:32:00",
+    "visitors": 58,
+    "lastVisit": "2025-11-26T11:03:00",
     "lat": 34.43583,
     "lon": -119.82764,
-    "normalized": 0.4444053014046968
+    "normalized": 0.4462762442524725
   },
   {
     "city": "Boardman",
@@ -659,11 +659,11 @@
   {
     "city": "Ann Arbor",
     "country": "United States",
-    "visitors": 17,
-    "lastVisit": "2025-11-19T17:12:00",
+    "visitors": 18,
+    "lastVisit": "2025-11-26T11:03:00",
     "lat": 42.27756,
     "lon": -83.74088,
-    "normalized": 0.31634393806369715
+    "normalized": 0.3222614597977352
   },
   {
     "city": "Pittsburgh",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 115,
-    "lastVisit": "2025-11-26T02:14:00",
+    "visitors": 116,
+    "lastVisit": "2025-11-26T08:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5202685214756283
+    "normalized": 0.5212079906893189
   },
   {
     "city": "Sylhet",
@@ -3098,11 +3098,11 @@
   {
     "city": "Abu Dhabi",
     "country": "United Arab Emirates",
-    "visitors": 1,
-    "lastVisit": "2024-03-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2025-11-26T11:29:00",
     "lat": 24.45118,
     "lon": 54.39696,
-    "normalized": 0.07586322007093142
+    "normalized": 0.15172644014186285
   },
   {
     "city": null,
@@ -4583,11 +4583,11 @@
   {
     "city": "Sunnyvale",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2025-11-22T18:58:00",
+    "visitors": 5,
+    "lastVisit": "2025-11-26T10:35:00",
     "lat": 37.36883,
     "lon": -122.03635,
-    "normalized": 0.17614894205131848
+    "normalized": 0.1961035790673143
   },
   {
     "city": "College Station",
@@ -5771,11 +5771,11 @@
   {
     "city": "Denver",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-09-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2025-11-26T10:16:00",
     "lat": 39.73915,
     "lon": -104.9847,
-    "normalized": 0.12024035899638288
+    "normalized": 0.15172644014186285
   },
   {
     "city": "Charlotte",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 104,
-    "lastVisit": "2025-11-26T02:14:00",
+    "visitors": 105,
+    "lastVisit": "2025-11-26T14:22:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5093642853169699
+    "normalized": 0.510401710064249
   },
   {
     "city": "Tubingen",
@@ -7324,5 +7324,23 @@
     "lat": 33.30616,
     "lon": -111.84125,
     "normalized": 0.12024035899638288
+  },
+  {
+    "city": "Gilbert",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-11-26T10:16:00",
+    "lat": 33.35283,
+    "lon": -111.78903,
+    "normalized": 0.07586322007093142
+  },
+  {
+    "city": "Porto",
+    "country": "Portugal",
+    "visitors": 1,
+    "lastVisit": "2025-11-26T11:21:00",
+    "lat": 41.14961,
+    "lon": -8.61099,
+    "normalized": 0.07586322007093142
   }
 ]
