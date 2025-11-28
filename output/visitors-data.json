@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 232,
-    "lastVisit": "2025-11-26T20:16:00",
+    "visitors": 234,
+    "lastVisit": "2025-11-27T23:26:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.5965743797607792
+    "normalized": 0.5975097900329333
   },
   {
     "city": null,
@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 21,
-    "lastVisit": "2025-11-27T12:25:00",
+    "visitors": 22,
+    "lastVisit": "2025-11-27T23:48:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.33829090550998236
+    "normalized": 0.34315581022692154
   },
   {
     "city": "Mocksville",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 123,
-    "lastVisit": "2025-11-27T20:15:00",
+    "visitors": 125,
+    "lastVisit": "2025-11-28T02:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5275428727515366
+    "normalized": 0.5292939874787624
   },
   {
     "city": "Sylhet",
@@ -1622,11 +1622,11 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 16,
-    "lastVisit": "2025-11-27T07:12:00",
+    "visitors": 17,
+    "lastVisit": "2025-11-27T21:17:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.31007348560432024
+    "normalized": 0.31632903591370615
   },
   {
     "city": "Shenzhen",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 111,
-    "lastVisit": "2025-11-27T20:15:00",
+    "visitors": 112,
+    "lastVisit": "2025-11-28T02:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5164035369633959
+    "normalized": 0.5173763641296951
   },
   {
     "city": "Tubingen",
@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 2,
-    "lastVisit": "2025-11-15T14:59:00",
+    "visitors": 5,
+    "lastVisit": "2025-11-27T21:40:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.12023469478206063
+    "normalized": 0.1960943411316455
   },
   {
     "city": "Visalia",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 89,
-    "lastVisit": "2025-11-27T20:43:00",
+    "visitors": 135,
+    "lastVisit": "2025-11-28T02:45:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.49246968004102687
+    "normalized": 0.5376524246530751
   },
   {
     "city": "Riegelsberg",
@@ -7386,6 +7386,24 @@
     "lastVisit": "2025-11-27T18:50:00",
     "lat": 3.1412,
     "lon": 101.68653,
+    "normalized": 0.0758596463495849
+  },
+  {
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "visitors": 2,
+    "lastVisit": "2025-11-28T00:10:00",
+    "lat": 24.68773,
+    "lon": 46.72185,
+    "normalized": 0.12023469478206063
+  },
+  {
+    "city": "Milpitas",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-11-28T00:31:00",
+    "lat": 37.42827,
+    "lon": -121.90662,
     "normalized": 0.0758596463495849
   }
 ]
