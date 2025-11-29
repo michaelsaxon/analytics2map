@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 98,
-    "lastVisit": "2025-11-29T02:41:00",
+    "visitors": 101,
+    "lastVisit": "2025-11-29T03:24:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5029006487245187
+    "normalized": 0.5061678267359657
   },
   {
     "city": null,
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 11,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 12,
+    "lastVisit": "2025-11-29T04:01:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.27195398748123045
+    "normalized": 0.2807140483561409
   },
   {
     "city": "Seongnam-si",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 114,
-    "lastVisit": "2025-11-28T13:36:00",
+    "visitors": 115,
+    "lastVisit": "2025-11-29T08:15:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5192964543542423
+    "normalized": 0.520244012962552
   },
   {
     "city": "Tubingen",
