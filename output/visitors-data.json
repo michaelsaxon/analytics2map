@@ -65,20 +65,20 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 127,
-    "lastVisit": "2025-11-25T17:37:00",
+    "visitors": 128,
+    "lastVisit": "2025-11-28T12:12:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5310175244470943
+    "normalized": 0.5318692200729789
   },
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2025-11-27T11:16:00",
+    "visitors": 11,
+    "lastVisit": "2025-11-28T10:46:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.26243125916039745
+    "normalized": 0.27195398748123045
   },
   {
     "city": "New York",
@@ -965,11 +965,11 @@
   {
     "city": "Troy",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2025-11-26T17:47:00",
+    "visitors": 14,
+    "lastVisit": "2025-11-28T13:15:00",
     "lat": 40.0395,
     "lon": -84.20328,
-    "normalized": 0.26243125916039745
+    "normalized": 0.29637533890938134
   },
   {
     "city": "Moscow",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 126,
-    "lastVisit": "2025-11-28T08:15:00",
+    "visitors": 128,
+    "lastVisit": "2025-11-28T14:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5301591487872961
+    "normalized": 0.5318692200729789
   },
   {
     "city": "Sylhet",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 112,
-    "lastVisit": "2025-11-28T02:18:00",
+    "visitors": 114,
+    "lastVisit": "2025-11-28T13:36:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5173763641296951
+    "normalized": 0.5192964543542423
   },
   {
     "city": "Tubingen",
@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 5,
-    "lastVisit": "2025-11-27T21:40:00",
+    "visitors": 8,
+    "lastVisit": "2025-11-28T09:36:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.1960943411316455
+    "normalized": 0.24046938956412126
   },
   {
     "city": "Visalia",
@@ -7373,11 +7373,11 @@
   {
     "city": "Iowa Colony",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-11-27T13:07:00",
+    "visitors": 3,
+    "lastVisit": "2025-11-28T14:17:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.0758596463495849
+    "normalized": 0.1517192926991698
   },
   {
     "city": "Kuala Lumpur",
@@ -7404,6 +7404,24 @@
     "lastVisit": "2025-11-28T00:31:00",
     "lat": 37.42827,
     "lon": -121.90662,
+    "normalized": 0.0758596463495849
+  },
+  {
+    "city": "Weifang",
+    "country": "China",
+    "visitors": 1,
+    "lastVisit": "2025-11-28T10:17:00",
+    "lat": 36.71,
+    "lon": 119.10194,
+    "normalized": 0.0758596463495849
+  },
+  {
+    "city": "Torrington",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-11-28T14:37:00",
+    "lat": 41.80065,
+    "lon": -73.12122,
     "normalized": 0.0758596463495849
   }
 ]
