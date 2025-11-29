@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 75,
-    "lastVisit": "2025-11-27T17:42:00",
+    "visitors": 76,
+    "lastVisit": "2025-11-28T23:25:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.4739655715876718
+    "normalized": 0.4753962107254538
   },
   {
     "city": "Ashburn",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 234,
-    "lastVisit": "2025-11-27T23:26:00",
+    "visitors": 237,
+    "lastVisit": "2025-11-29T01:58:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.5975097900329333
+    "normalized": 0.5988980835189616
   },
   {
     "city": null,
@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 77,
-    "lastVisit": "2025-11-28T19:23:00",
+    "visitors": 98,
+    "lastVisit": "2025-11-29T02:41:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.4768083894877864
+    "normalized": 0.5029006487245187
   },
   {
     "city": null,
@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2025-11-28T18:30:00",
+    "visitors": 26,
+    "lastVisit": "2025-11-28T22:41:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.35228128825464144
+    "normalized": 0.36070408434618184
   },
   {
     "city": "Mocksville",
@@ -7432,5 +7432,14 @@
     "lat": 34.80243,
     "lon": -86.97219,
     "normalized": 0.12023469478206063
+  },
+  {
+    "city": "Bullhead City",
+    "country": "United States",
+    "visitors": 5,
+    "lastVisit": "2025-11-28T22:13:00",
+    "lat": 35.14778,
+    "lon": -114.5683,
+    "normalized": 0.1960943411316455
   }
 ]
