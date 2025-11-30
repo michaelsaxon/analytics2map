@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 56,
-    "lastVisit": "2025-11-26T01:03:00",
+    "visitors": 59,
+    "lastVisit": "2025-11-30T04:12:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.44247576409806916
+    "normalized": 0.44808935594336735
   },
   {
     "city": "Lompoc",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 217,
-    "lastVisit": "2025-11-30T00:36:00",
+    "visitors": 218,
+    "lastVisit": "2025-11-30T06:23:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.5892847775996543
+    "normalized": 0.589785652831212
   },
   {
     "city": "Riegelsberg",
@@ -7459,5 +7459,23 @@
     "lat": 37.30216,
     "lon": -120.48297,
     "normalized": 0.12023327919269981
+  },
+  {
+    "city": "Qom",
+    "country": "Iran",
+    "visitors": 1,
+    "lastVisit": "2025-11-30T06:41:00",
+    "lat": 34.6401,
+    "lon": 50.8764,
+    "normalized": 0.07585875321213832
+  },
+  {
+    "city": "Eugene",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-11-30T07:29:00",
+    "lat": 44.05207,
+    "lon": -123.08675,
+    "normalized": 0.07585875321213832
   }
 ]
