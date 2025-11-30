@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 76,
-    "lastVisit": "2025-11-28T23:25:00",
+    "visitors": 77,
+    "lastVisit": "2025-11-30T00:28:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.4753906136237246
+    "normalized": 0.4768027757596979
   },
   {
     "city": "Ashburn",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 132,
-    "lastVisit": "2025-11-29T13:05:00",
+    "visitors": 133,
+    "lastVisit": "2025-11-29T23:26:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.535204929116619
+    "normalized": 0.5360247160738945
   },
   {
     "city": "Sylhet",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 33,
-    "lastVisit": "2025-11-25T23:06:00",
+    "visitors": 34,
+    "lastVisit": "2025-11-29T22:33:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.38592858815033354
+    "normalized": 0.3891010145376405
   },
   {
     "city": "Oakland",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 193,
-    "lastVisit": "2025-11-29T19:04:00",
+    "visitors": 217,
+    "lastVisit": "2025-11-30T00:36:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.5765199127292341
+    "normalized": 0.5892847775996543
   },
   {
     "city": "Riegelsberg",
@@ -7319,11 +7319,11 @@
   {
     "city": "Chandler",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-11-25T20:56:00",
+    "visitors": 5,
+    "lastVisit": "2025-11-29T21:58:00",
     "lat": 33.30616,
     "lon": -111.84125,
-    "normalized": 0.12023327919269981
+    "normalized": 0.1960920324048381
   },
   {
     "city": "Gilbert",
@@ -7450,5 +7450,14 @@
     "lat": 39.98526,
     "lon": -104.82053,
     "normalized": 0.07585875321213832
+  },
+  {
+    "city": "Merced",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2025-11-30T00:02:00",
+    "lat": 37.30216,
+    "lon": -120.48297,
+    "normalized": 0.12023327919269981
   }
 ]
