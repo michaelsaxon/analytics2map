@@ -308,11 +308,11 @@
   {
     "city": "London",
     "country": "United Kingdom",
-    "visitors": 13,
-    "lastVisit": "2025-11-17T09:25:00",
+    "visitors": 16,
+    "lastVisit": "2025-11-29T15:05:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.2888211974233879
+    "normalized": 0.31006983493819523
   },
   {
     "city": "Berlin",
@@ -2900,11 +2900,11 @@
   {
     "city": "Burnaby",
     "country": "Canada",
-    "visitors": 12,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 13,
+    "lastVisit": "2025-11-29T19:07:00",
     "lat": 49.26636,
     "lon": -122.95263,
-    "normalized": 0.2807107433548598
+    "normalized": 0.2888211974233879
   },
   {
     "city": "Stirling",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 178,
-    "lastVisit": "2025-11-28T18:59:00",
+    "visitors": 193,
+    "lastVisit": "2025-11-29T19:04:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.5677129341325964
+    "normalized": 0.5765199127292341
   },
   {
     "city": "Riegelsberg",
@@ -6968,11 +6968,11 @@
   {
     "city": "Central",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-11-16T19:31:00",
+    "visitors": 2,
+    "lastVisit": "2025-11-29T15:44:00",
     "lat": 30.55435,
     "lon": -91.03677,
-    "normalized": 0.07585875321213832
+    "normalized": 0.12023327919269981
   },
   {
     "city": "Kirzhach",
@@ -7441,5 +7441,14 @@
     "lat": 35.14778,
     "lon": -114.5683,
     "normalized": 0.1960920324048381
+  },
+  {
+    "city": "Brighton",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-11-29T20:25:00",
+    "lat": 39.98526,
+    "lon": -104.82053,
+    "normalized": 0.07585875321213832
   }
 ]
