@@ -47,11 +47,11 @@
   {
     "city": "Ames",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2024-01-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2025-12-01T07:24:00",
     "lat": 42.03471,
     "lon": -93.61994,
-    "normalized": 0.12023327919269981
+    "normalized": 0.15171750642427664
   },
   {
     "city": "Austin",
@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 101,
-    "lastVisit": "2025-11-29T03:24:00",
+    "visitors": 107,
+    "lastVisit": "2025-12-01T03:26:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5061618673430333
+    "normalized": 0.512417344002376
   },
   {
     "city": null,
@@ -929,11 +929,11 @@
   {
     "city": "College Park",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2025-11-19T16:30:00",
+    "visitors": 16,
+    "lastVisit": "2025-12-01T07:24:00",
     "lat": 38.98067,
     "lon": -76.93692,
-    "normalized": 0.3034350128485533
+    "normalized": 0.31006983493819523
   },
   {
     "city": "Brooklyn",
@@ -2162,11 +2162,11 @@
   {
     "city": "Chennai",
     "country": "India",
-    "visitors": 9,
-    "lastVisit": "2025-11-22T02:23:00",
+    "visitors": 10,
+    "lastVisit": "2025-12-01T06:31:00",
     "lat": 13.08784,
     "lon": 80.27847,
-    "normalized": 0.25199732353852927
+    "normalized": 0.262428169412475
   },
   {
     "city": "Pune",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 119,
-    "lastVisit": "2025-12-01T02:17:00",
+    "visitors": 120,
+    "lastVisit": "2025-12-01T08:21:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5239481091555057
+    "normalized": 0.52485633882495
   },
   {
     "city": "Tubingen",
