@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 128,
-    "lastVisit": "2025-11-28T12:12:00",
+    "visitors": 131,
+    "lastVisit": "2025-11-30T11:46:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5318629580833705
+    "normalized": 0.5343789550294513
   },
   {
     "city": "Santa Clara",
@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 30,
-    "lastVisit": "2025-11-29T13:37:00",
+    "visitors": 31,
+    "lastVisit": "2025-11-30T09:06:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.3758191552741242
+    "normalized": 0.3792937660606916
   },
   {
     "city": "Mocksville",
@@ -911,11 +911,11 @@
   {
     "city": "Durham",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2025-11-27T17:40:00",
+    "visitors": 14,
+    "lastVisit": "2025-11-30T11:45:00",
     "lat": 35.99403,
     "lon": -78.89862,
-    "normalized": 0.2807107433548598
+    "normalized": 0.29637184951909074
   },
   {
     "city": "Syracuse",
@@ -4169,11 +4169,11 @@
   {
     "city": "Lausanne",
     "country": "Switzerland",
-    "visitors": 2,
-    "lastVisit": "2025-11-23T10:01:00",
+    "visitors": 3,
+    "lastVisit": "2025-11-30T10:06:00",
     "lat": 46.516,
     "lon": 6.63282,
-    "normalized": 0.12023327919269981
+    "normalized": 0.15171750642427664
   },
   {
     "city": "Seo-gu",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2025-11-13T12:06:00",
+    "visitors": 6,
+    "lastVisit": "2025-11-30T13:25:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.1761385703263909
+    "normalized": 0.2129624442112496
   },
   {
     "city": "Cairo",
@@ -7476,6 +7476,24 @@
     "lastVisit": "2025-11-30T07:29:00",
     "lat": 44.05207,
     "lon": -123.08675,
+    "normalized": 0.07585875321213832
+  },
+  {
+    "city": "Parsberg",
+    "country": "Germany",
+    "visitors": 3,
+    "lastVisit": "2025-11-30T12:43:00",
+    "lat": 52.52437,
+    "lon": 13.41053,
+    "normalized": 0.15171750642427664
+  },
+  {
+    "city": "Gerlach",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-11-30T13:39:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.07585875321213832
   }
 ]
