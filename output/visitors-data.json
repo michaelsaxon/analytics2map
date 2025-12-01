@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 77,
-    "lastVisit": "2025-11-30T00:28:00",
+    "visitors": 79,
+    "lastVisit": "2025-11-30T21:57:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.4768027757596979
+    "normalized": 0.4795735831749442
   },
   {
     "city": "Ashburn",
@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 131,
-    "lastVisit": "2025-11-30T11:46:00",
+    "visitors": 137,
+    "lastVisit": "2025-12-01T01:00:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5343789550294513
+    "normalized": 0.5392438024691848
   },
   {
     "city": "Santa Clara",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 27,
-    "lastVisit": "2025-11-30T19:24:00",
+    "visitors": 29,
+    "lastVisit": "2025-11-30T23:48:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.3646799506355262
+    "normalized": 0.37223060273122904
   },
   {
     "city": "Rowland Heights",
@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 31,
-    "lastVisit": "2025-11-30T09:06:00",
+    "visitors": 33,
+    "lastVisit": "2025-11-30T23:07:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.3792937660606916
+    "normalized": 0.38592858815033354
   },
   {
     "city": "Mocksville",
@@ -659,11 +659,11 @@
   {
     "city": "Ann Arbor",
     "country": "United States",
-    "visitors": 18,
-    "lastVisit": "2025-11-26T11:03:00",
+    "visitors": 19,
+    "lastVisit": "2025-11-30T21:21:00",
     "lat": 42.27756,
     "lon": -83.74088,
-    "normalized": 0.32224248490536933
+    "normalized": 0.3278560767506675
   },
   {
     "city": "Pittsburgh",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 133,
-    "lastVisit": "2025-11-29T23:26:00",
+    "visitors": 134,
+    "lastVisit": "2025-12-01T02:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5360247160738945
+    "normalized": 0.5368384079044903
   },
   {
     "city": "Sylhet",
@@ -4916,11 +4916,11 @@
   {
     "city": "Berkeley",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2025-11-26T15:47:00",
+    "visitors": 13,
+    "lastVisit": "2025-11-30T22:23:00",
     "lat": 37.87159,
     "lon": -122.27275,
-    "normalized": 0.27195078561697644
+    "normalized": 0.2888211974233879
   },
   {
     "city": "Providence",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 118,
-    "lastVisit": "2025-11-29T14:23:00",
+    "visitors": 119,
+    "lastVisit": "2025-12-01T02:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5230322791494448
+    "normalized": 0.5239481091555057
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 243,
-    "lastVisit": "2025-11-30T19:22:00",
+    "visitors": 247,
+    "lastVisit": "2025-12-01T00:11:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.601615846480474
+    "normalized": 0.6033954149105392
   },
   {
     "city": "Riegelsberg",
@@ -7495,5 +7495,23 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.07585875321213832
+  },
+  {
+    "city": "Da\u2019an District",
+    "country": "Taiwan",
+    "visitors": 1,
+    "lastVisit": "2025-11-30T21:31:00",
+    "lat": 25.05306,
+    "lon": 121.52639,
+    "normalized": 0.07585875321213832
+  },
+  {
+    "city": "Mansfield",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2025-11-30T21:49:00",
+    "lat": 40.75839,
+    "lon": -82.51545,
+    "normalized": 0.12023327919269981
   }
 ]
