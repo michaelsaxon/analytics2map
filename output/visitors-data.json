@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 79,
-    "lastVisit": "2025-11-30T21:57:00",
+    "visitors": 81,
+    "lastVisit": "2025-12-01T10:05:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.4795735831749442
+    "normalized": 0.4822759685516585
   },
   {
     "city": "Ashburn",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 60,
-    "lastVisit": "2025-11-30T17:22:00",
+    "visitors": 61,
+    "lastVisit": "2025-12-01T11:50:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.4498983400561973
+    "normalized": 0.45167790848626255
   },
   {
     "city": "Lompoc",
@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 33,
-    "lastVisit": "2025-11-30T23:07:00",
+    "visitors": 34,
+    "lastVisit": "2025-12-01T08:37:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.38592858815033354
+    "normalized": 0.3891010145376405
   },
   {
     "city": "Mocksville",
@@ -830,11 +830,11 @@
   {
     "city": "Dhaka",
     "country": "Bangladesh",
-    "visitors": 14,
-    "lastVisit": "2025-11-22T12:23:00",
+    "visitors": 18,
+    "lastVisit": "2025-12-01T14:17:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.29637184951909074
+    "normalized": 0.32224248490536933
   },
   {
     "city": null,
@@ -920,11 +920,11 @@
   {
     "city": "Syracuse",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2024-01-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2025-12-01T10:03:00",
     "lat": 41.08939,
     "lon": -112.06467,
-    "normalized": 0.12023327919269981
+    "normalized": 0.15171750642427664
   },
   {
     "city": "College Park",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 134,
-    "lastVisit": "2025-12-01T02:17:00",
+    "visitors": 136,
+    "lastVisit": "2025-12-01T14:35:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5368384079044903
+    "normalized": 0.5384478640731427
   },
   {
     "city": "Sylhet",
@@ -2135,11 +2135,11 @@
   {
     "city": "Tempe",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2025-11-19T09:17:00",
+    "visitors": 5,
+    "lastVisit": "2025-12-01T11:25:00",
     "lat": 33.41477,
     "lon": -111.90931,
-    "normalized": 0.1761385703263909
+    "normalized": 0.1960920324048381
   },
   {
     "city": "Ludhiana",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 26,
-    "lastVisit": "2025-11-18T20:17:00",
+    "visitors": 27,
+    "lastVisit": "2025-12-01T08:54:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.36069983757809937
+    "normalized": 0.3646799506355262
   },
   {
     "city": "Sabz",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 120,
-    "lastVisit": "2025-12-01T08:21:00",
+    "visitors": 123,
+    "lastVisit": "2025-12-01T14:39:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.52485633882495
+    "normalized": 0.5275366616984009
   },
   {
     "city": "Tubingen",
@@ -7157,11 +7157,11 @@
   {
     "city": "Indianapolis",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-11-22T16:02:00",
+    "visitors": 2,
+    "lastVisit": "2025-12-01T13:12:00",
     "lat": 39.76838,
     "lon": -86.15804,
-    "normalized": 0.07585875321213832
+    "normalized": 0.12023327919269981
   },
   {
     "city": "Virginia Beach",
@@ -7513,5 +7513,14 @@
     "lat": 40.75839,
     "lon": -82.51545,
     "normalized": 0.12023327919269981
+  },
+  {
+    "city": "Davis",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-01T11:13:00",
+    "lat": 38.54491,
+    "lon": -121.74052,
+    "normalized": 0.07585875321213832
   }
 ]
