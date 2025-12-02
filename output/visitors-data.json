@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 81,
-    "lastVisit": "2025-12-01T10:05:00",
+    "visitors": 86,
+    "lastVisit": "2025-12-01T16:45:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.4822759685516585
+    "normalized": 0.48875366061134046
   },
   {
     "city": "Ashburn",
@@ -56,11 +56,11 @@
   {
     "city": "Austin",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 16,
+    "lastVisit": "2025-12-01T18:51:00",
     "lat": 43.66663,
     "lon": -92.97464,
-    "normalized": 0.3034350128485533
+    "normalized": 0.31006983493819523
   },
   {
     "city": "Seattle",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 61,
-    "lastVisit": "2025-12-01T11:50:00",
+    "visitors": 62,
+    "lastVisit": "2025-12-01T18:34:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.45167790848626255
+    "normalized": 0.4534290025966492
   },
   {
     "city": "Lompoc",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 33,
-    "lastVisit": "2025-11-23T12:59:00",
+    "visitors": 34,
+    "lastVisit": "2025-12-01T15:26:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.38592858815033354
+    "normalized": 0.3891010145376405
   },
   {
     "city": "Stanford",
@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 107,
-    "lastVisit": "2025-12-01T03:26:00",
+    "visitors": 121,
+    "lastVisit": "2025-12-01T18:55:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.512417344002376
+    "normalized": 0.5257570932683356
   },
   {
     "city": null,
@@ -929,11 +929,11 @@
   {
     "city": "College Park",
     "country": "United States",
-    "visitors": 16,
-    "lastVisit": "2025-12-01T07:24:00",
+    "visitors": 17,
+    "lastVisit": "2025-12-01T16:19:00",
     "lat": 38.98067,
     "lon": -76.93692,
-    "normalized": 0.31006983493819523
+    "normalized": 0.3163253115975379
   },
   {
     "city": "Brooklyn",
@@ -956,11 +956,11 @@
   {
     "city": "Palo Alto",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2024-01-01T00:00:00",
+    "visitors": 7,
+    "lastVisit": "2025-12-01T15:21:00",
     "lat": 37.44188,
     "lon": -122.14302,
-    "normalized": 0.2129624442112496
+    "normalized": 0.22757625963641495
   },
   {
     "city": "Troy",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 136,
-    "lastVisit": "2025-12-01T14:35:00",
+    "visitors": 139,
+    "lastVisit": "2025-12-01T20:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5384478640731427
+    "normalized": 0.5408185209619172
   },
   {
     "city": "Sylhet",
@@ -4925,11 +4925,11 @@
   {
     "city": "Providence",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2025-11-20T11:14:00",
+    "visitors": 7,
+    "lastVisit": "2025-12-01T18:11:00",
     "lat": 41.82399,
     "lon": -71.41283,
-    "normalized": 0.1960920324048381
+    "normalized": 0.22757625963641495
   },
   {
     "city": "Chandigarh",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 123,
-    "lastVisit": "2025-12-01T14:39:00",
+    "visitors": 125,
+    "lastVisit": "2025-12-01T20:19:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5275366616984009
+    "normalized": 0.5292877558087875
   },
   {
     "city": "Tubingen",
@@ -6716,11 +6716,11 @@
   {
     "city": "Cairo",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-11-11T11:50:00",
+    "visitors": 3,
+    "lastVisit": "2025-12-01T17:23:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.12023327919269981
+    "normalized": 0.15171750642427664
   },
   {
     "city": "Matawan",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 247,
-    "lastVisit": "2025-12-01T00:11:00",
+    "visitors": 249,
+    "lastVisit": "2025-12-01T20:45:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6033954149105392
+    "normalized": 0.604274464191311
   },
   {
     "city": "Riegelsberg",
@@ -7157,11 +7157,11 @@
   {
     "city": "Indianapolis",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-12-01T13:12:00",
+    "visitors": 3,
+    "lastVisit": "2025-12-01T20:24:00",
     "lat": 39.76838,
     "lon": -86.15804,
-    "normalized": 0.12023327919269981
+    "normalized": 0.15171750642427664
   },
   {
     "city": "Virginia Beach",
@@ -7521,6 +7521,24 @@
     "lastVisit": "2025-12-01T11:13:00",
     "lat": 38.54491,
     "lon": -121.74052,
+    "normalized": 0.07585875321213832
+  },
+  {
+    "city": "Morristown",
+    "country": "United States",
+    "visitors": 4,
+    "lastVisit": "2025-12-01T17:30:00",
+    "lat": 40.79677,
+    "lon": -74.48154,
+    "normalized": 0.1761385703263909
+  },
+  {
+    "city": "Fremont",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-01T19:34:00",
+    "lat": 37.54827,
+    "lon": -121.98857,
     "normalized": 0.07585875321213832
   }
 ]
