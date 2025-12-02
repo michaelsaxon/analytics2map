@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 86,
-    "lastVisit": "2025-12-01T16:45:00",
+    "visitors": 89,
+    "lastVisit": "2025-12-02T04:51:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.4887421540063525
+    "normalized": 0.49245228797013
   },
   {
     "city": "Ashburn",
@@ -110,11 +110,11 @@
   {
     "city": "Dallas",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2025-11-20T10:40:00",
+    "visitors": 14,
+    "lastVisit": "2025-12-02T06:24:00",
     "lat": 44.91928,
     "lon": -123.31705,
-    "normalized": 0.2624219911318267
+    "normalized": 0.29636487211088536
   },
   {
     "city": "San Jose",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 31,
-    "lastVisit": "2025-12-02T00:35:00",
+    "visitors": 34,
+    "lastVisit": "2025-12-02T07:21:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.37928483644257893
+    "normalized": 0.38909185402993385
   },
   {
     "city": "Rowland Heights",
@@ -2009,11 +2009,11 @@
   {
     "city": null,
     "country": "Philippines",
-    "visitors": 5,
-    "lastVisit": "2025-07-01T00:00:00",
+    "visitors": 6,
+    "lastVisit": "2025-12-02T04:39:00",
     "lat": 14.6042,
     "lon": 120.9822,
-    "normalized": 0.1960874158592447
+    "normalized": 0.21295743048977744
   },
   {
     "city": "Ghent",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 125,
-    "lastVisit": "2025-12-01T20:19:00",
+    "visitors": 126,
+    "lastVisit": "2025-12-02T02:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5292752949197511
+    "normalized": 0.5301404256742274
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 263,
-    "lastVisit": "2025-12-01T23:56:00",
+    "visitors": 273,
+    "lastVisit": "2025-12-02T06:23:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6102233415681029
+    "normalized": 0.6142921548184881
   },
   {
     "city": "Riegelsberg",
