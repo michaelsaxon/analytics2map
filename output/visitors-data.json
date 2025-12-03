@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 122,
-    "lastVisit": "2025-12-02T14:13:00",
+    "visitors": 125,
+    "lastVisit": "2025-12-03T03:49:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5266257001812071
+    "normalized": 0.5292628372972878
   },
   {
     "city": null,
@@ -659,11 +659,11 @@
   {
     "city": "Ann Arbor",
     "country": "United States",
-    "visitors": 19,
-    "lastVisit": "2025-11-30T21:21:00",
+    "visitors": 20,
+    "lastVisit": "2025-12-03T08:32:00",
     "lat": 42.27756,
     "lon": -83.74088,
-    "normalized": 0.32784064150711795
+    "normalized": 0.3331800367734273
   },
   {
     "city": "Pittsburgh",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 142,
-    "lastVisit": "2025-12-02T19:04:00",
+    "visitors": 143,
+    "lastVisit": "2025-12-03T08:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5431133421526829
+    "normalized": 0.5438759647138536
   },
   {
     "city": "Sylhet",
@@ -1802,11 +1802,11 @@
   {
     "city": "Zurich",
     "country": "Switzerland",
-    "visitors": 8,
-    "lastVisit": "2025-11-17T08:51:00",
+    "visitors": 9,
+    "lastVisit": "2025-12-03T08:20:00",
     "lat": 47.36667,
     "lon": 8.55,
-    "normalized": 0.24045523738158903
+    "normalized": 0.25198545967405184
   },
   {
     "city": "Obanos",
@@ -3998,11 +3998,11 @@
   {
     "city": "Warsaw",
     "country": "Poland",
-    "visitors": 2,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2025-12-03T05:05:00",
     "lat": 52.22977,
     "lon": 21.01178,
-    "normalized": 0.12022761869079451
+    "normalized": 0.1761302778409857
   },
   {
     "city": "Heiwajima",
@@ -4628,11 +4628,11 @@
   {
     "city": "Isfahan",
     "country": "Iran",
-    "visitors": 2,
-    "lastVisit": "2025-10-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2025-12-03T04:14:00",
     "lat": 32.65246,
     "lon": 51.67462,
-    "normalized": 0.12022761869079451
+    "normalized": 0.15171036366613225
   },
   {
     "city": "Hur",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 128,
-    "lastVisit": "2025-12-03T02:16:00",
+    "visitors": 129,
+    "lastVisit": "2025-12-03T08:19:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5318379183330801
+    "normalized": 0.5326829873559443
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 310,
-    "lastVisit": "2025-12-03T00:41:00",
+    "visitors": 319,
+    "lastVisit": "2025-12-03T05:39:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6281393724861959
+    "normalized": 0.6312613688393824
   },
   {
     "city": "Riegelsberg",
@@ -7629,6 +7629,15 @@
     "lastVisit": "2025-12-02T21:49:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.07585518183306612
+  },
+  {
+    "city": "Kailua",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-03T03:51:00",
+    "lat": 21.40241,
+    "lon": -157.74054,
     "normalized": 0.07585518183306612
   }
 ]
