@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 106,
-    "lastVisit": "2025-12-02T18:38:00",
+    "visitors": 108,
+    "lastVisit": "2025-12-03T00:09:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5113752040750713
+    "normalized": 0.5134018526356616
   },
   {
     "city": "Ashburn",
@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 143,
-    "lastVisit": "2025-12-02T20:49:00",
+    "visitors": 145,
+    "lastVisit": "2025-12-03T00:54:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5438759647138536
+    "normalized": 0.5453854492616882
   },
   {
     "city": "Santa Clara",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 82,
-    "lastVisit": "2025-12-02T18:48:00",
+    "visitors": 91,
+    "lastVisit": "2025-12-03T02:30:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.4835797752577875
+    "normalized": 0.49484597837597727
   },
   {
     "city": "Rowland Heights",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 127,
-    "lastVisit": "2025-12-02T13:24:00",
+    "visitors": 128,
+    "lastVisit": "2025-12-03T02:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5309862728314629
+    "normalized": 0.5318379183330801
   },
   {
     "city": "Tubingen",
@@ -6842,11 +6842,11 @@
   {
     "city": "Moses Lake",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2025-12-02T14:33:00",
+    "visitors": 5,
+    "lastVisit": "2025-12-03T01:31:00",
     "lat": 47.13014,
     "lon": -119.27808,
-    "normalized": 0.1761302778409857
+    "normalized": 0.19608280052386062
   },
   {
     "city": "Camarillo",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 292,
-    "lastVisit": "2025-12-02T20:43:00",
+    "visitors": 310,
+    "lastVisit": "2025-12-03T00:41:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6216147712699647
+    "normalized": 0.6281393724861959
   },
   {
     "city": "Riegelsberg",
@@ -7621,5 +7621,14 @@
     "lat": 34.06334,
     "lon": -117.65089,
     "normalized": 0.12022761869079451
+  },
+  {
+    "city": "Manistee",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-02T21:49:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07585518183306612
   }
 ]
