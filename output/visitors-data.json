@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 43,
-    "lastVisit": "2025-11-28T06:02:00",
+    "visitors": 45,
+    "lastVisit": "2025-12-03T11:18:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.4141261781369227
+    "normalized": 0.41899079654291116
   },
   {
     "city": "Ames",
@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 145,
-    "lastVisit": "2025-12-03T00:54:00",
+    "visitors": 147,
+    "lastVisit": "2025-12-03T13:35:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5453854492616882
+    "normalized": 0.5468743959667945
   },
   {
     "city": "Santa Clara",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 237,
-    "lastVisit": "2025-11-29T01:58:00",
+    "visitors": 239,
+    "lastVisit": "2025-12-03T13:05:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.5988628369746445
+    "normalized": 0.5997786238640447
   },
   {
     "city": null,
@@ -308,11 +308,11 @@
   {
     "city": "London",
     "country": "United Kingdom",
-    "visitors": 16,
-    "lastVisit": "2025-11-29T15:05:00",
+    "visitors": 17,
+    "lastVisit": "2025-12-03T09:24:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.3100552370589456
+    "normalized": 0.31631041921465514
   },
   {
     "city": "Berlin",
@@ -2135,11 +2135,11 @@
   {
     "city": "Tempe",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2025-12-01T11:25:00",
+    "visitors": 6,
+    "lastVisit": "2025-12-03T09:11:00",
     "lat": 33.41477,
     "lon": -111.90931,
-    "normalized": 0.19608280052386062
+    "normalized": 0.21295241808263274
   },
   {
     "city": "Ludhiana",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 28,
-    "lastVisit": "2025-12-02T10:35:00",
+    "visitors": 29,
+    "lastVisit": "2025-12-03T10:16:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.36850303172698157
+    "normalized": 0.37221307836484635
   },
   {
     "city": "Sabz",
@@ -7639,5 +7639,14 @@
     "lat": 21.40241,
     "lon": -157.74054,
     "normalized": 0.07585518183306612
+  },
+  {
+    "city": "Moers",
+    "country": "Germany",
+    "visitors": 2,
+    "lastVisit": "2025-12-03T12:11:00",
+    "lat": 51.45342,
+    "lon": 6.6326,
+    "normalized": 0.12022761869079451
   }
 ]
