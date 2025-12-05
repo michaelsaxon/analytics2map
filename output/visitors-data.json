@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 114,
-    "lastVisit": "2025-12-04T14:41:00",
+    "visitors": 116,
+    "lastVisit": "2025-12-04T20:03:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5192475650803179
+    "normalized": 0.521134370995873
   },
   {
     "city": "Ashburn",
@@ -236,11 +236,11 @@
   {
     "city": null,
     "country": "Canada",
-    "visitors": 197,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 199,
+    "lastVisit": "2025-12-04T16:01:00",
     "lat": 45.41117,
     "lon": -75.69812,
-    "normalized": 0.5787058075643869
+    "normalized": 0.5798056362403284
   },
   {
     "city": "Montreal",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 240,
-    "lastVisit": "2025-12-03T18:06:00",
+    "visitors": 241,
+    "lastVisit": "2025-12-04T20:15:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6002124741997973
+    "normalized": 0.6006656095558306
   },
   {
     "city": null,
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 99,
-    "lastVisit": "2025-12-04T14:42:00",
+    "visitors": 100,
+    "lastVisit": "2025-12-04T16:55:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5039531317131055
+    "normalized": 0.5050420166386383
   },
   {
     "city": "Rowland Heights",
@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 44,
-    "lastVisit": "2025-12-03T22:37:00",
+    "visitors": 46,
+    "lastVisit": "2025-12-04T18:32:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.41657081185219
+    "normalized": 0.4213294760187401
   },
   {
     "city": "Recife",
@@ -929,11 +929,11 @@
   {
     "city": "College Park",
     "country": "United States",
-    "visitors": 18,
-    "lastVisit": "2025-12-02T10:33:00",
+    "visitors": 19,
+    "lastVisit": "2025-12-04T17:19:00",
     "lat": 38.98067,
     "lon": -76.93692,
-    "normalized": 0.32221594094479444
+    "normalized": 0.3278290703837757
   },
   {
     "city": "Brooklyn",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 148,
-    "lastVisit": "2025-12-04T14:18:00",
+    "visitors": 149,
+    "lastVisit": "2025-12-04T20:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5475920128811415
+    "normalized": 0.5483240024473126
   },
   {
     "city": "Sylhet",
@@ -1298,11 +1298,11 @@
   {
     "city": "Santa Cruz",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2025-12-03T16:52:00",
+    "visitors": 11,
+    "lastVisit": "2025-12-04T19:52:00",
     "lat": 36.97412,
     "lon": -122.0308,
-    "normalized": 0.24044675052286024
+    "normalized": 0.271928384315876
   },
   {
     "city": "Rockville",
@@ -4583,11 +4583,11 @@
   {
     "city": "Sunnyvale",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2025-11-29T14:44:00",
+    "visitors": 8,
+    "lastVisit": "2025-12-04T15:55:00",
     "lat": 37.36883,
     "lon": -122.03635,
-    "normalized": 0.2275575135816688
+    "normalized": 0.24044675052286024
   },
   {
     "city": "College Station",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 135,
-    "lastVisit": "2025-12-04T14:18:00",
+    "visitors": 136,
+    "lastVisit": "2025-12-04T20:21:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5376018072524659
+    "normalized": 0.5384035107071371
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 332,
-    "lastVisit": "2025-12-03T22:43:00",
+    "visitors": 334,
+    "lastVisit": "2025-12-04T19:16:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6355968355235869
+    "normalized": 0.6362521191110662
   },
   {
     "city": "Riegelsberg",
@@ -7692,6 +7692,24 @@
     "lastVisit": "2025-12-04T14:10:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.07585250452722295
+  },
+  {
+    "city": "Brisbane",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-04T14:52:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07585250452722295
+  },
+  {
+    "city": "Moreno Valley",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-04T18:50:00",
+    "lat": 33.93752,
+    "lon": -117.23059,
     "normalized": 0.07585250452722295
   }
 ]
