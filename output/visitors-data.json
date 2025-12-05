@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 120,
-    "lastVisit": "2025-12-05T01:23:00",
+    "visitors": 124,
+    "lastVisit": "2025-12-05T05:58:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5248131050286077
+    "normalized": 0.5283721839879895
   },
   {
     "city": "Ashburn",
@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 46,
-    "lastVisit": "2025-12-04T18:32:00",
+    "visitors": 47,
+    "lastVisit": "2025-12-05T06:13:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.4213294760187401
+    "normalized": 0.4236333933703219
   },
   {
     "city": "Recife",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 150,
-    "lastVisit": "2025-12-05T02:15:00",
+    "visitors": 151,
+    "lastVisit": "2025-12-05T08:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5490511282595276
+    "normalized": 0.5497734545264633
   },
   {
     "city": "Sylhet",
@@ -1370,11 +1370,11 @@
   {
     "city": "Clarksville",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 13,
+    "lastVisit": "2025-12-05T08:23:00",
     "lat": 36.52977,
     "lon": -87.35945,
-    "normalized": 0.271928384315876
+    "normalized": 0.288797406462119
   },
   {
     "city": null,
@@ -2189,11 +2189,11 @@
   {
     "city": "Toronto",
     "country": "Canada",
-    "visitors": 14,
-    "lastVisit": "2025-11-23T12:21:00",
+    "visitors": 15,
+    "lastVisit": "2025-12-05T08:02:00",
     "lat": 43.70643,
     "lon": -79.39864,
-    "normalized": 0.2963474365907599
+    "normalized": 0.3034100181088918
   },
   {
     "city": "Surrey",
@@ -2720,11 +2720,11 @@
   {
     "city": "Mexico City",
     "country": "Mexico",
-    "visitors": 3,
-    "lastVisit": "2025-01-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2025-12-05T08:08:00",
     "lat": 19.42847,
     "lon": -99.12766,
-    "normalized": 0.1517050090544459
+    "normalized": 0.17612406132932978
   },
   {
     "city": "Medell\u00edn",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 137,
-    "lastVisit": "2025-12-05T02:15:00",
+    "visitors": 138,
+    "lastVisit": "2025-12-05T08:15:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5391993835396411
+    "normalized": 0.5399895099477932
   },
   {
     "city": "Tubingen",
