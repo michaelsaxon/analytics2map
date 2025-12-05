@@ -4486,3 +4486,19 @@ timestamp	country	city	num_unique
 2025-12-04T20:15:00	China		1
 2025-12-04T20:21:00	China	Lanzhou	1
 2025-12-04T20:21:00	Singapore	Singapore	1
+2025-12-04T20:49:00	United States	Los Angeles	1
+2025-12-04T21:02:00	Japan	Setagaya City	1
+2025-12-04T21:47:00	United States	San Diego	1
+2025-12-04T21:50:00	United States	Seattle	1
+2025-12-04T21:53:00	Hong Kong	Hong Kong	1
+2025-12-04T23:16:00	United States	San Jose	1
+2025-12-04T23:23:00	United States	Wenatchee	1
+2025-12-04T23:35:00	United States	San Diego	1
+2025-12-04T23:58:00	United States	San Diego	1
+2025-12-05T00:03:00	Germany	Bohmte	1
+2025-12-05T01:19:00	United States	Los Angeles	1
+2025-12-05T01:22:00	United States	Los Angeles	1
+2025-12-05T01:23:00	United States	Los Angeles	1
+2025-12-05T01:50:00	United States	Council Bluffs	1
+2025-12-05T02:15:00	China	Lanzhou	1
+2025-12-05T02:15:00	Singapore	Singapore	1
