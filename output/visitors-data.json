@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 113,
-    "lastVisit": "2025-12-04T08:27:00",
+    "visitors": 114,
+    "lastVisit": "2025-12-04T14:41:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5182918207334476
+    "normalized": 0.5192475650803179
   },
   {
     "city": "Ashburn",
@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 152,
-    "lastVisit": "2025-12-03T22:53:00",
+    "visitors": 153,
+    "lastVisit": "2025-12-04T13:35:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5504910441936571
+    "normalized": 0.5512039589764228
   },
   {
     "city": "Santa Clara",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 73,
-    "lastVisit": "2025-12-04T04:12:00",
+    "visitors": 74,
+    "lastVisit": "2025-12-04T13:13:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.4710025895279497
+    "normalized": 0.4724714979200897
   },
   {
     "city": "Lompoc",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 94,
-    "lastVisit": "2025-12-03T22:27:00",
+    "visitors": 99,
+    "lastVisit": "2025-12-04T14:42:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.4983400022741243
+    "normalized": 0.5039531317131055
   },
   {
     "city": "Rowland Heights",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 144,
-    "lastVisit": "2025-12-04T08:17:00",
+    "visitors": 148,
+    "lastVisit": "2025-12-04T14:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.544614086755407
+    "normalized": 0.5475920128811415
   },
   {
     "city": "Sylhet",
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 15,
-    "lastVisit": "2025-12-02T20:25:00",
+    "visitors": 16,
+    "lastVisit": "2025-12-04T10:33:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.3034100181088918
+    "normalized": 0.31004429367079694
   },
   {
     "city": "Seongnam-si",
@@ -3359,11 +3359,11 @@
   {
     "city": "Everett",
     "country": "United States",
-    "visitors": 148,
-    "lastVisit": "2024-09-01T00:00:00",
+    "visitors": 150,
+    "lastVisit": "2025-12-04T14:33:00",
     "lat": 47.97898,
     "lon": -122.20208,
-    "normalized": 0.5475920128811415
+    "normalized": 0.5490511282595276
   },
   {
     "city": "Belmont",
@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 4,
-    "lastVisit": "2025-04-01T00:00:00",
+    "visitors": 5,
+    "lastVisit": "2025-12-04T14:51:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.17612406132932978
+    "normalized": 0.19607587978865304
   },
   {
     "city": "Athens",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 130,
-    "lastVisit": "2025-12-04T08:17:00",
+    "visitors": 135,
+    "lastVisit": "2025-12-04T14:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5335027500659935
+    "normalized": 0.5376018072524659
   },
   {
     "city": "Tubingen",
@@ -7319,11 +7319,11 @@
   {
     "city": "Chandler",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2025-12-02T09:18:00",
+    "visitors": 15,
+    "lastVisit": "2025-12-04T13:24:00",
     "lat": 33.30616,
     "lon": -111.84125,
-    "normalized": 0.21294490193489604
+    "normalized": 0.3034100181088918
   },
   {
     "city": "Gilbert",
@@ -7675,5 +7675,23 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.12022337526143012
+  },
+  {
+    "city": "Rockvale",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-04T13:47:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07585250452722295
+  },
+  {
+    "city": "Pocahontas",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-04T14:10:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07585250452722295
   }
 ]
