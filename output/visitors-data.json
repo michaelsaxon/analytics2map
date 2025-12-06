@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 45,
-    "lastVisit": "2025-12-03T11:18:00",
+    "visitors": 46,
+    "lastVisit": "2025-12-06T03:26:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.4189710801482874
+    "normalized": 0.42132452020657557
   },
   {
     "city": "Ames",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 51,
-    "lastVisit": "2025-11-26T01:48:00",
+    "visitors": 52,
+    "lastVisit": "2025-12-06T08:22:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.4323875435869413
+    "normalized": 0.43447200175245804
   },
   {
     "city": "Four Oaks",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 75,
-    "lastVisit": "2025-12-04T23:16:00",
+    "visitors": 76,
+    "lastVisit": "2025-12-06T03:38:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.47391537558932434
+    "normalized": 0.47534586321323263
   },
   {
     "city": "Lompoc",
@@ -389,11 +389,11 @@
   {
     "city": null,
     "country": "Taiwan",
-    "visitors": 41,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 43,
+    "lastVisit": "2025-12-06T07:35:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.4090159706901869
+    "normalized": 0.41410669065600536
   },
   {
     "city": null,
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 110,
-    "lastVisit": "2025-12-06T02:50:00",
+    "visitors": 112,
+    "lastVisit": "2025-12-06T02:57:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5153673982745461
+    "normalized": 0.5173215706495867
   },
   {
     "city": "Rowland Heights",
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 16,
-    "lastVisit": "2025-12-04T10:33:00",
+    "visitors": 17,
+    "lastVisit": "2025-12-06T05:32:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.3100406468305696
+    "normalized": 0.31629553463699783
   },
   {
     "city": "Seongnam-si",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 143,
-    "lastVisit": "2025-12-06T02:15:00",
+    "visitors": 144,
+    "lastVisit": "2025-12-06T08:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5438503716143508
+    "normalized": 0.5446076808301876
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 342,
-    "lastVisit": "2025-12-05T20:24:00",
+    "visitors": 343,
+    "lastVisit": "2025-12-06T04:09:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6388271916263873
+    "normalized": 0.6391457675280835
   },
   {
     "city": "Riegelsberg",
@@ -7746,6 +7746,15 @@
     "lastVisit": "2025-12-06T00:08:00",
     "lat": -6.17806,
     "lon": 106.63,
+    "normalized": 0.0758516123257843
+  },
+  {
+    "city": "Gunnison",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-06T03:27:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.0758516123257843
   }
 ]
