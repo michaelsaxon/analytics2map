@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 124,
-    "lastVisit": "2025-12-05T05:58:00",
+    "visitors": 125,
+    "lastVisit": "2025-12-05T23:38:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5283659691052294
+    "normalized": 0.5292379318457936
   },
   {
     "city": "Ashburn",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 109,
-    "lastVisit": "2025-12-05T17:55:00",
+    "visitors": 110,
+    "lastVisit": "2025-12-06T02:50:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5143770680319643
+    "normalized": 0.5153673982745461
   },
   {
     "city": "Rowland Heights",
@@ -533,11 +533,11 @@
   {
     "city": "Des Moines",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2025-12-02T13:57:00",
+    "visitors": 16,
+    "lastVisit": "2025-12-06T00:11:00",
     "lat": 47.40177,
     "lon": -122.32429,
-    "normalized": 0.3034064493031372
+    "normalized": 0.3100406468305696
   },
   {
     "city": "West Milford",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 155,
-    "lastVisit": "2025-12-05T20:32:00",
+    "visitors": 157,
+    "lastVisit": "2025-12-06T02:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5526095047425481
+    "normalized": 0.5540035458232565
   },
   {
     "city": "Sylhet",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 13,
-    "lastVisit": "2025-12-05T01:50:00",
+    "visitors": 14,
+    "lastVisit": "2025-12-06T02:28:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.28879400953458007
+    "normalized": 0.2963439508573499
   },
   {
     "city": "Minneapolis",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 142,
-    "lastVisit": "2025-12-05T20:17:00",
+    "visitors": 143,
+    "lastVisit": "2025-12-06T02:15:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5430877849398094
+    "normalized": 0.5438503716143508
   },
   {
     "city": "Tubingen",
@@ -7737,6 +7737,15 @@
     "lastVisit": "2025-12-05T20:37:00",
     "lat": 34.75405,
     "lon": -77.43024,
+    "normalized": 0.0758516123257843
+  },
+  {
+    "city": "Tangerang",
+    "country": "Indonesia",
+    "visitors": 1,
+    "lastVisit": "2025-12-06T00:08:00",
+    "lat": -6.17806,
+    "lon": 106.63,
     "normalized": 0.0758516123257843
   }
 ]
