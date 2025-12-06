@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 154,
-    "lastVisit": "2025-12-04T21:50:00",
+    "visitors": 156,
+    "lastVisit": "2025-12-05T14:11:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5519122593917015
+    "normalized": 0.5533152533796766
   },
   {
     "city": "Santa Clara",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 103,
-    "lastVisit": "2025-12-04T23:58:00",
+    "visitors": 106,
+    "lastVisit": "2025-12-05T11:33:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5082451340546816
+    "normalized": 0.511357155106117
   },
   {
     "city": "Rowland Heights",
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 51,
-    "lastVisit": "2025-11-27T17:23:00",
+    "visitors": 53,
+    "lastVisit": "2025-12-05T11:27:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.4323926295274587
+    "normalized": 0.4365226303115133
   },
   {
     "city": "Rochester",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 151,
-    "lastVisit": "2025-12-05T08:15:00",
+    "visitors": 153,
+    "lastVisit": "2025-12-05T14:22:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5497734545264633
+    "normalized": 0.5512039589764228
   },
   {
     "city": "Sylhet",
@@ -1280,11 +1280,11 @@
   {
     "city": "Somerville",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2024-01-01T00:00:00",
+    "visitors": 2,
+    "lastVisit": "2025-12-05T10:12:00",
     "lat": 42.3876,
     "lon": -71.0995,
-    "normalized": 0.07585250452722295
+    "normalized": 0.12022337526143012
   },
   {
     "city": "Sherman Oaks",
@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 5,
-    "lastVisit": "2025-12-04T14:51:00",
+    "visitors": 7,
+    "lastVisit": "2025-12-05T09:30:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.19607587978865304
+    "normalized": 0.2275575135816688
   },
   {
     "city": "Athens",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 138,
-    "lastVisit": "2025-12-05T08:15:00",
+    "visitors": 141,
+    "lastVisit": "2025-12-05T14:22:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5399895099477932
+    "normalized": 0.5423262257507282
   },
   {
     "city": "Tubingen",
