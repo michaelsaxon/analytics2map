@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 125,
-    "lastVisit": "2025-12-05T23:38:00",
+    "visitors": 129,
+    "lastVisit": "2025-12-06T10:48:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5292379318457936
+    "normalized": 0.5326579209629001
   },
   {
     "city": "Ashburn",
@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 157,
-    "lastVisit": "2025-12-05T18:16:00",
+    "visitors": 158,
+    "lastVisit": "2025-12-06T13:55:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5540035458232565
+    "normalized": 0.5546939629080648
   },
   {
     "city": "Santa Clara",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 76,
-    "lastVisit": "2025-12-06T03:38:00",
+    "visitors": 77,
+    "lastVisit": "2025-12-06T11:51:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.47534586321323263
+    "normalized": 0.47675789241676375
   },
   {
     "city": "Lompoc",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 112,
-    "lastVisit": "2025-12-06T02:57:00",
+    "visitors": 117,
+    "lastVisit": "2025-12-06T14:25:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5173215706495867
+    "normalized": 0.5220595723569483
   },
   {
     "city": "Rowland Heights",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 157,
-    "lastVisit": "2025-12-06T02:15:00",
+    "visitors": 159,
+    "lastVisit": "2025-12-06T12:26:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5540035458232565
+    "normalized": 0.5553800513306646
   },
   {
     "city": "Sylhet",
@@ -3008,11 +3008,11 @@
   {
     "city": "Leeds",
     "country": "United Kingdom",
-    "visitors": 8,
-    "lastVisit": "2025-11-23T07:49:00",
+    "visitors": 11,
+    "lastVisit": "2025-12-06T12:47:00",
     "lat": 53.79648,
     "lon": -1.54785,
-    "normalized": 0.24044392231121356
+    "normalized": 0.2719251858071754
   },
   {
     "city": "Tottenham",
@@ -3350,11 +3350,11 @@
   {
     "city": "Redmond",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2025-10-01T00:00:00",
+    "visitors": 7,
+    "lastVisit": "2025-12-06T13:33:00",
     "lat": 47.67399,
     "lon": -122.12151,
-    "normalized": 0.2129423972087958
+    "normalized": 0.2275548369773529
   },
   {
     "city": "Everett",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 144,
-    "lastVisit": "2025-12-06T08:16:00",
+    "visitors": 148,
+    "lastVisit": "2025-12-06T14:21:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5446076808301876
+    "normalized": 0.5475855719286018
   },
   {
     "city": "Tubingen",
@@ -7706,11 +7706,11 @@
   {
     "city": "Moreno Valley",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-12-04T18:50:00",
+    "visitors": 4,
+    "lastVisit": "2025-12-06T10:57:00",
     "lat": 33.93752,
     "lon": -117.23059,
-    "normalized": 0.0758516123257843
+    "normalized": 0.17612198970174311
   },
   {
     "city": "Setagaya City",
@@ -7753,6 +7753,15 @@
     "country": "United States",
     "visitors": 1,
     "lastVisit": "2025-12-06T03:27:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.0758516123257843
+  },
+  {
+    "city": "Arkadelphia",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-06T11:52:00",
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.0758516123257843
