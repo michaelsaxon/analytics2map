@@ -722,11 +722,11 @@
   {
     "city": "Charlottesville",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2024-01-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2025-12-07T06:38:00",
     "lat": 38.02931,
     "lon": -78.47668,
-    "normalized": 0.12021489340422051
+    "normalized": 0.1516943061422877
   },
   {
     "city": "Winter Haven",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 161,
-    "lastVisit": "2025-12-07T02:16:00",
+    "visitors": 162,
+    "lastVisit": "2025-12-07T08:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5567067266880258
+    "normalized": 0.557380109192189
   },
   {
     "city": "Sylhet",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 150,
-    "lastVisit": "2025-12-07T02:16:00",
+    "visitors": 151,
+    "lastVisit": "2025-12-07T08:15:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5490123922544824
+    "normalized": 0.5497346675607108
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 353,
-    "lastVisit": "2025-12-07T00:15:00",
+    "visitors": 357,
+    "lastVisit": "2025-12-07T05:25:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6422437743032124
+    "normalized": 0.6434732738855474
   },
   {
     "city": "Riegelsberg",
@@ -7049,11 +7049,11 @@
   {
     "city": "Cary",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-11-18T14:00:00",
+    "visitors": 2,
+    "lastVisit": "2025-12-07T05:33:00",
     "lat": 42.21197,
     "lon": -88.23814,
-    "normalized": 0.07584715307114386
+    "normalized": 0.12021489340422051
   },
   {
     "city": "Shiraz",
@@ -7809,6 +7809,24 @@
     "lastVisit": "2025-12-06T23:26:00",
     "lat": 40.51872,
     "lon": -74.4121,
+    "normalized": 0.07584715307114386
+  },
+  {
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "visitors": 2,
+    "lastVisit": "2025-12-07T05:31:00",
+    "lat": 18.47186,
+    "lon": -69.89232,
+    "normalized": 0.12021489340422051
+  },
+  {
+    "city": "Apex",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-07T06:56:00",
+    "lat": 35.73265,
+    "lon": -78.85029,
     "normalized": 0.07584715307114386
   }
 ]
