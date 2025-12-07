@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 129,
-    "lastVisit": "2025-12-06T10:48:00",
+    "visitors": 130,
+    "lastVisit": "2025-12-06T19:28:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5326579209629001
+    "normalized": 0.5334964748358729
   },
   {
     "city": "Ashburn",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 77,
-    "lastVisit": "2025-12-06T11:51:00",
+    "visitors": 78,
+    "lastVisit": "2025-12-06T19:47:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.47675789241676375
+    "normalized": 0.47815193349747215
   },
   {
     "city": "Lompoc",
@@ -245,11 +245,11 @@
   {
     "city": "Montreal",
     "country": "Canada",
-    "visitors": 16,
-    "lastVisit": "2025-11-16T00:10:00",
+    "visitors": 18,
+    "lastVisit": "2025-12-06T16:44:00",
     "lat": 45.50884,
     "lon": -73.58781,
-    "normalized": 0.3100406468305696
+    "normalized": 0.32221215093775574
   },
   {
     "city": "Shawinigan",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 159,
-    "lastVisit": "2025-12-06T12:26:00",
+    "visitors": 160,
+    "lastVisit": "2025-12-06T20:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5553800513306646
+    "normalized": 0.556061865031299
   },
   {
     "city": "Sylhet",
@@ -1298,11 +1298,11 @@
   {
     "city": "Santa Cruz",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2025-12-04T19:52:00",
+    "visitors": 13,
+    "lastVisit": "2025-12-06T20:53:00",
     "lat": 36.97412,
     "lon": -122.0308,
-    "normalized": 0.2719251858071754
+    "normalized": 0.28879400953458007
   },
   {
     "city": "Rockville",
@@ -5771,11 +5771,11 @@
   {
     "city": "Denver",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2025-11-27T08:25:00",
+    "visitors": 5,
+    "lastVisit": "2025-12-06T16:46:00",
     "lat": 39.73915,
     "lon": -104.9847,
-    "normalized": 0.17612198970174311
+    "normalized": 0.19607357348139107
   },
   {
     "city": "Charlotte",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 148,
-    "lastVisit": "2025-12-06T14:21:00",
+    "visitors": 149,
+    "lastVisit": "2025-12-06T20:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5475855719286018
+    "normalized": 0.5483175528848773
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 343,
-    "lastVisit": "2025-12-06T04:09:00",
+    "visitors": 347,
+    "lastVisit": "2025-12-06T18:32:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6391457675280835
+    "normalized": 0.6404108769356198
   },
   {
     "city": "Riegelsberg",
@@ -7764,6 +7764,15 @@
     "lastVisit": "2025-12-06T11:52:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.0758516123257843
+  },
+  {
+    "city": "Cardiff",
+    "country": "United Kingdom",
+    "visitors": 1,
+    "lastVisit": "2025-12-06T15:54:00",
+    "lat": 51.48,
+    "lon": -3.18,
     "normalized": 0.0758516123257843
   }
 ]
