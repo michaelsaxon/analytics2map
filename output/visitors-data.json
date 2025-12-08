@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 119,
-    "lastVisit": "2025-12-06T22:46:00",
+    "visitors": 122,
+    "lastVisit": "2025-12-08T00:49:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5238495181771673
+    "normalized": 0.5265513950477653
   },
   {
     "city": "Rowland Heights",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 164,
-    "lastVisit": "2025-12-07T20:16:00",
+    "visitors": 165,
+    "lastVisit": "2025-12-08T02:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5586948698918053
+    "normalized": 0.5593560226804662
   },
   {
     "city": "Sylhet",
@@ -1667,11 +1667,11 @@
   {
     "city": "Milan",
     "country": "Italy",
-    "visitors": 8,
-    "lastVisit": "2025-12-02T15:37:00",
+    "visitors": 9,
+    "lastVisit": "2025-12-08T00:08:00",
     "lat": 45.46427,
     "lon": 9.18951,
-    "normalized": 0.24042130994794064
+    "normalized": 0.2519499053644159
   },
   {
     "city": "Verona",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 29,
-    "lastVisit": "2025-12-03T10:16:00",
+    "visitors": 30,
+    "lastVisit": "2025-12-08T00:56:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.3721605603383862
+    "normalized": 0.37574843762565996
   },
   {
     "city": "Sabz",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 155,
-    "lastVisit": "2025-12-07T20:16:00",
+    "visitors": 156,
+    "lastVisit": "2025-12-08T02:14:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5525575350077792
+    "normalized": 0.5532567096142601
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 362,
-    "lastVisit": "2025-12-07T19:32:00",
+    "visitors": 366,
+    "lastVisit": "2025-12-08T00:19:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6449682319195897
+    "normalized": 0.6461673721796428
   },
   {
     "city": "Riegelsberg",
@@ -7319,11 +7319,11 @@
   {
     "city": "Chandler",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2025-12-04T13:24:00",
+    "visitors": 17,
+    "lastVisit": "2025-12-07T22:06:00",
     "lat": 33.30616,
     "lon": -111.84125,
-    "normalized": 0.30337791567756234
+    "normalized": 0.3162657888673312
   },
   {
     "city": "Gilbert",
