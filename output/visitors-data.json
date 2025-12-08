@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 34,
-    "lastVisit": "2025-12-01T15:26:00",
+    "visitors": 35,
+    "lastVisit": "2025-12-08T08:03:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.3890277976502706
+    "normalized": 0.39211026778672176
   },
   {
     "city": "Stanford",
@@ -245,11 +245,11 @@
   {
     "city": "Montreal",
     "country": "Canada",
-    "visitors": 18,
-    "lastVisit": "2025-12-06T16:44:00",
+    "visitors": 19,
+    "lastVisit": "2025-12-08T08:00:00",
     "lat": 45.50884,
     "lon": -73.58781,
-    "normalized": 0.32218184874447126
+    "normalized": 0.3277943842838064
   },
   {
     "city": "Shawinigan",
@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 48,
-    "lastVisit": "2025-12-07T18:59:00",
+    "visitors": 55,
+    "lastVisit": "2025-12-08T03:30:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.4258447424104907
+    "normalized": 0.44045580796341716
   },
   {
     "city": "Recife",
@@ -5285,11 +5285,11 @@
   {
     "city": "Middletown",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2025-06-01T00:00:00",
+    "visitors": 7,
+    "lastVisit": "2025-12-08T05:24:00",
     "lat": 41.54566,
     "lon": -71.29144,
-    "normalized": 0.21292237120524535
+    "normalized": 0.22753343675817173
   },
   {
     "city": "Sequim",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 156,
-    "lastVisit": "2025-12-08T02:14:00",
+    "visitors": 157,
+    "lastVisit": "2025-12-08T08:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5532567096142601
+    "normalized": 0.553951444986969
   },
   {
     "city": "Tubingen",
@@ -7535,11 +7535,11 @@
   {
     "city": "Fremont",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-12-01T19:34:00",
+    "visitors": 3,
+    "lastVisit": "2025-12-08T03:04:00",
     "lat": 37.54827,
     "lon": -121.98857,
-    "normalized": 0.07584447891939058
+    "normalized": 0.15168895783878117
   },
   {
     "city": "Grants Pass",
@@ -7873,5 +7873,14 @@
     "lat": 28.62137,
     "lon": 77.2148,
     "normalized": 0.15168895783878117
+  },
+  {
+    "city": "Hollis",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2025-12-08T08:32:00",
+    "lat": 40.71344,
+    "lon": -73.76708,
+    "normalized": 0.12021065497397032
   }
 ]
