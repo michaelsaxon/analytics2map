@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 122,
-    "lastVisit": "2025-12-08T00:49:00",
+    "visitors": 124,
+    "lastVisit": "2025-12-08T11:10:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5265513950477653
+    "normalized": 0.528316279335076
   },
   {
     "city": "Rowland Heights",
@@ -659,20 +659,20 @@
   {
     "city": "Ann Arbor",
     "country": "United States",
-    "visitors": 20,
-    "lastVisit": "2025-12-03T08:32:00",
+    "visitors": 21,
+    "lastVisit": "2025-12-08T13:25:00",
     "lat": 42.27756,
     "lon": -83.74088,
-    "normalized": 0.33313302617921564
+    "normalized": 0.3382232673922003
   },
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 54,
-    "lastVisit": "2025-12-07T18:36:00",
+    "visitors": 56,
+    "lastVisit": "2025-12-08T11:28:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.43848421491783507
+    "normalized": 0.4423925037184416
   },
   {
     "city": "Rochester",
@@ -911,11 +911,11 @@
   {
     "city": "Durham",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2025-11-30T11:45:00",
+    "visitors": 16,
+    "lastVisit": "2025-12-08T12:20:00",
     "lat": 35.99403,
     "lon": -78.89862,
-    "normalized": 0.2963160814189956
+    "normalized": 0.31001148929700373
   },
   {
     "city": "Syracuse",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 165,
-    "lastVisit": "2025-12-08T02:14:00",
+    "visitors": 168,
+    "lastVisit": "2025-12-08T14:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5593560226804662
+    "normalized": 0.5613158443900554
   },
   {
     "city": "Sylhet",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2025-12-06T02:28:00",
+    "visitors": 15,
+    "lastVisit": "2025-12-08T09:39:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.2963160814189956
+    "normalized": 0.30337791567756234
   },
   {
     "city": "Minneapolis",
@@ -3755,11 +3755,11 @@
   {
     "city": "Salt Lake City",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2025-12-07T13:26:00",
+    "visitors": 4,
+    "lastVisit": "2025-12-08T09:38:00",
     "lat": 40.76078,
     "lon": -111.89105,
-    "normalized": 0.15168895783878117
+    "normalized": 0.17610542644502528
   },
   {
     "city": "Castro Valley",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 157,
-    "lastVisit": "2025-12-08T08:16:00",
+    "visitors": 161,
+    "lastVisit": "2025-12-08T14:20:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.553951444986969
+    "normalized": 0.5566870988152718
   },
   {
     "city": "Tubingen",
@@ -7881,6 +7881,24 @@
     "lastVisit": "2025-12-08T08:32:00",
     "lat": 40.71344,
     "lon": -73.76708,
+    "normalized": 0.12021065497397032
+  },
+  {
+    "city": "Aspen",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-08T09:57:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07584447891939058
+  },
+  {
+    "city": "Fulton",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2025-12-08T11:53:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.12021065497397032
   }
 ]
