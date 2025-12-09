@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 83,
-    "lastVisit": "2025-12-07T14:19:00",
+    "visitors": 84,
+    "lastVisit": "2025-12-09T00:36:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.48479920242063507
+    "normalized": 0.4860940732963268
   },
   {
     "city": "Lompoc",
@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 35,
-    "lastVisit": "2025-12-07T20:11:00",
+    "visitors": 36,
+    "lastVisit": "2025-12-08T22:41:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.3920918426770184
+    "normalized": 0.39508970998604576
   },
   {
     "city": "Mocksville",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 169,
-    "lastVisit": "2025-12-08T20:25:00",
+    "visitors": 170,
+    "lastVisit": "2025-12-08T23:11:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5619349883130113
+    "normalized": 0.5625767221877601
   },
   {
     "city": "Sylhet",
@@ -4250,11 +4250,11 @@
   {
     "city": "Boston",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2025-11-25T10:21:00",
+    "visitors": 10,
+    "lastVisit": "2025-12-08T23:59:00",
     "lat": 42.35843,
     "lon": -71.05977,
-    "normalized": 0.24041001264364964
+    "normalized": 0.2623664593951023
   },
   {
     "city": "Hoodsport",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 162,
-    "lastVisit": "2025-12-08T20:24:00",
+    "visitors": 164,
+    "lastVisit": "2025-12-09T02:22:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5573342674257552
+    "normalized": 0.5586686170361315
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 366,
-    "lastVisit": "2025-12-08T00:19:00",
+    "visitors": 372,
+    "lastVisit": "2025-12-09T01:00:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6461370090249458
+    "normalized": 0.6479113502648083
   },
   {
     "city": "Riegelsberg",
@@ -7900,5 +7900,23 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.12020500632182482
+  },
+  {
+    "city": "Santa Barbara d'Oeste",
+    "country": "Brazil",
+    "visitors": 1,
+    "lastVisit": "2025-12-08T23:11:00",
+    "lat": -22.75361,
+    "lon": -47.41361,
+    "normalized": 0.07584091501668441
+  },
+  {
+    "city": "Shinjuku City",
+    "country": "Japan",
+    "visitors": 1,
+    "lastVisit": "2025-12-09T02:41:00",
+    "lat": 35.6895,
+    "lon": 139.69171,
+    "normalized": 0.07584091501668441
   }
 ]
