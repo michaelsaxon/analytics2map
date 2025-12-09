@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 84,
-    "lastVisit": "2025-12-09T00:36:00",
+    "visitors": 85,
+    "lastVisit": "2025-12-09T04:01:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.4860940732963268
+    "normalized": 0.48737379913607604
   },
   {
     "city": "Lompoc",
@@ -137,11 +137,11 @@
   {
     "city": "Las Vegas",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2025-05-01T00:00:00",
+    "visitors": 12,
+    "lastVisit": "2025-12-09T06:04:00",
     "lat": 36.17497,
     "lon": -115.13722,
-    "normalized": 0.2718868363551936
+    "normalized": 0.2806447341879022
   },
   {
     "city": "Chicago",
@@ -308,11 +308,11 @@
   {
     "city": "London",
     "country": "United Kingdom",
-    "visitors": 17,
-    "lastVisit": "2025-12-03T09:24:00",
+    "visitors": 18,
+    "lastVisit": "2025-12-09T04:42:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.316250927660334
+    "normalized": 0.3221667095441105
   },
   {
     "city": "Berlin",
@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 55,
-    "lastVisit": "2025-12-08T03:30:00",
+    "visitors": 56,
+    "lastVisit": "2025-12-09T04:25:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.4404351111154947
+    "normalized": 0.4423717158659353
   },
   {
     "city": "Recife",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 170,
-    "lastVisit": "2025-12-08T23:11:00",
+    "visitors": 172,
+    "lastVisit": "2025-12-09T08:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5625767221877601
+    "normalized": 0.56384900759284
   },
   {
     "city": "Sylhet",
@@ -2135,11 +2135,11 @@
   {
     "city": "Tempe",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2025-12-03T09:11:00",
+    "visitors": 7,
+    "lastVisit": "2025-12-09T06:44:00",
     "lat": 33.41477,
     "lon": -111.90931,
-    "normalized": 0.21291236606544142
+    "normalized": 0.2275227450500532
   },
   {
     "city": "Ludhiana",
@@ -3197,11 +3197,11 @@
   {
     "city": "Tabriz",
     "country": "Iran",
-    "visitors": 4,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 5,
+    "lastVisit": "2025-12-09T06:40:00",
     "lat": 38.08,
     "lon": 46.2919,
-    "normalized": 0.17609715131920436
+    "normalized": 0.1960459213385092
   },
   {
     "city": "Victoria",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 30,
-    "lastVisit": "2025-12-08T00:56:00",
+    "visitors": 33,
+    "lastVisit": "2025-12-09T04:49:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.3757307813520225
+    "normalized": 0.3858378369938068
   },
   {
     "city": "Sabz",
@@ -4583,11 +4583,11 @@
   {
     "city": "Sunnyvale",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2025-12-04T15:55:00",
+    "visitors": 9,
+    "lastVisit": "2025-12-09T08:17:00",
     "lat": 37.36883,
     "lon": -122.03635,
-    "normalized": 0.24041001264364964
+    "normalized": 0.25193806633588883
   },
   {
     "city": "College Station",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 164,
-    "lastVisit": "2025-12-09T02:22:00",
+    "visitors": 165,
+    "lastVisit": "2025-12-09T06:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5586686170361315
+    "normalized": 0.5593297387574787
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 372,
-    "lastVisit": "2025-12-09T01:00:00",
+    "visitors": 374,
+    "lastVisit": "2025-12-09T06:25:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6479113502648083
+    "normalized": 0.648496460279438
   },
   {
     "city": "Riegelsberg",
@@ -7918,5 +7918,14 @@
     "lat": 35.6895,
     "lon": 139.69171,
     "normalized": 0.07584091501668441
+  },
+  {
+    "city": "Brookline",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2025-12-09T06:14:00",
+    "lat": 42.33176,
+    "lon": -71.12116,
+    "normalized": 0.12020500632182482
   }
 ]
