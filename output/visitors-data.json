@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 131,
-    "lastVisit": "2025-12-07T01:56:00",
+    "visitors": 133,
+    "lastVisit": "2025-12-10T07:11:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5342532957502959
+    "normalized": 0.5358986697938203
   },
   {
     "city": "Ashburn",
@@ -830,11 +830,11 @@
   {
     "city": "Dhaka",
     "country": "Bangladesh",
-    "visitors": 18,
-    "lastVisit": "2025-12-01T14:17:00",
+    "visitors": 20,
+    "lastVisit": "2025-12-10T05:42:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.3221667095441105
+    "normalized": 0.33311737238726624
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 176,
-    "lastVisit": "2025-12-10T02:18:00",
+    "visitors": 177,
+    "lastVisit": "2025-12-10T08:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5663500379019654
+    "normalized": 0.5669664638253091
   },
   {
     "city": "Sylhet",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 170,
-    "lastVisit": "2025-12-10T02:18:00",
+    "visitors": 171,
+    "lastVisit": "2025-12-10T08:14:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5625767221877601
+    "normalized": 0.5632147141527605
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 385,
-    "lastVisit": "2025-12-10T00:00:00",
+    "visitors": 389,
+    "lastVisit": "2025-12-10T07:01:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6516598039479604
+    "normalized": 0.6527878068456158
   },
   {
     "city": "Riegelsberg",
