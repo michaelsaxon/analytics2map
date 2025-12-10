@@ -56,20 +56,20 @@
   {
     "city": "Austin",
     "country": "United States",
-    "visitors": 17,
-    "lastVisit": "2025-12-02T14:14:00",
+    "visitors": 18,
+    "lastVisit": "2025-12-09T11:25:00",
     "lat": 43.66663,
     "lon": -92.97464,
-    "normalized": 0.316250927660334
+    "normalized": 0.3221667095441105
   },
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 160,
-    "lastVisit": "2025-12-07T16:28:00",
+    "visitors": 163,
+    "lastVisit": "2025-12-09T14:15:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5559834439474681
+    "normalized": 0.5580034763130761
   },
   {
     "city": "Santa Clara",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 85,
-    "lastVisit": "2025-12-09T04:01:00",
+    "visitors": 86,
+    "lastVisit": "2025-12-09T12:05:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.48737379913607604
+    "normalized": 0.488638730125963
   },
   {
     "city": "Lompoc",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 172,
-    "lastVisit": "2025-12-09T08:15:00",
+    "visitors": 174,
+    "lastVisit": "2025-12-09T14:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.56384900759284
+    "normalized": 0.5651066687038503
   },
   {
     "city": "Sylhet",
@@ -3755,11 +3755,11 @@
   {
     "city": "Salt Lake City",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2025-12-08T15:59:00",
+    "visitors": 6,
+    "lastVisit": "2025-12-09T09:28:00",
     "lat": 40.76078,
     "lon": -111.89105,
-    "normalized": 0.1960459213385092
+    "normalized": 0.21291236606544142
   },
   {
     "city": "Castro Valley",
@@ -4583,11 +4583,11 @@
   {
     "city": "Sunnyvale",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2025-12-09T08:17:00",
+    "visitors": 10,
+    "lastVisit": "2025-12-09T09:43:00",
     "lat": 37.36883,
     "lon": -122.03635,
-    "normalized": 0.25193806633588883
+    "normalized": 0.2623664593951023
   },
   {
     "city": "College Station",
@@ -4925,11 +4925,11 @@
   {
     "city": "Providence",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2025-12-01T18:11:00",
+    "visitors": 9,
+    "lastVisit": "2025-12-09T08:52:00",
     "lat": 41.82399,
     "lon": -71.41283,
-    "normalized": 0.2275227450500532
+    "normalized": 0.25193806633588883
   },
   {
     "city": "Chandigarh",
@@ -5771,11 +5771,11 @@
   {
     "city": "Denver",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2025-12-07T19:38:00",
+    "visitors": 7,
+    "lastVisit": "2025-12-09T08:36:00",
     "lat": 39.73915,
     "lon": -104.9847,
-    "normalized": 0.21291236606544142
+    "normalized": 0.2275227450500532
   },
   {
     "city": "Charlotte",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 165,
-    "lastVisit": "2025-12-09T06:16:00",
+    "visitors": 168,
+    "lastVisit": "2025-12-09T13:34:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5593297387574787
+    "normalized": 0.5612894683758044
   },
   {
     "city": "Tubingen",
@@ -7927,5 +7927,14 @@
     "lat": 42.33176,
     "lon": -71.12116,
     "normalized": 0.12020500632182482
+  },
+  {
+    "city": "Orem",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-09T14:45:00",
+    "lat": 40.2969,
+    "lon": -111.69465,
+    "normalized": 0.07584091501668441
   }
 ]
