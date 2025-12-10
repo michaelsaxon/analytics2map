@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 165,
-    "lastVisit": "2025-12-09T20:29:00",
+    "visitors": 166,
+    "lastVisit": "2025-12-09T23:37:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5593297387574787
+    "normalized": 0.5599868897538526
   },
   {
     "city": "Santa Clara",
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 58,
-    "lastVisit": "2025-12-09T19:31:00",
+    "visitors": 61,
+    "lastVisit": "2025-12-09T23:19:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.4461450315801407
+    "normalized": 0.45157169636870687
   },
   {
     "city": "Rochester",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 174,
-    "lastVisit": "2025-12-09T14:20:00",
+    "visitors": 176,
+    "lastVisit": "2025-12-10T02:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5651066687038503
+    "normalized": 0.5663500379019654
   },
   {
     "city": "Sylhet",
@@ -4646,11 +4646,11 @@
   {
     "city": "Bremen",
     "country": "Germany",
-    "visitors": 13,
-    "lastVisit": "2025-09-01T00:00:00",
+    "visitors": 14,
+    "lastVisit": "2025-12-10T00:19:00",
     "lat": 53.07582,
     "lon": 8.80717,
-    "normalized": 0.28875328108212583
+    "normalized": 0.2963021576410292
   },
   {
     "city": "Rennerod",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 168,
-    "lastVisit": "2025-12-09T13:34:00",
+    "visitors": 170,
+    "lastVisit": "2025-12-10T02:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5612894683758044
+    "normalized": 0.5625767221877601
   },
   {
     "city": "Tubingen",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2025-11-30T13:25:00",
+    "visitors": 7,
+    "lastVisit": "2025-12-09T21:06:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.21291236606544142
+    "normalized": 0.2275227450500532
   },
   {
     "city": "Cairo",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 376,
-    "lastVisit": "2025-12-09T20:16:00",
+    "visitors": 385,
+    "lastVisit": "2025-12-10T00:00:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6490784579920403
+    "normalized": 0.6516598039479604
   },
   {
     "city": "Riegelsberg",
@@ -7945,5 +7945,23 @@
     "lat": 28.62137,
     "lon": 77.2148,
     "normalized": 0.12020500632182482
+  },
+  {
+    "city": "Santa Monica",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2025-12-09T23:00:00",
+    "lat": 34.01949,
+    "lon": -118.49138,
+    "normalized": 0.12020500632182482
+  },
+  {
+    "city": "Bailey's Crossroads",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-10T01:38:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07584091501668441
   }
 ]
