@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 163,
-    "lastVisit": "2025-12-09T14:15:00",
+    "visitors": 165,
+    "lastVisit": "2025-12-09T20:29:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5580034763130761
+    "normalized": 0.5593297387574787
   },
   {
     "city": "Santa Clara",
@@ -101,11 +101,11 @@
   {
     "city": "Baltimore",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2025-12-04T07:44:00",
+    "visitors": 15,
+    "lastVisit": "2025-12-09T20:32:00",
     "lat": 39.29038,
     "lon": -76.61219,
-    "normalized": 0.2963021576410292
+    "normalized": 0.30336366006673765
   },
   {
     "city": "Dallas",
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 56,
-    "lastVisit": "2025-12-08T11:28:00",
+    "visitors": 58,
+    "lastVisit": "2025-12-09T19:31:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.4423717158659353
+    "normalized": 0.4461450315801407
   },
   {
     "city": "Rochester",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 41,
-    "lastVisit": "2025-12-07T17:17:00",
+    "visitors": 42,
+    "lastVisit": "2025-12-09T19:32:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.4089582874039507
+    "normalized": 0.4115328841193917
   },
   {
     "city": "Oakland",
@@ -6608,11 +6608,11 @@
   {
     "city": "Tubingen",
     "country": "Germany",
-    "visitors": 9,
-    "lastVisit": "2025-11-25T07:31:00",
+    "visitors": 10,
+    "lastVisit": "2025-12-09T19:44:00",
     "lat": 48.52266,
     "lon": 9.05222,
-    "normalized": 0.25193806633588883
+    "normalized": 0.2623664593951023
   },
   {
     "city": "Anaheim",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 374,
-    "lastVisit": "2025-12-09T06:25:00",
+    "visitors": 376,
+    "lastVisit": "2025-12-09T20:16:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.648496460279438
+    "normalized": 0.6490784579920403
   },
   {
     "city": "Riegelsberg",
@@ -7936,5 +7936,14 @@
     "lat": 40.2969,
     "lon": -111.69465,
     "normalized": 0.07584091501668441
+  },
+  {
+    "city": "Purulia",
+    "country": "India",
+    "visitors": 2,
+    "lastVisit": "2025-12-09T20:42:00",
+    "lat": 28.62137,
+    "lon": 77.2148,
+    "normalized": 0.12020500632182482
   }
 ]
