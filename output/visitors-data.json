@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 57,
-    "lastVisit": "2025-12-10T18:00:00",
+    "visitors": 58,
+    "lastVisit": "2025-12-12T08:07:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.4442329170300947
+    "normalized": 0.4461031341409997
   },
   {
     "city": "Four Oaks",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 197,
-    "lastVisit": "2025-12-11T21:12:00",
+    "visitors": 199,
+    "lastVisit": "2025-12-12T08:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5785630491494997
+    "normalized": 0.5796626065134959
   },
   {
     "city": "Sylhet",
@@ -4916,11 +4916,11 @@
   {
     "city": "Berkeley",
     "country": "United States",
-    "visitors": 13,
-    "lastVisit": "2025-11-30T22:23:00",
+    "visitors": 14,
+    "lastVisit": "2025-12-12T08:20:00",
     "lat": 37.87159,
     "lon": -122.27275,
-    "normalized": 0.2887261642878896
+    "normalized": 0.2962743319324852
   },
   {
     "city": "Providence",
@@ -5501,11 +5501,11 @@
   {
     "city": "Columbus",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2025-10-01T00:00:00",
+    "visitors": 5,
+    "lastVisit": "2025-12-12T08:09:00",
     "lat": 41.42973,
     "lon": -97.36838,
-    "normalized": 0.15166758560657312
+    "normalized": 0.19602751068395363
   },
   {
     "city": "Xiamen",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 175,
-    "lastVisit": "2025-12-11T20:16:00",
+    "visitors": 176,
+    "lastVisit": "2025-12-12T08:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5656769917980252
+    "normalized": 0.5662968520216668
   },
   {
     "city": "Tubingen",
