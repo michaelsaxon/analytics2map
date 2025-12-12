@@ -2,11 +2,11 @@
   {
     "city": "Santa Barbara",
     "country": "United States",
-    "visitors": 43,
-    "lastVisit": "2025-11-23T19:32:00",
+    "visitors": 46,
+    "lastVisit": "2025-12-11T20:50:00",
     "lat": 34.42083,
     "lon": -119.69819,
-    "normalized": 0.41400940619145216
+    "normalized": 0.4212255400855674
   },
   {
     "city": "Goleta",
@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 177,
-    "lastVisit": "2025-12-11T14:50:00",
+    "visitors": 181,
+    "lastVisit": "2025-12-11T19:49:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5669132200565083
+    "normalized": 0.5693445431544533
   },
   {
     "city": "Santa Clara",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 35,
-    "lastVisit": "2025-12-08T08:03:00",
+    "visitors": 37,
+    "lastVisit": "2025-12-11T17:56:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.39205502136790726
+    "normalized": 0.3979702477011477
   },
   {
     "city": "Stanford",
@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 25,
-    "lastVisit": "2025-12-11T06:53:00",
+    "visitors": 30,
+    "lastVisit": "2025-12-11T16:20:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.35645217166985027
+    "normalized": 0.37569549650868506
   },
   {
     "city": "Manhattan",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 187,
-    "lastVisit": "2025-12-11T08:16:00",
+    "visitors": 194,
+    "lastVisit": "2025-12-11T20:48:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5728931256921405
+    "normalized": 0.5768927107990489
   },
   {
     "city": "Sylhet",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 174,
-    "lastVisit": "2025-12-11T14:23:00",
+    "visitors": 175,
+    "lastVisit": "2025-12-11T20:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5650535995882394
+    "normalized": 0.5656769917980252
   },
   {
     "city": "Tubingen",
@@ -6617,11 +6617,11 @@
   {
     "city": "Anaheim",
     "country": "United States",
-    "visitors": 18,
-    "lastVisit": "2025-12-11T13:22:00",
+    "visitors": 19,
+    "lastVisit": "2025-12-11T15:50:00",
     "lat": 33.83529,
     "lon": -117.9145,
-    "normalized": 0.32213645489786114
+    "normalized": 0.32774819965839125
   },
   {
     "city": "Khorramabad",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 398,
-    "lastVisit": "2025-12-11T10:15:00",
+    "visitors": 399,
+    "lastVisit": "2025-12-11T16:16:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6552225442631313
+    "normalized": 0.6554963993167825
   },
   {
     "city": "Riegelsberg",
@@ -7931,11 +7931,11 @@
   {
     "city": "Orem",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-12-09T14:45:00",
+    "visitors": 2,
+    "lastVisit": "2025-12-11T17:39:00",
     "lat": 40.2969,
     "lon": -111.69465,
-    "normalized": 0.07583379280328656
+    "normalized": 0.1201937178806671
   },
   {
     "city": "Purulia",
@@ -7998,6 +7998,15 @@
     "lastVisit": "2025-12-11T12:55:00",
     "lat": 42.73698,
     "lon": -84.48387,
+    "normalized": 0.07583379280328656
+  },
+  {
+    "city": "Dublin",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-11T18:59:00",
+    "lat": 37.70215,
+    "lon": -121.93579,
     "normalized": 0.07583379280328656
   }
 ]
