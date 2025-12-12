@@ -659,11 +659,11 @@
   {
     "city": "Ann Arbor",
     "country": "United States",
-    "visitors": 21,
-    "lastVisit": "2025-12-08T13:25:00",
+    "visitors": 22,
+    "lastVisit": "2025-12-11T21:54:00",
     "lat": 42.27756,
     "lon": -83.74088,
-    "normalized": 0.33817561338816565
+    "normalized": 0.3430388601084572
   },
   {
     "city": "Pittsburgh",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 194,
-    "lastVisit": "2025-12-11T20:48:00",
+    "visitors": 197,
+    "lastVisit": "2025-12-11T21:12:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5768927107990489
+    "normalized": 0.5785630491494997
   },
   {
     "city": "Sylhet",
@@ -1631,11 +1631,11 @@
   {
     "city": "Shenzhen",
     "country": "China",
-    "visitors": 4,
-    "lastVisit": "2025-11-16T23:51:00",
+    "visitors": 5,
+    "lastVisit": "2025-12-12T02:30:00",
     "lat": 22.54554,
     "lon": 114.0683,
-    "normalized": 0.17608061405181813
+    "normalized": 0.19602751068395363
   },
   {
     "city": "Huzhou",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2025-12-08T09:39:00",
+    "visitors": 17,
+    "lastVisit": "2025-12-11T22:23:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.30333517121314624
+    "normalized": 0.3162212285646207
   },
   {
     "city": "Minneapolis",
@@ -5231,11 +5231,11 @@
   {
     "city": "Dubai",
     "country": "United Arab Emirates",
-    "visitors": 3,
-    "lastVisit": "2025-09-01T00:00:00",
+    "visitors": 5,
+    "lastVisit": "2025-12-12T02:31:00",
     "lat": 25.07725,
     "lon": 55.30927,
-    "normalized": 0.15166758560657312
+    "normalized": 0.19602751068395363
   },
   {
     "city": "Manajao",
