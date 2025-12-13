@@ -5014,3 +5014,12 @@ timestamp	country	city	num_unique
 2025-12-13T01:31:00	United States	Seattle	1
 2025-12-13T02:16:00	China	Lanzhou	1
 2025-12-13T02:16:00	United States	Denver	1
+2025-12-13T04:08:00	United States	Los Angeles	1
+2025-12-13T04:56:00	United States	Los Angeles	1
+2025-12-13T05:09:00	China	Lanzhou	1
+2025-12-13T05:09:00	Singapore	Singapore	1
+2025-12-13T05:48:00	United States		1
+2025-12-13T07:17:00	United States	Atlanta	1
+2025-12-13T07:44:00	Denmark	Copenhagen	1
+2025-12-13T08:07:00	Hong Kong	Hong Kong	1
+2025-12-13T08:17:00	China	Lanzhou	1
