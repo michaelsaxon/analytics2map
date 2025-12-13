@@ -5007,3 +5007,10 @@ timestamp	country	city	num_unique
 2025-12-12T17:13:00	Canada	Toronto	1
 2025-12-12T17:17:00	Hong Kong	Hong Kong	1
 2025-12-12T20:19:00	Singapore	Singapore	1
+2025-12-12T20:59:00	Netherlands	Amsterdam	1
+2025-12-12T23:45:00	United States	Seattle	1
+2025-12-12T23:46:00	United States	Seattle	1
+2025-12-12T23:47:00	United States	Seattle	1
+2025-12-13T01:31:00	United States	Seattle	1
+2025-12-13T02:16:00	China	Lanzhou	1
+2025-12-13T02:16:00	United States	Denver	1
