@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 200,
-    "lastVisit": "2025-12-12T14:18:00",
+    "visitors": 201,
+    "lastVisit": "2025-12-12T20:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5802014611301416
+    "normalized": 0.5807444089103472
   },
   {
     "city": "Sylhet",
@@ -2189,11 +2189,11 @@
   {
     "city": "Toronto",
     "country": "Canada",
-    "visitors": 15,
-    "lastVisit": "2025-12-05T08:02:00",
+    "visitors": 16,
+    "lastVisit": "2025-12-12T17:13:00",
     "lat": 43.70643,
     "lon": -79.39864,
-    "normalized": 0.3033316122012711
+    "normalized": 0.3099641733623134
   },
   {
     "city": "Surrey",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 399,
-    "lastVisit": "2025-12-11T16:16:00",
+    "visitors": 400,
+    "lastVisit": "2025-12-12T17:17:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6554887084200759
+    "normalized": 0.6557618764850095
   },
   {
     "city": "Riegelsberg",
@@ -8007,6 +8007,15 @@
     "lastVisit": "2025-12-11T18:59:00",
     "lat": 37.70215,
     "lon": -121.93579,
+    "normalized": 0.07583290305031777
+  },
+  {
+    "city": "The Dalles",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-12T15:46:00",
+    "lat": 45.59456,
+    "lon": -121.17868,
     "normalized": 0.07583290305031777
   }
 ]
