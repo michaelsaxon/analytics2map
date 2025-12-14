@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 37,
-    "lastVisit": "2025-12-11T17:56:00",
+    "visitors": 38,
+    "lastVisit": "2025-12-13T15:08:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.39796090959323793
+    "normalized": 0.40080269195721796
   },
   {
     "city": "Stanford",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 203,
-    "lastVisit": "2025-12-13T14:23:00",
+    "visitors": 204,
+    "lastVisit": "2025-12-13T20:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5818154614474952
+    "normalized": 0.5823504379154397
   },
   {
     "city": "Sylhet",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 181,
-    "lastVisit": "2025-12-13T14:23:00",
+    "visitors": 182,
+    "lastVisit": "2025-12-13T20:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5693311838623641
+    "normalized": 0.5699306509496096
   },
   {
     "city": "Tubingen",
@@ -6617,11 +6617,11 @@
   {
     "city": "Anaheim",
     "country": "United States",
-    "visitors": 19,
-    "lastVisit": "2025-12-11T15:50:00",
+    "visitors": 20,
+    "lastVisit": "2025-12-13T16:14:00",
     "lat": 33.83529,
     "lon": -117.9145,
-    "normalized": 0.32774050926426423
+    "normalized": 0.3330782737211015
   },
   {
     "city": "Khorramabad",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 401,
-    "lastVisit": "2025-12-13T08:07:00",
+    "visitors": 403,
+    "lastVisit": "2025-12-13T18:34:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.65602666788753
+    "normalized": 0.6565696092981224
   },
   {
     "city": "Riegelsberg",
@@ -7994,11 +7994,11 @@
   {
     "city": "East Lansing",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-12-11T12:55:00",
+    "visitors": 3,
+    "lastVisit": "2025-12-13T17:41:00",
     "lat": 42.73698,
     "lon": -84.48387,
-    "normalized": 0.07583201341363496
+    "normalized": 0.15166402682726993
   },
   {
     "city": "Dublin",
