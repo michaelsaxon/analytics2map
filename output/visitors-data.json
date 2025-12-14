@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 36,
-    "lastVisit": "2025-12-08T22:41:00",
+    "visitors": 38,
+    "lastVisit": "2025-12-13T10:03:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.3950433375000803
+    "normalized": 0.40080269195721796
   },
   {
     "city": "Mocksville",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 202,
-    "lastVisit": "2025-12-13T05:09:00",
+    "visitors": 203,
+    "lastVisit": "2025-12-13T14:23:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5812778560920041
+    "normalized": 0.5818154614474952
   },
   {
     "city": "Sylhet",
@@ -2135,11 +2135,11 @@
   {
     "city": "Tempe",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2025-12-09T06:44:00",
+    "visitors": 8,
+    "lastVisit": "2025-12-13T10:04:00",
     "lat": 33.41477,
     "lon": -111.90931,
-    "normalized": 0.22749604024090486
+    "normalized": 0.24038179522959027
   },
   {
     "city": "Ludhiana",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 180,
-    "lastVisit": "2025-12-13T08:17:00",
+    "visitors": 181,
+    "lastVisit": "2025-12-13T14:23:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5687284139094887
+    "normalized": 0.5693311838623641
   },
   {
     "city": "Tubingen",
