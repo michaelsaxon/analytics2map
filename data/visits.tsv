@@ -5050,3 +5050,13 @@ timestamp	country	city	num_unique
 2025-12-14T02:15:00	Singapore	Singapore	1
 2025-12-14T02:39:00	China	Hangzhou	1
 2025-12-14T02:51:00	Hong Kong	Hong Kong	1
+2025-12-14T05:11:00	Hong Kong	Hong Kong	1
+2025-12-14T06:00:00	United States	Providence	1
+2025-12-14T06:04:00	United States	West Lafayette	1
+2025-12-14T06:26:00	United States	Pittsburgh	1
+2025-12-14T06:27:00	United States	Pittsburgh	1
+2025-12-14T06:28:00	United States	Pittsburgh	1
+2025-12-14T06:52:00	China		1
+2025-12-14T07:33:00	United States	Meriden	1
+2025-12-14T08:15:00	China	Lanzhou	1
+2025-12-14T08:51:00	China	Lanzhou	1

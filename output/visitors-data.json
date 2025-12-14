@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 243,
-    "lastVisit": "2025-12-11T08:33:00",
+    "visitors": 244,
+    "lastVisit": "2025-12-14T06:52:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6014037801620844
+    "normalized": 0.6018512346496071
   },
   {
     "city": null,
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 64,
-    "lastVisit": "2025-12-10T11:12:00",
+    "visitors": 67,
+    "lastVisit": "2025-12-14T06:28:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.45668827677941715
+    "normalized": 0.4616245638327002
   },
   {
     "city": "Rochester",
@@ -4925,11 +4925,11 @@
   {
     "city": "Providence",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2025-12-09T08:52:00",
+    "visitors": 10,
+    "lastVisit": "2025-12-14T06:00:00",
     "lat": 41.82399,
     "lon": -71.41283,
-    "normalized": 0.2519084958506293
+    "normalized": 0.26233566490805643
   },
   {
     "city": "Chandigarh",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 183,
-    "lastVisit": "2025-12-14T02:15:00",
+    "visitors": 185,
+    "lastVisit": "2025-12-14T08:51:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5705268511700291
+    "normalized": 0.5717095920914684
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 404,
-    "lastVisit": "2025-12-14T02:51:00",
+    "visitors": 405,
+    "lastVisit": "2025-12-14T05:11:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6568400728961747
+    "normalized": 0.6571098695056391
   },
   {
     "city": "Riegelsberg",
@@ -7040,11 +7040,11 @@
   {
     "city": "West Lafayette",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2025-11-18T09:38:00",
+    "visitors": 4,
+    "lastVisit": "2025-12-14T06:04:00",
     "lat": 40.42587,
     "lon": -86.90807,
-    "normalized": 0.15166402682726993
+    "normalized": 0.1760764824369943
   },
   {
     "city": "Cary",
@@ -8021,11 +8021,11 @@
   {
     "city": "Meriden",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-12-13T21:41:00",
+    "visitors": 2,
+    "lastVisit": "2025-12-14T07:33:00",
     "lat": 41.53815,
     "lon": -72.80704,
-    "normalized": 0.07583201341363496
+    "normalized": 0.12019089761479514
   },
   {
     "city": "Kajang",
