@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 89,
-    "lastVisit": "2025-12-12T10:07:00",
+    "visitors": 90,
+    "lastVisit": "2025-12-15T05:31:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.4922845164442959
+    "normalized": 0.4934933816324767
   },
   {
     "city": "Lompoc",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 244,
-    "lastVisit": "2025-12-14T06:52:00",
+    "visitors": 245,
+    "lastVisit": "2025-12-15T07:51:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6018441748480565
+    "normalized": 0.602289801477999
   },
   {
     "city": null,
@@ -911,11 +911,11 @@
   {
     "city": "Durham",
     "country": "United States",
-    "visitors": 16,
-    "lastVisit": "2025-12-08T12:20:00",
+    "visitors": 17,
+    "lastVisit": "2025-12-15T08:17:00",
     "lat": 35.99403,
     "lon": -78.89862,
-    "normalized": 0.3099569011237475
+    "normalized": 0.31621009940976674
   },
   {
     "city": "Syracuse",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 188,
-    "lastVisit": "2025-12-15T02:18:00",
+    "visitors": 189,
+    "lastVisit": "2025-12-15T08:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5734533421815985
+    "normalized": 0.5740306584890563
   },
   {
     "city": "Tubingen",
@@ -8044,5 +8044,14 @@
     "lat": 47.47399,
     "lon": -122.26096,
     "normalized": 0.12018948775827829
+  },
+  {
+    "city": "Ajman",
+    "country": "United Arab Emirates",
+    "visitors": 1,
+    "lastVisit": "2025-12-15T08:10:00",
+    "lat": 24.45118,
+    "lon": 54.39696,
+    "normalized": 0.07583112389321021
   }
 ]
