@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 142,
-    "lastVisit": "2025-12-13T04:56:00",
+    "visitors": 144,
+    "lastVisit": "2025-12-15T02:29:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5429410903986867
+    "normalized": 0.5444605757469086
   },
   {
     "city": "Ashburn",
@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 188,
-    "lastVisit": "2025-12-13T01:31:00",
+    "visitors": 190,
+    "lastVisit": "2025-12-15T00:06:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5734533421815985
+    "normalized": 0.5746049442507615
   },
   {
     "city": "Santa Clara",
@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 20,
-    "lastVisit": "2025-11-26T20:16:00",
+    "visitors": 21,
+    "lastVisit": "2025-12-15T02:18:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.333074366665042
+    "normalized": 0.33816371156618386
   },
   {
     "city": null,
@@ -830,11 +830,11 @@
   {
     "city": "Dhaka",
     "country": "Bangladesh",
-    "visitors": 20,
-    "lastVisit": "2025-12-10T05:42:00",
+    "visitors": 21,
+    "lastVisit": "2025-12-15T01:10:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.333074366665042
+    "normalized": 0.33816371156618386
   },
   {
     "city": null,
@@ -3098,11 +3098,11 @@
   {
     "city": "Abu Dhabi",
     "country": "United Arab Emirates",
-    "visitors": 3,
-    "lastVisit": "2025-11-26T11:29:00",
+    "visitors": 6,
+    "lastVisit": "2025-12-15T02:07:00",
     "lat": 24.45118,
     "lon": 54.39696,
-    "normalized": 0.15166224778642043
+    "normalized": 0.21288487890676366
   },
   {
     "city": null,
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 187,
-    "lastVisit": "2025-12-14T20:21:00",
+    "visitors": 188,
+    "lastVisit": "2025-12-15T02:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5728729631738316
+    "normalized": 0.5734533421815985
   },
   {
     "city": "Tubingen",
@@ -8035,5 +8035,14 @@
     "lat": 2.99424,
     "lon": 101.78875,
     "normalized": 0.15166224778642043
+  },
+  {
+    "city": "Tukwila",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2025-12-14T23:57:00",
+    "lat": 47.47399,
+    "lon": -122.26096,
+    "normalized": 0.12018948775827829
   }
 ]
