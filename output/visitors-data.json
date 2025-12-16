@@ -101,11 +101,11 @@
   {
     "city": "Baltimore",
     "country": "United States",
-    "visitors": 16,
-    "lastVisit": "2025-12-10T20:55:00",
+    "visitors": 18,
+    "lastVisit": "2025-12-15T17:29:00",
     "lat": 39.29038,
     "lon": -76.61219,
-    "normalized": 0.3099569011237475
+    "normalized": 0.3221251175613169
   },
   {
     "city": "Dallas",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 40,
-    "lastVisit": "2025-12-15T13:17:00",
+    "visitors": 41,
+    "lastVisit": "2025-12-15T16:57:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.40626918982651067
+    "normalized": 0.40890549055825215
   },
   {
     "city": "Stanford",
@@ -650,11 +650,11 @@
   {
     "city": "Auburn",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2025-12-14T01:17:00",
+    "visitors": 11,
+    "lastVisit": "2025-12-15T19:05:00",
     "lat": 47.30732,
     "lon": -122.22845,
-    "normalized": 0.25190554092773937
+    "normalized": 0.2718517355446987
   },
   {
     "city": "Ann Arbor",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 210,
-    "lastVisit": "2025-12-15T08:40:00",
+    "visitors": 211,
+    "lastVisit": "2025-12-15T20:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5854996291706195
+    "normalized": 0.5860168934268554
   },
   {
     "city": "Sylhet",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 190,
-    "lastVisit": "2025-12-15T14:20:00",
+    "visitors": 192,
+    "lastVisit": "2025-12-15T20:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5746049442507615
+    "normalized": 0.5757445502469516
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 410,
-    "lastVisit": "2025-12-14T20:19:00",
+    "visitors": 411,
+    "lastVisit": "2025-12-15T17:50:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6584412380392389
+    "normalized": 0.6587070976752665
   },
   {
     "city": "Riegelsberg",
@@ -8039,11 +8039,11 @@
   {
     "city": "Tukwila",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-12-14T23:57:00",
+    "visitors": 4,
+    "lastVisit": "2025-12-15T16:55:00",
     "lat": 47.47399,
     "lon": -122.26096,
-    "normalized": 0.12018948775827829
+    "normalized": 0.1760744170345291
   },
   {
     "city": "Ajman",
