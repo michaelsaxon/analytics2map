@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 90,
-    "lastVisit": "2025-12-15T05:31:00",
+    "visitors": 91,
+    "lastVisit": "2025-12-15T11:33:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.4934933816324767
+    "normalized": 0.4946890349147921
   },
   {
     "city": "Lompoc",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 38,
-    "lastVisit": "2025-12-13T15:08:00",
+    "visitors": 40,
+    "lastVisit": "2025-12-15T13:17:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.4007979904839913
+    "normalized": 0.40626918982651067
   },
   {
     "city": "Stanford",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 209,
-    "lastVisit": "2025-12-14T20:38:00",
+    "visitors": 210,
+    "lastVisit": "2025-12-15T08:40:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5849799075927813
+    "normalized": 0.5854996291706195
   },
   {
     "city": "Sylhet",
@@ -2180,11 +2180,11 @@
   {
     "city": "New Delhi",
     "country": "India",
-    "visitors": 21,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 22,
+    "lastVisit": "2025-12-15T08:40:00",
     "lat": 28.62137,
     "lon": 77.2148,
-    "normalized": 0.33816371156618386
+    "normalized": 0.34302678712837165
   },
   {
     "city": "Toronto",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 189,
-    "lastVisit": "2025-12-15T08:18:00",
+    "visitors": 190,
+    "lastVisit": "2025-12-15T14:20:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5740306584890563
+    "normalized": 0.5746049442507615
   },
   {
     "city": "Tubingen",
@@ -7661,11 +7661,11 @@
   {
     "city": "Blacksburg",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-12-03T17:46:00",
+    "visitors": 3,
+    "lastVisit": "2025-12-15T14:43:00",
     "lat": 37.22957,
     "lon": -80.41394,
-    "normalized": 0.07583112389321021
+    "normalized": 0.15166224778642043
   },
   {
     "city": "King City",
@@ -7994,11 +7994,11 @@
   {
     "city": "East Lansing",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2025-12-13T17:41:00",
+    "visitors": 4,
+    "lastVisit": "2025-12-15T13:00:00",
     "lat": 42.73698,
     "lon": -84.48387,
-    "normalized": 0.15166224778642043
+    "normalized": 0.1760744170345291
   },
   {
     "city": "Dublin",
