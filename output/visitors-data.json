@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 93,
-    "lastVisit": "2025-12-17T17:25:00",
+    "visitors": 94,
+    "lastVisit": "2025-12-17T22:33:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.49701852513456557
+    "normalized": 0.49817616614716315
   },
   {
     "city": "Lompoc",
@@ -1622,11 +1622,11 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 17,
-    "lastVisit": "2025-11-27T21:17:00",
+    "visitors": 18,
+    "lastVisit": "2025-12-17T22:28:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.3161952673214809
+    "normalized": 0.32211000802436135
   },
   {
     "city": "Shenzhen",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 198,
-    "lastVisit": "2025-12-17T20:24:00",
+    "visitors": 199,
+    "lastVisit": "2025-12-18T02:20:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5790666648660124
+    "normalized": 0.5796150171662056
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 413,
-    "lastVisit": "2025-12-16T17:13:00",
+    "visitors": 415,
+    "lastVisit": "2025-12-18T02:33:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6592059645033247
+    "normalized": 0.6597331754265392
   },
   {
     "city": "Riegelsberg",
@@ -8079,6 +8079,15 @@
     "lastVisit": "2025-12-16T20:20:00",
     "lat": -34.92866,
     "lon": 138.59863,
+    "normalized": 0.15165513394706806
+  },
+  {
+    "city": "Chillum",
+    "country": "United States",
+    "visitors": 3,
+    "lastVisit": "2025-12-18T01:01:00",
+    "lat": 38.96372,
+    "lon": -76.99081,
     "normalized": 0.15165513394706806
   }
 ]
