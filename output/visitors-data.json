@@ -830,11 +830,11 @@
   {
     "city": "Dhaka",
     "country": "Bangladesh",
-    "visitors": 21,
-    "lastVisit": "2025-12-15T01:10:00",
+    "visitors": 23,
+    "lastVisit": "2025-12-18T23:29:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.33813992191351716
+    "normalized": 0.3476584001178184
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 214,
-    "lastVisit": "2025-12-18T10:34:00",
+    "visitors": 215,
+    "lastVisit": "2025-12-18T21:36:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5875128377754242
+    "normalized": 0.5880204650903387
   },
   {
     "city": "Sylhet",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 33,
-    "lastVisit": "2025-12-09T04:49:00",
+    "visitors": 34,
+    "lastVisit": "2025-12-18T22:18:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.3857608850169985
+    "normalized": 0.38893193284396615
   },
   {
     "city": "Sabz",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 200,
-    "lastVisit": "2025-12-18T14:15:00",
+    "visitors": 201,
+    "lastVisit": "2025-12-19T02:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5801470327741216
+    "normalized": 0.5806899296207171
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 421,
-    "lastVisit": "2025-12-18T16:52:00",
+    "visitors": 423,
+    "lastVisit": "2025-12-18T23:43:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.661284228766943
+    "normalized": 0.66180145663389
   },
   {
     "city": "Riegelsberg",
