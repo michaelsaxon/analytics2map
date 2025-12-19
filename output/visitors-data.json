@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 213,
-    "lastVisit": "2025-12-17T02:14:00",
+    "visitors": 214,
+    "lastVisit": "2025-12-18T10:34:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5870097246885354
+    "normalized": 0.5875197245510163
   },
   {
     "city": "Sylhet",
@@ -5600,11 +5600,11 @@
   {
     "city": "Lahore",
     "country": "Pakistan",
-    "visitors": 1,
-    "lastVisit": "2025-07-01T00:00:00",
+    "visitors": 2,
+    "lastVisit": "2025-12-18T12:44:00",
     "lat": 31.558,
     "lon": 74.35071,
-    "normalized": 0.07582667803398133
+    "normalized": 0.12018244123811701
   },
   {
     "city": "Karachi",
@@ -8089,5 +8089,14 @@
     "lat": 38.96372,
     "lon": -76.99081,
     "normalized": 0.15165335606796265
+  },
+  {
+    "city": "Tysons",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-18T11:56:00",
+    "lat": 38.91872,
+    "lon": -77.23109,
+    "normalized": 0.07582667803398133
   }
 ]
