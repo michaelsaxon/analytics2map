@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 197,
-    "lastVisit": "2025-12-18T17:14:00",
+    "visitors": 200,
+    "lastVisit": "2025-12-19T11:31:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5785019868860374
+    "normalized": 0.5801470327741216
   },
   {
     "city": "Santa Clara",
@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 41,
-    "lastVisit": "2025-12-16T09:58:00",
+    "visitors": 42,
+    "lastVisit": "2025-12-19T11:32:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.40887672425583366
+    "normalized": 0.41145080749051216
   },
   {
     "city": "Manhattan",
@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 18,
-    "lastVisit": "2025-11-17T14:12:00",
+    "visitors": 19,
+    "lastVisit": "2025-12-19T13:52:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.3221024562159392
+    "normalized": 0.3277136087059509
   },
   {
     "city": "Tustin",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 42,
-    "lastVisit": "2025-12-09T19:32:00",
+    "visitors": 44,
+    "lastVisit": "2025-12-19T13:53:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.41145080749051216
+    "normalized": 0.41642409525743235
   },
   {
     "city": "Oakland",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 18,
-    "lastVisit": "2025-12-14T11:30:00",
+    "visitors": 19,
+    "lastVisit": "2025-12-19T11:34:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.3221024562159392
+    "normalized": 0.3277136087059509
   },
   {
     "city": "Minneapolis",
@@ -7886,11 +7886,11 @@
   {
     "city": "Aspen",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-12-14T11:31:00",
+    "visitors": 3,
+    "lastVisit": "2025-12-19T13:50:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.12018103248626014
+    "normalized": 0.15165157842103885
   },
   {
     "city": "Fulton",
