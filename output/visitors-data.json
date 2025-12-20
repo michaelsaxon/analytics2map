@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 48,
-    "lastVisit": "2025-12-16T04:07:00",
+    "visitors": 49,
+    "lastVisit": "2025-12-20T05:48:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.42573481528392687
+    "normalized": 0.4279448340435893
   },
   {
     "city": "Ames",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 205,
-    "lastVisit": "2025-12-20T02:16:00",
+    "visitors": 206,
+    "lastVisit": "2025-12-20T08:22:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5828281376908508
+    "normalized": 0.5833578830744416
   },
   {
     "city": "Tubingen",
@@ -8106,6 +8106,33 @@
     "lastVisit": "2025-12-18T19:42:00",
     "lat": 35.76884,
     "lon": -119.24705,
+    "normalized": 0.0758249005031205
+  },
+  {
+    "city": "Lukang Township",
+    "country": "Taiwan",
+    "visitors": 2,
+    "lastVisit": "2025-12-20T03:30:00",
+    "lat": 25.05306,
+    "lon": 121.52639,
+    "normalized": 0.12017962391835874
+  },
+  {
+    "city": "Story",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-20T04:31:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.0758249005031205
+  },
+  {
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "visitors": 1,
+    "lastVisit": "2025-12-20T05:28:00",
+    "lat": 33.72148,
+    "lon": 73.04329,
     "normalized": 0.0758249005031205
   }
 ]
