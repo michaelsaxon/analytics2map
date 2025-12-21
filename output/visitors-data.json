@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 22,
-    "lastVisit": "2025-12-16T20:26:00",
+    "visitors": 23,
+    "lastVisit": "2025-12-20T13:38:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.34299863523772417
+    "normalized": 0.3476543254277203
   },
   {
     "city": null,
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 206,
-    "lastVisit": "2025-12-20T08:22:00",
+    "visitors": 208,
+    "lastVisit": "2025-12-20T14:21:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5833578830744416
+    "normalized": 0.5844097393318501
   },
   {
     "city": "Tubingen",
