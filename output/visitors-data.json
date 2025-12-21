@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 56,
-    "lastVisit": "2025-12-09T04:25:00",
+    "visitors": 58,
+    "lastVisit": "2025-12-21T03:41:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.44223168181452055
+    "normalized": 0.4460038030746779
   },
   {
     "city": "Recife",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 211,
-    "lastVisit": "2025-12-21T02:17:00",
+    "visitors": 212,
+    "lastVisit": "2025-12-21T08:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5859070291486889
+    "normalized": 0.5864217626927495
   },
   {
     "city": "Tubingen",
