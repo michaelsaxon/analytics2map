@@ -659,11 +659,11 @@
   {
     "city": "Ann Arbor",
     "country": "United States",
-    "visitors": 22,
-    "lastVisit": "2025-12-11T21:54:00",
+    "visitors": 24,
+    "lastVisit": "2025-12-20T23:23:00",
     "lat": 42.27756,
     "lon": -83.74088,
-    "normalized": 0.3429624777359594
+    "normalized": 0.35208281450904877
   },
   {
     "city": "Pittsburgh",
@@ -1631,11 +1631,11 @@
   {
     "city": "Shenzhen",
     "country": "China",
-    "visitors": 5,
-    "lastVisit": "2025-12-12T02:30:00",
+    "visitors": 7,
+    "lastVisit": "2025-12-20T22:44:00",
     "lat": 22.54554,
     "lon": 114.0683,
-    "normalized": 0.19598386243274343
+    "normalized": 0.227450722064325
   },
   {
     "city": "Huzhou",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 35,
-    "lastVisit": "2025-12-19T22:26:00",
+    "visitors": 36,
+    "lastVisit": "2025-12-20T22:16:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.39196772486548687
+    "normalized": 0.39496464319091096
   },
   {
     "city": "Sabz",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 210,
-    "lastVisit": "2025-12-20T20:21:00",
+    "visitors": 211,
+    "lastVisit": "2025-12-21T02:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5853898618672412
+    "normalized": 0.5859070291486889
   },
   {
     "city": "Tubingen",
@@ -8142,6 +8142,15 @@
     "lastVisit": "2025-12-20T15:22:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.075816907354775
+  },
+  {
+    "city": "Glenview",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-20T21:56:00",
+    "lat": 42.06975,
+    "lon": -87.78784,
     "normalized": 0.075816907354775
   }
 ]
