@@ -2,11 +2,11 @@
   {
     "city": "Santa Barbara",
     "country": "United States",
-    "visitors": 46,
-    "lastVisit": "2025-12-11T20:50:00",
+    "visitors": 47,
+    "lastVisit": "2025-12-21T14:17:00",
     "lat": 34.42083,
     "lon": -119.69819,
-    "normalized": 0.4211317483615095
+    "normalized": 0.4234345844970685
   },
   {
     "city": "Goleta",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 212,
-    "lastVisit": "2025-12-21T08:17:00",
+    "visitors": 214,
+    "lastVisit": "2025-12-21T14:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5864217626927495
+    "normalized": 0.5874440194442543
   },
   {
     "city": "Tubingen",
