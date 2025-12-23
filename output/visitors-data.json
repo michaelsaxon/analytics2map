@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 49,
-    "lastVisit": "2025-12-20T05:48:00",
+    "visitors": 52,
+    "lastVisit": "2025-12-22T14:23:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.42788469623874925
+    "normalized": 0.43425796500996966
   },
   {
     "city": "Ames",
@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 201,
-    "lastVisit": "2025-12-21T16:26:00",
+    "visitors": 202,
+    "lastVisit": "2025-12-22T11:04:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5806015220526285
+    "normalized": 0.5811416556706542
   },
   {
     "city": "Santa Clara",
@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 42,
-    "lastVisit": "2025-12-19T11:32:00",
+    "visitors": 43,
+    "lastVisit": "2025-12-22T14:12:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.4113881658578218
+    "normalized": 0.41390268660798124
   },
   {
     "city": "Manhattan",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 215,
-    "lastVisit": "2025-12-22T02:20:00",
+    "visitors": 217,
+    "lastVisit": "2025-12-22T14:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5879309414794525
+    "normalized": 0.5889390300475502
   },
   {
     "city": "Tubingen",
