@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 147,
-    "lastVisit": "2025-12-23T00:49:00",
+    "visitors": 149,
+    "lastVisit": "2025-12-23T17:46:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5465536842524945
+    "normalized": 0.5480217830272543
   },
   {
     "city": "Ashburn",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 124,
-    "lastVisit": "2025-12-08T11:10:00",
+    "visitors": 125,
+    "lastVisit": "2025-12-23T20:23:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5280809614000541
+    "normalized": 0.5289524537921966
   },
   {
     "city": "Rowland Heights",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 220,
-    "lastVisit": "2025-12-23T05:57:00",
+    "visitors": 221,
+    "lastVisit": "2025-12-23T17:42:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5904063207798395
+    "normalized": 0.5909000991198038
   },
   {
     "city": "Sylhet",
@@ -4268,11 +4268,11 @@
   {
     "city": "Miami",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-12-20T18:33:00",
+    "visitors": 3,
+    "lastVisit": "2025-12-23T15:17:00",
     "lat": 25.77427,
     "lon": -80.19366,
-    "normalized": 0.12015711181393048
+    "normalized": 0.1516213938932424
   },
   {
     "city": "Lowell",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 220,
-    "lastVisit": "2025-12-23T14:48:00",
+    "visitors": 221,
+    "lastVisit": "2025-12-23T20:24:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5904063207798395
+    "normalized": 0.5909000991198038
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 492,
-    "lastVisit": "2025-12-23T07:03:00",
+    "visitors": 497,
+    "lastVisit": "2025-12-23T20:44:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6781603317326663
+    "normalized": 0.6792639911131537
   },
   {
     "city": "Riegelsberg",
@@ -7553,11 +7553,11 @@
   {
     "city": "Jersey City",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2025-12-23T00:17:00",
+    "visitors": 6,
+    "lastVisit": "2025-12-23T18:11:00",
     "lat": 40.72816,
     "lon": -74.07764,
-    "normalized": 0.17602698713335133
+    "normalized": 0.21282753321771442
   },
   {
     "city": "Pickens",
@@ -8250,6 +8250,15 @@
     "lastVisit": "2025-12-23T09:42:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.0758106969466212
+  },
+  {
+    "city": "Detroit",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-23T15:56:00",
+    "lat": 42.33143,
+    "lon": -83.04575,
     "normalized": 0.0758106969466212
   }
 ]
