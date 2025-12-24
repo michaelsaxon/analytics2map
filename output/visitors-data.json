@@ -1766,11 +1766,11 @@
   {
     "city": "Sydney",
     "country": "Australia",
-    "visitors": 8,
-    "lastVisit": "2025-09-01T00:00:00",
+    "visitors": 9,
+    "lastVisit": "2025-12-24T05:40:00",
     "lat": -33.86785,
     "lon": 151.20732,
-    "normalized": 0.2403086022046077
+    "normalized": 0.25183179310027126
   },
   {
     "city": "Ormiston",
@@ -3197,11 +3197,11 @@
   {
     "city": "Tabriz",
     "country": "Iran",
-    "visitors": 5,
-    "lastVisit": "2025-12-09T06:40:00",
+    "visitors": 6,
+    "lastVisit": "2025-12-24T06:31:00",
     "lat": 38.08,
     "lon": 46.2919,
-    "normalized": 0.1959632246873311
+    "normalized": 0.21282255476231504
   },
   {
     "city": "Victoria",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 222,
-    "lastVisit": "2025-12-24T02:27:00",
+    "visitors": 224,
+    "lastVisit": "2025-12-24T08:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5913778244075052
+    "normalized": 0.5923543412350957
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 513,
-    "lastVisit": "2025-12-24T02:06:00",
+    "visitors": 520,
+    "lastVisit": "2025-12-24T06:59:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6827067032852843
+    "normalized": 0.6841861154209777
   },
   {
     "city": "Riegelsberg",
@@ -8260,5 +8260,23 @@
     "lat": 42.33143,
     "lon": -83.04575,
     "normalized": 0.07580892358502725
+  },
+  {
+    "city": "Changzhou",
+    "country": "China",
+    "visitors": 1,
+    "lastVisit": "2025-12-24T05:08:00",
+    "lat": 31.77359,
+    "lon": 119.95401,
+    "normalized": 0.07580892358502725
+  },
+  {
+    "city": "Baghdad",
+    "country": "Iraq",
+    "visitors": 5,
+    "lastVisit": "2025-12-24T05:13:00",
+    "lat": 33.34058,
+    "lon": 44.40088,
+    "normalized": 0.1959632246873311
   }
 ]
