@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 219,
-    "lastVisit": "2025-12-22T20:23:00",
+    "visitors": 220,
+    "lastVisit": "2025-12-23T14:48:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5899103030746652
+    "normalized": 0.5904063207798395
   },
   {
     "city": "Tubingen",
@@ -7157,11 +7157,11 @@
   {
     "city": "Indianapolis",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2025-12-21T23:21:00",
+    "visitors": 7,
+    "lastVisit": "2025-12-23T14:01:00",
     "lat": 39.76838,
     "lon": -86.15804,
-    "normalized": 0.21282753321771442
+    "normalized": 0.2274320908398636
   },
   {
     "city": "Virginia Beach",
@@ -8241,6 +8241,15 @@
     "lastVisit": "2025-12-23T08:20:00",
     "lat": 29.36937,
     "lon": 105.88323,
+    "normalized": 0.0758106969466212
+  },
+  {
+    "city": "Eastern Goleta Valley",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-23T09:42:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.0758106969466212
   }
 ]
