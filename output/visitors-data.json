@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 39,
-    "lastVisit": "2025-12-24T23:06:00",
+    "visitors": 40,
+    "lastVisit": "2025-12-25T05:45:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.40344964027032576
+    "normalized": 0.4061502505209019
   },
   {
     "city": "Sabz",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 227,
-    "lastVisit": "2025-12-25T02:31:00",
+    "visitors": 228,
+    "lastVisit": "2025-12-25T08:19:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.593802960533738
+    "normalized": 0.5942816009392975
   },
   {
     "city": "Tubingen",
