@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 95,
-    "lastVisit": "2025-12-22T18:31:00",
+    "visitors": 96,
+    "lastVisit": "2025-12-24T10:50:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.4991989190274401
+    "normalized": 0.500332288321204
   },
   {
     "city": "Lompoc",
@@ -335,11 +335,11 @@
   {
     "city": null,
     "country": "Germany",
-    "visitors": 154,
-    "lastVisit": "2025-12-07T14:10:00",
+    "visitors": 155,
+    "lastVisit": "2025-12-24T12:09:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.5515951590345866
+    "normalized": 0.5522985000959162
   },
   {
     "city": null,
@@ -2090,11 +2090,11 @@
   {
     "city": "Mesa",
     "country": "United States",
-    "visitors": 13,
-    "lastVisit": "2025-02-01T00:00:00",
+    "visitors": 15,
+    "lastVisit": "2025-12-24T13:58:00",
     "lat": 33.42227,
     "lon": -111.82264,
-    "normalized": 0.2886314783473423
+    "normalized": 0.303235694340109
   },
   {
     "city": "St Louis",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 224,
-    "lastVisit": "2025-12-24T08:18:00",
+    "visitors": 225,
+    "lastVisit": "2025-12-24T14:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5923543412350957
+    "normalized": 0.5928393493829708
   },
   {
     "city": "Tubingen",
