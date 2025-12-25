@@ -281,20 +281,20 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 25,
-    "lastVisit": "2025-12-23T04:47:00",
+    "visitors": 26,
+    "lastVisit": "2025-12-25T00:37:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.3563352754085851
+    "normalized": 0.3604629033069115
   },
   {
     "city": null,
     "country": "China",
-    "visitors": 249,
-    "lastVisit": "2025-12-24T18:38:00",
+    "visitors": 252,
+    "lastVisit": "2025-12-24T23:25:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6038775321307591
+    "normalized": 0.6051821498837645
   },
   {
     "city": null,
@@ -2090,11 +2090,11 @@
   {
     "city": "Mesa",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2025-12-24T13:58:00",
+    "visitors": 17,
+    "lastVisit": "2025-12-24T22:04:00",
     "lat": 33.42227,
     "lon": -111.82264,
-    "normalized": 0.303235694340109
+    "normalized": 0.3161175257896349
   },
   {
     "city": "St Louis",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 38,
-    "lastVisit": "2025-12-23T23:01:00",
+    "visitors": 39,
+    "lastVisit": "2025-12-24T23:06:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.4006806529258617
+    "normalized": 0.40344964027032576
   },
   {
     "city": "Sabz",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 226,
-    "lastVisit": "2025-12-24T20:22:00",
+    "visitors": 227,
+    "lastVisit": "2025-12-25T02:31:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5933222162075477
+    "normalized": 0.593802960533738
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 524,
-    "lastVisit": "2025-12-24T18:29:00",
+    "visitors": 531,
+    "lastVisit": "2025-12-25T00:43:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6850225948951069
+    "normalized": 0.6864712141937492
   },
   {
     "city": "Riegelsberg",
