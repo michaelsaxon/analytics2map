@@ -2090,11 +2090,11 @@
   {
     "city": "Mesa",
     "country": "United States",
-    "visitors": 22,
-    "lastVisit": "2025-12-25T17:20:00",
+    "visitors": 23,
+    "lastVisit": "2025-12-26T07:24:00",
     "lat": 33.42227,
     "lon": -111.82264,
-    "normalized": 0.3429183428383557
+    "normalized": 0.3475729431798869
   },
   {
     "city": "St Louis",
@@ -4628,11 +4628,11 @@
   {
     "city": "Isfahan",
     "country": "Iran",
-    "visitors": 3,
-    "lastVisit": "2025-12-03T04:14:00",
+    "visitors": 4,
+    "lastVisit": "2025-12-26T06:01:00",
     "lat": 32.65246,
     "lon": 51.67462,
-    "normalized": 0.15161430137115325
+    "normalized": 0.17601875297020014
   },
   {
     "city": "Hur",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 233,
-    "lastVisit": "2025-12-26T02:26:00",
+    "visitors": 238,
+    "lastVisit": "2025-12-26T08:20:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5966299242479052
+    "normalized": 0.5989422006592675
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 539,
-    "lastVisit": "2025-12-25T23:58:00",
+    "visitors": 543,
+    "lastVisit": "2025-12-26T05:54:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6880875277108246
+    "normalized": 0.6888946649562427
   },
   {
     "city": "Riegelsberg",
