@@ -2090,11 +2090,11 @@
   {
     "city": "Mesa",
     "country": "United States",
-    "visitors": 17,
-    "lastVisit": "2025-12-24T22:04:00",
+    "visitors": 19,
+    "lastVisit": "2025-12-25T14:28:00",
     "lat": 33.42227,
     "lon": -111.82264,
-    "normalized": 0.3161175257896349
+    "normalized": 0.3276407166852985
   },
   {
     "city": "St Louis",
@@ -3710,11 +3710,11 @@
   {
     "city": "Bellevue",
     "country": "United States",
-    "visitors": 165,
-    "lastVisit": "2025-11-20T09:28:00",
+    "visitors": 167,
+    "lastVisit": "2025-12-25T12:38:00",
     "lat": 47.61038,
     "lon": -122.20068,
-    "normalized": 0.559093800687542
+    "normalized": 0.5604036266197007
   },
   {
     "city": "Burlingame",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 228,
-    "lastVisit": "2025-12-25T08:19:00",
+    "visitors": 229,
+    "lastVisit": "2025-12-25T14:37:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5942816009392975
+    "normalized": 0.5947581557591338
   },
   {
     "city": "Tubingen",
@@ -6779,11 +6779,11 @@
   {
     "city": "Newark",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-12-02T18:44:00",
+    "visitors": 4,
+    "lastVisit": "2025-12-25T14:13:00",
     "lat": 37.52966,
     "lon": -122.04024,
-    "normalized": 0.12015430110230385
+    "normalized": 0.17602286951524396
   },
   {
     "city": "New Haven",
@@ -8278,5 +8278,14 @@
     "lat": 33.34058,
     "lon": 44.40088,
     "normalized": 0.1959632246873311
+  },
+  {
+    "city": "Katy",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2025-12-25T10:04:00",
+    "lat": 29.78579,
+    "lon": -95.8244,
+    "normalized": 0.12015430110230385
   }
 ]
