@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 54,
-    "lastVisit": "2025-12-23T00:17:00",
+    "visitors": 57,
+    "lastVisit": "2025-12-26T12:31:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.43826840697068603
+    "normalized": 0.44407684801087993
   },
   {
     "city": "Ames",
@@ -4745,11 +4745,11 @@
   {
     "city": "Chapel Hill",
     "country": "United States",
-    "visitors": 37,
-    "lastVisit": "2025-12-25T19:38:00",
+    "visitors": 38,
+    "lastVisit": "2025-12-26T12:37:00",
     "lat": 35.9132,
     "lon": -79.05584,
-    "normalized": 0.39783043179860134
+    "normalized": 0.4006712824391715
   },
   {
     "city": "Cumming",
@@ -6779,11 +6779,11 @@
   {
     "city": "Newark",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2025-12-25T14:13:00",
+    "visitors": 5,
+    "lastVisit": "2025-12-26T12:45:00",
     "lat": 37.52966,
     "lon": -122.04024,
-    "normalized": 0.17601875297020014
+    "normalized": 0.19595864180873365
   },
   {
     "city": "New Haven",
@@ -8296,5 +8296,14 @@
     "lat": 47.67887,
     "lon": -122.02833,
     "normalized": 0.12015149112315705
+  },
+  {
+    "city": "Bonita Springs",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-26T10:56:00",
+    "lat": 26.33981,
+    "lon": -81.7787,
+    "normalized": 0.07580715068557663
   }
 ]
