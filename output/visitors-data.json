@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 60,
-    "lastVisit": "2025-12-21T19:33:00",
+    "visitors": 62,
+    "lastVisit": "2025-12-26T17:03:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.44959229902520526
+    "normalized": 0.4531205598506301
   },
   {
     "city": "Four Oaks",
@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 41,
-    "lastVisit": "2025-12-22T21:26:00",
+    "visitors": 43,
+    "lastVisit": "2025-12-26T16:12:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.4087762194130497
+    "normalized": 0.41386395537163906
   },
   {
     "city": "Mocksville",
@@ -1766,11 +1766,11 @@
   {
     "city": "Sydney",
     "country": "Australia",
-    "visitors": 9,
-    "lastVisit": "2025-12-24T05:40:00",
+    "visitors": 10,
+    "lastVisit": "2025-12-26T19:46:00",
     "lat": -33.86785,
     "lon": 151.20732,
-    "normalized": 0.2518259036557768
+    "normalized": 0.2622496540004859
   },
   {
     "city": "Ormiston",
@@ -2090,11 +2090,11 @@
   {
     "city": "Mesa",
     "country": "United States",
-    "visitors": 23,
-    "lastVisit": "2025-12-26T07:24:00",
+    "visitors": 24,
+    "lastVisit": "2025-12-26T20:03:00",
     "lat": 33.42227,
     "lon": -111.82264,
-    "normalized": 0.3475729431798869
+    "normalized": 0.3520375059404003
   },
   {
     "city": "St Louis",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 238,
-    "lastVisit": "2025-12-26T08:20:00",
+    "visitors": 240,
+    "lastVisit": "2025-12-26T20:19:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.5989422006592675
+    "normalized": 0.599853594269877
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 543,
-    "lastVisit": "2025-12-26T05:54:00",
+    "visitors": 550,
+    "lastVisit": "2025-12-26T18:55:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6888946649562427
+    "normalized": 0.6902929784383282
   },
   {
     "city": "Riegelsberg",
@@ -8304,6 +8304,15 @@
     "lastVisit": "2025-12-26T10:56:00",
     "lat": 26.33981,
     "lon": -81.7787,
+    "normalized": 0.07580715068557663
+  },
+  {
+    "city": "Incline Village",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-26T19:43:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.07580715068557663
   }
 ]
