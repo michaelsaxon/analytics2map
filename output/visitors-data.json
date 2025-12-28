@@ -5186,11 +5186,11 @@
   {
     "city": "Vienna",
     "country": "Austria",
-    "visitors": 1,
-    "lastVisit": "2025-05-01T00:00:00",
+    "visitors": 2,
+    "lastVisit": "2025-12-27T13:49:00",
     "lat": 48.20849,
     "lon": 16.37208,
-    "normalized": 0.07580449220243567
+    "normalized": 0.12014727752706983
   },
   {
     "city": "Tulln",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 241,
-    "lastVisit": "2025-12-27T08:16:00",
+    "visitors": 245,
+    "lastVisit": "2025-12-27T14:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6002854065221365
+    "normalized": 0.6020782788877206
   },
   {
     "city": "Tubingen",
@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 10,
-    "lastVisit": "2025-12-11T07:28:00",
+    "visitors": 11,
+    "lastVisit": "2025-12-27T12:36:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.2622404571598504
+    "normalized": 0.27175626193194113
   },
   {
     "city": "Visalia",
