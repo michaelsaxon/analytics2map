@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 253,
-    "lastVisit": "2025-12-26T21:58:00",
+    "visitors": 254,
+    "lastVisit": "2025-12-27T22:47:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6055781860461379
+    "normalized": 0.6060079027678821
   },
   {
     "city": null,
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 41,
-    "lastVisit": "2025-12-26T22:38:00",
+    "visitors": 44,
+    "lastVisit": "2025-12-27T23:20:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.40876188402809055
+    "normalized": 0.416307135217645
   },
   {
     "city": "Sabz",
@@ -4592,11 +4592,11 @@
   {
     "city": "College Station",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-02-01T00:00:00",
+    "visitors": 2,
+    "lastVisit": "2025-12-27T23:03:00",
     "lat": 30.62798,
     "lon": -96.33441,
-    "normalized": 0.07580449220243567
+    "normalized": 0.12014727752706983
   },
   {
     "city": "Laurel",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 248,
-    "lastVisit": "2025-12-27T20:26:00",
+    "visitors": 249,
+    "lastVisit": "2025-12-28T02:28:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6034039043908277
+    "normalized": 0.6038422326929517
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 573,
-    "lastVisit": "2025-12-27T20:34:00",
+    "visitors": 577,
+    "lastVisit": "2025-12-28T02:51:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6947411156592359
+    "normalized": 0.6955005823570495
   },
   {
     "city": "Riegelsberg",
@@ -8332,5 +8332,32 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.12014727752706983
+  },
+  {
+    "city": "Gaithersburg",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-27T21:04:00",
+    "lat": 39.14344,
+    "lon": -77.20137,
+    "normalized": 0.07580449220243567
+  },
+  {
+    "city": "San Jose",
+    "country": "Costa Rica",
+    "visitors": 1,
+    "lastVisit": "2025-12-27T22:46:00",
+    "lat": 9.93388,
+    "lon": -84.08489,
+    "normalized": 0.07580449220243567
+  },
+  {
+    "city": "Cupertino",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-28T00:01:00",
+    "lat": 37.323,
+    "lon": -122.03218,
+    "normalized": 0.07580449220243567
   }
 ]
