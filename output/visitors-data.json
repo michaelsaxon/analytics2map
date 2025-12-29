@@ -101,11 +101,11 @@
   {
     "city": "Baltimore",
     "country": "United States",
-    "visitors": 18,
-    "lastVisit": "2025-12-15T17:29:00",
+    "visitors": 20,
+    "lastVisit": "2025-12-28T22:58:00",
     "lat": 39.29038,
     "lon": -76.61219,
-    "normalized": 0.32201198806934617
+    "normalized": 0.33295739182565487
   },
   {
     "city": "Dallas",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 44,
-    "lastVisit": "2025-12-27T23:20:00",
+    "visitors": 45,
+    "lastVisit": "2025-12-28T21:47:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.416307135217645
+    "normalized": 0.4187108092275941
   },
   {
     "city": "Sabz",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 252,
-    "lastVisit": "2025-12-28T20:16:00",
+    "visitors": 253,
+    "lastVisit": "2025-12-29T02:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6051467741850088
+    "normalized": 0.6055781860461379
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 597,
-    "lastVisit": "2025-12-28T20:57:00",
+    "visitors": 606,
+    "lastVisit": "2025-12-29T00:38:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6992207629870038
+    "normalized": 0.7008544280285668
   },
   {
     "city": "Riegelsberg",
@@ -8404,5 +8404,14 @@
     "lat": 35.46756,
     "lon": -97.51643,
     "normalized": 0.15160898440487133
+  },
+  {
+    "city": "Midland",
+    "country": "Canada",
+    "visitors": 1,
+    "lastVisit": "2025-12-29T00:54:00",
+    "lat": 44.7501,
+    "lon": -79.88296,
+    "normalized": 0.07580449220243567
   }
 ]
