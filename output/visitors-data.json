@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 100,
-    "lastVisit": "2025-12-27T05:12:00",
+    "visitors": 101,
+    "lastVisit": "2025-12-28T13:59:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.504722340426426
+    "normalized": 0.5057998148068124
   },
   {
     "city": "Lompoc",
@@ -2090,11 +2090,11 @@
   {
     "city": "Mesa",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2025-12-26T20:03:00",
+    "visitors": 25,
+    "lastVisit": "2025-12-28T09:56:00",
     "lat": 33.42227,
     "lon": -111.82264,
-    "normalized": 0.3520251603270107
+    "normalized": 0.35631444596184536
   },
   {
     "city": "St Louis",
@@ -6599,20 +6599,20 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 250,
-    "lastVisit": "2025-12-28T08:29:00",
+    "visitors": 251,
+    "lastVisit": "2025-12-28T14:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6042788111768376
+    "normalized": 0.604713653757596
   },
   {
     "city": "Tubingen",
     "country": "Germany",
-    "visitors": 10,
-    "lastVisit": "2025-12-09T19:44:00",
+    "visitors": 11,
+    "lastVisit": "2025-12-28T12:32:00",
     "lat": 48.52266,
     "lon": 9.05222,
-    "normalized": 0.2622404571598504
+    "normalized": 0.27175626193194113
   },
   {
     "city": "Anaheim",
@@ -8358,6 +8358,33 @@
     "lastVisit": "2025-12-28T00:01:00",
     "lat": 37.323,
     "lon": -122.03218,
+    "normalized": 0.07580449220243567
+  },
+  {
+    "city": "Clearwater",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-28T11:27:00",
+    "lat": 27.96585,
+    "lon": -82.8001,
+    "normalized": 0.07580449220243567
+  },
+  {
+    "city": "Otawara",
+    "country": "Japan",
+    "visitors": 2,
+    "lastVisit": "2025-12-28T13:50:00",
+    "lat": 36.86667,
+    "lon": 140.03333,
+    "normalized": 0.12014727752706983
+  },
+  {
+    "city": "Karuizawa",
+    "country": "Japan",
+    "visitors": 1,
+    "lastVisit": "2025-12-28T13:50:00",
+    "lat": 36.35,
+    "lon": 138.63333,
     "normalized": 0.07580449220243567
   }
 ]
