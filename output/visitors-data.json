@@ -2090,11 +2090,11 @@
   {
     "city": "Mesa",
     "country": "United States",
-    "visitors": 25,
-    "lastVisit": "2025-12-28T09:56:00",
+    "visitors": 27,
+    "lastVisit": "2025-12-28T20:50:00",
     "lat": 33.42227,
     "lon": -111.82264,
-    "normalized": 0.35631444596184536
+    "normalized": 0.36441909870345635
   },
   {
     "city": "St Louis",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 251,
-    "lastVisit": "2025-12-28T14:16:00",
+    "visitors": 252,
+    "lastVisit": "2025-12-28T20:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.604713653757596
+    "normalized": 0.6051467741850088
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 580,
-    "lastVisit": "2025-12-28T06:15:00",
+    "visitors": 597,
+    "lastVisit": "2025-12-28T20:57:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.6960667411623429
+    "normalized": 0.6992207629870038
   },
   {
     "city": "Riegelsberg",
@@ -8386,5 +8386,23 @@
     "lat": 36.35,
     "lon": 138.63333,
     "normalized": 0.07580449220243567
+  },
+  {
+    "city": "North Bergen",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-28T15:47:00",
+    "lat": 40.80427,
+    "lon": -74.01208,
+    "normalized": 0.07580449220243567
+  },
+  {
+    "city": "Oklahoma City",
+    "country": "United States",
+    "visitors": 3,
+    "lastVisit": "2025-12-28T19:43:00",
+    "lat": 35.46756,
+    "lon": -97.51643,
+    "normalized": 0.15160898440487133
   }
 ]
