@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 26,
-    "lastVisit": "2025-12-23T05:28:00",
+    "visitors": 28,
+    "lastVisit": "2025-12-30T06:12:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.3604334081327688
+    "normalized": 0.3682481753609012
   },
   {
     "city": "Los Angeles",
@@ -281,20 +281,20 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 26,
-    "lastVisit": "2025-12-25T00:37:00",
+    "visitors": 27,
+    "lastVisit": "2025-12-30T03:19:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.3604334081327688
+    "normalized": 0.3644105812961237
   },
   {
     "city": null,
     "country": "China",
-    "visitors": 257,
-    "lastVisit": "2025-12-30T01:24:00",
+    "visitors": 258,
+    "lastVisit": "2025-12-30T05:43:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6072728201633615
+    "normalized": 0.6076958775918799
   },
   {
     "city": null,
@@ -398,11 +398,11 @@
   {
     "city": null,
     "country": "Spain",
-    "visitors": 15,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 16,
+    "lastVisit": "2025-12-30T04:46:00",
     "lat": 40.4165,
     "lon": -3.70256,
-    "normalized": 0.30321088182950445
+    "normalized": 0.30984080313521184
   },
   {
     "city": null,
@@ -2162,11 +2162,11 @@
   {
     "city": "Chennai",
     "country": "India",
-    "visitors": 10,
-    "lastVisit": "2025-12-01T06:31:00",
+    "visitors": 14,
+    "lastVisit": "2025-12-30T06:14:00",
     "lat": 13.08784,
     "lon": 80.27847,
-    "normalized": 0.2622343279289712
+    "normalized": 0.2961529356764642
   },
   {
     "city": "Pune",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 258,
-    "lastVisit": "2025-12-30T02:53:00",
+    "visitors": 259,
+    "lastVisit": "2025-12-30T08:20:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6076958775918799
+    "normalized": 0.6081173047372477
   },
   {
     "city": "Tubingen",
@@ -8264,11 +8264,11 @@
   {
     "city": "Changzhou",
     "country": "China",
-    "visitors": 2,
-    "lastVisit": "2025-12-26T22:23:00",
+    "visitors": 3,
+    "lastVisit": "2025-12-30T08:48:00",
     "lat": 31.77359,
     "lon": 119.95401,
-    "normalized": 0.1201444693775896
+    "normalized": 0.15160544091475223
   },
   {
     "city": "Baghdad",
