@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 262,
-    "lastVisit": "2025-12-31T02:32:00",
+    "visitors": 263,
+    "lastVisit": "2025-12-31T08:26:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6093505715059748
+    "normalized": 0.609765586713781
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 629,
-    "lastVisit": "2025-12-31T02:16:00",
+    "visitors": 632,
+    "lastVisit": "2025-12-31T07:01:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7048805601978176
+    "normalized": 0.7054000688993417
   },
   {
     "city": "Riegelsberg",
@@ -8475,6 +8475,15 @@
     "lastVisit": "2025-12-30T19:08:00",
     "lat": -6.99306,
     "lon": 110.42083,
+    "normalized": 0.07580006370478655
+  },
+  {
+    "city": "Brentwood",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2025-12-31T04:34:00",
+    "lat": 34.05195,
+    "lon": -118.47397,
     "normalized": 0.07580006370478655
   }
 ]
