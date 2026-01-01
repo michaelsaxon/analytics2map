@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 27,
-    "lastVisit": "2025-12-30T03:19:00",
+    "visitors": 29,
+    "lastVisit": "2025-12-31T20:22:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.36439355313430544
+    "normalized": 0.3719382754060927
   },
   {
     "city": null,
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 632,
-    "lastVisit": "2025-12-31T07:01:00",
+    "visitors": 637,
+    "lastVisit": "2025-12-31T20:31:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7053918297437488
+    "normalized": 0.7062522204819837
   },
   {
     "city": "Riegelsberg",
@@ -7004,11 +7004,11 @@
   {
     "city": "Sacramento",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-11-17T20:23:00",
+    "visitors": 3,
+    "lastVisit": "2025-12-31T15:19:00",
     "lat": 38.58157,
     "lon": -121.4944,
-    "normalized": 0.07579917835114632
+    "normalized": 0.15159835670229263
   },
   {
     "city": "Yorba Linda",
