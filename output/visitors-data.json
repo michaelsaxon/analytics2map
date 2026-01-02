@@ -2189,11 +2189,11 @@
   {
     "city": "Toronto",
     "country": "Canada",
-    "visitors": 16,
-    "lastVisit": "2025-12-12T17:13:00",
+    "visitors": 19,
+    "lastVisit": "2026-01-01T18:20:00",
     "lat": 43.70643,
     "lon": -79.39864,
-    "normalized": 0.30982270652851945
+    "normalized": 0.327594772548451
   },
   {
     "city": "Surrey",
@@ -4250,11 +4250,11 @@
   {
     "city": "Boston",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2025-12-08T23:59:00",
+    "visitors": 14,
+    "lastVisit": "2026-01-01T19:56:00",
     "lat": 42.35843,
     "lon": -71.05977,
-    "normalized": 0.26221901183294466
+    "normalized": 0.2961356385253353
   },
   {
     "city": "Hoodsport",
@@ -4745,11 +4745,11 @@
   {
     "city": "Chapel Hill",
     "country": "United States",
-    "visitors": 38,
-    "lastVisit": "2025-12-26T12:37:00",
+    "visitors": 41,
+    "lastVisit": "2026-01-01T20:51:00",
     "lat": 35.9132,
     "lon": -79.05584,
-    "normalized": 0.4006244666040382
+    "normalized": 0.4087284565687102
   },
   {
     "city": "Cumming",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 272,
-    "lastVisit": "2026-01-01T14:16:00",
+    "visitors": 273,
+    "lastVisit": "2026-01-01T20:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6134171778576492
+    "normalized": 0.6138170094606009
   },
   {
     "city": "Tubingen",
@@ -6905,11 +6905,11 @@
   {
     "city": "Champaign",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-12-11T11:06:00",
+    "visitors": 4,
+    "lastVisit": "2026-01-01T15:08:00",
     "lat": 40.11642,
     "lon": -88.24338,
-    "normalized": 0.12013745220236094
+    "normalized": 0.17599818632297437
   },
   {
     "city": "Norton",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 647,
-    "lastVisit": "2026-01-01T07:20:00",
+    "visitors": 650,
+    "lastVisit": "2026-01-01T20:44:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7079446881476587
+    "normalized": 0.7084497875287229
   },
   {
     "city": "Riegelsberg",
@@ -8494,5 +8494,23 @@
     "lat": 23.68333,
     "lon": 86.98333,
     "normalized": 0.15159658622547664
+  },
+  {
+    "city": "Ashland",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-01T19:16:00",
+    "lat": 42.19458,
+    "lon": -122.70948,
+    "normalized": 0.07579829311273832
+  },
+  {
+    "city": "Waltham",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-01-01T20:38:00",
+    "lat": 42.37649,
+    "lon": -71.23561,
+    "normalized": 0.12013745220236094
   }
 ]
