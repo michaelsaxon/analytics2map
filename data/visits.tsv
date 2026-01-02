@@ -5827,3 +5827,12 @@ timestamp	country	city	num_unique
 2026-01-01T06:06:00	Japan		1
 2026-01-01T07:19:00	Hong Kong	Hong Kong	1
 2026-01-01T07:20:00	Hong Kong	Hong Kong	1
+2026-01-01T08:25:00	United States	Los Angeles	1
+2026-01-01T08:26:00	United States	Los Angeles	1
+2026-01-01T10:44:00	Iran	Tehran	1
+2026-01-01T11:17:00	Canada	Kitchener	1
+2026-01-01T11:18:00	Canada	Kitchener	1
+2026-01-01T12:55:00	United States	Madison	1
+2026-01-01T13:01:00	United States	San Jose	1
+2026-01-01T13:02:00	United States	San Jose	1
+2026-01-01T14:16:00	China	Lanzhou	1
