@@ -389,11 +389,11 @@
   {
     "city": null,
     "country": "Taiwan",
-    "visitors": 46,
-    "lastVisit": "2025-12-31T01:23:00",
+    "visitors": 48,
+    "lastVisit": "2026-01-02T19:12:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.4210234374047326
+    "normalized": 0.42558045279725887
   },
   {
     "city": null,
@@ -902,11 +902,11 @@
   {
     "city": "Irvine",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2025-11-26T16:12:00",
+    "visitors": 8,
+    "lastVisit": "2026-01-02T17:08:00",
     "lat": 33.66946,
     "lon": -117.82311,
-    "normalized": 0.17599613113054113
+    "normalized": 0.2402720986305503
   },
   {
     "city": "Durham",
@@ -5663,11 +5663,11 @@
   {
     "city": "Menlo Park",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2025-11-18T01:01:00",
+    "visitors": 4,
+    "lastVisit": "2026-01-02T17:51:00",
     "lat": 37.45383,
     "lon": -122.18219,
-    "normalized": 0.15159481597906999
+    "normalized": 0.17599613113054113
   },
   {
     "city": "Green Hill",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 282,
-    "lastVisit": "2026-01-02T14:16:00",
+    "visitors": 283,
+    "lastVisit": "2026-01-02T20:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6173439837672574
+    "normalized": 0.6177297074286341
   },
   {
     "city": "Tubingen",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2025-12-29T20:40:00",
+    "visitors": 11,
+    "lastVisit": "2026-01-02T16:38:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.26221594980974866
+    "normalized": 0.27173086529434515
   },
   {
     "city": "Cairo",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 650,
-    "lastVisit": "2026-01-01T20:44:00",
+    "visitors": 653,
+    "lastVisit": "2026-01-02T18:05:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7084415147125475
+    "normalized": 0.7089442859183023
   },
   {
     "city": "Riegelsberg",
@@ -8530,5 +8530,14 @@
     "lat": 38.93428,
     "lon": -77.17748,
     "normalized": 0.12013604931527515
+  },
+  {
+    "city": "Muskegon",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-02T17:46:00",
+    "lat": 43.23418,
+    "lon": -86.24839,
+    "normalized": 0.07579740798953499
   }
 ]
