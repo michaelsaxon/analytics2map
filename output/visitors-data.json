@@ -2135,11 +2135,11 @@
   {
     "city": "Tempe",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2025-12-29T09:33:00",
+    "visitors": 11,
+    "lastVisit": "2026-01-02T10:17:00",
     "lat": 33.41477,
     "lon": -111.90931,
-    "normalized": 0.2517935391200762
+    "normalized": 0.27173086529434515
   },
   {
     "city": "Ludhiana",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 280,
-    "lastVisit": "2026-01-02T08:40:00",
+    "visitors": 282,
+    "lastVisit": "2026-01-02T14:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6165684305545974
+    "normalized": 0.6173439837672574
   },
   {
     "city": "Tubingen",
@@ -7004,11 +7004,11 @@
   {
     "city": "Sacramento",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2025-12-31T15:19:00",
+    "visitors": 5,
+    "lastVisit": "2026-01-02T14:50:00",
     "lat": 38.58157,
     "lon": -121.4944,
-    "normalized": 0.15159481597906999
+    "normalized": 0.19593345730481013
   },
   {
     "city": "Yorba Linda",
@@ -8507,11 +8507,11 @@
   {
     "city": "Waltham",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-01-01T22:37:00",
+    "visitors": 4,
+    "lastVisit": "2026-01-02T09:15:00",
     "lat": 42.37649,
     "lon": -71.23561,
-    "normalized": 0.15159481597906999
+    "normalized": 0.17599613113054113
   },
   {
     "city": "Aarhus",
@@ -8520,6 +8520,15 @@
     "lastVisit": "2026-01-02T03:33:00",
     "lat": 55.67594,
     "lon": 12.56553,
+    "normalized": 0.12013604931527515
+  },
+  {
+    "city": "McLean",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-01-02T14:48:00",
+    "lat": 38.93428,
+    "lon": -77.17748,
     "normalized": 0.12013604931527515
   }
 ]
