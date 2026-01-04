@@ -6158,11 +6158,11 @@
   {
     "city": "Hamburg",
     "country": "Germany",
-    "visitors": 5,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 6,
+    "lastVisit": "2026-01-03T09:17:00",
     "lat": 53.55073,
     "lon": 9.99302,
-    "normalized": 0.19593116959224963
+    "normalized": 0.2127877418669911
   },
   {
     "city": "Remagen",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 286,
-    "lastVisit": "2026-01-03T08:46:00",
+    "visitors": 287,
+    "lastVisit": "2026-01-03T11:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6188715555096544
+    "normalized": 0.6192519081290258
   },
   {
     "city": "Tubingen",
