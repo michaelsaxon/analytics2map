@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 107,
-    "lastVisit": "2026-01-04T02:11:00",
+    "visitors": 108,
+    "lastVisit": "2026-01-04T03:11:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5119790560724673
+    "normalized": 0.5129868736990703
   },
   {
     "city": "Lompoc",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 263,
-    "lastVisit": "2026-01-03T05:38:00",
+    "visitors": 264,
+    "lastVisit": "2026-01-04T05:31:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6097157512371518
+    "normalized": 0.6101291635951039
   },
   {
     "city": null,
@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 139,
-    "lastVisit": "2026-01-01T06:06:00",
+    "visitors": 141,
+    "lastVisit": "2026-01-04T03:51:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.540355940542298
+    "normalized": 0.5419069940437128
   },
   {
     "city": null,
@@ -2360,11 +2360,11 @@
   {
     "city": "Osaka",
     "country": "Japan",
-    "visitors": 7,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 10,
+    "lastVisit": "2026-01-04T03:26:00",
     "lat": 34.69379,
     "lon": 135.50107,
-    "normalized": 0.22738160594465395
+    "normalized": 0.26220370570048745
   },
   {
     "city": "Yokohama",
@@ -6608,11 +6608,11 @@
   {
     "city": "Tubingen",
     "country": "Germany",
-    "visitors": 11,
-    "lastVisit": "2025-12-28T12:32:00",
+    "visitors": 13,
+    "lastVisit": "2026-01-04T07:19:00",
     "lat": 48.52266,
     "lon": 9.05222,
-    "normalized": 0.2717181768884464
+    "normalized": 0.28857415885958027
   },
   {
     "city": "Anaheim",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 669,
-    "lastVisit": "2026-01-04T03:02:00",
+    "visitors": 671,
+    "lastVisit": "2026-01-04T04:41:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7115541489926491
+    "normalized": 0.7118800730444627
   },
   {
     "city": "Riegelsberg",
@@ -8575,5 +8575,14 @@
     "lat": 50.63297,
     "lon": 3.05858,
     "normalized": 0.07579386864821798
+  },
+  {
+    "city": "LaCrosse",
+    "country": "United States",
+    "visitors": 3,
+    "lastVisit": "2026-01-04T07:52:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.15158773729643596
   }
 ]
