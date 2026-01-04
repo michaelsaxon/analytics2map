@@ -65,29 +65,29 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 202,
-    "lastVisit": "2025-12-22T11:04:00",
+    "visitors": 205,
+    "lastVisit": "2026-01-03T20:00:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5810058100079112
+    "normalized": 0.5826100138560225
   },
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 16,
-    "lastVisit": "2025-12-29T15:32:00",
+    "visitors": 17,
+    "lastVisit": "2026-01-03T17:40:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.3098154711828947
+    "normalized": 0.31606581620299046
   },
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 63,
-    "lastVisit": "2025-12-29T06:18:00",
+    "visitors": 65,
+    "lastVisit": "2026-01-03T15:46:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.45477913788905294
+    "normalized": 0.45814405777724976
   },
   {
     "city": "Four Oaks",
@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 29,
-    "lastVisit": "2025-12-31T20:22:00",
+    "visitors": 31,
+    "lastVisit": "2026-01-03T20:19:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.3719252457977906
+    "normalized": 0.37898261490754415
   },
   {
     "city": null,
@@ -1622,11 +1622,11 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 23,
-    "lastVisit": "2026-01-01T21:50:00",
+    "visitors": 24,
+    "lastVisit": "2026-01-03T19:13:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.3475242155552673
+    "normalized": 0.3519881524110819
   },
   {
     "city": "Shenzhen",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 287,
-    "lastVisit": "2026-01-03T11:16:00",
+    "visitors": 288,
+    "lastVisit": "2026-01-03T20:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6192519081290258
+    "normalized": 0.6196309423657894
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 662,
-    "lastVisit": "2026-01-03T07:06:00",
+    "visitors": 664,
+    "lastVisit": "2026-01-03T20:36:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7104305819314048
+    "normalized": 0.7107599534690424
   },
   {
     "city": "Riegelsberg",
@@ -8557,5 +8557,14 @@
     "lat": 31.32556,
     "lon": 75.57917,
     "normalized": 0.07579652298150882
+  },
+  {
+    "city": "Sioux Falls",
+    "country": "United States",
+    "visitors": 5,
+    "lastVisit": "2026-01-03T15:19:00",
+    "lat": 43.54997,
+    "lon": -96.70033,
+    "normalized": 0.19593116959224963
   }
 ]
