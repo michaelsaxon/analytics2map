@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 164,
-    "lastVisit": "2026-01-03T01:33:00",
+    "visitors": 168,
+    "lastVisit": "2026-01-04T17:26:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5583155424644157
+    "normalized": 0.56093473744478
   },
   {
     "city": "Ashburn",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 67,
-    "lastVisit": "2026-01-04T11:33:00",
+    "visitors": 71,
+    "lastVisit": "2026-01-04T19:41:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.461386974340034
+    "normalized": 0.46763702753636743
   },
   {
     "city": "Four Oaks",
@@ -3710,11 +3710,11 @@
   {
     "city": "Bellevue",
     "country": "United States",
-    "visitors": 167,
-    "lastVisit": "2025-12-25T12:38:00",
+    "visitors": 173,
+    "lastVisit": "2026-01-04T15:39:00",
     "lat": 47.61038,
     "lon": -122.20068,
-    "normalized": 0.5602857968914456
+    "normalized": 0.5641228980427148
   },
   {
     "city": "Burlingame",
@@ -3755,11 +3755,11 @@
   {
     "city": "Salt Lake City",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2025-12-09T09:28:00",
+    "visitors": 10,
+    "lastVisit": "2026-01-04T16:03:00",
     "lat": 40.76078,
     "lon": -111.89105,
-    "normalized": 0.212777806972324
+    "normalized": 0.262200645668577
   },
   {
     "city": "Castro Valley",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 291,
-    "lastVisit": "2026-01-04T14:20:00",
+    "visitors": 292,
+    "lastVisit": "2026-01-04T20:24:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6207312425781034
+    "normalized": 0.6211050759757153
   },
   {
     "city": "Tubingen",
@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 11,
-    "lastVisit": "2025-12-27T12:36:00",
+    "visitors": 12,
+    "lastVisit": "2026-01-04T15:13:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.27171500581849634
+    "normalized": 0.28046736872239
   },
   {
     "city": "Visalia",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 671,
-    "lastVisit": "2026-01-04T04:41:00",
+    "visitors": 672,
+    "lastVisit": "2026-01-04T16:08:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7118717650926961
+    "normalized": 0.7120343616465168
   },
   {
     "city": "Riegelsberg",
@@ -7553,11 +7553,11 @@
   {
     "city": "Jersey City",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2025-12-27T20:07:00",
+    "visitors": 9,
+    "lastVisit": "2026-01-04T18:32:00",
     "lat": 40.72816,
     "lon": -74.07764,
-    "normalized": 0.2402580752344917
+    "normalized": 0.25177884327921823
   },
   {
     "city": "Pickens",
@@ -8584,5 +8584,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.1515859682012505
+  },
+  {
+    "city": "Hollywood Park",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-04T17:32:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07579298410062525
   }
 ]
