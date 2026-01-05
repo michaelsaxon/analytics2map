@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 108,
-    "lastVisit": "2026-01-04T03:11:00",
+    "visitors": 109,
+    "lastVisit": "2026-01-05T00:10:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5129808869179187
+    "normalized": 0.5139794889477952
   },
   {
     "city": "Lompoc",
@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 31,
-    "lastVisit": "2026-01-03T20:19:00",
+    "visitors": 32,
+    "lastVisit": "2026-01-04T21:44:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.37896492050312625
+    "normalized": 0.3823296832858228
   },
   {
     "city": null,
@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 141,
-    "lastVisit": "2026-01-04T03:51:00",
+    "visitors": 144,
+    "lastVisit": "2026-01-05T02:50:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5419006697521096
+    "normalized": 0.5441867355034367
   },
   {
     "city": null,
@@ -1667,11 +1667,11 @@
   {
     "city": "Milan",
     "country": "Italy",
-    "visitors": 9,
-    "lastVisit": "2025-12-08T00:08:00",
+    "visitors": 10,
+    "lastVisit": "2026-01-05T02:46:00",
     "lat": 45.46427,
     "lon": 9.18951,
-    "normalized": 0.25177884327921823
+    "normalized": 0.262200645668577
   },
   {
     "city": "Verona",
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 17,
-    "lastVisit": "2025-12-06T05:32:00",
+    "visitors": 22,
+    "lastVisit": "2026-01-04T23:10:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.3160510593351169
+    "normalized": 0.34285425941362246
   },
   {
     "city": "Seongnam-si",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 50,
-    "lastVisit": "2026-01-04T01:30:00",
+    "visitors": 51,
+    "lastVisit": "2026-01-04T21:58:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.42993004375602933
+    "normalized": 0.4320533369236405
   },
   {
     "city": "Sabz",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 292,
-    "lastVisit": "2026-01-04T20:24:00",
+    "visitors": 293,
+    "lastVisit": "2026-01-05T02:23:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6211050759757153
+    "normalized": 0.6214776356625191
   },
   {
     "city": "Tubingen",
@@ -8592,6 +8592,15 @@
     "lastVisit": "2026-01-04T17:32:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.07579298410062525
+  },
+  {
+    "city": "Surbiton",
+    "country": "United Kingdom",
+    "visitors": 1,
+    "lastVisit": "2026-01-05T01:10:00",
+    "lat": 51.39148,
+    "lon": -0.29825,
     "normalized": 0.07579298410062525
   }
 ]
