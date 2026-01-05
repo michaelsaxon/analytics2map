@@ -6010,3 +6010,10 @@ timestamp	country	city	num_unique
 2026-01-05T02:23:00	China	Lanzhou	1
 2026-01-05T02:46:00	Italy	Milan	1
 2026-01-05T02:50:00	Japan		1
+2026-01-05T04:26:00	India	Bengaluru	1
+2026-01-05T05:13:00	Japan	Tokorozawa	1
+2026-01-05T07:19:00	India	Bengaluru	1
+2026-01-05T07:20:00	India	Bengaluru	1
+2026-01-05T07:25:00	Pakistan	Lahore	1
+2026-01-05T08:30:00	China	Lanzhou	1
+2026-01-05T08:34:00	United States		1
