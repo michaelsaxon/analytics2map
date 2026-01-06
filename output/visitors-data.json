@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 51,
-    "lastVisit": "2026-01-04T21:58:00",
+    "visitors": 52,
+    "lastVisit": "2026-01-05T22:10:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.43204829526918676
+    "normalized": 0.4341311179830431
   },
   {
     "city": "Sabz",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 300,
-    "lastVisit": "2026-01-05T20:17:00",
+    "visitors": 302,
+    "lastVisit": "2026-01-06T02:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6240433231699712
+    "normalized": 0.6247674641366411
   },
   {
     "city": "Tubingen",
@@ -7157,11 +7157,11 @@
   {
     "city": "Indianapolis",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2025-12-23T14:01:00",
+    "visitors": 10,
+    "lastVisit": "2026-01-06T02:35:00",
     "lat": 39.76838,
     "lon": -86.15804,
-    "normalized": 0.2273762990042164
+    "normalized": 0.26219758603463816
   },
   {
     "city": "Virginia Beach",
@@ -8620,5 +8620,14 @@
     "lat": 41.63526,
     "lon": -70.92701,
     "normalized": 0.12012763582481474
+  },
+  {
+    "city": "Fort Lauderdale",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-06T01:44:00",
+    "lat": 26.12231,
+    "lon": -80.14338,
+    "normalized": 0.07579209966807214
   }
 ]
