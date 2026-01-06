@@ -110,11 +110,11 @@
   {
     "city": "Dallas",
     "country": "United States",
-    "visitors": 19,
-    "lastVisit": "2025-12-30T22:58:00",
+    "visitors": 20,
+    "lastVisit": "2026-01-05T11:09:00",
     "lat": 44.91928,
     "lon": -123.31705,
-    "normalized": 0.32756800492594407
+    "normalized": 0.33290295988105756
   },
   {
     "city": "San Jose",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 46,
-    "lastVisit": "2025-12-25T16:44:00",
+    "visitors": 48,
+    "lastVisit": "2026-01-05T11:38:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.42099395186151384
+    "normalized": 0.4255506481124856
   },
   {
     "city": "Oakland",
@@ -1649,11 +1649,11 @@
   {
     "city": "Mumbai",
     "country": "India",
-    "visitors": 8,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 9,
+    "lastVisit": "2026-01-05T10:34:00",
     "lat": 19.07283,
     "lon": 72.88261,
-    "normalized": 0.24025527164962948
+    "normalized": 0.25177590525787197
   },
   {
     "city": "Ahmedabad",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 294,
-    "lastVisit": "2026-01-05T08:30:00",
+    "visitors": 297,
+    "lastVisit": "2026-01-05T14:35:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6218416738987244
+    "normalized": 0.6229480396915492
   },
   {
     "city": "Tubingen",
@@ -8602,5 +8602,23 @@
     "lat": 51.39148,
     "lon": -0.29825,
     "normalized": 0.07579209966807214
+  },
+  {
+    "city": "Naperville",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-05T12:25:00",
+    "lat": 41.78586,
+    "lon": -88.14729,
+    "normalized": 0.07579209966807214
+  },
+  {
+    "city": "New Bedford",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-01-05T14:52:00",
+    "lat": 41.63526,
+    "lon": -70.92701,
+    "normalized": 0.12012763582481474
   }
 ]
