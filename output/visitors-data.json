@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 32,
-    "lastVisit": "2026-01-04T21:44:00",
+    "visitors": 33,
+    "lastVisit": "2026-01-06T07:33:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.3823252218594529
+    "normalized": 0.3855894907216592
   },
   {
     "city": null,
@@ -1631,11 +1631,11 @@
   {
     "city": "Shenzhen",
     "country": "China",
-    "visitors": 8,
-    "lastVisit": "2026-01-03T00:56:00",
+    "visitors": 10,
+    "lastVisit": "2026-01-06T07:20:00",
     "lat": 22.54554,
     "lon": 114.0683,
-    "normalized": 0.24025527164962948
+    "normalized": 0.26219758603463816
   },
   {
     "city": "Huzhou",
@@ -1766,11 +1766,11 @@
   {
     "city": "Sydney",
     "country": "Australia",
-    "visitors": 10,
-    "lastVisit": "2025-12-26T19:46:00",
+    "visitors": 11,
+    "lastVisit": "2026-01-06T08:13:00",
     "lat": -33.86785,
     "lon": 151.20732,
-    "normalized": 0.26219758603463816
+    "normalized": 0.27171183516095904
   },
   {
     "city": "Ormiston",
@@ -3197,11 +3197,11 @@
   {
     "city": "Tabriz",
     "country": "Iran",
-    "visitors": 6,
-    "lastVisit": "2025-12-24T06:31:00",
+    "visitors": 8,
+    "lastVisit": "2026-01-06T07:04:00",
     "lat": 38.08,
     "lon": 46.2919,
-    "normalized": 0.2127753240562428
+    "normalized": 0.24025527164962948
   },
   {
     "city": "Victoria",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 302,
-    "lastVisit": "2026-01-06T02:17:00",
+    "visitors": 304,
+    "lastVisit": "2026-01-06T08:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6247674641366411
+    "normalized": 0.6254868409835229
   },
   {
     "city": "Tubingen",
@@ -8628,6 +8628,33 @@
     "lastVisit": "2026-01-06T01:44:00",
     "lat": 26.12231,
     "lon": -80.14338,
+    "normalized": 0.07579209966807214
+  },
+  {
+    "city": "Geneva",
+    "country": "Switzerland",
+    "visitors": 1,
+    "lastVisit": "2026-01-06T02:57:00",
+    "lat": 46.94809,
+    "lon": 7.44744,
+    "normalized": 0.07579209966807214
+  },
+  {
+    "city": "Thun",
+    "country": "Switzerland",
+    "visitors": 1,
+    "lastVisit": "2026-01-06T03:06:00",
+    "lat": 46.75118,
+    "lon": 7.62166,
+    "normalized": 0.07579209966807214
+  },
+  {
+    "city": "Karaj",
+    "country": "Iran",
+    "visitors": 1,
+    "lastVisit": "2026-01-06T06:43:00",
+    "lat": 35.83266,
+    "lon": 50.99155,
     "normalized": 0.07579209966807214
   }
 ]
