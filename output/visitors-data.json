@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 61,
-    "lastVisit": "2026-01-02T04:36:00",
+    "visitors": 74,
+    "lastVisit": "2026-01-06T20:59:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.45127577479986974
+    "normalized": 0.4720897387507868
   },
   {
     "city": "Recife",
@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 7,
-    "lastVisit": "2025-12-05T09:30:00",
+    "visitors": 8,
+    "lastVisit": "2026-01-06T18:49:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.22737364605159346
+    "normalized": 0.2402524684293471
   },
   {
     "city": "Athens",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 305,
-    "lastVisit": "2026-01-06T14:48:00",
+    "visitors": 306,
+    "lastVisit": "2026-01-06T20:26:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6258374602183767
+    "normalized": 0.6261942096719647
   },
   {
     "city": "Tubingen",
@@ -8165,11 +8165,11 @@
   {
     "city": "Chesterbrook",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-12-22T04:31:00",
+    "visitors": 2,
+    "lastVisit": "2026-01-06T17:07:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.07579121535053115
+    "normalized": 0.12012623421467356
   },
   {
     "city": "Mishawaka",
@@ -8665,5 +8665,23 @@
     "lat": 39.55388,
     "lon": -104.96943,
     "normalized": 0.17598175226805662
+  },
+  {
+    "city": "Dusseldorf",
+    "country": "Germany",
+    "visitors": 1,
+    "lastVisit": "2026-01-06T15:14:00",
+    "lat": 51.22172,
+    "lon": 6.77616,
+    "normalized": 0.07579121535053115
+  },
+  {
+    "city": "Lagrangeville",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-01-06T16:45:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.12012623421467356
   }
 ]
