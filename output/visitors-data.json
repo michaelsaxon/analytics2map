@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 168,
-    "lastVisit": "2026-01-04T17:26:00",
+    "visitors": 172,
+    "lastVisit": "2026-01-07T11:27:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5609216471385807
+    "normalized": 0.5634795090519529
   },
   {
     "city": "Ashburn",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 110,
-    "lastVisit": "2026-01-06T10:35:00",
+    "visitors": 113,
+    "lastVisit": "2026-01-07T13:44:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5149570361076066
+    "normalized": 0.5178730385300538
   },
   {
     "city": "Lompoc",
@@ -1073,11 +1073,11 @@
   {
     "city": "Vancouver",
     "country": "Canada",
-    "visitors": 13,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 14,
+    "lastVisit": "2026-01-07T12:02:00",
     "lat": 49.24966,
     "lon": -123.11934,
-    "normalized": 0.28856405681357267
+    "normalized": 0.2961079864827302
   },
   {
     "city": "Sundbyberg",
@@ -5771,11 +5771,11 @@
   {
     "city": "Denver",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2025-12-29T09:25:00",
+    "visitors": 11,
+    "lastVisit": "2026-01-07T13:15:00",
     "lat": 39.73915,
     "lon": -104.9847,
-    "normalized": 0.262194526798576
+    "normalized": 0.27170866491573586
   },
   {
     "city": "Charlotte",
@@ -8682,6 +8682,15 @@
     "lastVisit": "2026-01-06T16:45:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.12012623421467356
+  },
+  {
+    "city": "Wasco",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-01-07T13:30:00",
+    "lat": 35.59412,
+    "lon": -119.34095,
     "normalized": 0.12012623421467356
   }
 ]
