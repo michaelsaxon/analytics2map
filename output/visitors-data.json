@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 210,
-    "lastVisit": "2026-01-07T08:38:00",
+    "visitors": 211,
+    "lastVisit": "2026-01-07T16:32:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5851914913541177
+    "normalized": 0.5857084833835741
   },
   {
     "city": "Santa Clara",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 46,
-    "lastVisit": "2026-01-06T12:40:00",
+    "visitors": 49,
+    "lastVisit": "2026-01-07T17:36:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.4209890398411594
+    "normalized": 0.42775471988664443
   },
   {
     "city": "Stanford",
@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2025-12-29T09:30:00",
+    "visitors": 9,
+    "lastVisit": "2026-01-07T16:42:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.2402524684293471
+    "normalized": 0.2517729676185878
   },
   {
     "city": "Massapequa",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 50,
-    "lastVisit": "2026-01-06T14:29:00",
+    "visitors": 52,
+    "lastVisit": "2026-01-07T16:06:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.429920010653172
+    "normalized": 0.4341260526825118
   },
   {
     "city": "Oakland",
@@ -2189,11 +2189,11 @@
   {
     "city": "Toronto",
     "country": "Canada",
-    "visitors": 19,
-    "lastVisit": "2026-01-01T18:20:00",
+    "visitors": 23,
+    "lastVisit": "2026-01-07T16:14:00",
     "lat": 43.70643,
     "lon": -79.39864,
-    "normalized": 0.32756418296911893
+    "normalized": 0.34749988026626705
   },
   {
     "city": "Surrey",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2026-01-06T09:31:00",
+    "visitors": 25,
+    "lastVisit": "2026-01-07T16:29:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.35196350453611325
+    "normalized": 0.35625203891982155
   },
   {
     "city": "Minneapolis",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 306,
-    "lastVisit": "2026-01-06T20:26:00",
+    "visitors": 309,
+    "lastVisit": "2026-01-07T20:30:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6261942096719647
+    "normalized": 0.6272575270679264
   },
   {
     "city": "Tubingen",
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-01-03T05:09:00",
+    "visitors": 5,
+    "lastVisit": "2026-01-07T16:28:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.17598175226805662
+    "normalized": 0.1959174495652047
   },
   {
     "city": "Prague",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 674,
-    "lastVisit": "2026-01-05T18:50:00",
+    "visitors": 681,
+    "lastVisit": "2026-01-07T19:38:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.712342207180134
+    "normalized": 0.7134703015984457
   },
   {
     "city": "Riegelsberg",
@@ -8692,5 +8692,14 @@
     "lat": 35.59412,
     "lon": -119.34095,
     "normalized": 0.12012623421467356
+  },
+  {
+    "city": "Idaho Springs",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-07T16:30:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07579121535053115
   }
 ]
