@@ -6050,11 +6050,11 @@
   {
     "city": "Rajshahi",
     "country": "Bangladesh",
-    "visitors": 1,
-    "lastVisit": "2025-10-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2026-01-09T07:43:00",
     "lat": 24.374,
     "lon": 88.60114,
-    "normalized": 0.0757797296761197
+    "normalized": 0.17595508335795193
   },
   {
     "city": "Kobenhavn O",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 318,
-    "lastVisit": "2026-01-09T01:10:00",
+    "visitors": 319,
+    "lastVisit": "2026-01-09T03:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6302912794758501
+    "normalized": 0.6306334614146701
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 687,
-    "lastVisit": "2026-01-08T23:09:00",
+    "visitors": 689,
+    "lastVisit": "2026-01-09T06:39:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7143197949668598
+    "normalized": 0.7146371450886873
   },
   {
     "city": "Riegelsberg",
@@ -6995,11 +6995,11 @@
   {
     "city": "Evanston",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-11-17T19:20:00",
+    "visitors": 2,
+    "lastVisit": "2026-01-09T08:05:00",
     "lat": 42.04114,
     "lon": -87.69006,
-    "normalized": 0.0757797296761197
+    "normalized": 0.12010802985143591
   },
   {
     "city": "Sacramento",
