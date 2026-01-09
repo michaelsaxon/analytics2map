@@ -155,11 +155,11 @@
   {
     "city": "Stanford",
     "country": "United States",
-    "visitors": 18,
-    "lastVisit": "2025-11-19T21:26:00",
+    "visitors": 20,
+    "lastVisit": "2026-01-08T14:28:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.3219555889648491
+    "normalized": 0.33289907567771504
   },
   {
     "city": "Solvang",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 312,
-    "lastVisit": "2026-01-08T08:27:00",
+    "visitors": 315,
+    "lastVisit": "2026-01-08T14:44:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6283106036878321
+    "normalized": 0.6293536349086856
   },
   {
     "city": "Tubingen",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2026-01-02T16:38:00",
+    "visitors": 12,
+    "lastVisit": "2026-01-08T10:10:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.27170866491573586
+    "normalized": 0.28046082356929036
   },
   {
     "city": "Cairo",
@@ -8606,11 +8606,11 @@
   {
     "city": "Naperville",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-01-05T12:25:00",
+    "visitors": 3,
+    "lastVisit": "2026-01-08T11:02:00",
     "lat": 41.78586,
     "lon": -88.14729,
-    "normalized": 0.07579121535053115
+    "normalized": 0.1515824307010623
   },
   {
     "city": "New Bedford",
