@@ -155,11 +155,11 @@
   {
     "city": "Stanford",
     "country": "United States",
-    "visitors": 20,
-    "lastVisit": "2026-01-08T14:28:00",
+    "visitors": 21,
+    "lastVisit": "2026-01-09T19:00:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.33284862694988526
+    "normalized": 0.33793452256947537
   },
   {
     "city": "Solvang",
@@ -3116,11 +3116,11 @@
   {
     "city": null,
     "country": "Norway",
-    "visitors": 3,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2026-01-09T16:38:00",
     "lat": 59.91273,
     "lon": 10.74609,
-    "normalized": 0.1515594593522394
+    "normalized": 0.17595508335795193
   },
   {
     "city": null,
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 322,
-    "lastVisit": "2026-01-09T14:39:00",
+    "visitors": 323,
+    "lastVisit": "2026-01-09T20:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6316536278236412
+    "normalized": 0.631991578757983
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 689,
-    "lastVisit": "2026-01-09T06:39:00",
+    "visitors": 692,
+    "lastVisit": "2026-01-09T17:59:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7146371450886873
+    "normalized": 0.7151114496946768
   },
   {
     "city": "Riegelsberg",
@@ -7157,20 +7157,20 @@
   {
     "city": "Indianapolis",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2026-01-06T02:35:00",
+    "visitors": 12,
+    "lastVisit": "2026-01-09T19:16:00",
     "lat": 39.76838,
     "lon": -86.15804,
-    "normalized": 0.26215479289335564
+    "normalized": 0.28041832152350854
   },
   {
     "city": "Virginia Beach",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-11-22T17:23:00",
+    "visitors": 6,
+    "lastVisit": "2026-01-09T16:11:00",
     "lat": 36.85293,
     "lon": -75.97799,
-    "normalized": 0.0757797296761197
+    "normalized": 0.21274059709844934
   },
   {
     "city": "Chiyoda City",
