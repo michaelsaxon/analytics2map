@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 180,
-    "lastVisit": "2026-01-08T07:47:00",
+    "visitors": 182,
+    "lastVisit": "2026-01-09T14:35:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5683362939357235
+    "normalized": 0.5695377020720214
   },
   {
     "city": "Ashburn",
@@ -74,11 +74,11 @@
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 19,
-    "lastVisit": "2026-01-06T11:53:00",
+    "visitors": 21,
+    "lastVisit": "2026-01-09T14:26:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.32751454271019137
+    "normalized": 0.33793452256947537
   },
   {
     "city": "New York",
@@ -470,11 +470,11 @@
   {
     "city": "Cambridge",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2025-11-21T12:44:00",
+    "visitors": 26,
+    "lastVisit": "2026-01-09T14:13:00",
     "lat": 42.3751,
     "lon": -71.10561,
-    "normalized": 0.35191016671590386
+    "normalized": 0.3603240895543077
   },
   {
     "city": "San Diego",
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 67,
-    "lastVisit": "2025-12-14T06:28:00",
+    "visitors": 69,
+    "lastVisit": "2026-01-09T13:22:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.46130628852337435
+    "normalized": 0.464475410132521
   },
   {
     "city": "Rochester",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 319,
-    "lastVisit": "2026-01-09T03:16:00",
+    "visitors": 322,
+    "lastVisit": "2026-01-09T14:39:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6306334614146701
+    "normalized": 0.6316536278236412
   },
   {
     "city": "Tubingen",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-01-08T10:10:00",
+    "visitors": 13,
+    "lastVisit": "2026-01-09T14:24:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.28041832152350854
+    "normalized": 0.288520326774569
   },
   {
     "city": "Cairo",
@@ -6995,11 +6995,11 @@
   {
     "city": "Evanston",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-01-09T08:05:00",
+    "visitors": 3,
+    "lastVisit": "2026-01-09T08:06:00",
     "lat": 42.04114,
     "lon": -87.69006,
-    "normalized": 0.12010802985143591
+    "normalized": 0.1515594593522394
   },
   {
     "city": "Sacramento",
@@ -8710,5 +8710,14 @@
     "lat": 37.59855,
     "lon": -122.38719,
     "normalized": 0.12010802985143591
+  },
+  {
+    "city": "Riverside",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-09T11:43:00",
+    "lat": 33.95335,
+    "lon": -117.39616,
+    "normalized": 0.0757797296761197
   }
 ]
