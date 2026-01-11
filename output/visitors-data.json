@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 324,
-    "lastVisit": "2026-01-09T22:38:00",
+    "visitors": 325,
+    "lastVisit": "2026-01-10T08:35:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6323284882394125
+    "normalized": 0.6326643626670408
   },
   {
     "city": "Tubingen",
