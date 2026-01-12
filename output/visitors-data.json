@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 76,
-    "lastVisit": "2026-01-07T21:10:00",
+    "visitors": 78,
+    "lastVisit": "2026-01-12T08:34:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.47487326727333545
+    "normalized": 0.4776765477206878
   },
   {
     "city": "Four Oaks",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 125,
-    "lastVisit": "2025-12-23T20:23:00",
+    "visitors": 127,
+    "lastVisit": "2026-01-12T04:57:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.528711755608266
+    "normalized": 0.5304333966583054
   },
   {
     "city": "Rowland Heights",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 333,
-    "lastVisit": "2026-01-12T02:55:00",
+    "visitors": 334,
+    "lastVisit": "2026-01-12T08:19:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6352852492051181
+    "normalized": 0.6356120714134568
   },
   {
     "city": "Tubingen",
