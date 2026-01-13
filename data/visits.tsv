@@ -6378,3 +6378,13 @@ timestamp	country	city	num_unique
 2026-01-12T20:24:00	China	Lanzhou	1
 2026-01-12T20:24:00	United States	Seattle	1
 2026-01-12T20:34:00	United States	Orangeburg	1
+2026-01-12T21:21:00	Singapore	Singapore	1
+2026-01-12T21:44:00	Hong Kong		1
+2026-01-12T21:48:00	Hong Kong		1
+2026-01-12T22:17:00	Hong Kong		1
+2026-01-13T00:32:00	Hong Kong		1
+2026-01-13T00:49:00	India	Hyderabad	1
+2026-01-13T01:01:00	Taiwan		1
+2026-01-13T01:02:00	Taiwan		1
+2026-01-13T02:16:00	China	Lanzhou	1
+2026-01-13T02:44:00	India	Hyderabad	1
