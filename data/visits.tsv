@@ -6388,3 +6388,17 @@ timestamp	country	city	num_unique
 2026-01-13T01:02:00	Taiwan		1
 2026-01-13T02:16:00	China	Lanzhou	1
 2026-01-13T02:44:00	India	Hyderabad	1
+2026-01-13T03:06:00	Hong Kong		1
+2026-01-13T03:07:00	Hong Kong		1
+2026-01-13T03:08:00	Hong Kong		1
+2026-01-13T03:15:00	Hong Kong	Hong Kong	1
+2026-01-13T04:10:00	Hong Kong	Hong Kong	1
+2026-01-13T04:11:00	Hong Kong	Hong Kong	1
+2026-01-13T04:43:00	Poland	Warsaw	1
+2026-01-13T04:53:00	Singapore	Singapore	1
+2026-01-13T05:33:00	Hong Kong	Hong Kong	1
+2026-01-13T07:30:00	China	Lanzhou	1
+2026-01-13T07:32:00	United States	San Jose	1
+2026-01-13T07:34:00	United States	San Jose	1
+2026-01-13T07:42:00	United States	San Jose	1
+2026-01-13T08:17:00	China	Lanzhou	1
