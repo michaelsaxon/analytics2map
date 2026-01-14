@@ -6402,3 +6402,15 @@ timestamp	country	city	num_unique
 2026-01-13T07:34:00	United States	San Jose	1
 2026-01-13T07:42:00	United States	San Jose	1
 2026-01-13T08:17:00	China	Lanzhou	1
+2026-01-13T10:01:00	United States	Seattle	1
+2026-01-13T10:05:00	United States	Seattle	1
+2026-01-13T10:56:00	United States	Highlands Ranch	1
+2026-01-13T10:57:00	Canada	Ottawa	1
+2026-01-13T11:16:00	Netherlands	Amsterdam	1
+2026-01-13T11:35:00	United States	Seattle	1
+2026-01-13T11:55:00	United States	Tempe	1
+2026-01-13T11:56:00	United States	Council Bluffs	1
+2026-01-13T11:56:00	United States	Aspen	1
+2026-01-13T14:18:00	China	Lanzhou	1
+2026-01-13T14:53:00	Singapore	Singapore	1
+2026-01-13T14:56:00	United States		1
