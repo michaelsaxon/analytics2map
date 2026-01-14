@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 65,
-    "lastVisit": "2026-01-14T00:27:00",
+    "visitors": 68,
+    "lastVisit": "2026-01-14T09:00:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.4579839005567532
+    "normalized": 0.462843057900818
   },
   {
     "city": "Ames",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 126,
-    "lastVisit": "2026-01-13T23:24:00",
+    "visitors": 127,
+    "lastVisit": "2026-01-14T04:01:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5295328215541457
+    "normalized": 0.530390183133449
   },
   {
     "city": "Lompoc",
@@ -209,11 +209,11 @@
   {
     "city": "Delhi",
     "country": "India",
-    "visitors": 20,
-    "lastVisit": "2025-12-08T17:35:00",
+    "visitors": 22,
+    "lastVisit": "2026-01-14T08:07:00",
     "lat": 28.65195,
     "lon": 77.23149,
-    "normalized": 0.3328060060354094
+    "normalized": 0.34275040775551174
   },
   {
     "city": null,
@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 46,
-    "lastVisit": "2026-01-12T19:56:00",
+    "visitors": 48,
+    "lastVisit": "2026-01-14T07:46:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.42087134261033093
+    "normalized": 0.42542671178020636
   },
   {
     "city": "Manhattan",
@@ -533,11 +533,11 @@
   {
     "city": "Des Moines",
     "country": "United States",
-    "visitors": 23,
-    "lastVisit": "2026-01-08T17:54:00",
+    "visitors": 24,
+    "lastVisit": "2026-01-14T06:33:00",
     "lat": 47.40177,
     "lon": -122.32429,
-    "normalized": 0.3474027286310701
+    "normalized": 0.35186510499143103
   },
   {
     "city": "West Milford",
@@ -677,11 +677,11 @@
   {
     "city": "Rochester",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2024-01-01T00:00:00",
+    "visitors": 5,
+    "lastVisit": "2026-01-14T08:36:00",
     "lat": 43.15478,
     "lon": -77.61556,
-    "normalized": 0.07577002616192129
+    "normalized": 0.19586267630722748
   },
   {
     "city": "Mountain View",
@@ -722,11 +722,11 @@
   {
     "city": "Charlottesville",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-01-13T21:51:00",
+    "visitors": 5,
+    "lastVisit": "2026-01-14T05:31:00",
     "lat": 38.02931,
     "lon": -78.47668,
-    "normalized": 0.17593255249571552
+    "normalized": 0.19586267630722748
   },
   {
     "city": "Winter Haven",
@@ -794,11 +794,11 @@
   {
     "city": "Mississauga",
     "country": "Canada",
-    "visitors": 2,
-    "lastVisit": "2025-06-01T00:00:00",
+    "visitors": 5,
+    "lastVisit": "2026-01-14T08:53:00",
     "lat": 43.5789,
     "lon": -79.6583,
-    "normalized": 0.1200926501453062
+    "normalized": 0.19586267630722748
   },
   {
     "city": "Beauharnois",
@@ -1334,11 +1334,11 @@
   {
     "city": null,
     "country": "Sweden",
-    "visitors": 25,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 26,
+    "lastVisit": "2026-01-14T04:25:00",
     "lat": 59.32938,
     "lon": 18.06871,
-    "normalized": 0.3561524404160845
+    "normalized": 0.3602779504359186
   },
   {
     "city": "Chino Hills",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 341,
-    "lastVisit": "2026-01-14T02:15:00",
+    "visitors": 342,
+    "lastVisit": "2026-01-14T08:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6378209052800994
+    "normalized": 0.6381400676703095
   },
   {
     "city": "Tubingen",
@@ -7661,11 +7661,11 @@
   {
     "city": "Blacksburg",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-01-03T22:48:00",
+    "visitors": 5,
+    "lastVisit": "2026-01-14T06:55:00",
     "lat": 37.22957,
     "lon": -80.41394,
-    "normalized": 0.17593255249571552
+    "normalized": 0.19586267630722748
   },
   {
     "city": "King City",
@@ -8799,6 +8799,15 @@
     "lastVisit": "2026-01-13T18:38:00",
     "lat": 59.13118,
     "lon": 10.21665,
+    "normalized": 0.07577002616192129
+  },
+  {
+    "city": "Dunn",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-14T03:09:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.07577002616192129
   }
 ]
