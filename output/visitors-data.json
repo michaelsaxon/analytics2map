@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 52,
-    "lastVisit": "2026-01-10T20:51:00",
+    "visitors": 53,
+    "lastVisit": "2026-01-13T16:54:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.43402488477389384
+    "normalized": 0.43606827378745366
   },
   {
     "city": "Stanford",
@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 94,
-    "lastVisit": "2026-01-13T03:08:00",
+    "visitors": 95,
+    "lastVisit": "2026-01-13T16:36:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.4978213028631189
+    "normalized": 0.4989660057759759
   },
   {
     "city": "Recife",
@@ -6842,11 +6842,11 @@
   {
     "city": "Moses Lake",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2025-12-16T14:55:00",
+    "visitors": 12,
+    "lastVisit": "2026-01-13T20:51:00",
     "lat": 47.13014,
     "lon": -119.27808,
-    "normalized": 0.27164534644587435
+    "normalized": 0.2803954655130428
   },
   {
     "city": "Camarillo",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 729,
-    "lastVisit": "2026-01-13T05:33:00",
+    "visitors": 731,
+    "lastVisit": "2026-01-13T16:40:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.720739294879748
+    "normalized": 0.7210383870753564
   },
   {
     "city": "Riegelsberg",
@@ -8660,11 +8660,11 @@
   {
     "city": "Highlands Ranch",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-01-13T10:56:00",
+    "visitors": 6,
+    "lastVisit": "2026-01-13T16:39:00",
     "lat": 39.55388,
     "lon": -104.96943,
-    "normalized": 0.19587179333584046
+    "normalized": 0.21272325728524683
   },
   {
     "city": "Dusseldorf",
@@ -8714,11 +8714,11 @@
   {
     "city": "Riverside",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-01-09T11:43:00",
+    "visitors": 2,
+    "lastVisit": "2026-01-13T18:43:00",
     "lat": 33.95335,
     "lon": -117.39616,
-    "normalized": 0.07577355311003385
+    "normalized": 0.12009824022580662
   },
   {
     "city": "Amity Gardens",
@@ -8781,6 +8781,24 @@
     "lastVisit": "2026-01-12T20:34:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.07577355311003385
+  },
+  {
+    "city": "Cincinnati",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-13T16:34:00",
+    "lat": 39.12711,
+    "lon": -84.51439,
+    "normalized": 0.07577355311003385
+  },
+  {
+    "city": "Sandefjord",
+    "country": "Norway",
+    "visitors": 1,
+    "lastVisit": "2026-01-13T18:38:00",
+    "lat": 59.13118,
+    "lon": 10.21665,
     "normalized": 0.07577355311003385
   }
 ]
