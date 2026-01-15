@@ -2,11 +2,11 @@
   {
     "city": "Santa Barbara",
     "country": "United States",
-    "visitors": 47,
-    "lastVisit": "2025-12-21T14:17:00",
+    "visitors": 50,
+    "lastVisit": "2026-01-14T23:35:00",
     "lat": 34.42083,
     "lon": -119.69819,
-    "normalized": 0.42315306713635303
+    "normalized": 0.429779820589176
   },
   {
     "city": "Goleta",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 130,
-    "lastVisit": "2026-01-14T21:01:00",
+    "visitors": 131,
+    "lastVisit": "2026-01-14T21:07:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5328978511822852
+    "normalized": 0.5337290943921138
   },
   {
     "city": "Lompoc",
@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 102,
-    "lastVisit": "2026-01-14T17:30:00",
+    "visitors": 107,
+    "lastVisit": "2026-01-14T22:50:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.5066127491672635
+    "normalized": 0.5117941909784366
   },
   {
     "city": "Recife",
@@ -5537,11 +5537,11 @@
   {
     "city": "Noida",
     "country": "India",
-    "visitors": 3,
-    "lastVisit": "2026-01-11T10:54:00",
+    "visitors": 4,
+    "lastVisit": "2026-01-15T02:46:00",
     "lat": 28.58,
     "lon": 77.33,
-    "normalized": 0.15153300208612447
+    "normalized": 0.17592436742319886
   },
   {
     "city": "Sanandaj",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 344,
-    "lastVisit": "2026-01-14T20:21:00",
+    "visitors": 345,
+    "lastVisit": "2026-01-15T02:27:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6387458920492532
+    "normalized": 0.6390622684070801
   },
   {
     "city": "Tubingen",
@@ -7247,11 +7247,11 @@
   {
     "city": "St. Louis",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-11-24T09:01:00",
+    "visitors": 3,
+    "lastVisit": "2026-01-14T23:07:00",
     "lat": 38.62727,
     "lon": -90.19789,
-    "normalized": 0.07576650104306223
+    "normalized": 0.15153300208612447
   },
   {
     "city": "Franklin Township",
