@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 69,
-    "lastVisit": "2026-01-14T11:24:00",
+    "visitors": 71,
+    "lastVisit": "2026-01-14T16:56:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.46439432809658454
+    "normalized": 0.46747362905739476
   },
   {
     "city": "Ames",
@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 231,
-    "lastVisit": "2026-01-13T11:35:00",
+    "visitors": 236,
+    "lastVisit": "2026-01-14T19:56:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5953717252636964
+    "normalized": 0.5977024735961002
   },
   {
     "city": "Santa Clara",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 129,
-    "lastVisit": "2026-01-14T09:21:00",
+    "visitors": 130,
+    "lastVisit": "2026-01-14T21:01:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5320602382305871
+    "normalized": 0.5328978511822852
   },
   {
     "city": "Lompoc",
@@ -533,11 +533,11 @@
   {
     "city": "Des Moines",
     "country": "United States",
-    "visitors": 26,
-    "lastVisit": "2026-01-14T09:05:00",
+    "visitors": 27,
+    "lastVisit": "2026-01-14T15:23:00",
     "lat": 47.40177,
     "lon": -122.32429,
-    "normalized": 0.36026118889231207
+    "normalized": 0.36423646171644786
   },
   {
     "city": "West Milford",
@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 98,
-    "lastVisit": "2026-01-13T23:22:00",
+    "visitors": 102,
+    "lastVisit": "2026-01-14T17:30:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.5022831552700933
+    "normalized": 0.5066127491672635
   },
   {
     "city": "Recife",
@@ -722,11 +722,11 @@
   {
     "city": "Charlottesville",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2026-01-14T09:14:00",
+    "visitors": 12,
+    "lastVisit": "2026-01-14T16:27:00",
     "lat": 38.02931,
     "lon": -78.47668,
-    "normalized": 0.2716200650502285
+    "normalized": 0.280369369764326
   },
   {
     "city": "Winter Haven",
@@ -2558,11 +2558,11 @@
   {
     "city": "Dublin",
     "country": "Ireland",
-    "visitors": 5,
-    "lastVisit": "2026-01-11T07:29:00",
+    "visitors": 6,
+    "lastVisit": "2026-01-14T16:00:00",
     "lat": 53.33306,
     "lon": -6.24889,
-    "normalized": 0.19585356400716625
+    "normalized": 0.21270345963032336
   },
   {
     "city": "Celbridge",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 342,
-    "lastVisit": "2026-01-14T08:18:00",
+    "visitors": 344,
+    "lastVisit": "2026-01-14T20:21:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6381103788909701
+    "normalized": 0.6387458920492532
   },
   {
     "city": "Tubingen",
