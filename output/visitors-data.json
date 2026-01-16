@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 192,
-    "lastVisit": "2026-01-15T07:15:00",
+    "visitors": 193,
+    "lastVisit": "2026-01-16T08:34:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5752070998644777
+    "normalized": 0.5757719541538849
   },
   {
     "city": "Ashburn",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 137,
-    "lastVisit": "2026-01-16T02:51:00",
+    "visitors": 138,
+    "lastVisit": "2026-01-16T03:02:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5385442047322196
+    "normalized": 0.5393333710612366
   },
   {
     "city": "Lompoc",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 266,
-    "lastVisit": "2026-01-10T06:10:00",
+    "visitors": 269,
+    "lastVisit": "2026-01-16T06:51:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.610681036059405
+    "normalized": 0.6119022673312955
   },
   {
     "city": null,
@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 132,
-    "lastVisit": "2026-01-15T05:18:00",
+    "visitors": 134,
+    "lastVisit": "2026-01-16T04:05:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.5345105712853224
+    "normalized": 0.536141930849833
   },
   {
     "city": "Recife",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 28,
-    "lastVisit": "2026-01-15T07:32:00",
+    "visitors": 29,
+    "lastVisit": "2026-01-16T07:35:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.368042274811415
+    "normalized": 0.37174768260102536
   },
   {
     "city": "Minneapolis",
@@ -4250,11 +4250,11 @@
   {
     "city": "Boston",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2026-01-02T23:47:00",
+    "visitors": 17,
+    "lastVisit": "2026-01-16T08:22:00",
     "lat": 42.35843,
     "lon": -71.05977,
-    "normalized": 0.30304134592585
+    "normalized": 0.3159149212117326
   },
   {
     "city": "Hoodsport",
@@ -5231,11 +5231,11 @@
   {
     "city": "Dubai",
     "country": "United Arab Emirates",
-    "visitors": 5,
-    "lastVisit": "2025-12-12T02:31:00",
+    "visitors": 8,
+    "lastVisit": "2026-01-16T06:15:00",
     "lat": 25.07725,
     "lon": 55.30927,
-    "normalized": 0.19583762884659756
+    "normalized": 0.24015458473027015
   },
   {
     "city": "Manajao",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 349,
-    "lastVisit": "2026-01-16T02:15:00",
+    "visitors": 350,
+    "lastVisit": "2026-01-16T09:01:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6402665975082921
+    "normalized": 0.6405784352711426
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 746,
-    "lastVisit": "2026-01-16T00:30:00",
+    "visitors": 761,
+    "lastVisit": "2026-01-16T07:09:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7231297171317046
+    "normalized": 0.7253027322793013
   },
   {
     "city": "Riegelsberg",
@@ -8881,5 +8881,23 @@
     "lat": 35.6581,
     "lon": 139.7515,
     "normalized": 0.19583762884659756
+  },
+  {
+    "city": "Ota City",
+    "country": "Japan",
+    "visitors": 5,
+    "lastVisit": "2026-01-16T06:33:00",
+    "lat": 35.6895,
+    "lon": 139.69171,
+    "normalized": 0.19583762884659756
+  },
+  {
+    "city": "Monterey",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-16T07:36:00",
+    "lat": 36.60024,
+    "lon": -121.89468,
+    "normalized": 0.0757603364814625
   }
 ]
