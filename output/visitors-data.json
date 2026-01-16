@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 71,
-    "lastVisit": "2026-01-14T16:56:00",
+    "visitors": 72,
+    "lastVisit": "2026-01-15T13:05:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.4674573241683649
+    "normalized": 0.46896499142036385
   },
   {
     "city": "Ames",
@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 239,
-    "lastVisit": "2026-01-15T08:30:00",
+    "visitors": 243,
+    "lastVisit": "2026-01-15T13:33:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.5990565394962079
+    "normalized": 0.6008632606770191
   },
   {
     "city": "Santa Clara",
@@ -722,11 +722,11 @@
   {
     "city": "Charlottesville",
     "country": "United States",
-    "visitors": 13,
-    "lastVisit": "2026-01-15T07:53:00",
+    "visitors": 14,
+    "lastVisit": "2026-01-15T09:43:00",
     "lat": 38.02931,
     "lon": -78.47668,
-    "normalized": 0.2884598992059469
+    "normalized": 0.2960011058829372
   },
   {
     "city": "Winter Haven",
@@ -2135,11 +2135,11 @@
   {
     "city": "Tempe",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-01-13T11:55:00",
+    "visitors": 13,
+    "lastVisit": "2026-01-15T10:18:00",
     "lat": 33.41477,
     "lon": -111.90931,
-    "normalized": 0.28035959083525447
+    "normalized": 0.2884598992059469
   },
   {
     "city": "Ludhiana",
@@ -5609,11 +5609,11 @@
   {
     "city": "Karachi",
     "country": "Pakistan",
-    "visitors": 1,
-    "lastVisit": "2025-07-01T00:00:00",
+    "visitors": 2,
+    "lastVisit": "2026-01-15T10:00:00",
     "lat": 24.8608,
     "lon": 67.0104,
-    "normalized": 0.07576385840331766
+    "normalized": 0.12008287447920596
   },
   {
     "city": "Arlington",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 346,
-    "lastVisit": "2026-01-15T08:17:00",
+    "visitors": 347,
+    "lastVisit": "2026-01-15T14:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6393554310138101
+    "normalized": 0.6396699755266949
   },
   {
     "city": "Tubingen",
@@ -7004,11 +7004,11 @@
   {
     "city": "Sacramento",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-01-02T14:50:00",
+    "visitors": 8,
+    "lastVisit": "2026-01-15T13:16:00",
     "lat": 38.58157,
     "lon": -121.4944,
-    "normalized": 0.1958467328825236
+    "normalized": 0.24016574895841192
   },
   {
     "city": "Yorba Linda",
@@ -8845,5 +8845,23 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.07576385840331766
+  },
+  {
+    "city": "Bothell",
+    "country": "United States",
+    "visitors": 4,
+    "lastVisit": "2026-01-15T12:13:00",
+    "lat": 47.76232,
+    "lon": -122.2054,
+    "normalized": 0.17591823140373125
+  },
+  {
+    "city": "Norman",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-01-15T14:28:00",
+    "lat": 35.22257,
+    "lon": -97.43948,
+    "normalized": 0.12008287447920596
   }
 ]
