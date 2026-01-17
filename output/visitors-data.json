@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 269,
-    "lastVisit": "2026-01-16T06:51:00",
+    "visitors": 270,
+    "lastVisit": "2026-01-16T19:33:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6119022673312955
+    "normalized": 0.612306330866299
   },
   {
     "city": null,
@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 134,
-    "lastVisit": "2026-01-16T04:05:00",
+    "visitors": 137,
+    "lastVisit": "2026-01-16T19:10:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.536141930849833
+    "normalized": 0.5385442047322196
   },
   {
     "city": "Recife",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 761,
-    "lastVisit": "2026-01-16T07:09:00",
+    "visitors": 769,
+    "lastVisit": "2026-01-16T20:23:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7253027322793013
+    "normalized": 0.7264442472164364
   },
   {
     "city": "Riegelsberg",
