@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 73,
-    "lastVisit": "2026-01-16T11:09:00",
+    "visitors": 74,
+    "lastVisit": "2026-01-17T04:15:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.47043027634599915
+    "normalized": 0.4718973998739906
   },
   {
     "city": "Ames",
@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 137,
-    "lastVisit": "2026-01-16T19:10:00",
+    "visitors": 139,
+    "lastVisit": "2026-01-17T03:56:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.5385442047322196
+    "normalized": 0.5401168802353268
   },
   {
     "city": "Recife",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 770,
-    "lastVisit": "2026-01-17T02:42:00",
+    "visitors": 784,
+    "lastVisit": "2026-01-17T05:34:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7265861019563199
+    "normalized": 0.7285529761951155
   },
   {
     "city": "Riegelsberg",
@@ -8876,11 +8876,11 @@
   {
     "city": "Minato City",
     "country": "Japan",
-    "visitors": 5,
-    "lastVisit": "2026-01-16T00:06:00",
+    "visitors": 6,
+    "lastVisit": "2026-01-17T04:51:00",
     "lat": 35.6581,
     "lon": 139.7515,
-    "normalized": 0.19583762884659756
+    "normalized": 0.21268615351797404
   },
   {
     "city": "Ota City",
