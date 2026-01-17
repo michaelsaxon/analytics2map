@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 72,
-    "lastVisit": "2026-01-15T13:05:00",
+    "visitors": 73,
+    "lastVisit": "2026-01-16T11:09:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.4689431913419703
+    "normalized": 0.47043027634599915
   },
   {
     "city": "Ames",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 80,
-    "lastVisit": "2026-01-15T07:51:00",
+    "visitors": 81,
+    "lastVisit": "2026-01-16T11:34:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.4803091694605403
+    "normalized": 0.4816502790682626
   },
   {
     "city": "Four Oaks",
@@ -4592,11 +4592,11 @@
   {
     "city": "College Station",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-12-27T23:03:00",
+    "visitors": 3,
+    "lastVisit": "2026-01-16T09:04:00",
     "lat": 30.62798,
     "lon": -96.33441,
-    "normalized": 0.12007729236513508
+    "normalized": 0.151520672962925
   },
   {
     "city": "Laurel",
@@ -4745,11 +4745,11 @@
   {
     "city": "Chapel Hill",
     "country": "United States",
-    "visitors": 43,
-    "lastVisit": "2026-01-14T11:23:00",
+    "visitors": 46,
+    "lastVisit": "2026-01-16T09:09:00",
     "lat": 35.9132,
     "lon": -79.05584,
-    "normalized": 0.41360837642549714
+    "normalized": 0.4208175204192783
   },
   {
     "city": "Cumming",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 350,
-    "lastVisit": "2026-01-16T09:01:00",
+    "visitors": 351,
+    "lastVisit": "2026-01-16T14:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6405784352711426
+    "normalized": 0.6408893858698846
   },
   {
     "city": "Tubingen",
