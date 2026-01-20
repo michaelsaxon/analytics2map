@@ -6790,3 +6790,12 @@ timestamp	country	city	num_unique
 2026-01-19T05:06:00	United States		1
 2026-01-19T07:32:00	United States	New York	1
 2026-01-19T08:47:00	China	Lanzhou	1
+2026-01-19T09:27:00	United States	Washington	1
+2026-01-19T10:39:00	United States	Detroit	1
+2026-01-19T10:48:00	China	Beijing	1
+2026-01-19T10:49:00	China	Beijing	1
+2026-01-19T12:08:00	United States	Lexington	1
+2026-01-19T12:30:00	United States	College Station	1
+2026-01-19T13:10:00	United States	Torrington	1
+2026-01-19T14:20:00	China	Lanzhou	1
+2026-01-19T14:53:00	United States		1
