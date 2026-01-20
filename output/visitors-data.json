@@ -659,11 +659,11 @@
   {
     "city": "Ann Arbor",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2025-12-20T23:23:00",
+    "visitors": 26,
+    "lastVisit": "2026-01-19T23:15:00",
     "lat": 42.27756,
     "lon": -83.74088,
-    "normalized": 0.35176293063239344
+    "normalized": 0.3601733331603236
   },
   {
     "city": "Pittsburgh",
@@ -1802,11 +1802,11 @@
   {
     "city": "Zurich",
     "country": "Switzerland",
-    "visitors": 9,
-    "lastVisit": "2025-12-03T08:20:00",
+    "visitors": 13,
+    "lastVisit": "2026-01-20T01:52:00",
     "lat": 47.36667,
     "lon": 8.55,
-    "normalized": 0.25162948942748126
+    "normalized": 0.28839961243623696
   },
   {
     "city": "Obanos",
@@ -3350,11 +3350,11 @@
   {
     "city": "Redmond",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2025-12-06T13:33:00",
+    "visitors": 8,
+    "lastVisit": "2026-01-19T22:06:00",
     "lat": 47.67399,
     "lon": -122.12151,
-    "normalized": 0.22724407233385338
+    "normalized": 0.24011555544021576
   },
   {
     "city": "Everett",
@@ -3575,11 +3575,11 @@
   {
     "city": "Melbourne",
     "country": "Australia",
-    "visitors": 5,
-    "lastVisit": "2025-12-20T20:32:00",
+    "visitors": 6,
+    "lastVisit": "2026-01-19T23:19:00",
     "lat": -37.814,
     "lon": 144.96332,
-    "normalized": 0.19580580183139235
+    "normalized": 0.2126515883249525
   },
   {
     "city": "Traralgon",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 815,
-    "lastVisit": "2026-01-19T18:06:00",
+    "visitors": 824,
+    "lastVisit": "2026-01-20T02:30:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7326671080182557
+    "normalized": 0.7338658180123792
   },
   {
     "city": "Riegelsberg",
@@ -8916,6 +8916,15 @@
     "lastVisit": "2026-01-18T21:31:00",
     "lat": 38.00437,
     "lon": -122.29886,
+    "normalized": 0.07574802411128446
+  },
+  {
+    "city": "Chino",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-19T21:49:00",
+    "lat": 34.01223,
+    "lon": -117.68894,
     "normalized": 0.07574802411128446
   }
 ]
