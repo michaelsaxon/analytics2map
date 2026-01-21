@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 200,
-    "lastVisit": "2026-01-20T20:55:00",
+    "visitors": 201,
+    "lastVisit": "2026-01-21T01:02:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5794915792118931
+    "normalized": 0.5800338626904078
   },
   {
     "city": "Ashburn",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 240,
-    "lastVisit": "2026-01-15T22:34:00",
+    "visitors": 241,
+    "lastVisit": "2026-01-21T02:46:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5993231940737666
+    "normalized": 0.5997756580604368
   },
   {
     "city": "Sylhet",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 836,
-    "lastVisit": "2026-01-20T18:57:00",
+    "visitors": 845,
+    "lastVisit": "2026-01-21T02:38:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7353671806612093
+    "normalized": 0.736535853797648
   },
   {
     "city": "Riegelsberg",
@@ -8921,10 +8921,19 @@
   {
     "city": "Chino",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-01-19T21:49:00",
+    "visitors": 2,
+    "lastVisit": "2026-01-20T22:16:00",
     "lat": 34.01223,
     "lon": -117.68894,
+    "normalized": 0.12004525124218698
+  },
+  {
+    "city": "Pasadena",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-20T22:15:00",
+    "lat": 34.14778,
+    "lon": -118.14452,
     "normalized": 0.07574012078365672
   }
 ]
