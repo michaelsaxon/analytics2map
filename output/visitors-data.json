@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 199,
-    "lastVisit": "2026-01-20T10:48:00",
+    "visitors": 200,
+    "lastVisit": "2026-01-20T20:55:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5789465910664396
+    "normalized": 0.5794915792118931
   },
   {
     "city": "Ashburn",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 82,
-    "lastVisit": "2026-01-19T07:32:00",
+    "visitors": 87,
+    "lastVisit": "2026-01-20T17:41:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.4828462565307904
+    "normalized": 0.4892381309893602
   },
   {
     "city": "Four Oaks",
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 69,
-    "lastVisit": "2026-01-09T13:22:00",
+    "visitors": 72,
+    "lastVisit": "2026-01-20T16:59:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.46423263602062764
+    "normalized": 0.4688180597192172
   },
   {
     "city": "Rochester",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 364,
-    "lastVisit": "2026-01-20T14:16:00",
+    "visitors": 365,
+    "lastVisit": "2026-01-20T20:29:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6446811740769519
+    "normalized": 0.6449801343089994
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 825,
-    "lastVisit": "2026-01-20T03:42:00",
+    "visitors": 836,
+    "lastVisit": "2026-01-20T18:57:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7339216167486974
+    "normalized": 0.7353671806612093
   },
   {
     "city": "Riegelsberg",
@@ -7184,11 +7184,11 @@
   {
     "city": "Raleigh",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-11-23T13:36:00",
+    "visitors": 4,
+    "lastVisit": "2026-01-20T18:39:00",
     "lat": 35.7721,
     "lon": -78.63861,
-    "normalized": 0.12004525124218698
+    "normalized": 0.17586311435773477
   },
   {
     "city": "Ardmore",
@@ -7445,11 +7445,11 @@
   {
     "city": "Brighton",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-11-29T20:25:00",
+    "visitors": 2,
+    "lastVisit": "2026-01-20T17:23:00",
     "lat": 39.98526,
     "lon": -104.82053,
-    "normalized": 0.07574012078365672
+    "normalized": 0.12004525124218698
   },
   {
     "city": "Merced",
@@ -8714,11 +8714,11 @@
   {
     "city": "Riverside",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-01-13T18:43:00",
+    "visitors": 4,
+    "lastVisit": "2026-01-20T17:32:00",
     "lat": 33.95335,
     "lon": -117.39616,
-    "normalized": 0.12004525124218698
+    "normalized": 0.17586311435773477
   },
   {
     "city": "Amity Gardens",
