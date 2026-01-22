@@ -6900,3 +6900,12 @@ timestamp	country	city	num_unique
 2026-01-21T08:48:00	United States	Albany	1
 2026-01-21T14:23:00	China	Lanzhou	1
 2026-01-21T14:38:00	China	Lanzhou	1
+2026-01-21T15:26:00	Brazil	Sao Vicente	1
+2026-01-21T15:33:00	Brazil	Sao Vicente	1
+2026-01-21T19:35:00	United States	Chandler	1
+2026-01-21T19:36:00	United States	Chandler	1
+2026-01-21T19:39:00	China	Lanzhou	1
+2026-01-21T20:03:00	United States		1
+2026-01-21T20:31:00	China	Lanzhou	1
+2026-01-21T20:45:00	United States	Anaheim	1
+2026-01-21T21:06:00	Hong Kong	Hong Kong	1
