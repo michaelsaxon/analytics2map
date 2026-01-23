@@ -6928,3 +6928,16 @@ timestamp	country	city	num_unique
 2026-01-22T01:00:00	Hong Kong	Hong Kong	1
 2026-01-22T01:01:00	Hong Kong	Hong Kong	1
 2026-01-22T08:17:00	China	Lanzhou	1
+2026-01-22T09:38:00	United Kingdom	Cambridge	1
+2026-01-22T09:59:00	United States	Seattle	1
+2026-01-22T11:22:00	China	Lanzhou	1
+2026-01-22T11:41:00	United States	Berkeley	1
+2026-01-22T11:48:00	United States	Atlanta	1
+2026-01-22T12:02:00	United States		1
+2026-01-22T12:04:00	United States		1
+2026-01-22T12:06:00	India	Delhi	1
+2026-01-22T12:07:00	India	Delhi	1
+2026-01-22T13:15:00	United States	Seattle	1
+2026-01-22T13:52:00	United States	Los Angeles	1
+2026-01-22T14:10:00	China	Lanzhou	1
+2026-01-22T14:18:00	China	Lanzhou	1
