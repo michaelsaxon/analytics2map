@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 51,
-    "lastVisit": "2026-01-22T11:48:00",
+    "visitors": 52,
+    "lastVisit": "2026-01-23T05:38:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.4317269862708865
+    "normalized": 0.43380826001513195
   },
   {
     "city": "Manhattan",
@@ -623,11 +623,11 @@
   {
     "city": null,
     "country": "France",
-    "visitors": 38,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 40,
+    "lastVisit": "2026-01-23T05:58:00",
     "lat": 48.85341,
     "lon": 2.3488,
-    "normalized": 0.4002938166185826
+    "normalized": 0.40575813360194235
   },
   {
     "city": null,
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 379,
-    "lastVisit": "2026-01-23T02:21:00",
+    "visitors": 380,
+    "lastVisit": "2026-01-23T08:15:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6490443049133565
+    "normalized": 0.649331462944301
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 864,
-    "lastVisit": "2026-01-23T03:03:00",
+    "visitors": 866,
+    "lastVisit": "2026-01-23T03:12:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.738919954560816
+    "normalized": 0.7391722954764012
   },
   {
     "city": "Riegelsberg",
@@ -7229,11 +7229,11 @@
   {
     "city": "Saarbrucken",
     "country": "Germany",
-    "visitors": 4,
-    "lastVisit": "2025-12-31T00:46:00",
+    "visitors": 5,
+    "lastVisit": "2026-01-23T03:36:00",
     "lat": 49.23262,
     "lon": 7.00982,
-    "normalized": 0.17585292860009688
+    "normalized": 0.1957740323975437
   },
   {
     "city": "Holbrook",
@@ -9006,6 +9006,15 @@
     "lastVisit": "2026-01-23T01:27:00",
     "lat": 32.85462,
     "lon": -79.97481,
+    "normalized": 0.07573573401661587
+  },
+  {
+    "city": "Zhubei City",
+    "country": "Taiwan",
+    "visitors": 1,
+    "lastVisit": "2026-01-23T06:08:00",
+    "lat": 25.05306,
+    "lon": 121.52639,
     "normalized": 0.07573573401661587
   }
 ]
