@@ -155,11 +155,11 @@
   {
     "city": "Stanford",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2026-01-12T18:46:00",
+    "visitors": 25,
+    "lastVisit": "2026-01-22T23:08:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.35170585720019376
+    "normalized": 0.35599125225427064
   },
   {
     "city": "Solvang",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 275,
-    "lastVisit": "2026-01-22T18:44:00",
+    "visitors": 276,
+    "lastVisit": "2026-01-22T23:49:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6141050515257761
+    "normalized": 0.6145002185673021
   },
   {
     "city": null,
@@ -335,11 +335,11 @@
   {
     "city": null,
     "country": "Germany",
-    "visitors": 156,
-    "lastVisit": "2025-12-31T09:20:00",
+    "visitors": 157,
+    "lastVisit": "2026-01-22T23:51:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.5524634567901435
+    "normalized": 0.5531571960596208
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 248,
-    "lastVisit": "2026-01-22T20:28:00",
+    "visitors": 250,
+    "lastVisit": "2026-01-22T23:05:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6028565890988566
+    "normalized": 0.6037307023038844
   },
   {
     "city": "Sylhet",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 378,
-    "lastVisit": "2026-01-22T20:14:00",
+    "visitors": 379,
+    "lastVisit": "2026-01-23T02:21:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6487563902068841
+    "normalized": 0.6490443049133565
   },
   {
     "city": "Tubingen",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2026-01-21T06:56:00",
+    "visitors": 17,
+    "lastVisit": "2026-01-22T23:05:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.3029429360664635
+    "normalized": 0.3158123307784715
   },
   {
     "city": "Cairo",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 861,
-    "lastVisit": "2026-01-22T20:57:00",
+    "visitors": 864,
+    "lastVisit": "2026-01-23T03:03:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7385403471104826
+    "normalized": 0.738919954560816
   },
   {
     "city": "Riegelsberg",
@@ -7427,11 +7427,11 @@
   {
     "city": "Athens",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-11-28T16:30:00",
+    "visitors": 3,
+    "lastVisit": "2026-01-22T22:25:00",
     "lat": 34.80243,
     "lon": -86.97219,
-    "normalized": 0.12003829838092783
+    "normalized": 0.15147146803323175
   },
   {
     "city": "Bullhead City",
@@ -8318,11 +8318,11 @@
   {
     "city": "Bhopal",
     "country": "India",
-    "visitors": 2,
-    "lastVisit": "2025-12-27T01:08:00",
+    "visitors": 4,
+    "lastVisit": "2026-01-23T00:43:00",
     "lat": 23.25469,
     "lon": 77.40289,
-    "normalized": 0.12003829838092783
+    "normalized": 0.17585292860009688
   },
   {
     "city": "Rheems",
@@ -8998,5 +8998,14 @@
     "lat": 26.56285,
     "lon": -81.94953,
     "normalized": 0.12003829838092783
+  },
+  {
+    "city": "North Charleston",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-23T01:27:00",
+    "lat": 32.85462,
+    "lon": -79.97481,
+    "normalized": 0.07573573401661587
   }
 ]
