@@ -74,11 +74,11 @@
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 23,
-    "lastVisit": "2026-01-18T17:39:00",
+    "visitors": 24,
+    "lastVisit": "2026-01-23T16:55:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.34724550043077546
+    "normalized": 0.35170585720019376
   },
   {
     "city": "New York",
@@ -3773,11 +3773,11 @@
   {
     "city": "New Brunswick",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2024-09-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2026-01-23T19:06:00",
     "lat": 40.48622,
     "lon": -74.45182,
-    "normalized": 0.12003829838092783
+    "normalized": 0.17585292860009688
   },
   {
     "city": "Zweibr\u00fccken",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 381,
-    "lastVisit": "2026-01-23T14:16:00",
+    "visitors": 382,
+    "lastVisit": "2026-01-23T20:20:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6496178682665686
+    "normalized": 0.6499035248158979
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 866,
-    "lastVisit": "2026-01-23T03:12:00",
+    "visitors": 868,
+    "lastVisit": "2026-01-23T17:18:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7391722954764012
+    "normalized": 0.7394240549607901
   },
   {
     "city": "Riegelsberg",
