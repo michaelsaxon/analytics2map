@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 250,
-    "lastVisit": "2026-01-22T23:05:00",
+    "visitors": 254,
+    "lastVisit": "2026-01-24T00:30:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6037307023038844
+    "normalized": 0.6054582255287614
   },
   {
     "city": "Sylhet",
@@ -1766,11 +1766,11 @@
   {
     "city": "Sydney",
     "country": "Australia",
-    "visitors": 11,
-    "lastVisit": "2026-01-06T08:13:00",
+    "visitors": 13,
+    "lastVisit": "2026-01-23T21:25:00",
     "lat": -33.86785,
     "lon": 151.20732,
-    "normalized": 0.2715097664141596
+    "normalized": 0.28835281968380794
   },
   {
     "city": "Ormiston",
