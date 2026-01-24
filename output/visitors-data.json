@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 202,
-    "lastVisit": "2026-01-22T13:52:00",
+    "visitors": 204,
+    "lastVisit": "2026-01-23T11:16:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5805398421719488
+    "normalized": 0.5816110622020393
   },
   {
     "city": "Ashburn",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 276,
-    "lastVisit": "2026-01-22T23:49:00",
+    "visitors": 277,
+    "lastVisit": "2026-01-23T11:16:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6145002185673021
+    "normalized": 0.6148939615803655
   },
   {
     "city": null,
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 380,
-    "lastVisit": "2026-01-23T08:15:00",
+    "visitors": 381,
+    "lastVisit": "2026-01-23T14:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.649331462944301
+    "normalized": 0.6496178682665686
   },
   {
     "city": "Tubingen",
@@ -9015,6 +9015,15 @@
     "lastVisit": "2026-01-23T06:08:00",
     "lat": 25.05306,
     "lon": 121.52639,
+    "normalized": 0.07573573401661587
+  },
+  {
+    "city": "Orting",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-23T09:45:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.07573573401661587
   }
 ]
