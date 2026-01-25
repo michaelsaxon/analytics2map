@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 384,
-    "lastVisit": "2026-01-24T14:16:00",
+    "visitors": 385,
+    "lastVisit": "2026-01-24T20:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6504650747665571
+    "normalized": 0.6507485050230807
   },
   {
     "city": "Tubingen",
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-01-07T16:28:00",
+    "visitors": 8,
+    "lastVisit": "2026-01-24T19:54:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.1957717653505835
+    "normalized": 0.24007381669489664
   },
   {
     "city": "Prague",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 871,
-    "lastVisit": "2026-01-24T04:48:00",
+    "visitors": 872,
+    "lastVisit": "2026-01-24T16:31:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7397920430172471
+    "normalized": 0.7399172720310943
   },
   {
     "city": "Riegelsberg",
@@ -9042,6 +9042,15 @@
     "lastVisit": "2026-01-24T12:40:00",
     "lat": 38.89428,
     "lon": -77.4311,
+    "normalized": 0.07573485700313518
+  },
+  {
+    "city": "Butzbach",
+    "country": "Germany",
+    "visitors": 1,
+    "lastVisit": "2026-01-24T16:57:00",
+    "lat": 50.43395,
+    "lon": 8.67122,
     "normalized": 0.07573485700313518
   }
 ]
