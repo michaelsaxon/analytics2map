@@ -11,11 +11,11 @@
   {
     "city": "Goleta",
     "country": "United States",
-    "visitors": 60,
-    "lastVisit": "2025-11-26T19:00:00",
+    "visitors": 61,
+    "lastVisit": "2026-01-25T22:50:00",
     "lat": 34.43583,
     "lon": -119.82764,
-    "normalized": 0.44915314352503455
+    "normalized": 0.45092976433759824
   },
   {
     "city": "Boardman",
@@ -4403,11 +4403,11 @@
   {
     "city": "Nanjing",
     "country": "China",
-    "visitors": 7,
-    "lastVisit": "2025-10-01T00:00:00",
+    "visitors": 9,
+    "lastVisit": "2026-01-26T01:52:00",
     "lat": 32.06167,
     "lon": 118.77778,
-    "normalized": 0.22719930994765888
+    "normalized": 0.25157992361805
   },
   {
     "city": "Atsugi",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 386,
-    "lastVisit": "2026-01-25T02:17:00",
+    "visitors": 387,
+    "lastVisit": "2026-01-26T02:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6510161269250481
+    "normalized": 0.6512980877849751
   },
   {
     "city": "Tubingen",
