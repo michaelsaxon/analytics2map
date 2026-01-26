@@ -65,20 +65,20 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 255,
-    "lastVisit": "2026-01-25T07:56:00",
+    "visitors": 257,
+    "lastVisit": "2026-01-25T15:54:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6058648265270904
+    "normalized": 0.6067151014220136
   },
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2026-01-23T16:55:00",
+    "visitors": 25,
+    "lastVisit": "2026-01-25T18:36:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.3516936406043273
+    "normalized": 0.3559788868040748
   },
   {
     "city": "New York",
@@ -911,11 +911,11 @@
   {
     "city": "Durham",
     "country": "United States",
-    "visitors": 18,
-    "lastVisit": "2026-01-12T15:26:00",
+    "visitors": 20,
+    "lastVisit": "2026-01-25T20:19:00",
     "lat": 35.99403,
     "lon": -78.89862,
-    "normalized": 0.32170873325401905
+    "normalized": 0.3326438291754713
   },
   {
     "city": "Syracuse",
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 26,
-    "lastVisit": "2026-01-15T18:15:00",
+    "visitors": 29,
+    "lastVisit": "2026-01-25T17:31:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.3601023864567625
+    "normalized": 0.3716140524369708
   },
   {
     "city": "Seongnam-si",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 875,
-    "lastVisit": "2026-01-25T02:26:00",
+    "visitors": 877,
+    "lastVisit": "2026-01-25T17:34:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7402749582755642
+    "normalized": 0.7405241254818062
   },
   {
     "city": "Riegelsberg",
@@ -7535,11 +7535,11 @@
   {
     "city": "Fremont",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2025-12-08T03:04:00",
+    "visitors": 5,
+    "lastVisit": "2026-01-25T16:21:00",
     "lat": 37.54827,
     "lon": -121.98857,
-    "normalized": 0.1514662066317726
+    "normalized": 0.19576723213480712
   },
   {
     "city": "Grants Pass",
@@ -8714,11 +8714,11 @@
   {
     "city": "Riverside",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-01-20T17:32:00",
+    "visitors": 6,
+    "lastVisit": "2026-01-25T17:47:00",
     "lat": 33.95335,
     "lon": -117.39616,
-    "normalized": 0.17584682030216364
+    "normalized": 0.21260970035655047
   },
   {
     "city": "Amity Gardens",
