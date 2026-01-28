@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 209,
-    "lastVisit": "2026-01-27T00:30:00",
+    "visitors": 213,
+    "lastVisit": "2026-01-28T00:48:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.584169674208837
+    "normalized": 0.5862310496843789
   },
   {
     "city": "Ashburn",
@@ -209,11 +209,11 @@
   {
     "city": "Delhi",
     "country": "India",
-    "visitors": 24,
-    "lastVisit": "2026-01-22T12:07:00",
+    "visitors": 25,
+    "lastVisit": "2026-01-28T01:28:00",
     "lat": 28.65195,
     "lon": 77.23149,
-    "normalized": 0.3516610861348533
+    "normalized": 0.3559459356714244
   },
   {
     "city": null,
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 391,
-    "lastVisit": "2026-01-27T14:21:00",
+    "visitors": 394,
+    "lastVisit": "2026-01-28T02:24:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6523583196199552
+    "normalized": 0.6531912308383104
   },
   {
     "city": "Tubingen",
@@ -6905,11 +6905,11 @@
   {
     "city": "Champaign",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2026-01-05T20:00:00",
+    "visitors": 8,
+    "lastVisit": "2026-01-27T23:09:00",
     "lat": 40.11642,
     "lon": -88.24338,
-    "normalized": 0.21259002017129536
+    "normalized": 0.24004603575532052
   },
   {
     "city": "Norton",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 885,
-    "lastVisit": "2026-01-27T18:52:00",
+    "visitors": 892,
+    "lastVisit": "2026-01-27T22:27:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7414465123821061
+    "normalized": 0.7423062668054815
   },
   {
     "city": "Riegelsberg",
@@ -8246,11 +8246,11 @@
   {
     "city": "Eastern Goleta Valley",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-12-23T09:42:00",
+    "visitors": 3,
+    "lastVisit": "2026-01-28T00:45:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.07572609309245482
+    "normalized": 0.15145218618490963
   },
   {
     "city": "Detroit",
