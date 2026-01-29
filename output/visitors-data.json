@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 214,
-    "lastVisit": "2026-01-28T10:52:00",
+    "visitors": 217,
+    "lastVisit": "2026-01-29T00:26:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5867268026434659
+    "normalized": 0.5882406439409872
   },
   {
     "city": "Ashburn",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 397,
-    "lastVisit": "2026-01-28T20:15:00",
+    "visitors": 398,
+    "lastVisit": "2026-01-29T02:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6540027136149439
+    "normalized": 0.6542768596363396
   },
   {
     "city": "Tubingen",
@@ -9142,5 +9142,14 @@
     "lat": 47.47038,
     "lon": -122.34679,
     "normalized": 0.12002024193385805
+  },
+  {
+    "city": "San Mateo",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-29T00:44:00",
+    "lat": 37.56299,
+    "lon": -122.32553,
+    "normalized": 0.07572434166691576
   }
 ]
