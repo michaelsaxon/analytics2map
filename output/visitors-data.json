@@ -9124,5 +9124,23 @@
     "lat": 1.48218,
     "lon": 124.84892,
     "normalized": 0.07572434166691576
+  },
+  {
+    "city": "Birmingham",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-28T21:25:00",
+    "lat": 42.5467,
+    "lon": -83.21132,
+    "normalized": 0.07572434166691576
+  },
+  {
+    "city": "Burien",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-01-28T22:38:00",
+    "lat": 47.47038,
+    "lon": -122.34679,
+    "normalized": 0.12002024193385805
   }
 ]
