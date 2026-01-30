@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 53,
-    "lastVisit": "2026-01-29T14:21:00",
+    "visitors": 54,
+    "lastVisit": "2026-01-30T01:43:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.4357850674684899
+    "normalized": 0.4377896582462836
   },
   {
     "city": "Manhattan",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 399,
-    "lastVisit": "2026-01-29T20:20:00",
+    "visitors": 400,
+    "lastVisit": "2026-01-30T02:25:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6545503194341858
+    "normalized": 0.6548230964353221
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 894,
-    "lastVisit": "2026-01-29T15:51:00",
+    "visitors": 896,
+    "lastVisit": "2026-01-29T21:20:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7425334992730747
+    "normalized": 0.7427773545801225
   },
   {
     "city": "Riegelsberg",
@@ -7004,11 +7004,11 @@
   {
     "city": "Sacramento",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-01-15T13:16:00",
+    "visitors": 9,
+    "lastVisit": "2026-01-29T22:38:00",
     "lat": 38.58157,
     "lon": -121.4944,
-    "normalized": 0.2400404838677161
+    "normalized": 0.2515508180501772
   },
   {
     "city": "Yorba Linda",
