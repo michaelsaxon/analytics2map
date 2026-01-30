@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 262,
-    "lastVisit": "2026-01-27T14:46:00",
+    "visitors": 264,
+    "lastVisit": "2026-01-29T11:07:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6087418481778274
+    "normalized": 0.6095694819255205
   },
   {
     "city": "Santa Clara",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 56,
-    "lastVisit": "2026-01-28T14:50:00",
+    "visitors": 57,
+    "lastVisit": "2026-01-29T12:48:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.441691756338152
+    "normalized": 0.4435917543533394
   },
   {
     "city": "Stanford",
@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 52,
-    "lastVisit": "2026-01-23T05:38:00",
+    "visitors": 53,
+    "lastVisit": "2026-01-29T14:21:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.43374300554225914
+    "normalized": 0.4357850674684899
   },
   {
     "city": "Manhattan",
@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2026-01-07T16:42:00",
+    "visitors": 10,
+    "lastVisit": "2026-01-29T14:17:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.2515508180501772
+    "normalized": 0.26196318186302214
   },
   {
     "city": "Massapequa",
@@ -2585,11 +2585,11 @@
   {
     "city": "Paris",
     "country": "France",
-    "visitors": 15,
-    "lastVisit": "2026-01-28T05:07:00",
+    "visitors": 16,
+    "lastVisit": "2026-01-29T06:53:00",
     "lat": 48.85341,
     "lon": 2.3488,
-    "normalized": 0.30289736666766304
+    "normalized": 0.30952043274166297
   },
   {
     "city": "Perugia",
@@ -4592,11 +4592,11 @@
   {
     "city": "College Station",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-01-19T12:30:00",
+    "visitors": 5,
+    "lastVisit": "2026-01-29T14:18:00",
     "lat": 30.62798,
     "lon": -96.33441,
-    "normalized": 0.1758264763832614
+    "normalized": 0.1957445836007738
   },
   {
     "city": "Laurel",
@@ -8921,11 +8921,11 @@
   {
     "city": "Chino",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-01-20T22:16:00",
+    "visitors": 3,
+    "lastVisit": "2026-01-29T09:43:00",
     "lat": 34.01223,
     "lon": -117.68894,
-    "normalized": 0.12002024193385805
+    "normalized": 0.15144868333383152
   },
   {
     "city": "Pasadena",
@@ -9150,6 +9150,15 @@
     "lastVisit": "2026-01-29T00:44:00",
     "lat": 37.56299,
     "lon": -122.32553,
+    "normalized": 0.07572434166691576
+  },
+  {
+    "city": "Kermanshah",
+    "country": "Iran",
+    "visitors": 1,
+    "lastVisit": "2026-01-29T09:20:00",
+    "lat": 34.31417,
+    "lon": 47.065,
     "normalized": 0.07572434166691576
   }
 ]
