@@ -101,11 +101,11 @@
   {
     "city": "Baltimore",
     "country": "United States",
-    "visitors": 25,
-    "lastVisit": "2026-01-27T17:42:00",
+    "visitors": 26,
+    "lastVisit": "2026-01-29T17:07:00",
     "lat": 39.29038,
     "lon": -76.61219,
-    "normalized": 0.3559377032012573
+    "normalized": 0.3600607258015741
   },
   {
     "city": "Dallas",
@@ -155,11 +155,11 @@
   {
     "city": "Stanford",
     "country": "United States",
-    "visitors": 25,
-    "lastVisit": "2026-01-22T23:08:00",
+    "visitors": 27,
+    "lastVisit": "2026-01-29T15:32:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.3559377032012573
+    "normalized": 0.3640337866320192
   },
   {
     "city": "Solvang",
@@ -659,11 +659,11 @@
   {
     "city": "Ann Arbor",
     "country": "United States",
-    "visitors": 28,
-    "lastVisit": "2026-01-28T21:10:00",
+    "visitors": 32,
+    "lastVisit": "2026-01-29T20:02:00",
     "lat": 42.27756,
     "lon": -83.74088,
-    "normalized": 0.3678674126864237
+    "normalized": 0.38198342379688016
   },
   {
     "city": "Pittsburgh",
@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 98,
-    "lastVisit": "2026-01-22T19:41:00",
+    "visitors": 100,
+    "lastVisit": "2026-01-29T16:46:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5020036657307382
+    "normalized": 0.5041886812104787
   },
   {
     "city": null,
@@ -893,11 +893,11 @@
   {
     "city": "Princeton",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-01-26T06:40:00",
+    "visitors": 4,
+    "lastVisit": "2026-01-29T19:07:00",
     "lat": 40.34872,
     "lon": -74.65905,
-    "normalized": 0.15144868333383152
+    "normalized": 0.1758264763832614
   },
   {
     "city": "Irvine",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 398,
-    "lastVisit": "2026-01-29T02:16:00",
+    "visitors": 399,
+    "lastVisit": "2026-01-29T20:20:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6542768596363396
+    "normalized": 0.6545503194341858
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 893,
-    "lastVisit": "2026-01-28T17:49:00",
+    "visitors": 894,
+    "lastVisit": "2026-01-29T15:51:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7424113671952932
+    "normalized": 0.7425334992730747
   },
   {
     "city": "Riegelsberg",
