@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 400,
-    "lastVisit": "2026-01-30T02:25:00",
+    "visitors": 401,
+    "lastVisit": "2026-01-30T14:20:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6548230964353221
+    "normalized": 0.6550951940409826
   },
   {
     "city": "Tubingen",
@@ -6743,11 +6743,11 @@
   {
     "city": "Fairfax",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-01-18T23:28:00",
+    "visitors": 3,
+    "lastVisit": "2026-01-30T05:53:00",
     "lat": 38.84622,
     "lon": -77.30637,
-    "normalized": 0.12002024193385805
+    "normalized": 0.15144868333383152
   },
   {
     "city": "East Brunswick",
@@ -7742,11 +7742,11 @@
   {
     "city": "Tangerang",
     "country": "Indonesia",
-    "visitors": 1,
-    "lastVisit": "2025-12-06T00:08:00",
+    "visitors": 3,
+    "lastVisit": "2026-01-30T11:15:00",
     "lat": -6.17806,
     "lon": 106.63,
-    "normalized": 0.07572434166691576
+    "normalized": 0.15144868333383152
   },
   {
     "city": "Gunnison",
