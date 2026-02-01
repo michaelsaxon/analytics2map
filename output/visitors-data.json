@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 142,
-    "lastVisit": "2026-01-27T11:41:00",
+    "visitors": 143,
+    "lastVisit": "2026-01-31T17:46:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.542170274619492
+    "normalized": 0.542931572955088
   },
   {
     "city": "Lompoc",
@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 155,
-    "lastVisit": "2026-01-18T02:27:00",
+    "visitors": 158,
+    "lastVisit": "2026-01-31T16:46:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.551675908116428
+    "normalized": 0.5537568447299376
   },
   {
     "city": null,
@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 100,
-    "lastVisit": "2026-01-29T16:46:00",
+    "visitors": 103,
+    "lastVisit": "2026-01-31T20:13:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5041828516575657
+    "normalized": 0.5073805200095243
   },
   {
     "city": null,
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 403,
-    "lastVisit": "2026-01-31T14:17:00",
+    "visitors": 404,
+    "lastVisit": "2026-01-31T20:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6556297839046593
+    "normalized": 0.6558998603563164
   },
   {
     "city": "Tubingen",
@@ -9168,6 +9168,24 @@
     "lastVisit": "2026-01-31T03:00:00",
     "lat": 44.64269,
     "lon": -63.57688,
+    "normalized": 0.07572346612354677
+  },
+  {
+    "city": "Cagayan De Oro City",
+    "country": "Philippines",
+    "visitors": 1,
+    "lastVisit": "2026-01-31T15:16:00",
+    "lat": 14.6042,
+    "lon": 120.9822,
+    "normalized": 0.07572346612354677
+  },
+  {
+    "city": "Alderwood Manor",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-01-31T18:41:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.07572346612354677
   }
 ]
