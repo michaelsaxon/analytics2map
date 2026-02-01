@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 217,
-    "lastVisit": "2026-01-29T00:26:00",
+    "visitors": 218,
+    "lastVisit": "2026-01-31T07:02:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5882338425587127
+    "normalized": 0.5887338245254994
   },
   {
     "city": "Ashburn",
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 74,
-    "lastVisit": "2026-01-24T13:21:00",
+    "visitors": 75,
+    "lastVisit": "2026-01-31T07:14:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.4716677410994798
+    "normalized": 0.4731147274066212
   },
   {
     "city": "Rochester",
@@ -1262,11 +1262,11 @@
   {
     "city": "State College",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2025-01-01T00:00:00",
+    "visitors": 10,
+    "lastVisit": "2026-01-31T11:58:00",
     "lat": 40.79339,
     "lon": -77.86,
-    "normalized": 0.24003770846090092
+    "normalized": 0.261960152980608
   },
   {
     "city": "Sonoma",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 56,
-    "lastVisit": "2026-01-16T21:16:00",
+    "visitors": 57,
+    "lastVisit": "2026-01-31T04:48:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.4416866493899781
+    "normalized": 0.4435866254369235
   },
   {
     "city": "Sabz",
@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 11,
-    "lastVisit": "2026-01-18T23:15:00",
+    "visitors": 12,
+    "lastVisit": "2026-01-31T06:44:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.271465786477544
+    "normalized": 0.280210121638884
   },
   {
     "city": "Athens",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 401,
-    "lastVisit": "2026-01-30T14:20:00",
+    "visitors": 403,
+    "lastVisit": "2026-01-31T14:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6550876196700397
+    "normalized": 0.6556297839046593
   },
   {
     "city": "Tubingen",
@@ -7427,11 +7427,11 @@
   {
     "city": "Athens",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-01-22T22:25:00",
+    "visitors": 4,
+    "lastVisit": "2026-01-31T13:31:00",
     "lat": 34.80243,
     "lon": -86.97219,
-    "normalized": 0.15144693224709355
+    "normalized": 0.17582444343451467
   },
   {
     "city": "Bullhead City",
@@ -7445,11 +7445,11 @@
   {
     "city": "Brighton",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-01-20T17:23:00",
+    "visitors": 3,
+    "lastVisit": "2026-01-31T13:28:00",
     "lat": 39.98526,
     "lon": -104.82053,
-    "normalized": 0.12001885423045046
+    "normalized": 0.15144693224709355
   },
   {
     "city": "Merced",
