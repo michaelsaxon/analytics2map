@@ -7274,3 +7274,12 @@ timestamp	country	city	num_unique
 2026-01-31T20:01:00	Singapore		1
 2026-01-31T20:13:00	Singapore		1
 2026-01-31T20:17:00	China	Lanzhou	1
+2026-01-31T21:41:00	United States	Alderwood Manor	1
+2026-01-31T21:42:00	United States	Alderwood Manor	1
+2026-01-31T22:48:00	United States	Austin	1
+2026-01-31T23:42:00	United States	Bellevue	1
+2026-01-31T23:51:00	Canada	Vancouver	1
+2026-01-31T23:52:00	Canada	Vancouver	1
+2026-02-01T02:04:00	Unknown		1
+2026-02-01T02:20:00	China	Lanzhou	1
+2026-02-01T02:44:00	Hong Kong	Hong Kong	1

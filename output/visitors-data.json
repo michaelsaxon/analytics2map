@@ -56,11 +56,11 @@
   {
     "city": "Austin",
     "country": "United States",
-    "visitors": 20,
-    "lastVisit": "2026-01-27T20:03:00",
+    "visitors": 21,
+    "lastVisit": "2026-01-31T22:48:00",
     "lat": 43.66663,
     "lon": -92.97464,
-    "normalized": 0.3326014995676517
+    "normalized": 0.3376836191041548
   },
   {
     "city": "Seattle",
@@ -1073,11 +1073,11 @@
   {
     "city": "Vancouver",
     "country": "Canada",
-    "visitors": 14,
-    "lastVisit": "2026-01-07T12:02:00",
+    "visitors": 16,
+    "lastVisit": "2026-01-31T23:52:00",
     "lat": 49.24966,
     "lon": -123.11934,
-    "normalized": 0.29584329766496514
+    "normalized": 0.30951685399067635
   },
   {
     "city": "Sundbyberg",
@@ -3710,11 +3710,11 @@
   {
     "city": "Bellevue",
     "country": "United States",
-    "visitors": 173,
-    "lastVisit": "2026-01-04T15:39:00",
+    "visitors": 174,
+    "lastVisit": "2026-01-31T23:42:00",
     "lat": 47.61038,
     "lon": -122.20068,
-    "normalized": 0.5636054796673741
+    "normalized": 0.5642315322062307
   },
   {
     "city": "Burlingame",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 404,
-    "lastVisit": "2026-01-31T20:17:00",
+    "visitors": 405,
+    "lastVisit": "2026-02-01T02:20:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6558998603563164
+    "normalized": 0.6561692707741248
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 898,
-    "lastVisit": "2026-01-30T23:16:00",
+    "visitors": 899,
+    "lastVisit": "2026-02-01T02:44:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7430120757923577
+    "normalized": 0.7431335275770239
   },
   {
     "city": "Riegelsberg",
@@ -9182,10 +9182,10 @@
   {
     "city": "Alderwood Manor",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-01-31T18:41:00",
+    "visitors": 3,
+    "lastVisit": "2026-01-31T21:42:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.07572346612354677
+    "normalized": 0.15144693224709355
   }
 ]
