@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 410,
-    "lastVisit": "2026-02-01T20:22:00",
+    "visitors": 411,
+    "lastVisit": "2026-02-02T02:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.657491244472346
+    "normalized": 0.6577567205282918
   },
   {
     "city": "Tubingen",
@@ -8354,11 +8354,11 @@
   {
     "city": "Cupertino",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-12-28T00:01:00",
+    "visitors": 4,
+    "lastVisit": "2026-02-01T23:54:00",
     "lat": 37.323,
     "lon": -122.03218,
-    "normalized": 0.07572171537547621
+    "normalized": 0.17582037832338257
   },
   {
     "city": "Clearwater",
