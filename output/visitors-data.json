@@ -1622,11 +1622,11 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 27,
-    "lastVisit": "2026-01-19T10:49:00",
+    "visitors": 28,
+    "lastVisit": "2026-02-02T22:19:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.36401695369705345
+    "normalized": 0.3678504024844558
   },
   {
     "city": "Shenzhen",
