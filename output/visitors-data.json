@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 61,
-    "lastVisit": "2026-02-02T07:35:00",
+    "visitors": 62,
+    "lastVisit": "2026-02-02T14:42:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.45085674716390217
+    "normalized": 0.4526046577429975
   },
   {
     "city": "Manhattan",
@@ -1298,11 +1298,11 @@
   {
     "city": "Santa Cruz",
     "country": "United States",
-    "visitors": 16,
-    "lastVisit": "2025-12-18T19:58:00",
+    "visitors": 17,
+    "lastVisit": "2026-02-02T15:39:00",
     "lat": 36.97412,
     "lon": -122.0308,
-    "normalized": 0.30950612050607873
+    "normalized": 0.3157502245581075
   },
   {
     "city": "Rockville",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 54,
-    "lastVisit": "2026-02-01T04:56:00",
+    "visitors": 55,
+    "lastVisit": "2026-02-02T15:14:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.437769414837247
+    "normalized": 0.4397377938677747
   },
   {
     "city": "Oakland",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 412,
-    "lastVisit": "2026-02-02T08:16:00",
+    "visitors": 413,
+    "lastVisit": "2026-02-02T14:22:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6580139474777429
+    "normalized": 0.6582781364350553
   },
   {
     "city": "Tubingen",
@@ -9223,5 +9223,14 @@
     "lat": 25.05306,
     "lon": 121.52639,
     "normalized": 0.1514416803414423
+  },
+  {
+    "city": "Davie",
+    "country": "United States",
+    "visitors": 4,
+    "lastVisit": "2026-02-02T17:19:00",
+    "lat": 26.06287,
+    "lon": -80.2331,
+    "normalized": 0.17581834616087302
   }
 ]
