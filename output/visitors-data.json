@@ -389,11 +389,11 @@
   {
     "city": null,
     "country": "Taiwan",
-    "visitors": 58,
-    "lastVisit": "2026-02-01T18:48:00",
+    "visitors": 60,
+    "lastVisit": "2026-02-03T02:37:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.44543867412213173
+    "normalized": 0.4490804140321276
   },
   {
     "city": null,
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 414,
-    "lastVisit": "2026-02-03T01:10:00",
+    "visitors": 415,
+    "lastVisit": "2026-02-03T02:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6585416880239385
+    "normalized": 0.6588046053123559
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 907,
-    "lastVisit": "2026-02-03T01:46:00",
+    "visitors": 909,
+    "lastVisit": "2026-02-03T02:05:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7440745074359971
+    "normalized": 0.7443148641459554
   },
   {
     "city": "Riegelsberg",
