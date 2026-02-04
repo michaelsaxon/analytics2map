@@ -9241,5 +9241,14 @@
     "lat": 33.67724,
     "lon": -117.79442,
     "normalized": 0.07571296840152618
+  },
+  {
+    "city": "North Adams",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-03T21:18:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07571296840152618
   }
 ]
