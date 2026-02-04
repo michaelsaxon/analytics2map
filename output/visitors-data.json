@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 218,
-    "lastVisit": "2026-01-31T07:02:00",
+    "visitors": 219,
+    "lastVisit": "2026-02-03T22:59:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5886522069721782
+    "normalized": 0.5891498421110014
   },
   {
     "city": "Ashburn",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 36,
-    "lastVisit": "2026-02-01T18:38:00",
+    "visitors": 38,
+    "lastVisit": "2026-02-03T23:02:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.39442317806108884
+    "normalized": 0.40017349118607376
   },
   {
     "city": "Minneapolis",
