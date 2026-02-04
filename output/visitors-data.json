@@ -110,11 +110,11 @@
   {
     "city": "Dallas",
     "country": "United States",
-    "visitors": 21,
-    "lastVisit": "2026-01-24T11:44:00",
+    "visitors": 24,
+    "lastVisit": "2026-02-03T20:57:00",
     "lat": 44.91928,
     "lon": -123.31705,
-    "normalized": 0.3376368052306524
+    "normalized": 0.35160013695764547
   },
   {
     "city": "San Jose",
@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 64,
-    "lastVisit": "2026-02-03T19:39:00",
+    "visitors": 65,
+    "lastVisit": "2026-02-03T19:40:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.4559713439301917
+    "normalized": 0.4576390209653572
   },
   {
     "city": "Manhattan",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 416,
-    "lastVisit": "2026-02-03T14:17:00",
+    "visitors": 417,
+    "lastVisit": "2026-02-03T20:21:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6589983762261467
+    "normalized": 0.6592600068279802
   },
   {
     "city": "Tubingen",
