@@ -4484,11 +4484,11 @@
   {
     "city": "Madrid",
     "country": "Spain",
-    "visitors": 2,
-    "lastVisit": "2025-05-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2026-02-04T12:48:00",
     "lat": 40.4165,
     "lon": -3.70256,
-    "normalized": 0.11999806012833183
+    "normalized": 0.15142069301164265
   },
   {
     "city": "Khulna",
