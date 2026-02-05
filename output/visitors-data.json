@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 920,
-    "lastVisit": "2026-02-04T07:53:00",
+    "visitors": 921,
+    "lastVisit": "2026-02-04T16:30:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7455241237352684
+    "normalized": 0.7456426554250861
   },
   {
     "city": "Riegelsberg",
@@ -9249,6 +9249,15 @@
     "lastVisit": "2026-02-03T21:18:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.07571034650582133
+  },
+  {
+    "city": "Windsor",
+    "country": "Canada",
+    "visitors": 1,
+    "lastVisit": "2026-02-04T15:38:00",
+    "lat": 42.30008,
+    "lon": -83.01654,
     "normalized": 0.07571034650582133
   }
 ]
