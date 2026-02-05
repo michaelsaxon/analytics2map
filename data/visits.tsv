@@ -7438,3 +7438,6 @@ timestamp	country	city	num_unique
 2026-02-05T08:16:00	China	Lanzhou	1
 2026-02-05T09:32:00	United States	Boston	1
 2026-02-05T10:20:00	China	Lanzhou	1
+2026-02-05T12:05:00	United States	New York	1
+2026-02-05T12:06:00	United States	Council Bluffs	1
+2026-02-05T12:15:00	United States	Aspen	1

@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 91,
-    "lastVisit": "2026-02-04T18:54:00",
+    "visitors": 92,
+    "lastVisit": "2026-02-05T12:05:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.49390113614527004
+    "normalized": 0.49508197944558374
   },
   {
     "city": "Four Oaks",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 38,
-    "lastVisit": "2026-02-03T23:02:00",
+    "visitors": 39,
+    "lastVisit": "2026-02-05T12:06:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.4001596334126977
+    "normalized": 0.40292502014298776
   },
   {
     "city": "Minneapolis",
@@ -7886,11 +7886,11 @@
   {
     "city": "Aspen",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-02-01T20:03:00",
+    "visitors": 9,
+    "lastVisit": "2026-02-05T12:15:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.23999612025666367
+    "normalized": 0.25150432713134513
   },
   {
     "city": "Fulton",
