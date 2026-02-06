@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 92,
-    "lastVisit": "2026-02-05T12:05:00",
+    "visitors": 93,
+    "lastVisit": "2026-02-06T14:02:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.49504770931842434
+    "normalized": 0.4962158421714907
   },
   {
     "city": "Four Oaks",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 433,
-    "lastVisit": "2026-02-06T08:21:00",
+    "visitors": 434,
+    "lastVisit": "2026-02-06T14:19:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6632941625962294
+    "normalized": 0.6635455306718275
   },
   {
     "city": "Tubingen",
