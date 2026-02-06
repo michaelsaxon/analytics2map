@@ -9128,11 +9128,11 @@
   {
     "city": "Birmingham",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-01-28T21:25:00",
+    "visitors": 2,
+    "lastVisit": "2026-02-06T06:14:00",
     "lat": 42.5467,
     "lon": -83.21132,
-    "normalized": 0.07570597892925132
+    "normalized": 0.11999113768324934
   },
   {
     "city": "Burien",
