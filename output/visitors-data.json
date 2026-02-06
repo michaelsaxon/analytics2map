@@ -3656,11 +3656,11 @@
   {
     "city": "Jakarta",
     "country": "Indonesia",
-    "visitors": 2,
-    "lastVisit": "2025-11-27T12:59:00",
+    "visitors": 3,
+    "lastVisit": "2026-02-06T04:49:00",
     "lat": -6.21462,
     "lon": 106.84513,
-    "normalized": 0.11999113768324934
+    "normalized": 0.15141195785850264
   },
   {
     "city": "Claye-Souilly",
@@ -9286,5 +9286,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.07570597892925132
+  },
+  {
+    "city": "Homer",
+    "country": "United States",
+    "visitors": 3,
+    "lastVisit": "2026-02-06T04:24:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.15141195785850264
   }
 ]
