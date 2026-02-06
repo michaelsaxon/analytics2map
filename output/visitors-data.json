@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 270,
-    "lastVisit": "2026-02-05T01:45:00",
+    "visitors": 271,
+    "lastVisit": "2026-02-06T10:27:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6118599478721596
+    "normalized": 0.6122622296552621
   },
   {
     "city": "Santa Clara",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 153,
-    "lastVisit": "2026-02-05T23:18:00",
+    "visitors": 155,
+    "lastVisit": "2026-02-06T11:18:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5501328435342593
+    "normalized": 0.5515421454185475
   },
   {
     "city": "Lompoc",
@@ -9304,5 +9304,14 @@
     "lat": 29.10678,
     "lon": 119.64421,
     "normalized": 0.11998975372868448
+  },
+  {
+    "city": "Holmdel",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-06T10:17:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07570510575113876
   }
 ]
