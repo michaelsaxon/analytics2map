@@ -245,11 +245,11 @@
   {
     "city": "Montreal",
     "country": "Canada",
-    "visitors": 25,
-    "lastVisit": "2026-01-12T10:54:00",
+    "visitors": 26,
+    "lastVisit": "2026-02-06T11:46:00",
     "lat": 45.50884,
     "lon": -73.58781,
-    "normalized": 0.3558472859387242
+    "normalized": 0.3599692611860534
   },
   {
     "city": "Shawinigan",
