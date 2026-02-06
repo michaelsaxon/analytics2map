@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 430,
-    "lastVisit": "2026-02-05T19:06:00",
+    "visitors": 431,
+    "lastVisit": "2026-02-05T20:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.662551852775905
+    "normalized": 0.6628049743266415
   },
   {
     "city": "Tubingen",
@@ -7994,11 +7994,11 @@
   {
     "city": "East Lansing",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2026-02-05T18:40:00",
+    "visitors": 13,
+    "lastVisit": "2026-02-05T20:19:00",
     "lat": 42.73698,
     "lon": -84.48387,
-    "normalized": 0.26190267831643155
+    "normalized": 0.28824285643227254
   },
   {
     "city": "Dublin",
