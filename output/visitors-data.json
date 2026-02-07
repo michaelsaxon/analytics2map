@@ -9200,11 +9200,11 @@
   {
     "city": "Changhua City",
     "country": "Taiwan",
-    "visitors": 1,
-    "lastVisit": "2026-02-01T20:55:00",
+    "visitors": 2,
+    "lastVisit": "2026-02-07T05:23:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.07570510575113876
+    "normalized": 0.11998975372868448
   },
   {
     "city": "Carmel Hamlet",
@@ -9321,6 +9321,15 @@
     "lastVisit": "2026-02-06T17:02:00",
     "lat": 37.97353,
     "lon": -122.53109,
+    "normalized": 0.07570510575113876
+  },
+  {
+    "city": "Jiaxing",
+    "country": "China",
+    "visitors": 1,
+    "lastVisit": "2026-02-07T05:40:00",
+    "lat": 30.7522,
+    "lon": 120.75,
     "normalized": 0.07570510575113876
   }
 ]
