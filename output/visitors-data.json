@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 93,
-    "lastVisit": "2026-02-06T14:02:00",
+    "visitors": 95,
+    "lastVisit": "2026-02-06T14:46:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.4962158421714907
+    "normalized": 0.4985152824843782
   },
   {
     "city": "Four Oaks",
@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2026-01-29T14:17:00",
+    "visitors": 11,
+    "lastVisit": "2026-02-06T16:02:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.26189663652776973
+    "normalized": 0.271399965230962
   },
   {
     "city": "Massapequa",
@@ -6680,11 +6680,11 @@
   {
     "city": "Urbana",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2025-11-23T20:05:00",
+    "visitors": 11,
+    "lastVisit": "2026-02-06T15:57:00",
     "lat": 40.11059,
     "lon": -88.20727,
-    "normalized": 0.26189663652776973
+    "normalized": 0.271399965230962
   },
   {
     "city": "Sayreville",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 926,
-    "lastVisit": "2026-02-05T22:57:00",
+    "visitors": 927,
+    "lastVisit": "2026-02-06T15:36:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7461817369728195
+    "normalized": 0.746299493728849
   },
   {
     "city": "Riegelsberg",
