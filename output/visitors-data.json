@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 271,
-    "lastVisit": "2026-02-06T10:27:00",
+    "visitors": 272,
+    "lastVisit": "2026-02-06T22:23:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6122622296552621
+    "normalized": 0.6126630351716208
   },
   {
     "city": "Santa Clara",
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 29,
-    "lastVisit": "2026-01-25T17:31:00",
+    "visitors": 31,
+    "lastVisit": "2026-02-06T22:21:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.37147667144981117
+    "normalized": 0.3785255287556938
   },
   {
     "city": "Seongnam-si",
@@ -9002,11 +9002,11 @@
   {
     "city": "North Charleston",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-01-23T01:27:00",
+    "visitors": 2,
+    "lastVisit": "2026-02-06T22:14:00",
     "lat": 32.85462,
     "lon": -79.97481,
-    "normalized": 0.07570510575113876
+    "normalized": 0.11998975372868448
   },
   {
     "city": "Zhubei City",
