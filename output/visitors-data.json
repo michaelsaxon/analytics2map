@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 45,
-    "lastVisit": "2026-01-28T13:08:00",
+    "visitors": 46,
+    "lastVisit": "2026-02-07T06:59:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.418161842006263
+    "normalized": 0.4205107364203519
   },
   {
     "city": "Mocksville",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 438,
-    "lastVisit": "2026-02-07T04:23:00",
+    "visitors": 439,
+    "lastVisit": "2026-02-07T07:06:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6645452573831269
+    "normalized": 0.6647937657511739
   },
   {
     "city": "Tubingen",
