@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2026-02-06T16:02:00",
+    "visitors": 13,
+    "lastVisit": "2026-02-06T20:16:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.271399965230962
+    "normalized": 0.28823620700648955
   },
   {
     "city": "Massapequa",
@@ -1622,11 +1622,11 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 28,
-    "lastVisit": "2026-02-02T22:19:00",
+    "visitors": 30,
+    "lastVisit": "2026-02-06T20:39:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.3677739649731552
+    "normalized": 0.3750579555897398
   },
   {
     "city": "Shenzhen",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 434,
-    "lastVisit": "2026-02-06T14:19:00",
+    "visitors": 435,
+    "lastVisit": "2026-02-06T20:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6635455306718275
+    "normalized": 0.6637963215527144
   },
   {
     "city": "Tubingen",
