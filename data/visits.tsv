@@ -7545,3 +7545,5 @@ timestamp	country	city	num_unique
 2026-02-07T10:02:00	Iran	Isfahan	1
 2026-02-07T12:04:00	United States	San Jose	1
 2026-02-07T12:04:00	Germany		1
+2026-02-07T12:57:00	United States	Seattle	1
+2026-02-07T13:16:00	United States	Seattle	1
