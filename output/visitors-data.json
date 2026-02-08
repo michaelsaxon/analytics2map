@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 447,
-    "lastVisit": "2026-02-08T08:17:00",
+    "visitors": 448,
+    "lastVisit": "2026-02-08T14:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6667463579510698
+    "normalized": 0.6669898739085063
   },
   {
     "city": "Tubingen",
@@ -9337,6 +9337,15 @@
     "country": "United States",
     "visitors": 1,
     "lastVisit": "2026-02-07T21:36:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.0757033597319026
+  },
+  {
+    "city": "Cynthiana",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-08T14:24:00",
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.0757033597319026
