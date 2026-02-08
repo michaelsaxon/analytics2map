@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 221,
-    "lastVisit": "2026-02-04T18:56:00",
+    "visitors": 224,
+    "lastVisit": "2026-02-07T21:16:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5900702723926669
+    "normalized": 0.5915363094524207
   },
   {
     "city": "Ashburn",
@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 160,
-    "lastVisit": "2026-02-02T17:43:00",
+    "visitors": 166,
+    "lastVisit": "2026-02-07T21:27:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5549814371378563
+    "normalized": 0.5589776678373818
   },
   {
     "city": null,
@@ -7004,11 +7004,11 @@
   {
     "city": "Sacramento",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2026-01-29T22:38:00",
+    "visitors": 10,
+    "lastVisit": "2026-02-07T22:01:00",
     "lat": 38.58157,
     "lon": -121.4944,
-    "normalized": 0.2514840174594032
+    "normalized": 0.2618936162164258
   },
   {
     "city": "Yorba Linda",
@@ -7913,11 +7913,11 @@
   {
     "city": "Shinjuku City",
     "country": "Japan",
-    "visitors": 1,
-    "lastVisit": "2025-12-09T02:41:00",
+    "visitors": 3,
+    "lastVisit": "2026-02-07T21:27:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.07570423268536469
+    "normalized": 0.15140846537072938
   },
   {
     "city": "Brookline",
@@ -9330,6 +9330,15 @@
     "lastVisit": "2026-02-07T05:40:00",
     "lat": 30.7522,
     "lon": 120.75,
+    "normalized": 0.07570423268536469
+  },
+  {
+    "city": "West Windsor Township",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-07T21:36:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.07570423268536469
   }
 ]
