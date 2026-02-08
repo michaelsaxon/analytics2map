@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 13,
-    "lastVisit": "2026-02-06T20:16:00",
+    "visitors": 14,
+    "lastVisit": "2026-02-07T23:19:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.2882328829352174
+    "normalized": 0.2957681547262104
   },
   {
     "city": "Massapequa",
@@ -8876,11 +8876,11 @@
   {
     "city": "Minato City",
     "country": "Japan",
-    "visitors": 6,
-    "lastVisit": "2026-01-17T04:51:00",
+    "visitors": 8,
+    "lastVisit": "2026-02-07T23:31:00",
     "lat": 35.6581,
     "lon": 139.7515,
-    "normalized": 0.21252865024985274
+    "normalized": 0.23997673990434387
   },
   {
     "city": "Ota City",
