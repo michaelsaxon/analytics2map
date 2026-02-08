@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 282,
-    "lastVisit": "2026-02-08T01:52:00",
+    "visitors": 283,
+    "lastVisit": "2026-02-08T01:53:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6165851027581184
+    "normalized": 0.6169703522618631
   },
   {
     "city": null,
@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 166,
-    "lastVisit": "2026-02-07T21:27:00",
+    "visitors": 168,
+    "lastVisit": "2026-02-08T02:11:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5589776678373818
+    "normalized": 0.5602778989206372
   },
   {
     "city": null,
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 445,
-    "lastVisit": "2026-02-07T20:19:00",
+    "visitors": 446,
+    "lastVisit": "2026-02-08T02:15:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6662653738641696
+    "normalized": 0.6665099834200995
   },
   {
     "city": "Tubingen",
