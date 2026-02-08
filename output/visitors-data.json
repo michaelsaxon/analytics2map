@@ -218,11 +218,11 @@
   {
     "city": null,
     "country": "India",
-    "visitors": 202,
-    "lastVisit": "2026-01-26T05:04:00",
+    "visitors": 203,
+    "lastVisit": "2026-02-08T07:50:00",
     "lat": 28.62137,
     "lon": 77.2148,
-    "normalized": 0.58029837388607
+    "normalized": 0.5808350733496989
   },
   {
     "city": "Waterloo",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 446,
-    "lastVisit": "2026-02-08T02:15:00",
+    "visitors": 447,
+    "lastVisit": "2026-02-08T08:17:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6665099834200995
+    "normalized": 0.6667540463620409
   },
   {
     "city": "Tubingen",
