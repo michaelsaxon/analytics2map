@@ -3152,11 +3152,11 @@
   {
     "city": "Washington",
     "country": "United States",
-    "visitors": 20,
-    "lastVisit": "2026-02-08T20:52:00",
+    "visitors": 22,
+    "lastVisit": "2026-02-09T10:30:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.33251318591332385
+    "normalized": 0.34244883802893306
   },
   {
     "city": "Halethorpe",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 17,
-    "lastVisit": "2026-01-22T23:05:00",
+    "visitors": 19,
+    "lastVisit": "2026-02-09T08:07:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.31567733243924184
+    "normalized": 0.32718447730267447
   },
   {
     "city": "Cairo",
