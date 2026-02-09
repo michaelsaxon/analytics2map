@@ -1424,11 +1424,11 @@
   {
     "city": "Oakland",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2024-01-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2026-02-09T13:38:00",
     "lat": 37.80437,
     "lon": -122.2708,
-    "normalized": 0.0757033597319026
+    "normalized": 0.1514067194638052
   },
   {
     "city": "San Antonio",
@@ -6608,11 +6608,11 @@
   {
     "city": "Tubingen",
     "country": "Germany",
-    "visitors": 13,
-    "lastVisit": "2026-01-04T07:19:00",
+    "visitors": 14,
+    "lastVisit": "2026-02-09T12:44:00",
     "lat": 48.52266,
     "lon": 9.05222,
-    "normalized": 0.2882295592915568
+    "normalized": 0.2957647441925389
   },
   {
     "city": "Anaheim",
