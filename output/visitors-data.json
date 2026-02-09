@@ -623,11 +623,11 @@
   {
     "city": null,
     "country": "France",
-    "visitors": 40,
-    "lastVisit": "2026-01-23T05:58:00",
+    "visitors": 41,
+    "lastVisit": "2026-02-09T05:31:00",
     "lat": 48.85341,
     "lon": 2.3488,
-    "normalized": 0.40558468668797876
+    "normalized": 0.40821654564522647
   },
   {
     "city": null,
