@@ -9349,5 +9349,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.0757033597319026
+  },
+  {
+    "city": "Los Altos",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-02-08T23:10:00",
+    "lat": 37.38522,
+    "lon": -122.11413,
+    "normalized": 0.11998698635366964
   }
 ]
