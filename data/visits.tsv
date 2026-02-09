@@ -7596,3 +7596,8 @@ timestamp	country	city	num_unique
 2026-02-08T18:08:00	Canada		1
 2026-02-08T20:14:00	China	Lanzhou	1
 2026-02-08T20:17:00	United States	Durham	1
+2026-02-08T20:51:00	United States	Washington	1
+2026-02-08T20:52:00	United States	Washington	1
+2026-02-08T21:07:00	United States	Chicago	1
+2026-02-08T22:17:00	United States	Somerville	1
+2026-02-08T22:18:00	United States	Somerville	1

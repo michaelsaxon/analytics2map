@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 69,
-    "lastVisit": "2026-02-06T06:47:00",
+    "visitors": 70,
+    "lastVisit": "2026-02-08T21:07:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.46400731713042614
+    "normalized": 0.4655565184480948
   },
   {
     "city": "Stanford",
@@ -1280,11 +1280,11 @@
   {
     "city": "Somerville",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-12-05T10:12:00",
+    "visitors": 4,
+    "lastVisit": "2026-02-08T22:18:00",
     "lat": 42.3876,
     "lon": -71.0995,
-    "normalized": 0.11998698635366964
+    "normalized": 0.17577775783886926
   },
   {
     "city": "Sherman Oaks",
@@ -3152,11 +3152,11 @@
   {
     "city": "Washington",
     "country": "United States",
-    "visitors": 18,
-    "lastVisit": "2026-02-06T19:14:00",
+    "visitors": 20,
+    "lastVisit": "2026-02-08T20:52:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.3215823846652663
+    "normalized": 0.33251318591332385
   },
   {
     "city": "Halethorpe",
