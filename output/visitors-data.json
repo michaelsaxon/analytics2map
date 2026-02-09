@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 276,
-    "lastVisit": "2026-02-07T18:30:00",
+    "visitors": 277,
+    "lastVisit": "2026-02-08T16:45:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6142375419683284
+    "normalized": 0.6146311166705068
   },
   {
     "city": "Santa Clara",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 261,
-    "lastVisit": "2026-02-07T08:32:00",
+    "visitors": 263,
+    "lastVisit": "2026-02-08T17:08:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6081571113639304
+    "normalized": 0.6089876618429948
   },
   {
     "city": "Sylhet",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 59,
-    "lastVisit": "2026-02-06T21:10:00",
+    "visitors": 60,
+    "lastVisit": "2026-02-08T15:33:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.4471714636563441
+    "normalized": 0.4489767421409495
   },
   {
     "city": "Sabz",
@@ -6617,11 +6617,11 @@
   {
     "city": "Anaheim",
     "country": "United States",
-    "visitors": 27,
-    "lastVisit": "2026-01-21T20:45:00",
+    "visitors": 28,
+    "lastVisit": "2026-02-08T17:28:00",
     "lat": 33.83529,
     "lon": -117.9145,
-    "normalized": 0.3639329190234594
+    "normalized": 0.3677654828448888
   },
   {
     "city": "Khorramabad",
