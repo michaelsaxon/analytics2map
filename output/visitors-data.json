@@ -236,11 +236,11 @@
   {
     "city": null,
     "country": "Canada",
-    "visitors": 199,
-    "lastVisit": "2025-12-04T16:01:00",
+    "visitors": 202,
+    "lastVisit": "2026-02-08T18:08:00",
     "lat": 45.41117,
     "lon": -75.69812,
-    "normalized": 0.5786655948734464
+    "normalized": 0.580291682404543
   },
   {
     "city": "Montreal",
@@ -911,11 +911,11 @@
   {
     "city": "Durham",
     "country": "United States",
-    "visitors": 25,
-    "lastVisit": "2026-01-27T18:23:00",
+    "visitors": 26,
+    "lastVisit": "2026-02-08T20:17:00",
     "lat": 35.99403,
     "lon": -78.89862,
-    "normalized": 0.355839078880558
+    "normalized": 0.3599609590610089
   },
   {
     "city": "Syracuse",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 448,
-    "lastVisit": "2026-02-08T14:16:00",
+    "visitors": 449,
+    "lastVisit": "2026-02-08T20:14:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6669898739085063
+    "normalized": 0.6672328481169805
   },
   {
     "city": "Tubingen",
