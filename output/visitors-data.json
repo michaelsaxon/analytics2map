@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 79,
-    "lastVisit": "2026-01-26T17:59:00",
+    "visitors": 80,
+    "lastVisit": "2026-02-10T08:14:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.4785856787273225
+    "normalized": 0.4799424117325421
   },
   {
     "city": "Ames",
@@ -9128,11 +9128,11 @@
   {
     "city": "Birmingham",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-02-06T06:14:00",
+    "visitors": 4,
+    "lastVisit": "2026-02-10T08:09:00",
     "lat": 42.5467,
     "lon": -83.21132,
-    "normalized": 0.11998560293313552
+    "normalized": 0.17577573116441877
   },
   {
     "city": "Burien",
