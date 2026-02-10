@@ -7615,3 +7615,8 @@ timestamp	country	city	num_unique
 2026-02-09T13:38:00	United States	Oakland	1
 2026-02-09T14:17:00	China	Lanzhou	1
 2026-02-09T14:19:00	Germany	Hamburg	1
+2026-02-09T14:46:00	United States	Berkeley	1
+2026-02-09T14:48:00	United States	Berkeley	1
+2026-02-09T15:25:00	United States	Coram	1
+2026-02-09T16:35:00	United States		1
+2026-02-09T17:16:00	United States	Lynnwood	1
