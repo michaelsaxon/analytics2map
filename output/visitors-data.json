@@ -7733,11 +7733,11 @@
   {
     "city": "Jacksonville",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-12-05T20:37:00",
+    "visitors": 2,
+    "lastVisit": "2026-02-10T12:22:00",
     "lat": 34.75405,
     "lon": -77.43024,
-    "normalized": 0.07570161416180816
+    "normalized": 0.11998421969052757
   },
   {
     "city": "Tangerang",
@@ -9385,5 +9385,23 @@
     "lat": 9.02497,
     "lon": 38.74689,
     "normalized": 0.11998421969052757
+  },
+  {
+    "city": "Newcastle",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-02-10T11:42:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.11998421969052757
+  },
+  {
+    "city": "Bel Air South",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-10T12:48:00",
+    "lat": 39.50506,
+    "lon": -76.31977,
+    "normalized": 0.07570161416180816
   }
 ]
