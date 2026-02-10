@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 278,
-    "lastVisit": "2026-02-09T00:16:00",
+    "visitors": 280,
+    "lastVisit": "2026-02-09T18:56:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6150161871074162
+    "normalized": 0.6157963018701006
   },
   {
     "city": "Santa Clara",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 929,
-    "lastVisit": "2026-02-07T19:24:00",
+    "visitors": 930,
+    "lastVisit": "2026-02-09T18:10:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7465088022294254
+    "normalized": 0.7466261752685784
   },
   {
     "city": "Riegelsberg",
