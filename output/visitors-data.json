@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 157,
-    "lastVisit": "2026-02-10T15:45:00",
+    "visitors": 159,
+    "lastVisit": "2026-02-10T17:47:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5529079921209457
+    "normalized": 0.5542817755596662
   },
   {
     "city": "Lompoc",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 455,
-    "lastVisit": "2026-02-10T14:22:00",
+    "visitors": 456,
+    "lastVisit": "2026-02-10T18:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6686640317859875
+    "normalized": 0.6689032746929141
   },
   {
     "city": "Tubingen",
@@ -7157,11 +7157,11 @@
   {
     "city": "Indianapolis",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-01-09T19:16:00",
+    "visitors": 13,
+    "lastVisit": "2026-02-10T18:11:00",
     "lat": 39.76838,
     "lon": -86.15804,
-    "normalized": 0.28012925977174713
+    "normalized": 0.28822291328666594
   },
   {
     "city": "Virginia Beach",
