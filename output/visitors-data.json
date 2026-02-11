@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 76,
-    "lastVisit": "2026-02-10T06:42:00",
+    "visitors": 78,
+    "lastVisit": "2026-02-10T21:25:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.474405856738098
+    "normalized": 0.47720637795913745
   },
   {
     "city": "Rochester",
@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-02-07T23:19:00",
+    "visitors": 15,
+    "lastVisit": "2026-02-10T21:14:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.29575792444115295
+    "normalized": 0.30280645664723266
   },
   {
     "city": "Massapequa",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 263,
-    "lastVisit": "2026-02-08T17:08:00",
+    "visitors": 264,
+    "lastVisit": "2026-02-10T20:57:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6089736197891922
+    "normalized": 0.6093865289514975
   },
   {
     "city": "Sylhet",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 456,
-    "lastVisit": "2026-02-10T18:16:00",
+    "visitors": 458,
+    "lastVisit": "2026-02-10T20:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6689032746929141
+    "normalized": 0.6693801939806441
   },
   {
     "city": "Tubingen",
@@ -9403,5 +9403,23 @@
     "lat": 39.50506,
     "lon": -76.31977,
     "normalized": 0.07570161416180816
+  },
+  {
+    "city": "Hanford",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-10T19:41:00",
+    "lat": 36.32745,
+    "lon": -119.64568,
+    "normalized": 0.07570161416180816
+  },
+  {
+    "city": "North Decatur",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-02-10T20:44:00",
+    "lat": 33.79038,
+    "lon": -84.30603,
+    "normalized": 0.11998421969052757
   }
 ]
