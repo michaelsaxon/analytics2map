@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 285,
-    "lastVisit": "2026-02-10T17:17:00",
+    "visitors": 286,
+    "lastVisit": "2026-02-10T23:36:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6177154315467954
+    "normalized": 0.6180966338302779
   },
   {
     "city": "Santa Clara",
@@ -9421,5 +9421,14 @@
     "lat": 33.79038,
     "lon": -84.30603,
     "normalized": 0.11998421969052757
+  },
+  {
+    "city": "Lovelock",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-10T22:48:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07570161416180816
   }
 ]
