@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 461,
-    "lastVisit": "2026-02-11T10:38:00",
+    "visitors": 463,
+    "lastVisit": "2026-02-11T12:14:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6700839664065252
+    "normalized": 0.6705557299237618
   },
   {
     "city": "Tubingen",
@@ -8714,11 +8714,11 @@
   {
     "city": "Riverside",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2026-01-25T17:47:00",
+    "visitors": 7,
+    "lastVisit": "2026-02-11T12:49:00",
     "lat": 33.95335,
     "lon": -117.39616,
-    "normalized": 0.21251884938011095
+    "normalized": 0.2271022246353683
   },
   {
     "city": "Amity Gardens",
