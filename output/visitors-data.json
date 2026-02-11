@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 286,
-    "lastVisit": "2026-02-10T23:36:00",
+    "visitors": 287,
+    "lastVisit": "2026-02-11T09:11:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6180966338302779
+    "normalized": 0.618476510190096
   },
   {
     "city": "Santa Clara",
@@ -911,11 +911,11 @@
   {
     "city": "Durham",
     "country": "United States",
-    "visitors": 26,
-    "lastVisit": "2026-02-08T20:17:00",
+    "visitors": 27,
+    "lastVisit": "2026-02-11T09:22:00",
     "lat": 35.99403,
     "lon": -78.89862,
-    "normalized": 0.3599526590715827
+    "normalized": 0.3639245274484741
   },
   {
     "city": "Syracuse",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 39,
-    "lastVisit": "2026-02-05T12:06:00",
+    "visitors": 40,
+    "lastVisit": "2026-02-11T09:22:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.4028785472360499
+    "normalized": 0.40557533470542007
   },
   {
     "city": "Minneapolis",
@@ -7661,11 +7661,11 @@
   {
     "city": "Blacksburg",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-02-11T08:37:00",
+    "visitors": 8,
+    "lastVisit": "2026-02-11T08:42:00",
     "lat": 37.22957,
     "lon": -80.41394,
-    "normalized": 0.22710484248542448
+    "normalized": 0.23996843938105514
   },
   {
     "city": "King City",
