@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 147,
-    "lastVisit": "2026-02-02T07:53:00",
+    "visitors": 148,
+    "lastVisit": "2026-02-11T00:29:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.545767257002392
+    "normalized": 0.5465027099050981
   },
   {
     "city": "Recife",
@@ -5231,11 +5231,11 @@
   {
     "city": "Dubai",
     "country": "United Arab Emirates",
-    "visitors": 9,
-    "lastVisit": "2026-01-18T00:46:00",
+    "visitors": 10,
+    "lastVisit": "2026-02-11T00:12:00",
     "lat": 25.07725,
     "lon": 55.30927,
-    "normalized": 0.2514753189124336
+    "normalized": 0.2618845576132402
   },
   {
     "city": "Manajao",
