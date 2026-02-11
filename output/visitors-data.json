@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 459,
-    "lastVisit": "2026-02-11T05:08:00",
+    "visitors": 460,
+    "lastVisit": "2026-02-11T08:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.669617874908704
+    "normalized": 0.6698550396997062
   },
   {
     "city": "Tubingen",
@@ -7661,11 +7661,11 @@
   {
     "city": "Blacksburg",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2026-01-22T19:33:00",
+    "visitors": 7,
+    "lastVisit": "2026-02-11T08:37:00",
     "lat": 37.22957,
     "lon": -80.41394,
-    "normalized": 0.21252129912485776
+    "normalized": 0.22710484248542448
   },
   {
     "city": "King City",
