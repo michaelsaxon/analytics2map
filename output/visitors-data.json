@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 105,
-    "lastVisit": "2026-02-12T02:33:00",
+    "visitors": 106,
+    "lastVisit": "2026-02-12T08:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5092850914317864
+    "normalized": 0.5103105266687612
   },
   {
     "city": null,
@@ -9448,5 +9448,14 @@
     "lat": 41.26465,
     "lon": 69.21627,
     "normalized": 0.1199773061449094
+  },
+  {
+    "city": "Rotterdam",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-12T09:22:00",
+    "lat": 42.78702,
+    "lon": -73.97096,
+    "normalized": 0.07569725220017498
   }
 ]
