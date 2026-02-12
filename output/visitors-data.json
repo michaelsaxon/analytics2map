@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 284,
-    "lastVisit": "2026-02-10T06:40:00",
+    "visitors": 285,
+    "lastVisit": "2026-02-11T23:35:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6173044354190419
+    "normalized": 0.617686955279927
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 264,
-    "lastVisit": "2026-02-10T20:57:00",
+    "visitors": 266,
+    "lastVisit": "2026-02-11T23:00:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6093584366414495
+    "normalized": 0.6101795631310948
   },
   {
     "city": "Sylhet",
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 31,
-    "lastVisit": "2026-02-06T22:21:00",
+    "visitors": 32,
+    "lastVisit": "2026-02-11T23:38:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.3784906218409792
+    "normalized": 0.38185117340939195
   },
   {
     "city": "Seongnam-si",
