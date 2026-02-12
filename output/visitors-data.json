@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 465,
-    "lastVisit": "2026-02-11T17:28:00",
+    "visitors": 466,
+    "lastVisit": "2026-02-11T20:27:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6710022652008781
+    "normalized": 0.6712363688460009
   },
   {
     "city": "Tubingen",
@@ -9439,5 +9439,14 @@
     "lat": 37.26383,
     "lon": -122.02301,
     "normalized": 0.07569812436819584
+  },
+  {
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "visitors": 2,
+    "lastVisit": "2026-02-11T21:00:00",
+    "lat": 41.26465,
+    "lon": 69.21627,
+    "normalized": 0.11997868849851678
   }
 ]
