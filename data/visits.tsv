@@ -7714,3 +7714,15 @@ timestamp	country	city	num_unique
 2026-02-12T06:58:00	United States	Los Angeles	1
 2026-02-12T08:15:00	Singapore		1
 2026-02-12T09:22:00	United States	Rotterdam	1
+2026-02-12T11:05:00	United States		1
+2026-02-12T11:05:00	United States	Charlottesville	1
+2026-02-12T11:06:00	United States	Austin	1
+2026-02-12T11:06:00	United States	Charlottesville	1
+2026-02-12T11:07:00	United States	Charlottesville	1
+2026-02-12T11:08:00	United States		1
+2026-02-12T11:08:00	United States	Charlottesville	1
+2026-02-12T11:09:00	United States	Charlottesville	1
+2026-02-12T11:10:00	United States		1
+2026-02-12T11:10:00	United States	Charlottesville	1
+2026-02-12T11:11:00	United States	Charlottesville	1
+2026-02-12T11:13:00	United States		1
