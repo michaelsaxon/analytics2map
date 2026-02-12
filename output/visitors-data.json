@@ -7886,11 +7886,11 @@
   {
     "city": "Aspen",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2026-02-05T12:15:00",
+    "visitors": 10,
+    "lastVisit": "2026-02-12T11:25:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.251449243394728
+    "normalized": 0.2618574027598399
   },
   {
     "city": "Fulton",
