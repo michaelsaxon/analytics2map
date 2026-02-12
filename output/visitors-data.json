@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 224,
-    "lastVisit": "2026-02-07T21:16:00",
+    "visitors": 225,
+    "lastVisit": "2026-02-11T18:19:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5914885803986167
+    "normalized": 0.5919728796784537
   },
   {
     "city": "Ashburn",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 95,
-    "lastVisit": "2026-02-06T14:46:00",
+    "visitors": 96,
+    "lastVisit": "2026-02-11T17:38:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.498469310339496
+    "normalized": 0.4996010231471341
   },
   {
     "city": "Four Oaks",
@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 103,
-    "lastVisit": "2026-01-31T20:13:00",
+    "visitors": 104,
+    "lastVisit": "2026-02-11T18:35:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5072107191054435
+    "normalized": 0.5082557922348916
   },
   {
     "city": null,
