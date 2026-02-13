@@ -9457,5 +9457,23 @@
     "lat": 42.78702,
     "lon": -73.97096,
     "normalized": 0.07569289304104058
+  },
+  {
+    "city": "Surgeres",
+    "country": "France",
+    "visitors": 1,
+    "lastVisit": "2026-02-12T14:32:00",
+    "lat": 48.85341,
+    "lon": 2.3488,
+    "normalized": 0.07569289304104058
+  },
+  {
+    "city": "San Bernardino",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-12T14:33:00",
+    "lat": 34.10834,
+    "lon": -117.28977,
+    "normalized": 0.07569289304104058
   }
 ]
