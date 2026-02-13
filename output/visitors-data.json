@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 227,
-    "lastVisit": "2026-02-12T06:58:00",
+    "visitors": 228,
+    "lastVisit": "2026-02-12T19:20:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5928941060444067
+    "normalized": 0.5933720138593422
   },
   {
     "city": "Ashburn",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 96,
-    "lastVisit": "2026-02-11T17:38:00",
+    "visitors": 97,
+    "lastVisit": "2026-02-12T18:58:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.49956649684386045
+    "normalized": 0.5006865247281308
   },
   {
     "city": "Four Oaks",
@@ -722,11 +722,11 @@
   {
     "city": "Charlottesville",
     "country": "United States",
-    "visitors": 25,
-    "lastVisit": "2026-02-12T11:11:00",
+    "visitors": 29,
+    "lastVisit": "2026-02-12T18:03:00",
     "lat": 38.02931,
     "lon": -78.47668,
-    "normalized": 0.3557898808311127
+    "normalized": 0.37141674501748356
   },
   {
     "city": "Winter Haven",
