@@ -7764,3 +7764,7 @@ timestamp	country	city	num_unique
 2026-02-13T08:28:00	Italy	Florence	1
 2026-02-13T10:14:00	Singapore		1
 2026-02-13T12:52:00	United States	Aspen	1
+2026-02-13T14:09:00	United States		1
+2026-02-13T14:18:00	Canada	Montreal	1
+2026-02-13T14:21:00	China	Lanzhou	1
+2026-02-13T14:21:00	Canada	Montreal	1
