@@ -9484,5 +9484,14 @@
     "lat": 48.71395,
     "lon": 21.25808,
     "normalized": 0.07568766574472395
+  },
+  {
+    "city": "Florence",
+    "country": "Italy",
+    "visitors": 1,
+    "lastVisit": "2026-02-13T08:28:00",
+    "lat": 43.77925,
+    "lon": 11.24626,
+    "normalized": 0.07568766574472395
   }
 ]
