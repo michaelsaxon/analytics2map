@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 153,
-    "lastVisit": "2026-02-13T06:02:00",
+    "visitors": 154,
+    "lastVisit": "2026-02-13T06:58:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.5500061107303746
+    "normalized": 0.5507128719034249
   },
   {
     "city": "Recife",
@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 107,
-    "lastVisit": "2026-02-13T02:16:00",
+    "visitors": 108,
+    "lastVisit": "2026-02-13T07:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5112616674069619
+    "normalized": 0.5122680728723962
   },
   {
     "city": null,
