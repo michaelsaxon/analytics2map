@@ -677,11 +677,11 @@
   {
     "city": "Rochester",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-01-14T08:36:00",
+    "visitors": 6,
+    "lastVisit": "2026-02-13T08:09:00",
     "lat": 43.15478,
     "lon": -77.61556,
-    "normalized": 0.1956497777172286
+    "normalized": 0.2124821409675015
   },
   {
     "city": "Mountain View",
@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 108,
-    "lastVisit": "2026-02-13T07:14:00",
+    "visitors": 109,
+    "lastVisit": "2026-02-13T08:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5122680728723962
+    "normalized": 0.5132652872919915
   },
   {
     "city": null,
@@ -8714,11 +8714,11 @@
   {
     "city": "Riverside",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-02-11T12:49:00",
+    "visitors": 8,
+    "lastVisit": "2026-02-13T08:07:00",
     "lat": 33.95335,
     "lon": -117.39616,
-    "normalized": 0.22706299723417184
+    "normalized": 0.23992422394500934
   },
   {
     "city": "Amity Gardens",
