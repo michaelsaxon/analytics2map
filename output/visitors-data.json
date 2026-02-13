@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 148,
-    "lastVisit": "2026-02-11T00:29:00",
+    "visitors": 150,
+    "lastVisit": "2026-02-12T22:30:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.5464397506645896
+    "normalized": 0.5478957957214945
   },
   {
     "city": "Recife",
@@ -7202,11 +7202,11 @@
   {
     "city": "Waukesha",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-11-23T13:08:00",
+    "visitors": 2,
+    "lastVisit": "2026-02-12T22:11:00",
     "lat": 43.01168,
     "lon": -88.23148,
-    "normalized": 0.07569289304104058
+    "normalized": 0.1199703970411467
   },
   {
     "city": "Inhumas",
