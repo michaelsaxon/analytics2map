@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 14,
-    "lastVisit": "2026-02-08T08:51:00",
+    "visitors": 15,
+    "lastVisit": "2026-02-12T21:05:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.29572385197644296
+    "normalized": 0.30277157216416234
   },
   {
     "city": "Athens",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 466,
-    "lastVisit": "2026-02-11T20:27:00",
+    "visitors": 467,
+    "lastVisit": "2026-02-12T20:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6711899812099367
+    "normalized": 0.6714235679544467
   },
   {
     "city": "Tubingen",
