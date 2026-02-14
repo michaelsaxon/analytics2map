@@ -9515,10 +9515,10 @@
   {
     "city": "Springdale",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-02-14T11:58:00",
+    "visitors": 2,
+    "lastVisit": "2026-02-14T12:28:00",
     "lat": 36.18674,
     "lon": -94.12881,
-    "normalized": 0.07568505360634804
+    "normalized": 0.11995797183113216
   }
 ]
