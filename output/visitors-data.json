@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 291,
-    "lastVisit": "2026-02-14T00:38:00",
+    "visitors": 292,
+    "lastVisit": "2026-02-14T11:42:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6198473107654198
+    "normalized": 0.620220611817936
   },
   {
     "city": "Santa Clara",
@@ -9511,5 +9511,14 @@
     "lat": 38.58046,
     "lon": -121.53023,
     "normalized": 0.11995797183113216
+  },
+  {
+    "city": "Springdale",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-14T11:58:00",
+    "lat": 36.18674,
+    "lon": -94.12881,
+    "normalized": 0.07568505360634804
   }
 ]
