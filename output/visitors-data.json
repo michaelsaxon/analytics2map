@@ -4925,11 +4925,11 @@
   {
     "city": "Providence",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-02-07T18:27:00",
+    "visitors": 13,
+    "lastVisit": "2026-02-13T18:13:00",
     "lat": 41.82399,
     "lon": -71.41283,
-    "normalized": 0.28007442206135136
+    "normalized": 0.2881664911740272
   },
   {
     "city": "Chandigarh",
