@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 287,
-    "lastVisit": "2026-02-11T09:11:00",
+    "visitors": 290,
+    "lastVisit": "2026-02-13T16:22:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6183554380972341
+    "normalized": 0.6194869815257555
   },
   {
     "city": "Santa Clara",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 97,
-    "lastVisit": "2026-02-12T18:58:00",
+    "visitors": 99,
+    "lastVisit": "2026-02-13T16:50:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5006461874278967
+    "normalized": 0.5028521809145006
   },
   {
     "city": "Four Oaks",
@@ -893,20 +893,20 @@
   {
     "city": "Princeton",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-01-29T19:07:00",
+    "visitors": 6,
+    "lastVisit": "2026-02-13T16:17:00",
     "lat": 40.34872,
     "lon": -74.65905,
-    "normalized": 0.17573929553709247
+    "normalized": 0.21247969625386945
   },
   {
     "city": "Irvine",
     "country": "United States",
-    "visitors": 18,
-    "lastVisit": "2026-01-30T21:42:00",
+    "visitors": 19,
+    "lastVisit": "2026-02-13T15:57:00",
     "lat": 33.66946,
     "lon": -117.82311,
-    "normalized": 0.32151201854570044
+    "normalized": 0.32711288537740807
   },
   {
     "city": "Durham",
@@ -6959,11 +6959,11 @@
   {
     "city": "Kingston",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2025-11-24T22:42:00",
+    "visitors": 8,
+    "lastVisit": "2026-02-13T17:00:00",
     "lat": 41.92704,
     "lon": -73.99736,
-    "normalized": 0.21247969625386945
+    "normalized": 0.23992146349644522
   },
   {
     "city": "Central",
@@ -7508,11 +7508,11 @@
   {
     "city": "Mansfield",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-11-30T21:49:00",
+    "visitors": 4,
+    "lastVisit": "2026-02-13T15:12:00",
     "lat": 40.75839,
     "lon": -82.51545,
-    "normalized": 0.11996073174822261
+    "normalized": 0.17573929553709247
   },
   {
     "city": "Davis",
@@ -9492,6 +9492,15 @@
     "lastVisit": "2026-02-13T08:28:00",
     "lat": 43.77925,
     "lon": 11.24626,
+    "normalized": 0.07568679492015778
+  },
+  {
+    "city": "Silver Spring",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-13T16:05:00",
+    "lat": 38.99067,
+    "lon": -77.02609,
     "normalized": 0.07568679492015778
   }
 ]
