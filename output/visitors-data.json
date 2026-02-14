@@ -9502,5 +9502,14 @@
     "lat": 38.99067,
     "lon": -77.02609,
     "normalized": 0.07568505360634804
+  },
+  {
+    "city": "West Sacramento",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-02-13T22:24:00",
+    "lat": 38.58046,
+    "lon": -121.53023,
+    "normalized": 0.11995797183113216
   }
 ]
