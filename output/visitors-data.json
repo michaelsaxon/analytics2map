@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 154,
-    "lastVisit": "2026-02-13T06:58:00",
+    "visitors": 156,
+    "lastVisit": "2026-02-13T23:38:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.550693865659638
+    "normalized": 0.5520937624178415
   },
   {
     "city": "Recife",
@@ -7517,11 +7517,11 @@
   {
     "city": "Davis",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-12-01T11:13:00",
+    "visitors": 2,
+    "lastVisit": "2026-02-13T23:02:00",
     "lat": 38.54491,
     "lon": -121.74052,
-    "normalized": 0.07568505360634804
+    "normalized": 0.11995797183113216
   },
   {
     "city": "Morristown",
