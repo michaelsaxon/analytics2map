@@ -6842,11 +6842,11 @@
   {
     "city": "Moses Lake",
     "country": "United States",
-    "visitors": 19,
-    "lastVisit": "2026-02-05T19:08:00",
+    "visitors": 20,
+    "lastVisit": "2026-02-14T04:59:00",
     "lat": 47.13014,
     "lon": -119.27808,
-    "normalized": 0.3271053595443317
+    "normalized": 0.33243277959910694
   },
   {
     "city": "Camarillo",
