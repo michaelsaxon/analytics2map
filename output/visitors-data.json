@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 157,
-    "lastVisit": "2026-02-13T23:39:00",
+    "visitors": 163,
+    "lastVisit": "2026-02-14T03:31:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.5527870374547968
+    "normalized": 0.5568567178810132
   },
   {
     "city": "Recife",
