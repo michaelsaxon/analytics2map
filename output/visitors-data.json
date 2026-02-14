@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 80,
-    "lastVisit": "2026-02-12T13:01:00",
+    "visitors": 81,
+    "lastVisit": "2026-02-14T13:32:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.47983188732452864
+    "normalized": 0.4811716642746651
   },
   {
     "city": "Rochester",
@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 113,
-    "lastVisit": "2026-02-14T08:19:00",
+    "visitors": 114,
+    "lastVisit": "2026-02-14T14:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5171476470083387
+    "normalized": 0.5181012814674473
   },
   {
     "city": null,
