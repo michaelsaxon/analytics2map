@@ -1622,20 +1622,20 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 30,
-    "lastVisit": "2026-02-06T20:39:00",
+    "visitors": 31,
+    "lastVisit": "2026-02-14T22:18:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.37495861332800234
+    "normalized": 0.3784252680317402
   },
   {
     "city": "Shenzhen",
     "country": "China",
-    "visitors": 15,
-    "lastVisit": "2026-02-14T21:14:00",
+    "visitors": 16,
+    "lastVisit": "2026-02-14T21:39:00",
     "lat": 22.54554,
     "lon": 114.0683,
-    "normalized": 0.3027402144253922
+    "normalized": 0.3093598442539876
   },
   {
     "city": "Huzhou",
@@ -7157,11 +7157,11 @@
   {
     "city": "Indianapolis",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-02-11T06:41:00",
+    "visitors": 15,
+    "lastVisit": "2026-02-14T22:01:00",
     "lat": 39.76838,
     "lon": -86.15804,
-    "normalized": 0.2956932241627678
+    "normalized": 0.3027402144253922
   },
   {
     "city": "Virginia Beach",
