@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 70,
-    "lastVisit": "2026-02-08T21:07:00",
+    "visitors": 71,
+    "lastVisit": "2026-02-15T07:28:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.4654439404051963
+    "normalized": 0.4669711044813084
   },
   {
     "city": "Stanford",
@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 117,
-    "lastVisit": "2026-02-15T02:26:00",
+    "visitors": 118,
+    "lastVisit": "2026-02-15T08:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5209132081443097
+    "normalized": 0.5218346520219624
   },
   {
     "city": null,
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 935,
-    "lastVisit": "2026-02-12T06:53:00",
+    "visitors": 936,
+    "lastVisit": "2026-02-15T08:17:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7470390829158764
+    "normalized": 0.7471556771090235
   },
   {
     "city": "Riegelsberg",
