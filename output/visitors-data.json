@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 286,
-    "lastVisit": "2026-02-14T02:03:00",
+    "visitors": 288,
+    "lastVisit": "2026-02-15T12:05:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6179614184362919
+    "normalized": 0.6187196885079752
   },
   {
     "city": null,
@@ -884,11 +884,11 @@
   {
     "city": "Madison",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-01-01T12:55:00",
+    "visitors": 16,
+    "lastVisit": "2026-02-15T11:53:00",
     "lat": 43.07305,
     "lon": -89.40123,
-    "normalized": 0.2956932241627678
+    "normalized": 0.3093598442539876
   },
   {
     "city": "Princeton",
@@ -3098,11 +3098,11 @@
   {
     "city": "Abu Dhabi",
     "country": "United Arab Emirates",
-    "visitors": 9,
-    "lastVisit": "2026-01-26T22:52:00",
+    "visitors": 10,
+    "lastVisit": "2026-02-15T12:27:00",
     "lat": 24.45118,
     "lon": 54.39696,
-    "normalized": 0.25142030593798365
+    "normalized": 0.2618272675040592
   },
   {
     "city": null,
@@ -9520,5 +9520,14 @@
     "lat": 36.18674,
     "lon": -94.12881,
     "normalized": 0.11995797183113216
+  },
+  {
+    "city": "Racine",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-15T09:28:00",
+    "lat": 42.72613,
+    "lon": -87.78285,
+    "normalized": 0.07568505360634804
   }
 ]
