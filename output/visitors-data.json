@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 23,
-    "lastVisit": "2026-01-27T07:48:00",
+    "visitors": 26,
+    "lastVisit": "2026-02-14T14:59:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.3470131326501763
+    "normalized": 0.3598739154933965
   },
   {
     "city": "Tustin",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 40,
-    "lastVisit": "2026-02-11T09:22:00",
+    "visitors": 41,
+    "lastVisit": "2026-02-14T17:08:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.4054866106683171
+    "normalized": 0.408117833205455
   },
   {
     "city": "Minneapolis",
