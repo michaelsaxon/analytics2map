@@ -9538,5 +9538,14 @@
     "lat": 51.75769,
     "lon": 14.32888,
     "normalized": 0.07568505360634804
+  },
+  {
+    "city": "Clemmons",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-02-15T13:54:00",
+    "lat": 36.02153,
+    "lon": -80.382,
+    "normalized": 0.11995797183113216
   }
 ]
