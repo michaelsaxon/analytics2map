@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 65,
-    "lastVisit": "2026-02-03T19:40:00",
+    "visitors": 67,
+    "lastVisit": "2026-02-14T19:57:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.45747029294153935
+    "normalized": 0.4607299514666837
   },
   {
     "city": "Manhattan",
@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 165,
-    "lastVisit": "2026-02-14T05:15:00",
+    "visitors": 174,
+    "lastVisit": "2026-02-14T20:11:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.5581802547104227
+    "normalized": 0.563945312431246
   },
   {
     "city": "Recife",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 41,
-    "lastVisit": "2026-02-14T17:08:00",
+    "visitors": 42,
+    "lastVisit": "2026-02-14T19:58:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.408117833205455
+    "normalized": 0.4106871388418653
   },
   {
     "city": "Minneapolis",
