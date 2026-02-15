@@ -9529,5 +9529,14 @@
     "lat": 42.72613,
     "lon": -87.78285,
     "normalized": 0.07568505360634804
+  },
+  {
+    "city": "Cottbus",
+    "country": "Germany",
+    "visitors": 1,
+    "lastVisit": "2026-02-15T12:43:00",
+    "lat": 51.75769,
+    "lon": 14.32888,
+    "normalized": 0.07568505360634804
   }
 ]
