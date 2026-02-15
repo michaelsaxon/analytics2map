@@ -7427,11 +7427,11 @@
   {
     "city": "Athens",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-02-05T00:38:00",
+    "visitors": 6,
+    "lastVisit": "2026-02-15T02:47:00",
     "lat": 34.80243,
     "lon": -86.97219,
-    "normalized": 0.1956430254374802
+    "normalized": 0.21247480776797478
   },
   {
     "city": "Bullhead City",
