@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 81,
-    "lastVisit": "2026-02-14T13:32:00",
+    "visitors": 82,
+    "lastVisit": "2026-02-15T21:24:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.4811716642746651
+    "normalized": 0.48249520110407457
   },
   {
     "city": "Rochester",
@@ -893,11 +893,11 @@
   {
     "city": "Princeton",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2026-02-13T16:17:00",
+    "visitors": 7,
+    "lastVisit": "2026-02-15T20:49:00",
     "lat": 40.34872,
     "lon": -74.65905,
-    "normalized": 0.21247480776797478
+    "normalized": 0.22705516081904412
   },
   {
     "city": "Irvine",
