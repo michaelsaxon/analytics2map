@@ -9565,5 +9565,14 @@
     "lat": 30.57881,
     "lon": -97.85307,
     "normalized": 0.07568505360634804
+  },
+  {
+    "city": "Huntsville",
+    "country": "Canada",
+    "visitors": 2,
+    "lastVisit": "2026-02-16T11:02:00",
+    "lat": 45.33341,
+    "lon": -79.21632,
+    "normalized": 0.11995797183113216
   }
 ]
