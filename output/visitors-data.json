@@ -1631,11 +1631,11 @@
   {
     "city": "Shenzhen",
     "country": "China",
-    "visitors": 16,
-    "lastVisit": "2026-02-14T21:39:00",
+    "visitors": 17,
+    "lastVisit": "2026-02-16T04:54:00",
     "lat": 22.54554,
     "lon": 114.0683,
-    "normalized": 0.3093598442539876
+    "normalized": 0.31560099726861235
   },
   {
     "city": "Huzhou",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 470,
-    "lastVisit": "2026-02-15T20:17:00",
+    "visitors": 471,
+    "lastVisit": "2026-02-16T05:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6720517342489737
+    "normalized": 0.6722833153570057
   },
   {
     "city": "Tubingen",
