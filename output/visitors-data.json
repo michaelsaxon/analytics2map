@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 294,
-    "lastVisit": "2026-02-15T19:53:00",
+    "visitors": 295,
+    "lastVisit": "2026-02-16T09:10:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6209634068695973
+    "normalized": 0.6213329180564414
   },
   {
     "city": "Santa Clara",
@@ -5609,11 +5609,11 @@
   {
     "city": "Karachi",
     "country": "Pakistan",
-    "visitors": 2,
-    "lastVisit": "2026-01-15T10:00:00",
+    "visitors": 3,
+    "lastVisit": "2026-02-16T09:21:00",
     "lat": 24.8608,
     "lon": 67.0104,
-    "normalized": 0.11995797183113216
+    "normalized": 0.1513701072126961
   },
   {
     "city": "Arlington",
