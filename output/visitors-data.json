@@ -470,11 +470,11 @@
   {
     "city": "Cambridge",
     "country": "United States",
-    "visitors": 27,
-    "lastVisit": "2026-01-28T13:40:00",
+    "visitors": 29,
+    "lastVisit": "2026-02-15T14:38:00",
     "lat": 42.3751,
     "lon": -71.10561,
-    "normalized": 0.36384491498067084
+    "normalized": 0.3713782777691158
   },
   {
     "city": "San Diego",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 468,
-    "lastVisit": "2026-02-13T14:21:00",
+    "visitors": 469,
+    "lastVisit": "2026-02-15T14:19:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6715870933286596
+    "normalized": 0.6718196609384288
   },
   {
     "city": "Tubingen",
@@ -9547,5 +9547,23 @@
     "lat": 36.02153,
     "lon": -80.382,
     "normalized": 0.11995797183113216
+  },
+  {
+    "city": "Abeokuta",
+    "country": "Nigeria",
+    "visitors": 2,
+    "lastVisit": "2026-02-15T16:19:00",
+    "lat": 7.15571,
+    "lon": 3.34509,
+    "normalized": 0.11995797183113216
+  },
+  {
+    "city": "Leander",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-15T17:45:00",
+    "lat": 30.57881,
+    "lon": -97.85307,
+    "normalized": 0.07568505360634804
   }
 ]
