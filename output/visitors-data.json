@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 120,
-    "lastVisit": "2026-02-16T02:15:00",
+    "visitors": 121,
+    "lastVisit": "2026-02-16T08:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5236545350081184
+    "normalized": 0.524553226924965
   },
   {
     "city": null,
