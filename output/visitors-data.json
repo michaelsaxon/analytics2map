@@ -9578,10 +9578,10 @@
   {
     "city": "Lagos",
     "country": "Nigeria",
-    "visitors": 1,
-    "lastVisit": "2026-02-16T17:32:00",
+    "visitors": 2,
+    "lastVisit": "2026-02-16T17:34:00",
     "lat": 6.45407,
     "lon": 3.39467,
-    "normalized": 0.07568418311705176
+    "normalized": 0.1199565921382403
   }
 ]
