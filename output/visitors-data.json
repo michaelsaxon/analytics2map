@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 122,
-    "lastVisit": "2026-02-16T20:18:00",
+    "visitors": 123,
+    "lastVisit": "2026-02-16T21:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.525438539114883
+    "normalized": 0.5263226669872461
   },
   {
     "city": null,
@@ -3332,11 +3332,11 @@
   {
     "city": "Greenbelt",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-02-01T17:00:00",
+    "visitors": 6,
+    "lastVisit": "2026-02-16T21:08:00",
     "lat": 39.00455,
     "lon": -76.87553,
-    "normalized": 0.15136836623410352
+    "normalized": 0.2124723639955643
   },
   {
     "city": "Clarksburg",
