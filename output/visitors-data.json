@@ -4628,11 +4628,11 @@
   {
     "city": "Isfahan",
     "country": "Iran",
-    "visitors": 5,
-    "lastVisit": "2026-02-07T10:02:00",
+    "visitors": 6,
+    "lastVisit": "2026-02-17T04:54:00",
     "lat": 32.65246,
     "lon": 51.67462,
-    "normalized": 0.19564077525529205
+    "normalized": 0.2124723639955643
   },
   {
     "city": "Hur",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 950,
-    "lastVisit": "2026-02-17T03:57:00",
+    "visitors": 958,
+    "lastVisit": "2026-02-17T05:27:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7487664446938594
+    "normalized": 0.7496811239330572
   },
   {
     "city": "Riegelsberg",
@@ -7463,11 +7463,11 @@
   {
     "city": "Qom",
     "country": "Iran",
-    "visitors": 1,
-    "lastVisit": "2025-11-30T06:41:00",
+    "visitors": 2,
+    "lastVisit": "2026-02-17T04:44:00",
     "lat": 34.6401,
     "lon": 50.8764,
-    "normalized": 0.07568418311705176
+    "normalized": 0.1199565921382403
   },
   {
     "city": "Eugene",
