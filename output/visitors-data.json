@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 266,
-    "lastVisit": "2026-02-11T23:00:00",
+    "visitors": 267,
+    "lastVisit": "2026-02-17T08:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6100671869447151
+    "normalized": 0.6104753713290779
   },
   {
     "city": "Sylhet",
@@ -3332,11 +3332,11 @@
   {
     "city": "Greenbelt",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2026-02-16T21:08:00",
+    "visitors": 7,
+    "lastVisit": "2026-02-17T08:32:00",
     "lat": 39.00455,
     "lon": -76.87553,
-    "normalized": 0.2124723639955643
+    "normalized": 0.2270525493511553
   },
   {
     "city": "Clarksburg",
