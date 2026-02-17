@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 82,
-    "lastVisit": "2026-02-15T21:24:00",
+    "visitors": 83,
+    "lastVisit": "2026-02-16T17:05:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.48248965170048624
+    "normalized": 0.48379732236790807
   },
   {
     "city": "Rochester",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 938,
-    "lastVisit": "2026-02-16T03:50:00",
+    "visitors": 939,
+    "lastVisit": "2026-02-16T16:51:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.747379896593299
+    "normalized": 0.7474961171424904
   },
   {
     "city": "Riegelsberg",
@@ -9574,5 +9574,14 @@
     "lat": 45.33341,
     "lon": -79.21632,
     "normalized": 0.1199565921382403
+  },
+  {
+    "city": "Lagos",
+    "country": "Nigeria",
+    "visitors": 1,
+    "lastVisit": "2026-02-16T17:32:00",
+    "lat": 6.45407,
+    "lon": 3.39467,
+    "normalized": 0.07568418311705176
   }
 ]
