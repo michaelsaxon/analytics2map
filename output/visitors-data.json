@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 268,
-    "lastVisit": "2026-02-17T10:08:00",
+    "visitors": 269,
+    "lastVisit": "2026-02-17T20:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6108820354701269
+    "normalized": 0.6112871906498549
   },
   {
     "city": "Sylhet",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 475,
-    "lastVisit": "2026-02-17T14:18:00",
+    "visitors": 476,
+    "lastVisit": "2026-02-17T20:16:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6731970163910033
+    "normalized": 0.6734261648395482
   },
   {
     "city": "Tubingen",
@@ -9583,5 +9583,14 @@
     "lat": 6.45407,
     "lon": 3.39467,
     "normalized": 0.1199565921382403
+  },
+  {
+    "city": "Celina",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-17T20:53:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07568418311705176
   }
 ]
