@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 83,
-    "lastVisit": "2026-02-16T17:05:00",
+    "visitors": 85,
+    "lastVisit": "2026-02-18T13:29:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.48379175863806034
+    "normalized": 0.4863610051766845
   },
   {
     "city": "Rochester",
@@ -9619,5 +9619,14 @@
     "lat": 42.74698,
     "lon": -84.40108,
     "normalized": 0.119955212622395
+  },
+  {
+    "city": "Lancaster",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-18T13:28:00",
+    "lat": 34.69804,
+    "lon": -118.13674,
+    "normalized": 0.07568331273945945
   }
 ]
