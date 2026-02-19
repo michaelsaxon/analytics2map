@@ -533,11 +533,11 @@
   {
     "city": "Des Moines",
     "country": "United States",
-    "visitors": 34,
-    "lastVisit": "2026-02-05T23:18:00",
+    "visitors": 35,
+    "lastVisit": "2026-02-19T06:40:00",
     "lat": 47.40177,
     "lon": -122.32429,
-    "normalized": 0.388187740898053
+    "normalized": 0.3912635548267286
   },
   {
     "city": "West Milford",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 275,
-    "lastVisit": "2026-02-19T02:18:00",
+    "visitors": 276,
+    "lastVisit": "2026-02-19T06:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6136588253163067
+    "normalized": 0.6140537052182128
   },
   {
     "city": "Sylhet",
