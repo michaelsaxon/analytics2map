@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 81,
-    "lastVisit": "2026-02-14T08:44:00",
+    "visitors": 82,
+    "lastVisit": "2026-02-19T11:10:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.4811440004697759
+    "normalized": 0.48246746120562595
   },
   {
     "city": "Ames",
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 85,
-    "lastVisit": "2026-02-18T13:29:00",
+    "visitors": 86,
+    "lastVisit": "2026-02-19T11:07:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.4863442296514935
+    "normalized": 0.48760648849456084
   },
   {
     "city": "Rochester",
