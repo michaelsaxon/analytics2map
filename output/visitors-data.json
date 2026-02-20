@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 82,
-    "lastVisit": "2026-02-19T11:10:00",
+    "visitors": 83,
+    "lastVisit": "2026-02-19T13:32:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.48246746120562595
+    "normalized": 0.483775071731117
   },
   {
     "city": "Ames",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 277,
-    "lastVisit": "2026-02-19T08:16:00",
+    "visitors": 278,
+    "lastVisit": "2026-02-19T14:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.614447162126396
+    "normalized": 0.6148392062598748
   },
   {
     "city": "Sylhet",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 993,
-    "lastVisit": "2026-02-19T00:45:00",
+    "visitors": 994,
+    "lastVisit": "2026-02-19T16:37:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7535604751456293
+    "normalized": 0.7536702631627887
   },
   {
     "city": "Riegelsberg",
