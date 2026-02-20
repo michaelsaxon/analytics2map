@@ -9637,5 +9637,14 @@
     "lat": 16.50745,
     "lon": 80.6466,
     "normalized": 0.1199455609652787
+  },
+  {
+    "city": "Amritsar",
+    "country": "India",
+    "visitors": 1,
+    "lastVisit": "2026-02-20T09:48:00",
+    "lat": 31.62234,
+    "lon": 74.87534,
+    "normalized": 0.0756772232218135
   }
 ]
