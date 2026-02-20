@@ -11,11 +11,11 @@
   {
     "city": "Goleta",
     "country": "United States",
-    "visitors": 61,
-    "lastVisit": "2026-01-25T22:50:00",
+    "visitors": 62,
+    "lastVisit": "2026-02-20T12:04:00",
     "lat": 34.43583,
     "lon": -119.82764,
-    "normalized": 0.45059704328764594
+    "normalized": 0.4523439470299675
   },
   {
     "city": "Boardman",
@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 297,
-    "lastVisit": "2026-02-20T09:24:00",
+    "visitors": 298,
+    "lastVisit": "2026-02-20T12:43:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6220038508207176
+    "normalized": 0.622369610474858
   },
   {
     "city": "Santa Clara",
