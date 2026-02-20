@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 281,
-    "lastVisit": "2026-02-20T02:19:00",
+    "visitors": 282,
+    "lastVisit": "2026-02-20T07:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6159786446208975
+    "normalized": 0.6163651199081717
   },
   {
     "city": "Sylhet",
@@ -7445,11 +7445,11 @@
   {
     "city": "Brighton",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-01-31T13:28:00",
+    "visitors": 4,
+    "lastVisit": "2026-02-20T07:14:00",
     "lat": 39.98526,
     "lon": -104.82053,
-    "normalized": 0.151354446443627
+    "normalized": 0.17571707074179108
   },
   {
     "city": "Merced",
