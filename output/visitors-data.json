@@ -776,11 +776,11 @@
   {
     "city": "Hanoi",
     "country": "Vietnam",
-    "visitors": 6,
-    "lastVisit": "2024-09-01T00:00:00",
+    "visitors": 7,
+    "lastVisit": "2026-02-20T05:20:00",
     "lat": 21.0245,
     "lon": 105.84117,
-    "normalized": 0.21245282509941013
+    "normalized": 0.2270316696654405
   },
   {
     "city": "Bangalore",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 995,
-    "lastVisit": "2026-02-19T19:42:00",
+    "visitors": 996,
+    "lastVisit": "2026-02-20T06:21:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.75374528950281
+    "normalized": 0.7538548521358381
   },
   {
     "city": "Riegelsberg",
@@ -9623,11 +9623,11 @@
   {
     "city": "Lancaster",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-02-18T13:28:00",
+    "visitors": 2,
+    "lastVisit": "2026-02-20T06:10:00",
     "lat": 34.69804,
     "lon": -118.13674,
-    "normalized": 0.0756772232218135
+    "normalized": 0.1199455609652787
   },
   {
     "city": "Vijayawada",
