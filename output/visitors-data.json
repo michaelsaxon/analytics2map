@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 160,
-    "lastVisit": "2026-02-18T23:51:00",
+    "visitors": 161,
+    "lastVisit": "2026-02-19T21:23:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5547898079445756
+    "normalized": 0.5554658497900767
   },
   {
     "city": "Lompoc",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 279,
-    "lastVisit": "2026-02-19T20:16:00",
+    "visitors": 280,
+    "lastVisit": "2026-02-19T22:24:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6152086347018985
+    "normalized": 0.6155978700846088
   },
   {
     "city": "Sylhet",
@@ -1424,11 +1424,11 @@
   {
     "city": "Oakland",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-02-09T13:38:00",
+    "visitors": 4,
+    "lastVisit": "2026-02-19T21:34:00",
     "lat": 37.80437,
     "lon": -122.2708,
-    "normalized": 0.1513561856364296
+    "normalized": 0.17571908988210647
   },
   {
     "city": "San Antonio",
@@ -7319,11 +7319,11 @@
   {
     "city": "Chandler",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2026-01-26T11:10:00",
+    "visitors": 26,
+    "lastVisit": "2026-02-19T21:51:00",
     "lat": 33.30616,
     "lon": -111.84125,
-    "normalized": 0.35143817976421293
+    "normalized": 0.35984081772889653
   },
   {
     "city": "Gilbert",
