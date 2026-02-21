@@ -8051,3 +8051,6 @@ timestamp	country	city	num_unique
 2026-02-20T13:39:00	United States	New York	1
 2026-02-20T13:49:00	United States	New York	1
 2026-02-20T13:55:00	United Kingdom	London	1
+2026-02-20T14:23:00	United States	Dallas	1
+2026-02-20T15:52:00	United States	San Diego	1
+2026-02-20T16:09:00	United States	Charlottesville	1
