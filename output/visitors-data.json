@@ -9673,5 +9673,14 @@
     "lat": 25.39689,
     "lon": 68.37718,
     "normalized": 0.119944182864305
+  },
+  {
+    "city": "Petaling Jaya",
+    "country": "Malaysia",
+    "visitors": 6,
+    "lastVisit": "2026-02-21T13:23:00",
+    "lat": 3.10726,
+    "lon": 101.60671,
+    "normalized": 0.21245038414667478
   }
 ]
