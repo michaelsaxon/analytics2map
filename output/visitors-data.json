@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 238,
-    "lastVisit": "2026-02-20T09:03:00",
+    "visitors": 239,
+    "lastVisit": "2026-02-20T17:37:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5979156610733762
+    "normalized": 0.5983715245943237
   },
   {
     "city": "Ashburn",
@@ -389,11 +389,11 @@
   {
     "city": null,
     "country": "Taiwan",
-    "visitors": 61,
-    "lastVisit": "2026-02-18T20:45:00",
+    "visitors": 62,
+    "lastVisit": "2026-02-20T18:28:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.45059704328764594
+    "normalized": 0.4523439470299675
   },
   {
     "city": null,
@@ -7130,11 +7130,11 @@
   {
     "city": "Forest City",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-11-21T05:05:00",
+    "visitors": 3,
+    "lastVisit": "2026-02-20T18:45:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.1199455609652787
+    "normalized": 0.151354446443627
   },
   {
     "city": "Shinagawa City",
@@ -9416,11 +9416,11 @@
   {
     "city": "North Decatur",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-02-10T20:44:00",
+    "visitors": 3,
+    "lastVisit": "2026-02-20T18:37:00",
     "lat": 33.79038,
     "lon": -84.30603,
-    "normalized": 0.1199455609652787
+    "normalized": 0.151354446443627
   },
   {
     "city": "Lovelock",
@@ -9645,6 +9645,24 @@
     "lastVisit": "2026-02-20T09:48:00",
     "lat": 31.62234,
     "lon": 74.87534,
+    "normalized": 0.0756772232218135
+  },
+  {
+    "city": "Prineville",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-20T18:40:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.0756772232218135
+  },
+  {
+    "city": "Altoona",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-20T18:40:00",
+    "lat": 40.51868,
+    "lon": -78.39474,
     "normalized": 0.0756772232218135
   }
 ]
