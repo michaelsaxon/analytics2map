@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 283,
-    "lastVisit": "2026-02-20T20:16:00",
+    "visitors": 286,
+    "lastVisit": "2026-02-20T23:26:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6167502319640874
+    "normalized": 0.6178974840753673
   },
   {
     "city": "Sylhet",
@@ -4916,11 +4916,11 @@
   {
     "city": "Berkeley",
     "country": "United States",
-    "visitors": 17,
-    "lastVisit": "2026-02-09T14:48:00",
+    "visitors": 19,
+    "lastVisit": "2026-02-20T22:56:00",
     "lat": 37.87159,
     "lon": -122.27275,
-    "normalized": 0.31556834515237087
+    "normalized": 0.32707151718541805
   },
   {
     "city": "Providence",
