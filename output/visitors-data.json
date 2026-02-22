@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 287,
-    "lastVisit": "2026-02-21T08:18:00",
+    "visitors": 288,
+    "lastVisit": "2026-02-21T14:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6182701344131388
+    "normalized": 0.6186485677218373
   },
   {
     "city": "Sylhet",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 481,
-    "lastVisit": "2026-02-21T04:14:00",
+    "visitors": 482,
+    "lastVisit": "2026-02-21T15:19:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6744949662264339
+    "normalized": 0.6747212417483597
   },
   {
     "city": "Tubingen",
