@@ -9682,5 +9682,14 @@
     "lat": 3.10726,
     "lon": 101.60671,
     "normalized": 0.21245038414667478
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary",
+    "visitors": 3,
+    "lastVisit": "2026-02-21T21:32:00",
+    "lat": 47.49835,
+    "lon": 19.04045,
+    "normalized": 0.15135270747381155
   }
 ]
