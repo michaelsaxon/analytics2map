@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 103,
-    "lastVisit": "2026-02-21T01:19:00",
+    "visitors": 104,
+    "lastVisit": "2026-02-21T20:23:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5070648463028585
+    "normalized": 0.5081096188713354
   },
   {
     "city": "Four Oaks",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 290,
-    "lastVisit": "2026-02-21T19:14:00",
+    "visitors": 291,
+    "lastVisit": "2026-02-21T20:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6194015217424053
+    "normalized": 0.6197760603610024
   },
   {
     "city": "Sylhet",
@@ -2000,11 +2000,11 @@
   {
     "city": "Copenhagen",
     "country": "Denmark",
-    "visitors": 21,
-    "lastVisit": "2026-02-07T14:51:00",
+    "visitors": 23,
+    "lastVisit": "2026-02-21T20:24:00",
     "lat": 55.67594,
     "lon": 12.56553,
-    "normalized": 0.33747352463753844
+    "normalized": 0.34697324407502234
   },
   {
     "city": null,
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 482,
-    "lastVisit": "2026-02-21T15:19:00",
+    "visitors": 483,
+    "lastVisit": "2026-02-21T20:21:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6747212417483597
+    "normalized": 0.6749470492750769
   },
   {
     "city": "Tubingen",
