@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 71,
-    "lastVisit": "2026-02-15T07:28:00",
+    "visitors": 72,
+    "lastVisit": "2026-02-21T18:03:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.4669174269393273
+    "normalized": 0.4684233528871909
   },
   {
     "city": "Stanford",
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 88,
-    "lastVisit": "2026-02-21T10:54:00",
+    "visitors": 90,
+    "lastVisit": "2026-02-21T18:44:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.4900598938277196
+    "normalized": 0.49248616923881594
   },
   {
     "city": "Rochester",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 288,
-    "lastVisit": "2026-02-21T14:21:00",
+    "visitors": 290,
+    "lastVisit": "2026-02-21T19:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6186485677218373
+    "normalized": 0.6194015217424053
   },
   {
     "city": "Sylhet",
@@ -7004,11 +7004,11 @@
   {
     "city": "Sacramento",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2026-02-07T22:01:00",
+    "visitors": 11,
+    "lastVisit": "2026-02-21T19:40:00",
     "lat": 38.58157,
     "lon": -121.4944,
-    "normalized": 0.26179717090063265
+    "normalized": 0.27129689033811655
   },
   {
     "city": "Yorba Linda",
@@ -7319,11 +7319,11 @@
   {
     "city": "Chandler",
     "country": "United States",
-    "visitors": 26,
-    "lastVisit": "2026-02-19T21:51:00",
+    "visitors": 27,
+    "lastVisit": "2026-02-21T19:46:00",
     "lat": 33.30616,
     "lon": -111.84125,
-    "normalized": 0.35983254859291497
+    "normalized": 0.3638030916204863
   },
   {
     "city": "Gilbert",
