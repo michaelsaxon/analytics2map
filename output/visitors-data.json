@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 998,
-    "lastVisit": "2026-02-21T01:48:00",
+    "visitors": 1002,
+    "lastVisit": "2026-02-22T04:56:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7540649842661657
+    "normalized": 0.7545012601723754
   },
   {
     "city": "Riegelsberg",
@@ -9695,10 +9695,10 @@
   {
     "city": "Essen",
     "country": "Germany",
-    "visitors": 2,
-    "lastVisit": "2026-02-22T03:46:00",
+    "visitors": 3,
+    "lastVisit": "2026-02-22T04:26:00",
     "lat": 51.45657,
     "lon": 7.01228,
-    "normalized": 0.119944182864305
+    "normalized": 0.15135270747381155
   }
 ]
