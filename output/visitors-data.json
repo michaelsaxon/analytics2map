@@ -9691,5 +9691,14 @@
     "lat": 47.49835,
     "lon": 19.04045,
     "normalized": 0.15135270747381155
+  },
+  {
+    "city": "Essen",
+    "country": "Germany",
+    "visitors": 2,
+    "lastVisit": "2026-02-22T03:46:00",
+    "lat": 51.45657,
+    "lon": 7.01228,
+    "normalized": 0.119944182864305
   }
 ]
