@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 26,
-    "lastVisit": "2026-02-14T14:59:00",
+    "visitors": 27,
+    "lastVisit": "2026-02-23T09:36:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.359824281576992
+    "normalized": 0.3637947333828477
   },
   {
     "city": "Tustin",
@@ -893,11 +893,11 @@
   {
     "city": "Princeton",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-02-15T20:49:00",
+    "visitors": 8,
+    "lastVisit": "2026-02-23T10:17:00",
     "lat": 40.34872,
     "lon": -74.65905,
-    "normalized": 0.22702384530439823
+    "normalized": 0.23988285438466134
   },
   {
     "city": "Irvine",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1036,
-    "lastVisit": "2026-02-23T08:30:00",
+    "visitors": 1037,
+    "lastVisit": "2026-02-23T08:41:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7581234425411296
+    "normalized": 0.7582286718427008
   },
   {
     "city": "Riegelsberg",
