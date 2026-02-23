@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 298,
-    "lastVisit": "2026-02-23T02:18:00",
+    "visitors": 299,
+    "lastVisit": "2026-02-23T08:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6223481612887544
+    "normalized": 0.622712687143026
   },
   {
     "city": "Sylhet",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1033,
-    "lastVisit": "2026-02-23T01:47:00",
+    "visitors": 1036,
+    "lastVisit": "2026-02-23T08:30:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7578071447092851
+    "normalized": 0.7581234425411296
   },
   {
     "city": "Riegelsberg",
@@ -9578,11 +9578,11 @@
   {
     "city": "Lagos",
     "country": "Nigeria",
-    "visitors": 2,
-    "lastVisit": "2026-02-16T17:34:00",
+    "visitors": 3,
+    "lastVisit": "2026-02-23T08:20:00",
     "lat": 6.45407,
     "lon": 3.39467,
-    "normalized": 0.11994142719233067
+    "normalized": 0.15134923020293217
   },
   {
     "city": "Celina",
