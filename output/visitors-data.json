@@ -3710,11 +3710,11 @@
   {
     "city": "Bellevue",
     "country": "United States",
-    "visitors": 176,
-    "lastVisit": "2026-02-22T20:56:00",
+    "visitors": 177,
+    "lastVisit": "2026-02-22T23:59:00",
     "lat": 47.61038,
     "lon": -122.20068,
-    "normalized": 0.5651081757321027
+    "normalized": 0.5657232499895446
   },
   {
     "city": "Burlingame",
