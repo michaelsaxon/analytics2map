@@ -308,11 +308,11 @@
   {
     "city": "London",
     "country": "United Kingdom",
-    "visitors": 21,
-    "lastVisit": "2026-02-20T13:55:00",
+    "visitors": 23,
+    "lastVisit": "2026-02-23T02:33:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.33746577131168537
+    "normalized": 0.3469652724967289
   },
   {
     "city": "Berlin",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 297,
-    "lastVisit": "2026-02-23T00:23:00",
+    "visitors": 298,
+    "lastVisit": "2026-02-23T02:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6219824142400606
+    "normalized": 0.6223481612887544
   },
   {
     "city": "Sylhet",
@@ -5231,11 +5231,11 @@
   {
     "city": "Dubai",
     "country": "United Arab Emirates",
-    "visitors": 14,
-    "lastVisit": "2026-02-23T02:05:00",
+    "visitors": 15,
+    "lastVisit": "2026-02-23T02:14:00",
     "lat": 25.07725,
     "lon": 55.30927,
-    "normalized": 0.2956524420662122
+    "normalized": 0.30269846040586434
   },
   {
     "city": "Manajao",
@@ -8129,11 +8129,11 @@
   {
     "city": "Islamabad",
     "country": "Pakistan",
-    "visitors": 1,
-    "lastVisit": "2025-12-20T05:28:00",
+    "visitors": 2,
+    "lastVisit": "2026-02-23T02:55:00",
     "lat": 33.72148,
     "lon": 73.04329,
-    "normalized": 0.07567461510146609
+    "normalized": 0.11994142719233067
   },
   {
     "city": "Yelm",
