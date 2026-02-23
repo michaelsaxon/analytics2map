@@ -8118,3 +8118,7 @@ timestamp	country	city	num_unique
 2026-02-22T08:18:00	Singapore	Singapore	1
 2026-02-22T12:15:00	Singapore	Singapore	1
 2026-02-22T13:38:00	United States	San Jose	1
+2026-02-22T14:20:00	Singapore	Singapore	1
+2026-02-22T15:13:00	United States		1
+2026-02-22T15:53:00	United States	Palm Beach Gardens	1
+2026-02-22T16:43:00	United States		1
