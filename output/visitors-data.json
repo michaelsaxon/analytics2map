@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 241,
-    "lastVisit": "2026-02-23T02:06:00",
+    "visitors": 242,
+    "lastVisit": "2026-02-23T04:15:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5992569275219047
+    "normalized": 0.5997071359616533
   },
   {
     "city": "Ashburn",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 484,
-    "lastVisit": "2026-02-22T20:15:00",
+    "visitors": 485,
+    "lastVisit": "2026-02-23T04:22:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6751568789096155
+    "normalized": 0.6753817510631194
   },
   {
     "city": "Tubingen",
