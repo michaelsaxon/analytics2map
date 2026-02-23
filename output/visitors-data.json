@@ -218,11 +218,11 @@
   {
     "city": null,
     "country": "India",
-    "visitors": 203,
-    "lastVisit": "2026-02-08T07:50:00",
+    "visitors": 205,
+    "lastVisit": "2026-02-23T12:40:00",
     "lat": 28.62137,
     "lon": 77.2148,
-    "normalized": 0.5806078346484272
+    "normalized": 0.5816729688718062
   },
   {
     "city": "Waterloo",
