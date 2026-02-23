@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 63,
-    "lastVisit": "2026-02-15T00:57:00",
+    "visitors": 64,
+    "lastVisit": "2026-02-22T21:32:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.45404769060879646
+    "normalized": 0.45574036625038633
   },
   {
     "city": "Sabz",
@@ -3710,11 +3710,11 @@
   {
     "city": "Bellevue",
     "country": "United States",
-    "visitors": 174,
-    "lastVisit": "2026-01-31T23:42:00",
+    "visitors": 176,
+    "lastVisit": "2026-02-22T20:56:00",
     "lat": 47.61038,
     "lon": -122.20068,
-    "normalized": 0.5638675329276787
+    "normalized": 0.5651081757321027
   },
   {
     "city": "Burlingame",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1021,
-    "lastVisit": "2026-02-22T20:13:00",
+    "visitors": 1026,
+    "lastVisit": "2026-02-22T21:00:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.756532709320229
+    "normalized": 0.757065533178839
   },
   {
     "city": "Riegelsberg",
@@ -9709,5 +9709,14 @@
     "lat": 26.82339,
     "lon": -80.13865,
     "normalized": 0.07567461510146609
+  },
+  {
+    "city": "Missoula",
+    "country": "United States",
+    "visitors": 4,
+    "lastVisit": "2026-02-22T20:56:00",
+    "lat": 46.87215,
+    "lon": -113.994,
+    "normalized": 0.17571101487388155
   }
 ]
