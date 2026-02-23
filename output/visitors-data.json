@@ -4583,11 +4583,11 @@
   {
     "city": "Sunnyvale",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-02-17T23:38:00",
+    "visitors": 15,
+    "lastVisit": "2026-02-22T18:39:00",
     "lat": 37.36883,
     "lon": -122.03635,
-    "normalized": 0.2956524420662122
+    "normalized": 0.30269846040586434
   },
   {
     "city": "College Station",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 483,
-    "lastVisit": "2026-02-21T20:21:00",
+    "visitors": 484,
+    "lastVisit": "2026-02-22T20:15:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6749315426233707
+    "normalized": 0.6751568789096155
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1002,
-    "lastVisit": "2026-02-22T04:56:00",
+    "visitors": 1021,
+    "lastVisit": "2026-02-22T20:13:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7544839257929365
+    "normalized": 0.756532709320229
   },
   {
     "city": "Riegelsberg",
