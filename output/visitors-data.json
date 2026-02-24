@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 299,
-    "lastVisit": "2026-02-20T13:34:00",
+    "visitors": 301,
+    "lastVisit": "2026-02-23T23:31:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.622712687143026
+    "normalized": 0.6234381076985194
   },
   {
     "city": "Santa Clara",
@@ -902,11 +902,11 @@
   {
     "city": "Irvine",
     "country": "United States",
-    "visitors": 19,
-    "lastVisit": "2026-02-13T15:57:00",
+    "visitors": 22,
+    "lastVisit": "2026-02-23T22:42:00",
     "lat": 33.66946,
     "lon": -117.82311,
-    "normalized": 0.32706024507681375
+    "normalized": 0.3423188099122495
   },
   {
     "city": "Durham",
@@ -8651,11 +8651,11 @@
   {
     "city": "Karaj",
     "country": "Iran",
-    "visitors": 1,
-    "lastVisit": "2026-01-06T06:43:00",
+    "visitors": 2,
+    "lastVisit": "2026-02-23T23:12:00",
     "lat": 35.83266,
     "lon": 50.99155,
-    "normalized": 0.07567461510146609
+    "normalized": 0.11994142719233067
   },
   {
     "city": "Highlands Ranch",
@@ -9745,5 +9745,23 @@
     "lat": 43.22862,
     "lon": -88.11037,
     "normalized": 0.11994142719233067
+  },
+  {
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel",
+    "visitors": 1,
+    "lastVisit": "2026-02-23T22:45:00",
+    "lat": 31.76904,
+    "lon": 35.21633,
+    "normalized": 0.07567461510146609
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-23T23:34:00",
+    "lat": 28.53834,
+    "lon": -81.37924,
+    "normalized": 0.07567461510146609
   }
 ]
