@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 242,
-    "lastVisit": "2026-02-23T04:15:00",
+    "visitors": 244,
+    "lastVisit": "2026-02-23T16:19:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.5997071359616533
+    "normalized": 0.6006020212337126
   },
   {
     "city": "Ashburn",
@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 27,
-    "lastVisit": "2026-02-23T09:36:00",
+    "visitors": 28,
+    "lastVisit": "2026-02-23T15:49:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.3637947333828477
+    "normalized": 0.3676258419765162
   },
   {
     "city": "Tustin",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 299,
-    "lastVisit": "2026-02-23T08:14:00",
+    "visitors": 300,
+    "lastVisit": "2026-02-23T17:02:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.622712687143026
+    "normalized": 0.623075999930648
   },
   {
     "city": "Sylhet",
@@ -1766,11 +1766,11 @@
   {
     "city": "Sydney",
     "country": "Australia",
-    "visitors": 13,
-    "lastVisit": "2026-01-23T21:25:00",
+    "visitors": 14,
+    "lastVisit": "2026-02-23T15:54:00",
     "lat": -33.86785,
     "lon": 151.20732,
-    "normalized": 0.28812011828138157
+    "normalized": 0.2956524420662122
   },
   {
     "city": "Ormiston",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 42,
-    "lastVisit": "2026-02-14T19:58:00",
+    "visitors": 43,
+    "lastVisit": "2026-02-23T16:18:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.41063049675073254
+    "normalized": 0.41314038641315143
   },
   {
     "city": "Minneapolis",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1037,
-    "lastVisit": "2026-02-23T08:41:00",
+    "visitors": 1040,
+    "lastVisit": "2026-02-23T16:13:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7582286718427008
+    "normalized": 0.7585437525575786
   },
   {
     "city": "Riegelsberg",
@@ -9718,5 +9718,23 @@
     "lat": 46.87215,
     "lon": -113.994,
     "normalized": 0.17571101487388155
+  },
+  {
+    "city": "Bloomington",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-23T16:18:00",
+    "lat": 34.07029,
+    "lon": -117.39588,
+    "normalized": 0.07567461510146609
+  },
+  {
+    "city": "Santa Fe",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-23T16:26:00",
+    "lat": 35.68698,
+    "lon": -105.9378,
+    "normalized": 0.07567461510146609
   }
 ]
