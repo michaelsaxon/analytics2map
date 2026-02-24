@@ -9763,5 +9763,14 @@
     "lat": 28.53834,
     "lon": -81.37924,
     "normalized": 0.07567461510146609
+  },
+  {
+    "city": "Yuanlin City",
+    "country": "Taiwan",
+    "visitors": 2,
+    "lastVisit": "2026-02-24T01:16:00",
+    "lat": 25.05306,
+    "lon": 121.52639,
+    "normalized": 0.11994142719233067
   }
 ]
