@@ -56,11 +56,11 @@
   {
     "city": "Austin",
     "country": "United States",
-    "visitors": 22,
-    "lastVisit": "2026-02-12T11:06:00",
+    "visitors": 23,
+    "lastVisit": "2026-02-24T13:06:00",
     "lat": 43.66663,
     "lon": -92.97464,
-    "normalized": 0.3423148782557316
+    "normalized": 0.3469612874738917
   },
   {
     "city": "Seattle",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 487,
-    "lastVisit": "2026-02-24T11:55:00",
+    "visitors": 488,
+    "lastVisit": "2026-02-24T13:04:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6758223484367869
+    "normalized": 0.6760458370266207
   },
   {
     "city": "Tubingen",
