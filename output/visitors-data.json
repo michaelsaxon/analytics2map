@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1040,
-    "lastVisit": "2026-02-23T16:13:00",
+    "visitors": 1042,
+    "lastVisit": "2026-02-23T19:25:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7585437525575786
+    "normalized": 0.75875330231851
   },
   {
     "city": "Riegelsberg",
@@ -9736,5 +9736,14 @@
     "lat": 35.68698,
     "lon": -105.9378,
     "normalized": 0.07567461510146609
+  },
+  {
+    "city": "Germantown",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-02-23T19:25:00",
+    "lat": 43.22862,
+    "lon": -88.11037,
+    "normalized": 0.11994142719233067
   }
 ]
