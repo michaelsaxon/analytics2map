@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1044,
-    "lastVisit": "2026-02-23T21:53:00",
+    "visitors": 1054,
+    "lastVisit": "2026-02-24T05:57:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.758962450642872
+    "normalized": 0.7600022241395399
   },
   {
     "city": "Riegelsberg",
@@ -9772,5 +9772,14 @@
     "lat": 25.05306,
     "lon": 121.52639,
     "normalized": 0.11994142719233067
+  },
+  {
+    "city": "Rabat",
+    "country": "Morocco",
+    "visitors": 1,
+    "lastVisit": "2026-02-24T04:26:00",
+    "lat": 34.01325,
+    "lon": -6.83255,
+    "normalized": 0.07567461510146609
   }
 ]
