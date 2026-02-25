@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 164,
-    "lastVisit": "2026-02-22T13:38:00",
+    "visitors": 166,
+    "lastVisit": "2026-02-24T15:31:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5574371958331736
+    "normalized": 0.5587525628051156
   },
   {
     "city": "Lompoc",
@@ -1280,11 +1280,11 @@
   {
     "city": "Somerville",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-02-08T22:18:00",
+    "visitors": 6,
+    "lastVisit": "2026-02-24T15:40:00",
     "lat": 42.3876,
     "lon": -71.0995,
-    "normalized": 0.17570899676872084
+    "normalized": 0.21244306316574424
   },
   {
     "city": "Sherman Oaks",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 55,
-    "lastVisit": "2026-02-02T15:14:00",
+    "visitors": 56,
+    "lastVisit": "2026-02-24T16:07:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.4394643010183892
+    "normalized": 0.44139663709133703
   },
   {
     "city": "Oakland",
@@ -4097,11 +4097,11 @@
   {
     "city": "Edinburgh",
     "country": "United Kingdom",
-    "visitors": 5,
-    "lastVisit": "2025-12-10T19:27:00",
+    "visitors": 7,
+    "lastVisit": "2026-02-24T14:20:00",
     "lat": 55.95206,
     "lon": -3.19648,
-    "normalized": 0.19561379557212843
+    "normalized": 0.22702123785264489
   },
   {
     "city": "Bath",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 19,
-    "lastVisit": "2026-02-09T08:07:00",
+    "visitors": 20,
+    "lastVisit": "2026-02-24T13:51:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.3270564886704841
+    "normalized": 0.33238311278699106
   },
   {
     "city": "Cairo",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1056,
-    "lastVisit": "2026-02-24T08:16:00",
+    "visitors": 1061,
+    "lastVisit": "2026-02-24T17:34:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7602002644990878
+    "normalized": 0.7607154808305029
   },
   {
     "city": "Riegelsberg",
@@ -7517,11 +7517,11 @@
   {
     "city": "Davis",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-02-13T23:02:00",
+    "visitors": 5,
+    "lastVisit": "2026-02-24T15:07:00",
     "lat": 38.54491,
     "lon": -121.74052,
-    "normalized": 0.11994004962124682
+    "normalized": 0.19561379557212843
   },
   {
     "city": "Morristown",
