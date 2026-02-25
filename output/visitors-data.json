@@ -9101,11 +9101,11 @@
   {
     "city": "Takoma Park",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-01-27T10:49:00",
+    "visitors": 3,
+    "lastVisit": "2026-02-25T09:45:00",
     "lat": 38.97789,
     "lon": -77.00748,
-    "normalized": 0.07567374595088162
+    "normalized": 0.15134749190176325
   },
   {
     "city": "Coraopolis",
