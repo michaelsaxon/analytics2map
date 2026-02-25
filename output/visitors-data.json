@@ -677,11 +677,11 @@
   {
     "city": "Rochester",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2026-02-13T08:09:00",
+    "visitors": 11,
+    "lastVisit": "2026-02-24T22:17:00",
     "lat": 43.15478,
     "lon": -77.61556,
-    "normalized": 0.21244306316574424
+    "normalized": 0.2712875415230101
   },
   {
     "city": "Mountain View",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 305,
-    "lastVisit": "2026-02-24T20:15:00",
+    "visitors": 306,
+    "lastVisit": "2026-02-24T22:04:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6248674698258223
+    "normalized": 0.6252236663506315
   },
   {
     "city": "Sylhet",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1067,
-    "lastVisit": "2026-02-24T21:13:00",
+    "visitors": 1072,
+    "lastVisit": "2026-02-24T22:49:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7613305480235923
+    "normalized": 0.7618404701930654
   },
   {
     "city": "Riegelsberg",
@@ -7166,11 +7166,11 @@
   {
     "city": "Virginia Beach",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-01-13T23:54:00",
+    "visitors": 9,
+    "lastVisit": "2026-02-24T21:28:00",
     "lat": 36.85293,
     "lon": -75.97799,
-    "normalized": 0.23988009924249365
+    "normalized": 0.2513827427196025
   },
   {
     "city": "Chiyoda City",
