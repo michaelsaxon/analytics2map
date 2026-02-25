@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 28,
-    "lastVisit": "2026-02-23T15:49:00",
+    "visitors": 29,
+    "lastVisit": "2026-02-25T10:34:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.367621619659495
+    "normalized": 0.3713227923408493
   },
   {
     "city": "Tustin",
@@ -6680,11 +6680,11 @@
   {
     "city": "Urbana",
     "country": "United States",
-    "visitors": 13,
-    "lastVisit": "2026-02-25T10:11:00",
+    "visitors": 14,
+    "lastVisit": "2026-02-25T10:13:00",
     "lat": 40.11059,
     "lon": -88.20727,
-    "normalized": 0.28811680911662585
+    "normalized": 0.29564904638996764
   },
   {
     "city": "Sayreville",
