@@ -9781,5 +9781,14 @@
     "lat": 34.01325,
     "lon": -6.83255,
     "normalized": 0.07567374595088162
+  },
+  {
+    "city": "Graz",
+    "country": "Austria",
+    "visitors": 1,
+    "lastVisit": "2026-02-25T01:30:00",
+    "lat": 47.06667,
+    "lon": 15.45,
+    "normalized": 0.07567374595088162
   }
 ]
