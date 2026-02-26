@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 310,
-    "lastVisit": "2026-02-26T02:22:00",
+    "visitors": 311,
+    "lastVisit": "2026-02-26T03:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6266225518297744
+    "normalized": 0.6269730228551724
   },
   {
     "city": "Sylhet",
@@ -4484,11 +4484,11 @@
   {
     "city": "Madrid",
     "country": "Spain",
-    "visitors": 3,
-    "lastVisit": "2026-02-04T12:48:00",
+    "visitors": 4,
+    "lastVisit": "2026-02-26T03:23:00",
     "lat": 40.4165,
     "lon": -3.70256,
-    "normalized": 0.15134401596770478
+    "normalized": 0.17570496133424765
   },
   {
     "city": "Khulna",
