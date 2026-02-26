@@ -299,11 +299,11 @@
   {
     "city": null,
     "country": "United Kingdom",
-    "visitors": 116,
-    "lastVisit": "2026-02-11T15:27:00",
+    "visitors": 118,
+    "lastVisit": "2026-02-26T04:00:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.5198942939122932
+    "normalized": 0.521744704832246
   },
   {
     "city": "London",
