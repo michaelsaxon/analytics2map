@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 83,
-    "lastVisit": "2026-02-19T13:32:00",
+    "visitors": 84,
+    "lastVisit": "2026-02-26T04:15:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.48371949505183304
+    "normalized": 0.48501148209104333
   },
   {
     "city": "Ames",
@@ -9785,10 +9785,10 @@
   {
     "city": "Graz",
     "country": "Austria",
-    "visitors": 1,
-    "lastVisit": "2026-02-25T01:30:00",
+    "visitors": 2,
+    "lastVisit": "2026-02-26T04:49:00",
     "lat": 47.06667,
     "lon": 15.45,
-    "normalized": 0.07567200798385239
+    "normalized": 0.11993729500867799
   }
 ]
