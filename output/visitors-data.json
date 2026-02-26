@@ -9790,5 +9790,14 @@
     "lat": 47.06667,
     "lon": 15.45,
     "normalized": 0.11993729500867799
+  },
+  {
+    "city": "Dalian",
+    "country": "China",
+    "visitors": 1,
+    "lastVisit": "2026-02-26T07:44:00",
+    "lat": 38.91222,
+    "lon": 121.60222,
+    "normalized": 0.07567200798385239
   }
 ]
