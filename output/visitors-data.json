@@ -236,11 +236,11 @@
   {
     "city": null,
     "country": "Canada",
-    "visitors": 202,
-    "lastVisit": "2026-02-08T18:08:00",
+    "visitors": 203,
+    "lastVisit": "2026-02-25T20:58:00",
     "lat": 45.41117,
     "lon": -75.69812,
-    "normalized": 0.5800513607241471
+    "normalized": 0.5805878317331784
   },
   {
     "city": "Montreal",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 293,
-    "lastVisit": "2026-02-24T03:48:00",
+    "visitors": 295,
+    "lastVisit": "2026-02-25T21:11:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.620485671143431
+    "normalized": 0.6212258206269378
   },
   {
     "city": null,
@@ -389,11 +389,11 @@
   {
     "city": null,
     "country": "Taiwan",
-    "visitors": 62,
-    "lastVisit": "2026-02-20T18:28:00",
+    "visitors": 63,
+    "lastVisit": "2026-02-25T20:59:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.4523127740928063
+    "normalized": 0.4540320479031143
   },
   {
     "city": null,
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 43,
-    "lastVisit": "2026-02-23T16:18:00",
+    "visitors": 44,
+    "lastVisit": "2026-02-25T21:02:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.41312615303281774
+    "normalized": 0.4155795513516036
   },
   {
     "city": "Minneapolis",
@@ -6959,11 +6959,11 @@
   {
     "city": "Kingston",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-02-13T17:00:00",
+    "visitors": 9,
+    "lastVisit": "2026-02-25T21:24:00",
     "lat": 41.92704,
     "lon": -73.99736,
-    "normalized": 0.23987459001735598
+    "normalized": 0.25137696931810005
   },
   {
     "city": "Central",
@@ -7886,11 +7886,11 @@
   {
     "city": "Aspen",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-02-18T17:50:00",
+    "visitors": 13,
+    "lastVisit": "2026-02-25T21:25:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.2800197038949372
+    "normalized": 0.2881101920593027
   },
   {
     "city": "Fulton",
