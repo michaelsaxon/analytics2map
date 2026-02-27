@@ -281,20 +281,20 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 37,
-    "lastVisit": "2026-02-06T00:17:00",
+    "visitors": 39,
+    "lastVisit": "2026-02-27T01:53:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.3971166532099817
+    "normalized": 0.40271636150687895
   },
   {
     "city": null,
     "country": "China",
-    "visitors": 300,
-    "lastVisit": "2026-02-27T00:14:00",
+    "visitors": 301,
+    "lastVisit": "2026-02-27T02:02:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6230473804111573
+    "normalized": 0.6234094715464664
   },
   {
     "city": null,
@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 169,
-    "lastVisit": "2026-02-20T04:20:00",
+    "visitors": 171,
+    "lastVisit": "2026-02-27T03:55:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5606770526738161
+    "normalized": 0.5619539137466871
   },
   {
     "city": null,
@@ -1622,11 +1622,11 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 31,
-    "lastVisit": "2026-02-14T22:18:00",
+    "visitors": 34,
+    "lastVisit": "2026-02-27T05:25:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.3783556958367758
+    "normalized": 0.3881386890039939
   },
   {
     "city": "Shenzhen",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 491,
-    "lastVisit": "2026-02-26T14:18:00",
+    "visitors": 492,
+    "lastVisit": "2026-02-27T02:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6766902596396178
+    "normalized": 0.6769119254563124
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1092,
-    "lastVisit": "2026-02-27T00:13:00",
+    "visitors": 1099,
+    "lastVisit": "2026-02-27T04:14:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7638303573185731
+    "normalized": 0.7645272977981888
   },
   {
     "city": "Riegelsberg",
@@ -8714,11 +8714,11 @@
   {
     "city": "Riverside",
     "country": "United States",
-    "visitors": 13,
-    "lastVisit": "2026-02-17T23:14:00",
+    "visitors": 14,
+    "lastVisit": "2026-02-27T03:33:00",
     "lat": 33.95335,
     "lon": -117.39616,
-    "normalized": 0.2881068841665356
+    "normalized": 0.2956388619719233
   },
   {
     "city": "Amity Gardens",
@@ -9826,5 +9826,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.11993591796710988
+  },
+  {
+    "city": "Hanover",
+    "country": "United States",
+    "visitors": 3,
+    "lastVisit": "2026-02-27T02:25:00",
+    "lat": 42.11316,
+    "lon": -70.81199,
+    "normalized": 0.15134227833471034
   }
 ]
