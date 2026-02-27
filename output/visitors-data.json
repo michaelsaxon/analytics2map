@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 312,
-    "lastVisit": "2026-02-26T08:17:00",
+    "visitors": 313,
+    "lastVisit": "2026-02-26T20:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6273151698662354
+    "normalized": 0.62766340102981
   },
   {
     "city": "Sylhet",
@@ -9807,6 +9807,15 @@
     "lastVisit": "2026-02-26T08:22:00",
     "lat": 21.0245,
     "lon": 105.84117,
+    "normalized": 0.07567113916735517
+  },
+  {
+    "city": "Trail",
+    "country": "Canada",
+    "visitors": 1,
+    "lastVisit": "2026-02-26T19:46:00",
+    "lat": 45.41117,
+    "lon": -75.69812,
     "normalized": 0.07567113916735517
   }
 ]
