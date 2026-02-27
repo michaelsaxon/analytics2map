@@ -956,11 +956,11 @@
   {
     "city": "Palo Alto",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-01-08T17:16:00",
+    "visitors": 9,
+    "lastVisit": "2026-02-27T12:37:00",
     "lat": 37.44188,
     "lon": -122.14302,
-    "normalized": 0.23986357580154508
+    "normalized": 0.25136542695260916
   },
   {
     "city": "Troy",
@@ -2873,11 +2873,11 @@
   {
     "city": "Minneapolis",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-02-15T19:48:00",
+    "visitors": 5,
+    "lastVisit": "2026-02-27T12:41:00",
     "lat": 44.97997,
     "lon": -93.26384,
-    "normalized": 0.17569689356699042
+    "normalized": 0.19560032128639124
   },
   {
     "city": "Highland",
