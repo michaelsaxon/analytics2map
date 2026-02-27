@@ -2135,11 +2135,11 @@
   {
     "city": "Tempe",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-02-12T13:35:00",
+    "visitors": 15,
+    "lastVisit": "2026-02-27T11:20:00",
     "lat": 33.41477,
     "lon": -111.90931,
-    "normalized": 0.29562868146776294
+    "normalized": 0.30267413354247485
   },
   {
     "city": "Ludhiana",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 44,
-    "lastVisit": "2026-02-25T21:02:00",
+    "visitors": 45,
+    "lastVisit": "2026-02-27T11:21:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.41556046936853547
+    "normalized": 0.4179598322794335
   },
   {
     "city": "Minneapolis",
