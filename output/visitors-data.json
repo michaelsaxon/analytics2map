@@ -56,20 +56,20 @@
   {
     "city": "Austin",
     "country": "United States",
-    "visitors": 23,
-    "lastVisit": "2026-02-24T13:06:00",
+    "visitors": 24,
+    "lastVisit": "2026-02-26T11:33:00",
     "lat": 43.66663,
     "lon": -92.97464,
-    "normalized": 0.3469533189602352
+    "normalized": 0.3514099226684953
   },
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 303,
-    "lastVisit": "2026-02-24T09:08:00",
+    "visitors": 304,
+    "lastVisit": "2026-02-26T12:57:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6241372366475388
+    "normalized": 0.6244957644924379
   },
   {
     "city": "Santa Clara",
@@ -4745,11 +4745,11 @@
   {
     "city": "Chapel Hill",
     "country": "United States",
-    "visitors": 47,
-    "lastVisit": "2026-01-18T16:27:00",
+    "visitors": 48,
+    "lastVisit": "2026-02-26T08:47:00",
     "lat": 35.9132,
     "lon": -79.05584,
-    "normalized": 0.42262532694408755
+    "normalized": 0.42487636815090063
   },
   {
     "city": "Cumming",
@@ -9798,6 +9798,15 @@
     "lastVisit": "2026-02-26T07:44:00",
     "lat": 38.91222,
     "lon": 121.60222,
+    "normalized": 0.07567200798385239
+  },
+  {
+    "city": "Djong Ha",
+    "country": "Vietnam",
+    "visitors": 1,
+    "lastVisit": "2026-02-26T08:22:00",
+    "lat": 21.0245,
+    "lon": 105.84117,
     "normalized": 0.07567200798385239
   }
 ]
