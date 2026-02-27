@@ -6608,11 +6608,11 @@
   {
     "city": "Tubingen",
     "country": "Germany",
-    "visitors": 14,
-    "lastVisit": "2026-02-09T12:44:00",
+    "visitors": 15,
+    "lastVisit": "2026-02-26T20:33:00",
     "lat": 48.52266,
     "lon": 9.05222,
-    "normalized": 0.2956388619719233
+    "normalized": 0.3026845566694207
   },
   {
     "city": "Anaheim",
