@@ -722,11 +722,11 @@
   {
     "city": "Charlottesville",
     "country": "United States",
-    "visitors": 33,
-    "lastVisit": "2026-02-28T09:57:00",
+    "visitors": 34,
+    "lastVisit": "2026-02-28T12:43:00",
     "lat": 38.02931,
     "lon": -78.47668,
-    "normalized": 0.3849520168023928
+    "normalized": 0.38811641553689447
   },
   {
     "city": "Winter Haven",
