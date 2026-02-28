@@ -470,11 +470,11 @@
   {
     "city": "Cambridge",
     "country": "United States",
-    "visitors": 30,
-    "lastVisit": "2026-02-27T06:24:00",
+    "visitors": 31,
+    "lastVisit": "2026-02-28T09:39:00",
     "lat": 42.3751,
     "lon": -71.10561,
-    "normalized": 0.374868165297437
+    "normalized": 0.3783339837699764
   },
   {
     "city": "San Diego",
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 91,
-    "lastVisit": "2026-02-26T14:18:00",
+    "visitors": 92,
+    "lastVisit": "2026-02-28T10:20:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.4936170366410619
+    "normalized": 0.49479720070220884
   },
   {
     "city": "Rochester",
@@ -722,11 +722,11 @@
   {
     "city": "Charlottesville",
     "country": "United States",
-    "visitors": 32,
-    "lastVisit": "2026-02-27T10:43:00",
+    "visitors": 33,
+    "lastVisit": "2026-02-28T09:57:00",
     "lat": 38.02931,
     "lon": -78.47668,
-    "normalized": 0.38169314457654513
+    "normalized": 0.3849520168023928
   },
   {
     "city": "Winter Haven",
