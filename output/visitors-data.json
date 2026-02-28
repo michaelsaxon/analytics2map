@@ -110,11 +110,11 @@
   {
     "city": "Dallas",
     "country": "United States",
-    "visitors": 26,
-    "lastVisit": "2026-02-21T09:05:00",
+    "visitors": 28,
+    "lastVisit": "2026-02-28T12:28:00",
     "lat": 44.91928,
     "lon": -123.31705,
-    "normalized": 0.3597871062143155
+    "normalized": 0.36758786059308973
   },
   {
     "city": "San Jose",
@@ -8876,11 +8876,11 @@
   {
     "city": "Minato City",
     "country": "Japan",
-    "visitors": 9,
-    "lastVisit": "2026-02-08T03:35:00",
+    "visitors": 17,
+    "lastVisit": "2026-02-28T11:54:00",
     "lat": 35.6581,
     "lon": 139.7515,
-    "normalized": 0.2513596579872288
+    "normalized": 0.3155248675635389
   },
   {
     "city": "Ota City",
