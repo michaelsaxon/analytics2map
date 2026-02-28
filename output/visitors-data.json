@@ -3152,11 +3152,11 @@
   {
     "city": "Washington",
     "country": "United States",
-    "visitors": 22,
-    "lastVisit": "2026-02-09T10:30:00",
+    "visitors": 23,
+    "lastVisit": "2026-02-27T17:14:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.34228737076192106
+    "normalized": 0.3469334066072572
   },
   {
     "city": "Halethorpe",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1099,
-    "lastVisit": "2026-02-27T04:14:00",
+    "visitors": 1101,
+    "lastVisit": "2026-02-27T17:32:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7644921974290158
+    "normalized": 0.7646904996907599
   },
   {
     "city": "Riegelsberg",
@@ -9020,11 +9020,11 @@
   {
     "city": "Orting",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-01-23T09:45:00",
+    "visitors": 2,
+    "lastVisit": "2026-02-27T17:45:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.07566766501420435
+    "normalized": 0.11993041156464408
   },
   {
     "city": "Paju-si",
