@@ -5231,11 +5231,11 @@
   {
     "city": "Dubai",
     "country": "United Arab Emirates",
-    "visitors": 15,
-    "lastVisit": "2026-02-23T02:14:00",
+    "visitors": 16,
+    "lastVisit": "2026-02-28T04:50:00",
     "lat": 25.07725,
     "lon": 55.30927,
-    "normalized": 0.3026671870159811
+    "normalized": 0.30928522004839754
   },
   {
     "city": "Manajao",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1101,
-    "lastVisit": "2026-02-27T17:32:00",
+    "visitors": 1102,
+    "lastVisit": "2026-02-28T04:48:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7646817251325253
+    "normalized": 0.7647807402072837
   },
   {
     "city": "Riegelsberg",
