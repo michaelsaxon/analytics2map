@@ -902,11 +902,11 @@
   {
     "city": "Irvine",
     "country": "United States",
-    "visitors": 23,
-    "lastVisit": "2026-02-26T18:34:00",
+    "visitors": 24,
+    "lastVisit": "2026-02-27T15:21:00",
     "lat": 33.66946,
     "lon": -117.82311,
-    "normalized": 0.3469334066072572
+    "normalized": 0.35138975454201327
   },
   {
     "city": "Durham",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 315,
-    "lastVisit": "2026-02-27T08:17:00",
+    "visitors": 317,
+    "lastVisit": "2026-02-27T15:02:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6283277000044643
+    "normalized": 0.6290164427627457
   },
   {
     "city": "Sylhet",
@@ -9835,5 +9835,14 @@
     "lat": 42.11316,
     "lon": -70.81199,
     "normalized": 0.1513353300284087
+  },
+  {
+    "city": "Fairwood",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-27T15:59:00",
+    "lat": 47.44843,
+    "lon": -122.15734,
+    "normalized": 0.07566766501420435
   }
 ]
