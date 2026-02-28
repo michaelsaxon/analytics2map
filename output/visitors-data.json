@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 493,
-    "lastVisit": "2026-02-27T20:17:00",
+    "visitors": 494,
+    "lastVisit": "2026-02-28T07:14:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6770942845924293
+    "normalized": 0.6773150412145504
   },
   {
     "city": "Tubingen",
@@ -6779,11 +6779,11 @@
   {
     "city": "Newark",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-02-02T18:18:00",
+    "visitors": 8,
+    "lastVisit": "2026-02-28T06:51:00",
     "lat": 37.52966,
     "lon": -122.04024,
-    "normalized": 0.22700039026198582
+    "normalized": 0.23985807080954366
   },
   {
     "city": "New Haven",
@@ -9236,11 +9236,11 @@
   {
     "city": "Woodbridge",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-02-03T07:43:00",
+    "visitors": 2,
+    "lastVisit": "2026-02-28T06:48:00",
     "lat": 33.67724,
     "lon": -117.79442,
-    "normalized": 0.07566679675399528
+    "normalized": 0.11992903540477183
   },
   {
     "city": "North Adams",
