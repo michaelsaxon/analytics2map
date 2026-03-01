@@ -722,11 +722,11 @@
   {
     "city": "Charlottesville",
     "country": "United States",
-    "visitors": 34,
-    "lastVisit": "2026-02-28T12:43:00",
+    "visitors": 36,
+    "lastVisit": "2026-02-28T18:33:00",
     "lat": 38.02931,
     "lon": -78.47668,
-    "normalized": 0.38811196255481895
+    "normalized": 0.3941781264345764
   },
   {
     "city": "Winter Haven",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1107,
-    "lastVisit": "2026-02-28T16:50:00",
+    "visitors": 1109,
+    "lastVisit": "2026-02-28T18:34:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7652656926653052
+    "normalized": 0.7654625599142664
   },
   {
     "city": "Riegelsberg",
@@ -9843,6 +9843,15 @@
     "lastVisit": "2026-02-27T15:59:00",
     "lat": 47.44843,
     "lon": -122.15734,
+    "normalized": 0.07566592860496532
+  },
+  {
+    "city": "Bethel Park",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-02-28T20:00:00",
+    "lat": 40.32757,
+    "lon": -80.0395,
     "normalized": 0.07566592860496532
   }
 ]
