@@ -470,11 +470,11 @@
   {
     "city": "Cambridge",
     "country": "United States",
-    "visitors": 34,
-    "lastVisit": "2026-03-01T00:34:00",
+    "visitors": 37,
+    "lastVisit": "2026-03-01T08:42:00",
     "lat": 42.3751,
     "lon": -71.10561,
-    "normalized": 0.38811196255481895
+    "normalized": 0.3970893085562555
   },
   {
     "city": "San Diego",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 495,
-    "lastVisit": "2026-02-28T14:16:00",
+    "visitors": 496,
+    "lastVisit": "2026-03-01T08:18:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6775275787365772
+    "normalized": 0.6777474435842411
   },
   {
     "city": "Tubingen",
