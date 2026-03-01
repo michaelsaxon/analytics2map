@@ -4151,11 +4151,11 @@
   {
     "city": "Jaipur",
     "country": "India",
-    "visitors": 2,
-    "lastVisit": "2024-09-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2026-03-01T04:07:00",
     "lat": 26.91962,
     "lon": 75.78781,
-    "normalized": 0.11992765942111432
+    "normalized": 0.1756908454536103
   },
   {
     "city": "Wuhan",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1113,
-    "lastVisit": "2026-03-01T00:01:00",
+    "visitors": 1117,
+    "lastVisit": "2026-03-01T04:49:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7658552324958144
+    "normalized": 0.7662464976457358
   },
   {
     "city": "Riegelsberg",
