@@ -8930,11 +8930,11 @@
   {
     "city": "Pasadena",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-01-20T22:15:00",
+    "visitors": 2,
+    "lastVisit": "2026-03-01T11:50:00",
     "lat": 34.14778,
     "lon": -118.14452,
-    "normalized": 0.07566592860496532
+    "normalized": 0.11992765942111432
   },
   {
     "city": "Crystal",
