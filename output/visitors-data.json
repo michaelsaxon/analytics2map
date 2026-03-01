@@ -2153,11 +2153,11 @@
   {
     "city": "Guwahati",
     "country": "India",
-    "visitors": 4,
-    "lastVisit": "2024-01-01T00:00:00",
+    "visitors": 6,
+    "lastVisit": "2026-03-01T10:08:00",
     "lat": 26.1844,
     "lon": 91.7458,
-    "normalized": 0.1756908454536103
+    "normalized": 0.21242111710120865
   },
   {
     "city": "Chennai",
@@ -3152,11 +3152,11 @@
   {
     "city": "Washington",
     "country": "United States",
-    "visitors": 23,
-    "lastVisit": "2026-02-27T17:14:00",
+    "visitors": 24,
+    "lastVisit": "2026-03-01T09:43:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.34692544523601027
+    "normalized": 0.3513816909072206
   },
   {
     "city": "Halethorpe",
