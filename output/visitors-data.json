@@ -2441,11 +2441,11 @@
   {
     "city": "Oxford",
     "country": "United Kingdom",
-    "visitors": 7,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 9,
+    "lastVisit": "2026-03-01T05:19:00",
     "lat": 51.75222,
     "lon": -1.25596,
-    "normalized": 0.22699778581489594
+    "normalized": 0.25135677405857565
   },
   {
     "city": "Hammersmith",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1117,
-    "lastVisit": "2026-03-01T04:49:00",
+    "visitors": 1118,
+    "lastVisit": "2026-03-01T05:31:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7662464976457358
+    "normalized": 0.766344095202494
   },
   {
     "city": "Riegelsberg",
