@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1125,
-    "lastVisit": "2026-03-02T00:25:00",
+    "visitors": 1126,
+    "lastVisit": "2026-03-02T00:57:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7670248457558307
+    "normalized": 0.7671217502095645
   },
   {
     "city": "Riegelsberg",
@@ -9875,10 +9875,10 @@
   {
     "city": "The Woodlands",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-03-02T00:43:00",
+    "visitors": 4,
+    "lastVisit": "2026-03-02T00:55:00",
     "lat": 30.15799,
     "lon": -95.48938,
-    "normalized": 0.15133185720993064
+    "normalized": 0.1756908454536103
   }
 ]
