@@ -470,11 +470,11 @@
   {
     "city": "Cambridge",
     "country": "United States",
-    "visitors": 37,
-    "lastVisit": "2026-03-01T08:42:00",
+    "visitors": 38,
+    "lastVisit": "2026-03-02T14:07:00",
     "lat": 42.3751,
     "lon": -71.10561,
-    "normalized": 0.3970893085562555
+    "normalized": 0.3999248669409562
   },
   {
     "city": "San Diego",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 334,
-    "lastVisit": "2026-03-02T02:39:00",
+    "visitors": 335,
+    "lastVisit": "2026-03-02T14:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.63468711705014
+    "normalized": 0.6350124909421843
   },
   {
     "city": "Sylhet",
