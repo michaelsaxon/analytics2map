@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 333,
-    "lastVisit": "2026-03-01T20:14:00",
+    "visitors": 334,
+    "lastVisit": "2026-03-02T02:39:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.634360770439483
+    "normalized": 0.63468711705014
   },
   {
     "city": "Sylhet",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1126,
-    "lastVisit": "2026-03-02T00:57:00",
+    "visitors": 1133,
+    "lastVisit": "2026-03-02T03:45:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7671217502095645
+    "normalized": 0.7677976833906311
   },
   {
     "city": "Riegelsberg",
@@ -8012,11 +8012,11 @@
   {
     "city": "The Dalles",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-02-19T04:29:00",
+    "visitors": 3,
+    "lastVisit": "2026-03-02T02:43:00",
     "lat": 45.59456,
     "lon": -121.17868,
-    "normalized": 0.11992765942111432
+    "normalized": 0.15133185720993064
   },
   {
     "city": "Meriden",
