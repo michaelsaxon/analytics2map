@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 497,
-    "lastVisit": "2026-03-01T20:12:00",
+    "visitors": 498,
+    "lastVisit": "2026-03-02T05:26:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6779668664922147
+    "normalized": 0.678185849233578
   },
   {
     "city": "Tubingen",
@@ -9880,5 +9880,14 @@
     "lat": 30.15799,
     "lon": -95.48938,
     "normalized": 0.1756908454536103
+  },
+  {
+    "city": "New Westminster",
+    "country": "Canada",
+    "visitors": 1,
+    "lastVisit": "2026-03-02T05:48:00",
+    "lat": 49.20678,
+    "lon": -122.91092,
+    "normalized": 0.07566592860496532
   }
 ]
