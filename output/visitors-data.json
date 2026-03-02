@@ -47,11 +47,11 @@
   {
     "city": "Ames",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2025-12-02T14:44:00",
+    "visitors": 5,
+    "lastVisit": "2026-03-02T08:45:00",
     "lat": 42.03471,
     "lon": -93.61994,
-    "normalized": 0.1756908454536103
+    "normalized": 0.19559358802607962
   },
   {
     "city": "Austin",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 498,
-    "lastVisit": "2026-03-02T05:26:00",
+    "visitors": 499,
+    "lastVisit": "2026-03-02T08:38:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.678185849233578
+    "normalized": 0.6784043935707615
   },
   {
     "city": "Tubingen",
