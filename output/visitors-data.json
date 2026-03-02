@@ -1424,11 +1424,11 @@
   {
     "city": "Oakland",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-02-19T21:34:00",
+    "visitors": 7,
+    "lastVisit": "2026-03-01T22:14:00",
     "lat": 37.80437,
     "lon": -122.2708,
-    "normalized": 0.1756908454536103
+    "normalized": 0.22699778581489594
   },
   {
     "city": "San Antonio",
