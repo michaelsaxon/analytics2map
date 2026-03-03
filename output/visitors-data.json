@@ -9002,11 +9002,11 @@
   {
     "city": "North Charleston",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-02-06T22:14:00",
+    "visitors": 3,
+    "lastVisit": "2026-03-03T01:21:00",
     "lat": 32.85462,
     "lon": -79.97481,
-    "normalized": 0.11992490798227777
+    "normalized": 0.1513283852806764
   },
   {
     "city": "Zhubei City",
