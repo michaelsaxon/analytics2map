@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 500,
-    "lastVisit": "2026-03-02T18:27:00",
+    "visitors": 501,
+    "lastVisit": "2026-03-02T20:25:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6786069319673266
+    "normalized": 0.6788245997473157
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1138,
-    "lastVisit": "2026-03-02T19:48:00",
+    "visitors": 1141,
+    "lastVisit": "2026-03-02T20:09:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7682603169108599
+    "normalized": 0.7685474552320432
   },
   {
     "city": "Riegelsberg",
@@ -9916,5 +9916,14 @@
     "lat": 29.81667,
     "lon": 31.05,
     "normalized": 0.1513283852806764
+  },
+  {
+    "city": "Cleveland Heights",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-03-02T20:58:00",
+    "lat": 41.52005,
+    "lon": -81.55624,
+    "normalized": 0.0756641926403382
   }
 ]
