@@ -470,11 +470,11 @@
   {
     "city": "Cambridge",
     "country": "United States",
-    "visitors": 38,
-    "lastVisit": "2026-03-02T14:07:00",
+    "visitors": 39,
+    "lastVisit": "2026-03-02T18:56:00",
     "lat": 42.3751,
     "lon": -71.10561,
-    "normalized": 0.3999156916696642
+    "normalized": 0.4026793925895855
   },
   {
     "city": "San Diego",
@@ -902,11 +902,11 @@
   {
     "city": "Irvine",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2026-02-27T15:21:00",
+    "visitors": 25,
+    "lastVisit": "2026-03-02T18:22:00",
     "lat": 33.66946,
     "lon": -117.82311,
-    "normalized": 0.3513736293371418
+    "normalized": 0.35565497632772464
   },
   {
     "city": "Durham",
@@ -4583,11 +4583,11 @@
   {
     "city": "Sunnyvale",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2026-02-22T18:39:00",
+    "visitors": 16,
+    "lastVisit": "2026-03-02T17:40:00",
     "lat": 37.36883,
     "lon": -122.03635,
-    "normalized": 0.3026567705613528
+    "normalized": 0.30927457583058987
   },
   {
     "city": "College Station",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 499,
-    "lastVisit": "2026-03-02T08:38:00",
+    "visitors": 500,
+    "lastVisit": "2026-03-02T18:27:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6783888292863891
+    "normalized": 0.6786069319673266
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1136,
-    "lastVisit": "2026-03-02T16:38:00",
+    "visitors": 1138,
+    "lastVisit": "2026-03-02T19:48:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7680684708940023
+    "normalized": 0.7682603169108599
   },
   {
     "city": "Riegelsberg",
@@ -9907,5 +9907,14 @@
     "lat": 11.17715,
     "lon": -4.2979,
     "normalized": 0.11992490798227777
+  },
+  {
+    "city": "6th of October City",
+    "country": "Egypt",
+    "visitors": 3,
+    "lastVisit": "2026-03-02T18:12:00",
+    "lat": 29.81667,
+    "lon": 31.05,
+    "normalized": 0.1513283852806764
   }
 ]
