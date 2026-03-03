@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 74,
-    "lastVisit": "2026-02-26T19:28:00",
+    "visitors": 75,
+    "lastVisit": "2026-03-03T12:14:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.4712931318530825
+    "normalized": 0.4727389689307922
   },
   {
     "city": "Stanford",
@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 67,
-    "lastVisit": "2026-02-14T19:57:00",
+    "visitors": 68,
+    "lastVisit": "2026-03-03T12:04:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.46059767831574744
+    "normalized": 0.4621912701727623
   },
   {
     "city": "Manhattan",
@@ -470,11 +470,11 @@
   {
     "city": "Cambridge",
     "country": "United States",
-    "visitors": 42,
-    "lastVisit": "2026-03-03T11:42:00",
+    "visitors": 43,
+    "lastVisit": "2026-03-03T11:45:00",
     "lat": 42.3751,
     "lon": -71.10561,
-    "normalized": 0.4105692327197851
+    "normalized": 0.41307874791913035
   },
   {
     "city": "San Diego",
