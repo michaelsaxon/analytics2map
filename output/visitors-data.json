@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 337,
-    "lastVisit": "2026-03-03T02:19:00",
+    "visitors": 338,
+    "lastVisit": "2026-03-03T14:07:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6356384696004674
+    "normalized": 0.6359609487227452
   },
   {
     "city": "Sylhet",
