@@ -47,11 +47,11 @@
   {
     "city": "Ames",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-03-02T08:45:00",
+    "visitors": 6,
+    "lastVisit": "2026-03-03T06:25:00",
     "lat": 42.03471,
     "lon": -93.61994,
-    "normalized": 0.19558910062261597
+    "normalized": 0.21241624363236822
   },
   {
     "city": "Austin",
