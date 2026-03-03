@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 249,
-    "lastVisit": "2026-02-28T23:14:00",
+    "visitors": 250,
+    "lastVisit": "2026-03-03T13:20:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6027177238137887
+    "normalized": 0.6031534892767314
   },
   {
     "city": "Ashburn",
@@ -3152,11 +3152,11 @@
   {
     "city": "Washington",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2026-03-01T09:43:00",
+    "visitors": 25,
+    "lastVisit": "2026-03-03T12:55:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.35136959932606665
+    "normalized": 0.35565089721257814
   },
   {
     "city": "Halethorpe",
