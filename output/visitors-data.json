@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 168,
-    "lastVisit": "2026-03-02T09:55:00",
+    "visitors": 169,
+    "lastVisit": "2026-03-02T22:00:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5599815673747729
+    "normalized": 0.560625583139499
   },
   {
     "city": "Lompoc",
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 93,
-    "lastVisit": "2026-03-02T15:09:00",
+    "visitors": 94,
+    "lastVisit": "2026-03-02T21:11:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.49594767355154995
+    "normalized": 0.4971028203679592
   },
   {
     "city": "Rochester",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1141,
-    "lastVisit": "2026-03-02T20:09:00",
+    "visitors": 1143,
+    "lastVisit": "2026-03-02T21:15:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7685474552320432
+    "normalized": 0.7687384620270505
   },
   {
     "city": "Riegelsberg",
