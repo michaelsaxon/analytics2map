@@ -65,20 +65,20 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 307,
-    "lastVisit": "2026-03-01T19:36:00",
+    "visitors": 309,
+    "lastVisit": "2026-03-03T16:06:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6254925552849637
+    "normalized": 0.626199089165799
   },
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 28,
-    "lastVisit": "2026-03-01T00:00:00",
+    "visitors": 29,
+    "lastVisit": "2026-03-03T15:22:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.36757099402650245
+    "normalized": 0.371271657014738
   },
   {
     "city": "New York",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 338,
-    "lastVisit": "2026-03-03T14:07:00",
+    "visitors": 339,
+    "lastVisit": "2026-03-03T14:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6359609487227452
+    "normalized": 0.6362824779787808
   },
   {
     "city": "Sylhet",
