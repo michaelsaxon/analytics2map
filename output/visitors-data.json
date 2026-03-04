@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1154,
-    "lastVisit": "2026-03-04T02:37:00",
+    "visitors": 1155,
+    "lastVisit": "2026-03-04T05:55:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7697654100794412
+    "normalized": 0.7698598781525539
   },
   {
     "city": "Riegelsberg",
@@ -7976,11 +7976,11 @@
   {
     "city": "Piscataway",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-01-27T07:13:00",
+    "visitors": 3,
+    "lastVisit": "2026-03-04T06:35:00",
     "lat": 40.49927,
     "lon": -74.39904,
-    "normalized": 0.11992215724780307
+    "normalized": 0.1513249142402279
   },
   {
     "city": "Kigali",
