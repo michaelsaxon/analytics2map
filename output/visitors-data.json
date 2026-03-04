@@ -7976,11 +7976,11 @@
   {
     "city": "Piscataway",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-03-04T06:35:00",
+    "visitors": 4,
+    "lastVisit": "2026-03-04T07:23:00",
     "lat": 40.49927,
     "lon": -74.39904,
-    "normalized": 0.1513249142402279
+    "normalized": 0.17568278491540293
   },
   {
     "city": "Kigali",
