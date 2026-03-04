@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 178,
-    "lastVisit": "2026-03-04T03:11:00",
+    "visitors": 179,
+    "lastVisit": "2026-03-04T08:02:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5662438903420891
+    "normalized": 0.5668520136512369
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 342,
-    "lastVisit": "2026-03-03T20:16:00",
+    "visitors": 343,
+    "lastVisit": "2026-03-04T08:07:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.637234114233373
+    "normalized": 0.637551895685375
   },
   {
     "city": "Sylhet",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 503,
-    "lastVisit": "2026-03-04T02:21:00",
+    "visitors": 504,
+    "lastVisit": "2026-03-04T08:19:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6792430572670723
+    "normalized": 0.679459425725761
   },
   {
     "city": "Tubingen",
