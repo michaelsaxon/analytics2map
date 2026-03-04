@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 175,
-    "lastVisit": "2026-03-03T08:20:00",
+    "visitors": 176,
+    "lastVisit": "2026-03-04T01:44:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5643989249855667
+    "normalized": 0.5650173847230797
   },
   {
     "city": null,
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 46,
-    "lastVisit": "2026-03-02T15:10:00",
+    "visitors": 47,
+    "lastVisit": "2026-03-04T01:17:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.42027384080992225
+    "normalized": 0.4225719857282589
   },
   {
     "city": "Minneapolis",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1152,
-    "lastVisit": "2026-03-04T00:31:00",
+    "visitors": 1153,
+    "lastVisit": "2026-03-04T01:15:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7695762283134251
+    "normalized": 0.7696708601803565
   },
   {
     "city": "Riegelsberg",
