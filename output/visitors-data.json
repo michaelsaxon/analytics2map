@@ -2189,11 +2189,11 @@
   {
     "city": "Toronto",
     "country": "Canada",
-    "visitors": 24,
-    "lastVisit": "2026-01-07T21:53:00",
+    "visitors": 25,
+    "lastVisit": "2026-03-05T06:36:00",
     "lat": 43.70643,
     "lon": -79.39864,
-    "normalized": 0.35136556983080586
+    "normalized": 0.3556468186195309
   },
   {
     "city": "Surrey",
