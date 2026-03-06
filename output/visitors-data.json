@@ -389,11 +389,11 @@
   {
     "city": null,
     "country": "Taiwan",
-    "visitors": 65,
-    "lastVisit": "2026-02-26T00:06:00",
+    "visitors": 68,
+    "lastVisit": "2026-03-06T05:08:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.4573337108730279
+    "normalized": 0.46218596977814563
   },
   {
     "city": null,
@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 180,
-    "lastVisit": "2026-03-06T04:54:00",
+    "visitors": 181,
+    "lastVisit": "2026-03-06T04:56:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5674567678388961
+    "normalized": 0.5680581900306552
   },
   {
     "city": null,
@@ -1595,11 +1595,11 @@
   {
     "city": "Glasgow",
     "country": "United Kingdom",
-    "visitors": 4,
-    "lastVisit": "2025-02-01T00:00:00",
+    "visitors": 5,
+    "lastVisit": "2026-03-06T06:14:00",
     "lat": 55.86515,
     "lon": -4.25763,
-    "normalized": 0.17568278491540293
+    "normalized": 0.19558461436791702
   },
   {
     "city": "Croydon",
@@ -2855,11 +2855,11 @@
   {
     "city": null,
     "country": "Austria",
-    "visitors": 9,
-    "lastVisit": "2025-08-01T00:00:00",
+    "visitors": 10,
+    "lastVisit": "2026-03-06T06:15:00",
     "lat": 48.20849,
     "lon": 16.37208,
-    "normalized": 0.2513452420355169
+    "normalized": 0.2617490965051109
   },
   {
     "city": "Council Bluffs",
