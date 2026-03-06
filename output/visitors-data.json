@@ -470,11 +470,11 @@
   {
     "city": "Cambridge",
     "country": "United States",
-    "visitors": 59,
-    "lastVisit": "2026-03-05T12:23:00",
+    "visitors": 60,
+    "lastVisit": "2026-03-06T10:04:00",
     "lat": 42.3751,
     "lon": -71.10561,
-    "normalized": 0.44692985640343386
+    "normalized": 0.4487341594940107
   },
   {
     "city": "San Diego",
