@@ -8737,3 +8737,5 @@ timestamp	country	city	num_unique
 2026-03-06T07:24:00	Canada	Calgary	1
 2026-03-06T08:17:00	Singapore	Singapore	1
 2026-03-06T10:04:00	United States	Cambridge	1
+2026-03-06T10:08:00	United States	San Francisco	1
+2026-03-06T10:09:00	United States	San Francisco	1
