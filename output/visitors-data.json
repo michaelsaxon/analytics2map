@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 252,
-    "lastVisit": "2026-03-04T04:01:00",
+    "visitors": 254,
+    "lastVisit": "2026-03-06T04:54:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6040129090354535
+    "normalized": 0.6048724241193689
   },
   {
     "city": "Ashburn",
@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 179,
-    "lastVisit": "2026-03-04T08:02:00",
+    "visitors": 180,
+    "lastVisit": "2026-03-06T04:54:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5668520136512369
+    "normalized": 0.5674567678388961
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 350,
-    "lastVisit": "2026-03-06T02:27:00",
+    "visitors": 351,
+    "lastVisit": "2026-03-06T04:43:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6397508332428261
+    "normalized": 0.6400613821056806
   },
   {
     "city": "Sylhet",
@@ -6203,11 +6203,11 @@
   {
     "city": "Kaiserslautern",
     "country": "Germany",
-    "visitors": 1,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 2,
+    "lastVisit": "2026-03-06T04:51:00",
     "lat": 49.443,
     "lon": 7.77161,
-    "normalized": 0.07566245712011395
+    "normalized": 0.11992215724780307
   },
   {
     "city": "Erlangen",
