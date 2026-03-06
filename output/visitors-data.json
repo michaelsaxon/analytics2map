@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 348,
-    "lastVisit": "2026-03-05T14:45:00",
+    "visitors": 349,
+    "lastVisit": "2026-03-05T23:31:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6391270723931216
+    "normalized": 0.6394393983620441
   },
   {
     "city": "Sylhet",
@@ -9578,11 +9578,11 @@
   {
     "city": "Lagos",
     "country": "Nigeria",
-    "visitors": 5,
-    "lastVisit": "2026-03-05T18:11:00",
+    "visitors": 7,
+    "lastVisit": "2026-03-05T23:47:00",
     "lat": 6.45407,
     "lon": 3.39467,
-    "normalized": 0.19558461436791702
+    "normalized": 0.22698737136034183
   },
   {
     "city": "Celina",
