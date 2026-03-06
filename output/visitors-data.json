@@ -9961,5 +9961,14 @@
     "lat": 42.48509,
     "lon": -71.43284,
     "normalized": 0.07566245712011395
+  },
+  {
+    "city": "Bunkyo City",
+    "country": "Japan",
+    "visitors": 2,
+    "lastVisit": "2026-03-06T02:54:00",
+    "lat": 35.6895,
+    "lon": 139.69171,
+    "normalized": 0.11992215724780307
   }
 ]
