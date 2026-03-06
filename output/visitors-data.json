@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 349,
-    "lastVisit": "2026-03-05T23:31:00",
+    "visitors": 350,
+    "lastVisit": "2026-03-06T02:27:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6394393983620441
+    "normalized": 0.6397508332428261
   },
   {
     "city": "Sylhet",
@@ -2162,11 +2162,11 @@
   {
     "city": "Chennai",
     "country": "India",
-    "visitors": 17,
-    "lastVisit": "2026-03-06T01:08:00",
+    "visitors": 18,
+    "lastVisit": "2026-03-06T02:05:00",
     "lat": 13.08784,
     "lon": 80.27847,
-    "normalized": 0.31550677161572005
+    "normalized": 0.3214086333352776
   },
   {
     "city": "Pune",
