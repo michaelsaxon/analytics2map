@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 124,
-    "lastVisit": "2026-02-17T02:19:00",
+    "visitors": 125,
+    "lastVisit": "2026-03-06T06:53:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5270483547462088
+    "normalized": 0.5279181430268444
   },
   {
     "city": null,
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1158,
-    "lastVisit": "2026-03-05T17:09:00",
+    "visitors": 1159,
+    "lastVisit": "2026-03-06T06:28:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7701427928292882
+    "normalized": 0.7702369350099132
   },
   {
     "city": "Riegelsberg",
@@ -9893,11 +9893,11 @@
   {
     "city": "Williamsburg",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-03-02T08:07:00",
+    "visitors": 2,
+    "lastVisit": "2026-03-06T06:51:00",
     "lat": 40.71427,
     "lon": -73.95347,
-    "normalized": 0.07566245712011395
+    "normalized": 0.11992215724780307
   },
   {
     "city": "Bobo-Dioulasso",
@@ -9970,5 +9970,23 @@
     "lat": 35.6895,
     "lon": 139.69171,
     "normalized": 0.11992215724780307
+  },
+  {
+    "city": "Winchester",
+    "country": "United Kingdom",
+    "visitors": 1,
+    "lastVisit": "2026-03-06T06:26:00",
+    "lat": 51.06513,
+    "lon": -1.3187,
+    "normalized": 0.07566245712011395
+  },
+  {
+    "city": "Cape Town",
+    "country": "South Africa",
+    "visitors": 1,
+    "lastVisit": "2026-03-06T06:36:00",
+    "lat": -33.92584,
+    "lon": 18.42322,
+    "normalized": 0.07566245712011395
   }
 ]
