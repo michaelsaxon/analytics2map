@@ -56,11 +56,11 @@
   {
     "city": "Austin",
     "country": "United States",
-    "visitors": 27,
-    "lastVisit": "2026-03-01T21:00:00",
+    "visitors": 28,
+    "lastVisit": "2026-03-06T10:18:00",
     "lat": 43.66663,
     "lon": -92.97464,
-    "normalized": 0.3637362856513522
+    "normalized": 0.36756677873416843
   },
   {
     "city": "Seattle",
@@ -7886,11 +7886,11 @@
   {
     "city": "Aspen",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2026-03-04T13:33:00",
+    "visitors": 16,
+    "lastVisit": "2026-03-06T11:23:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.3026498284804558
+    "normalized": 0.30926748195616294
   },
   {
     "city": "Fulton",
