@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 85,
-    "lastVisit": "2026-03-05T14:12:00",
+    "visitors": 86,
+    "lastVisit": "2026-03-05T18:57:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.48622698144514703
+    "normalized": 0.4874889359819715
   },
   {
     "city": "Ames",
@@ -9470,11 +9470,11 @@
   {
     "city": "San Bernardino",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-02-12T14:33:00",
+    "visitors": 2,
+    "lastVisit": "2026-03-05T17:54:00",
     "lat": 34.10834,
     "lon": -117.28977,
-    "normalized": 0.07566245712011395
+    "normalized": 0.11992215724780307
   },
   {
     "city": "Kosice",
@@ -9578,11 +9578,11 @@
   {
     "city": "Lagos",
     "country": "Nigeria",
-    "visitors": 3,
-    "lastVisit": "2026-02-23T08:20:00",
+    "visitors": 5,
+    "lastVisit": "2026-03-05T18:11:00",
     "lat": 6.45407,
     "lon": 3.39467,
-    "normalized": 0.1513249142402279
+    "normalized": 0.19558461436791702
   },
   {
     "city": "Celina",
@@ -9952,5 +9952,14 @@
     "lat": 37.55855,
     "lon": -122.27108,
     "normalized": 0.11992215724780307
+  },
+  {
+    "city": "Acton",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-03-05T18:19:00",
+    "lat": 42.48509,
+    "lon": -71.43284,
+    "normalized": 0.07566245712011395
   }
 ]
