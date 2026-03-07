@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 354,
-    "lastVisit": "2026-03-06T14:30:00",
+    "visitors": 355,
+    "lastVisit": "2026-03-06T17:44:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6409877626444702
+    "normalized": 0.6412948172820114
   },
   {
     "city": "Sylhet",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 48,
-    "lastVisit": "2026-03-05T12:25:00",
+    "visitors": 50,
+    "lastVisit": "2026-03-06T17:47:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.42482274282224863
+    "normalized": 0.429189639203966
   },
   {
     "city": "Minneapolis",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1159,
-    "lastVisit": "2026-03-06T06:28:00",
+    "visitors": 1160,
+    "lastVisit": "2026-03-06T18:19:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7702369350099132
+    "normalized": 0.7703309960684422
   },
   {
     "city": "Riegelsberg",
@@ -7886,11 +7886,11 @@
   {
     "city": "Aspen",
     "country": "United States",
-    "visitors": 16,
-    "lastVisit": "2026-03-06T11:23:00",
+    "visitors": 18,
+    "lastVisit": "2026-03-06T18:04:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.30926748195616294
+    "normalized": 0.3214086333352776
   },
   {
     "city": "Fulton",
@@ -9578,11 +9578,11 @@
   {
     "city": "Lagos",
     "country": "Nigeria",
-    "visitors": 7,
-    "lastVisit": "2026-03-05T23:47:00",
+    "visitors": 9,
+    "lastVisit": "2026-03-06T18:57:00",
     "lat": 6.45407,
     "lon": 3.39467,
-    "normalized": 0.22698737136034183
+    "normalized": 0.2513452420355169
   },
   {
     "city": "Celina",
