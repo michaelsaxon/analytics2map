@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 125,
-    "lastVisit": "2026-03-06T06:53:00",
+    "visitors": 127,
+    "lastVisit": "2026-03-07T00:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5279181430268444
+    "normalized": 0.5296371998407976
   },
   {
     "city": null,
@@ -9997,5 +9997,14 @@
     "lat": 39.37733,
     "lon": -76.53969,
     "normalized": 0.1513249142402279
+  },
+  {
+    "city": "Benin City",
+    "country": "Nigeria",
+    "visitors": 1,
+    "lastVisit": "2026-03-07T00:24:00",
+    "lat": 6.33815,
+    "lon": 5.62575,
+    "normalized": 0.07566245712011395
   }
 ]
