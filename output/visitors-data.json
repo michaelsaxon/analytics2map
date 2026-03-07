@@ -308,11 +308,11 @@
   {
     "city": "London",
     "country": "United Kingdom",
-    "visitors": 27,
-    "lastVisit": "2026-03-06T21:55:00",
+    "visitors": 28,
+    "lastVisit": "2026-03-07T06:45:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.3637362856513522
+    "normalized": 0.36756677873416843
   },
   {
     "city": "Berlin",
@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 181,
-    "lastVisit": "2026-03-06T04:56:00",
+    "visitors": 183,
+    "lastVisit": "2026-03-07T06:54:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5680581900306552
+    "normalized": 0.5692511838906844
   },
   {
     "city": null,
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1162,
-    "lastVisit": "2026-03-06T21:18:00",
+    "visitors": 1165,
+    "lastVisit": "2026-03-07T07:06:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7705188753775927
+    "normalized": 0.7708000894060365
   },
   {
     "city": "Riegelsberg",
@@ -10014,6 +10014,15 @@
     "lastVisit": "2026-03-07T06:03:00",
     "lat": 23.58413,
     "lon": 58.40778,
+    "normalized": 0.07566245712011395
+  },
+  {
+    "city": "Trappenkamp",
+    "country": "Germany",
+    "visitors": 1,
+    "lastVisit": "2026-03-07T07:19:00",
+    "lat": 52.52437,
+    "lon": 13.41053,
     "normalized": 0.07566245712011395
   }
 ]
