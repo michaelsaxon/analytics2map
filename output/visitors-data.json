@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 355,
-    "lastVisit": "2026-03-06T17:44:00",
+    "visitors": 356,
+    "lastVisit": "2026-03-07T08:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6412948172820114
+    "normalized": 0.6416010106150903
   },
   {
     "city": "Sylhet",
@@ -10010,11 +10010,11 @@
   {
     "city": "Muscat",
     "country": "Oman",
-    "visitors": 1,
-    "lastVisit": "2026-03-07T06:03:00",
+    "visitors": 3,
+    "lastVisit": "2026-03-07T07:35:00",
     "lat": 23.58413,
     "lon": 58.40778,
-    "normalized": 0.07566245712011395
+    "normalized": 0.1513249142402279
   },
   {
     "city": "Trappenkamp",
