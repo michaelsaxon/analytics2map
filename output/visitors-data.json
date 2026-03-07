@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 507,
-    "lastVisit": "2026-03-06T11:57:00",
+    "visitors": 508,
+    "lastVisit": "2026-03-06T20:20:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.680105969679124
+    "normalized": 0.6803206361232701
   },
   {
     "city": "Tubingen",
@@ -9988,5 +9988,14 @@
     "lat": -33.92584,
     "lon": 18.42322,
     "normalized": 0.07566245712011395
+  },
+  {
+    "city": "Parkville",
+    "country": "United States",
+    "visitors": 3,
+    "lastVisit": "2026-03-06T20:52:00",
+    "lat": 39.37733,
+    "lon": -76.53969,
+    "normalized": 0.1513249142402279
   }
 ]
