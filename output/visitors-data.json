@@ -8885,11 +8885,11 @@
   {
     "city": "Ota City",
     "country": "Japan",
-    "visitors": 5,
-    "lastVisit": "2026-01-16T06:33:00",
+    "visitors": 6,
+    "lastVisit": "2026-03-07T03:50:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.19558461436791702
+    "normalized": 0.21241137141112432
   },
   {
     "city": "Monterey",
