@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 50,
-    "lastVisit": "2026-03-06T17:47:00",
+    "visitors": 51,
+    "lastVisit": "2026-03-08T05:58:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.4291552029073381
+    "normalized": 0.43127466937266623
   },
   {
     "city": "Minneapolis",
@@ -7886,11 +7886,11 @@
   {
     "city": "Aspen",
     "country": "United States",
-    "visitors": 18,
-    "lastVisit": "2026-03-06T18:04:00",
+    "visitors": 19,
+    "lastVisit": "2026-03-08T06:13:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.32138284491443675
+    "normalized": 0.32698146149027474
   },
   {
     "city": "Fulton",
@@ -10051,5 +10051,14 @@
     "lat": 34.74648,
     "lon": -92.28959,
     "normalized": 0.1199125352192124
+  },
+  {
+    "city": "Coeur d'Alene",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-03-08T05:53:00",
+    "lat": 47.67768,
+    "lon": -116.78047,
+    "normalized": 0.07565638629598638
   }
 ]
