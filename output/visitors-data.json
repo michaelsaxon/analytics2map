@@ -3125,11 +3125,11 @@
   {
     "city": null,
     "country": "Egypt",
-    "visitors": 5,
-    "lastVisit": "2026-01-11T11:29:00",
+    "visitors": 6,
+    "lastVisit": "2026-03-08T03:25:00",
     "lat": 30.06263,
     "lon": 31.24967,
-    "normalized": 0.19556892151519878
+    "normalized": 0.21239432845312883
   },
   {
     "city": null,
@@ -10042,5 +10042,14 @@
     "lat": 55.73186,
     "lon": 24.35983,
     "normalized": 0.07565638629598638
+  },
+  {
+    "city": "Little Rock",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-03-08T03:36:00",
+    "lat": 34.74648,
+    "lon": -92.28959,
+    "normalized": 0.1199125352192124
   }
 ]
