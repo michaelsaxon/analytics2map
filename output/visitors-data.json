@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 255,
-    "lastVisit": "2026-03-07T21:53:00",
+    "visitors": 256,
+    "lastVisit": "2026-03-07T23:13:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.605251090367891
+    "normalized": 0.605676623434444
   },
   {
     "city": "Ashburn",
@@ -10032,6 +10032,15 @@
     "lastVisit": "2026-03-07T11:25:00",
     "lat": 38.80484,
     "lon": -77.04692,
+    "normalized": 0.07565638629598638
+  },
+  {
+    "city": "Panevezys",
+    "country": "Lithuania",
+    "visitors": 1,
+    "lastVisit": "2026-03-07T22:59:00",
+    "lat": 55.73186,
+    "lon": 24.35983,
     "normalized": 0.07565638629598638
   }
 ]
