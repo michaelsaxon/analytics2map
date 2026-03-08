@@ -9965,11 +9965,11 @@
   {
     "city": "Bunkyo City",
     "country": "Japan",
-    "visitors": 2,
-    "lastVisit": "2026-03-06T02:54:00",
+    "visitors": 3,
+    "lastVisit": "2026-03-08T08:49:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.1199125352192124
+    "normalized": 0.15131277259197276
   },
   {
     "city": "Winchester",
