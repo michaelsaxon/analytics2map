@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 109,
-    "lastVisit": "2026-03-06T15:13:00",
+    "visitors": 110,
+    "lastVisit": "2026-03-07T22:20:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5130531700984613
+    "normalized": 0.5140409514401626
   },
   {
     "city": "Four Oaks",
@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 183,
-    "lastVisit": "2026-03-07T06:54:00",
+    "visitors": 185,
+    "lastVisit": "2026-03-07T22:14:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5692055096692363
+    "normalized": 0.5703855113599787
   },
   {
     "city": null,
@@ -2423,11 +2423,11 @@
   {
     "city": "Daejeon",
     "country": "South Korea",
-    "visitors": 19,
-    "lastVisit": "2026-03-07T20:57:00",
+    "visitors": 21,
+    "lastVisit": "2026-03-07T22:41:00",
     "lat": 36.34913,
     "lon": 127.38493,
-    "normalized": 0.32698146149027474
+    "normalized": 0.33738448120015924
   },
   {
     "city": "Ansan-si",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 509,
-    "lastVisit": "2026-03-07T18:34:00",
+    "visitors": 510,
+    "lastVisit": "2026-03-07T22:26:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6804802781016265
+    "normalized": 0.680694086384139
   },
   {
     "city": "Tubingen",
@@ -7985,11 +7985,11 @@
   {
     "city": "Kigali",
     "country": "Rwanda",
-    "visitors": 1,
-    "lastVisit": "2025-12-11T02:03:00",
+    "visitors": 2,
+    "lastVisit": "2026-03-07T22:45:00",
     "lat": -1.94995,
     "lon": 30.05885,
-    "normalized": 0.07565638629598638
+    "normalized": 0.1199125352192124
   },
   {
     "city": "East Lansing",
