@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 131,
-    "lastVisit": "2026-02-28T15:38:00",
+    "visitors": 133,
+    "lastVisit": "2026-03-07T20:02:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.532953402715358
+    "normalized": 0.5345947733951669
   },
   {
     "city": "Rowland Heights",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 359,
-    "lastVisit": "2026-03-07T17:17:00",
+    "visitors": 360,
+    "lastVisit": "2026-03-07T20:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6424629182246859
+    "normalized": 0.6427656898288735
   },
   {
     "city": "Sylhet",
@@ -2423,11 +2423,11 @@
   {
     "city": "Daejeon",
     "country": "South Korea",
-    "visitors": 18,
-    "lastVisit": "2026-02-17T09:36:00",
+    "visitors": 19,
+    "lastVisit": "2026-03-07T20:57:00",
     "lat": 36.34913,
     "lon": 127.38493,
-    "normalized": 0.32138284491443675
+    "normalized": 0.32698146149027474
   },
   {
     "city": "Ansan-si",
