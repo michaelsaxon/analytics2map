@@ -10069,5 +10069,14 @@
     "lat": 31.76904,
     "lon": 35.21633,
     "normalized": 0.11991116134690337
+  },
+  {
+    "city": "Walpole",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-03-09T11:34:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07565551947906901
   }
 ]
