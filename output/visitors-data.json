@@ -56,11 +56,11 @@
   {
     "city": "Austin",
     "country": "United States",
-    "visitors": 28,
-    "lastVisit": "2026-03-06T10:18:00",
+    "visitors": 30,
+    "lastVisit": "2026-03-08T23:22:00",
     "lat": 43.66663,
     "lon": -92.97464,
-    "normalized": 0.36753728678593195
+    "normalized": 0.3748165898447799
   },
   {
     "city": "Seattle",
@@ -3098,11 +3098,11 @@
   {
     "city": "Abu Dhabi",
     "country": "United Arab Emirates",
-    "visitors": 12,
-    "lastVisit": "2026-03-03T00:40:00",
+    "visitors": 13,
+    "lastVisit": "2026-03-08T22:13:00",
     "lat": 24.45118,
     "lon": 54.39696,
-    "normalized": 0.27996189678069344
+    "normalized": 0.2880507147491152
   },
   {
     "city": null,
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1185,
-    "lastVisit": "2026-03-08T21:51:00",
+    "visitors": 1186,
+    "lastVisit": "2026-03-08T21:55:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.772594565623634
+    "normalized": 0.7726865581223967
   },
   {
     "city": "Riegelsberg",
