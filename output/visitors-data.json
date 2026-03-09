@@ -7985,11 +7985,11 @@
   {
     "city": "Kigali",
     "country": "Rwanda",
-    "visitors": 2,
-    "lastVisit": "2026-03-07T22:45:00",
+    "visitors": 3,
+    "lastVisit": "2026-03-09T14:17:00",
     "lat": -1.94995,
     "lon": 30.05885,
-    "normalized": 0.11991116134690337
+    "normalized": 0.15131103895813802
   },
   {
     "city": "East Lansing",
