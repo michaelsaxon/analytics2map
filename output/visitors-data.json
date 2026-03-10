@@ -1109,11 +1109,11 @@
   {
     "city": "Kolkata",
     "country": "India",
-    "visitors": 11,
-    "lastVisit": "2026-01-26T10:36:00",
+    "visitors": 13,
+    "lastVisit": "2026-03-10T02:52:00",
     "lat": 22.56263,
     "lon": 88.36304,
-    "normalized": 0.27121598648473116
+    "normalized": 0.28804081517606595
   },
   {
     "city": "Hyderabad",
