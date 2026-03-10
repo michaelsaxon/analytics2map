@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 515,
-    "lastVisit": "2026-03-10T00:13:00",
+    "visitors": 516,
+    "lastVisit": "2026-03-10T09:31:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.681733459980705
+    "normalized": 0.6819447772628686
   },
   {
     "city": "Tubingen",
@@ -10087,5 +10087,23 @@
     "lat": 30.06263,
     "lon": 31.24967,
     "normalized": 0.11990841412927532
+  },
+  {
+    "city": "Rancho Mission Viejo",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-03-10T08:49:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07565378617772793
+  },
+  {
+    "city": "Niederlenz",
+    "country": "Switzerland",
+    "visitors": 1,
+    "lastVisit": "2026-03-10T09:50:00",
+    "lat": 46.94809,
+    "lon": 7.44744,
+    "normalized": 0.07565378617772793
   }
 ]
