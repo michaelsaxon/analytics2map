@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 258,
-    "lastVisit": "2026-03-08T17:31:00",
+    "visitors": 261,
+    "lastVisit": "2026-03-09T16:44:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6065157955690319
+    "normalized": 0.6077727903764175
   },
   {
     "city": "Ashburn",
@@ -2000,11 +2000,11 @@
   {
     "city": "Copenhagen",
     "country": "Denmark",
-    "visitors": 23,
-    "lastVisit": "2026-02-21T20:24:00",
+    "visitors": 25,
+    "lastVisit": "2026-03-09T16:53:00",
     "lat": 55.67594,
     "lon": 12.56553,
-    "normalized": 0.3468777197841104
+    "normalized": 0.35561420865601306
   },
   {
     "city": null,
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1186,
-    "lastVisit": "2026-03-08T21:55:00",
+    "visitors": 1192,
+    "lastVisit": "2026-03-09T17:58:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7726777052308802
+    "normalized": 0.773228031654401
   },
   {
     "city": "Riegelsberg",
