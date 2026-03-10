@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 264,
-    "lastVisit": "2026-03-10T04:22:00",
+    "visitors": 265,
+    "lastVisit": "2026-03-10T14:23:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6090015209232261
+    "normalized": 0.6094126149766145
   },
   {
     "city": "Ashburn",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 373,
-    "lastVisit": "2026-03-10T03:33:00",
+    "visitors": 374,
+    "lastVisit": "2026-03-10T15:05:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6466049259519467
+    "normalized": 0.6468963689612783
   },
   {
     "city": "Sylhet",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 62,
-    "lastVisit": "2026-03-06T10:09:00",
+    "visitors": 63,
+    "lastVisit": "2026-03-10T14:09:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.45220385725688866
+    "normalized": 0.45392271706636755
   },
   {
     "city": "Oakland",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 516,
-    "lastVisit": "2026-03-10T09:31:00",
+    "visitors": 517,
+    "lastVisit": "2026-03-10T15:34:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6819447772628686
+    "normalized": 0.6821556862022037
   },
   {
     "city": "Tubingen",
@@ -7553,11 +7553,11 @@
   {
     "city": "Jersey City",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2026-01-17T21:00:00",
+    "visitors": 12,
+    "lastVisit": "2026-03-10T15:43:00",
     "lat": 40.72816,
     "lon": -74.07764,
-    "normalized": 0.27121598648473116
+    "normalized": 0.279952275199818
   },
   {
     "city": "Pickens",
@@ -9542,11 +9542,11 @@
   {
     "city": "Clemmons",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-02-15T13:54:00",
+    "visitors": 4,
+    "lastVisit": "2026-03-10T14:52:00",
     "lat": 36.02153,
     "lon": -80.382,
-    "normalized": 0.11990841412927532
+    "normalized": 0.17566265161066769
   },
   {
     "city": "Abeokuta",
