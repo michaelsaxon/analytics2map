@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 514,
-    "lastVisit": "2026-03-09T03:31:00",
+    "visitors": 515,
+    "lastVisit": "2026-03-10T00:13:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.681521732771452
+    "normalized": 0.681733459980705
   },
   {
     "city": "Tubingen",
@@ -10078,5 +10078,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.07565378617772793
+  },
+  {
+    "city": "Menouf",
+    "country": "Egypt",
+    "visitors": 2,
+    "lastVisit": "2026-03-09T23:34:00",
+    "lat": 30.06263,
+    "lon": 31.24967,
+    "normalized": 0.11990841412927532
   }
 ]
