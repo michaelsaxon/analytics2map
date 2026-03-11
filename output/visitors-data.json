@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 265,
-    "lastVisit": "2026-03-10T14:23:00",
+    "visitors": 266,
+    "lastVisit": "2026-03-10T20:43:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6094126149766145
+    "normalized": 0.6098221664595717
   },
   {
     "city": "Ashburn",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1198,
-    "lastVisit": "2026-03-10T17:31:00",
+    "visitors": 1202,
+    "lastVisit": "2026-03-10T20:14:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7737578696909808
+    "normalized": 0.7741213849050874
   },
   {
     "city": "Riegelsberg",
@@ -8246,11 +8246,11 @@
   {
     "city": "Eastern Goleta Valley",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-01-28T00:45:00",
+    "visitors": 4,
+    "lastVisit": "2026-03-10T19:39:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.15130757235545586
+    "normalized": 0.17566265161066769
   },
   {
     "city": "Detroit",
