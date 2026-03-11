@@ -5510,11 +5510,11 @@
   {
     "city": "Xiamen",
     "country": "China",
-    "visitors": 1,
-    "lastVisit": "2025-07-01T00:00:00",
+    "visitors": 2,
+    "lastVisit": "2026-03-11T09:14:00",
     "lat": 24.47979,
     "lon": 118.08187,
-    "normalized": 0.07565378617772793
+    "normalized": 0.11990841412927532
   },
   {
     "city": "Aarau",
@@ -10118,10 +10118,10 @@
   {
     "city": "Beirut",
     "country": "Lebanon",
-    "visitors": 1,
-    "lastVisit": "2026-03-11T08:45:00",
+    "visitors": 2,
+    "lastVisit": "2026-03-11T08:46:00",
     "lat": 33.89332,
     "lon": 35.50157,
-    "normalized": 0.07565378617772793
+    "normalized": 0.11990841412927532
   }
 ]
