@@ -317,11 +317,11 @@
   {
     "city": "Berlin",
     "country": "Germany",
-    "visitors": 20,
-    "lastVisit": "2026-03-11T05:44:00",
+    "visitors": 23,
+    "lastVisit": "2026-03-11T08:21:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.33229544312761333
+    "normalized": 0.3468697726624591
   },
   {
     "city": "Remshalden",
@@ -5501,11 +5501,11 @@
   {
     "city": "Columbus",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2026-03-10T22:45:00",
+    "visitors": 12,
+    "lastVisit": "2026-03-11T08:09:00",
     "lat": 41.42973,
     "lon": -97.36838,
-    "normalized": 0.26171909997285736
+    "normalized": 0.279952275199818
   },
   {
     "city": "Xiamen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1207,
-    "lastVisit": "2026-03-11T03:49:00",
+    "visitors": 1209,
+    "lastVisit": "2026-03-11T07:39:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7745740829499359
+    "normalized": 0.7747546377341102
   },
   {
     "city": "Riegelsberg",
@@ -10113,6 +10113,15 @@
     "lastVisit": "2026-03-10T17:32:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.07565378617772793
+  },
+  {
+    "city": "Beirut",
+    "country": "Lebanon",
+    "visitors": 1,
+    "lastVisit": "2026-03-11T08:45:00",
+    "lat": 33.89332,
+    "lon": 35.50157,
     "normalized": 0.07565378617772793
   }
 ]
