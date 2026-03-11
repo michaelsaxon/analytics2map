@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 374,
-    "lastVisit": "2026-03-10T15:05:00",
+    "visitors": 376,
+    "lastVisit": "2026-03-10T16:36:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6468963689612783
+    "normalized": 0.6474769306606654
   },
   {
     "city": "Sylhet",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 51,
-    "lastVisit": "2026-03-08T05:58:00",
+    "visitors": 52,
+    "lastVisit": "2026-03-10T15:46:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.4312598475552739
+    "normalized": 0.4333388693125585
   },
   {
     "city": "Minneapolis",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1196,
-    "lastVisit": "2026-03-10T05:06:00",
+    "visitors": 1198,
+    "lastVisit": "2026-03-10T17:31:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7735756570574371
+    "normalized": 0.7737578696909808
   },
   {
     "city": "Riegelsberg",
@@ -10104,6 +10104,15 @@
     "lastVisit": "2026-03-10T09:50:00",
     "lat": 46.94809,
     "lon": 7.44744,
+    "normalized": 0.07565378617772793
+  },
+  {
+    "city": "Greenwich",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-03-10T17:32:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.07565378617772793
   }
 ]
