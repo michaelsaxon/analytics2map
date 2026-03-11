@@ -317,11 +317,11 @@
   {
     "city": "Berlin",
     "country": "Germany",
-    "visitors": 19,
-    "lastVisit": "2026-02-24T02:53:00",
+    "visitors": 20,
+    "lastVisit": "2026-03-11T05:44:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.3269702239661235
+    "normalized": 0.33229544312761333
   },
   {
     "city": "Remshalden",
@@ -533,11 +533,11 @@
   {
     "city": "Des Moines",
     "country": "United States",
-    "visitors": 35,
-    "lastVisit": "2026-02-19T06:40:00",
+    "visitors": 36,
+    "lastVisit": "2026-03-11T06:28:00",
     "lat": 47.40177,
     "lon": -122.32429,
-    "normalized": 0.3911244006140065
+    "normalized": 0.3941148710261377
   },
   {
     "city": "West Milford",
