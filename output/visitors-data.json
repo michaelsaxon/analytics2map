@@ -5501,11 +5501,11 @@
   {
     "city": "Columbus",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-02-24T12:58:00",
+    "visitors": 10,
+    "lastVisit": "2026-03-10T22:45:00",
     "lat": 41.42973,
     "lon": -97.36838,
-    "normalized": 0.22696135853318378
+    "normalized": 0.26171909997285736
   },
   {
     "city": "Xiamen",
@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 517,
-    "lastVisit": "2026-03-10T15:34:00",
+    "visitors": 518,
+    "lastVisit": "2026-03-10T22:58:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6821556862022037
+    "normalized": 0.6823661883738045
   },
   {
     "city": "Tubingen",
