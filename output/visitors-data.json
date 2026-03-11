@@ -6599,11 +6599,11 @@
   {
     "city": "Lanzhou",
     "country": "China",
-    "visitors": 518,
-    "lastVisit": "2026-03-10T22:58:00",
+    "visitors": 519,
+    "lastVisit": "2026-03-11T03:19:00",
     "lat": 36.05701,
     "lon": 103.83987,
-    "normalized": 0.6823661883738045
+    "normalized": 0.6825762853436695
   },
   {
     "city": "Tubingen",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1204,
-    "lastVisit": "2026-03-11T00:53:00",
+    "visitors": 1207,
+    "lastVisit": "2026-03-11T03:49:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7743026895018327
+    "normalized": 0.7745740829499359
   },
   {
     "city": "Riegelsberg",
