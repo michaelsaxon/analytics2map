@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 381,
-    "lastVisit": "2026-03-12T04:28:00",
+    "visitors": 382,
+    "lastVisit": "2026-03-12T07:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6489001030431052
+    "normalized": 0.6491854439694397
   },
   {
     "city": "Sylhet",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 63,
-    "lastVisit": "2026-03-10T14:09:00",
+    "visitors": 64,
+    "lastVisit": "2026-03-12T07:56:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.45391231991722963
+    "normalized": 0.4556044909010997
   },
   {
     "city": "Oakland",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1222,
-    "lastVisit": "2026-03-12T04:28:00",
+    "visitors": 1225,
+    "lastVisit": "2026-03-12T07:47:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7759032465607856
+    "normalized": 0.7761706444295087
   },
   {
     "city": "Riegelsberg",
