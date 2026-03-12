@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 271,
-    "lastVisit": "2026-03-12T04:33:00",
+    "visitors": 273,
+    "lastVisit": "2026-03-12T08:36:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6118331700860553
+    "normalized": 0.6126327549234614
   },
   {
     "city": "Ashburn",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 303,
-    "lastVisit": "2026-03-12T00:04:00",
+    "visitors": 304,
+    "lastVisit": "2026-03-12T08:20:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6239726520227209
+    "normalized": 0.6243310853240367
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 382,
-    "lastVisit": "2026-03-12T07:14:00",
+    "visitors": 383,
+    "lastVisit": "2026-03-12T09:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6491854439694397
+    "normalized": 0.6494700408507936
   },
   {
     "city": "Sylhet",
