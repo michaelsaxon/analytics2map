@@ -839,11 +839,11 @@
   {
     "city": null,
     "country": "Bangladesh",
-    "visitors": 71,
-    "lastVisit": "2026-03-12T11:16:00",
+    "visitors": 72,
+    "lastVisit": "2026-03-12T12:19:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.46675146290290126
+    "normalized": 0.46825685357507274
   },
   {
     "city": null,
@@ -8714,11 +8714,11 @@
   {
     "city": "Riverside",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-02-27T03:33:00",
+    "visitors": 15,
+    "lastVisit": "2026-03-12T14:19:00",
     "lat": 33.95335,
     "lon": -117.39616,
-    "normalized": 0.29555414376602335
+    "normalized": 0.3025978194508303
   },
   {
     "city": "Amity Gardens",
