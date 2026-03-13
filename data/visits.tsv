@@ -9047,3 +9047,9 @@ timestamp	country	city	num_unique
 2026-03-12T21:21:00	Hong Kong	Hong Kong	1
 2026-03-12T21:58:00	Hong Kong	Hong Kong	1
 2026-03-12T22:02:00	Hong Kong	Hong Kong	1
+2026-03-12T22:37:00	United States	Los Angeles	1
+2026-03-12T22:38:00	United States	Los Angeles	1
+2026-03-12T22:45:00	United States	Centralia	1
+2026-03-12T22:55:00	United States	Council Bluffs	1
+2026-03-12T23:02:00	United States		1
+2026-03-12T23:03:00	United States		1
