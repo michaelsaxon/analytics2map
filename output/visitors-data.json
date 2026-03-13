@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 311,
-    "lastVisit": "2026-03-13T00:40:00",
+    "visitors": 312,
+    "lastVisit": "2026-03-13T02:09:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6267431274042243
+    "normalized": 0.6270923488226243
   },
   {
     "city": null,
@@ -5618,11 +5618,11 @@
   {
     "city": "Arlington",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2025-08-01T00:00:00",
+    "visitors": 7,
+    "lastVisit": "2026-03-13T02:22:00",
     "lat": 48.19871,
     "lon": -122.12514,
-    "normalized": 0.19553757791460546
+    "normalized": 0.22693278280832407
   },
   {
     "city": "Los Alamos",
