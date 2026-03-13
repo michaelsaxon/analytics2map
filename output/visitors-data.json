@@ -2189,11 +2189,11 @@
   {
     "city": "Toronto",
     "country": "Canada",
-    "visitors": 27,
-    "lastVisit": "2026-03-11T04:54:00",
+    "visitors": 28,
+    "lastVisit": "2026-03-13T07:26:00",
     "lat": 43.70643,
     "lon": -79.39864,
-    "normalized": 0.36364881013660866
+    "normalized": 0.3674783820180838
   },
   {
     "city": "Surrey",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1241,
-    "lastVisit": "2026-03-13T05:37:00",
+    "visitors": 1242,
+    "lastVisit": "2026-03-13T07:22:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7775057128362283
+    "normalized": 0.7775935451147112
   },
   {
     "city": "Riegelsberg",
@@ -9722,11 +9722,11 @@
   {
     "city": "Bloomington",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-02-23T16:18:00",
+    "visitors": 3,
+    "lastVisit": "2026-03-13T07:33:00",
     "lat": 34.07029,
     "lon": -117.39588,
-    "normalized": 0.07564426093610803
+    "normalized": 0.15128852187221606
   },
   {
     "city": "Santa Fe",
