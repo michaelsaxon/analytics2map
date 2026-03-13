@@ -2342,11 +2342,11 @@
   {
     "city": "Hangzhou",
     "country": "China",
-    "visitors": 11,
-    "lastVisit": "2026-03-12T20:20:00",
+    "visitors": 13,
+    "lastVisit": "2026-03-12T20:48:00",
     "lat": 30.29365,
     "lon": 120.16142,
-    "normalized": 0.2711880439425006
+    "normalized": 0.2880111392238977
   },
   {
     "city": "Kowloon",
@@ -3710,11 +3710,11 @@
   {
     "city": "Bellevue",
     "country": "United States",
-    "visitors": 177,
-    "lastVisit": "2026-02-22T23:59:00",
+    "visitors": 181,
+    "lastVisit": "2026-03-12T21:00:00",
     "lat": 47.61038,
     "lon": -122.20068,
-    "normalized": 0.5655092698379734
+    "normalized": 0.5679345718087442
   },
   {
     "city": "Burlingame",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1230,
-    "lastVisit": "2026-03-12T20:35:00",
+    "visitors": 1238,
+    "lastVisit": "2026-03-12T22:02:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7765526316559258
+    "normalized": 0.777259575648503
   },
   {
     "city": "Riegelsberg",
