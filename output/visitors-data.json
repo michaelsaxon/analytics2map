@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 309,
-    "lastVisit": "2026-03-12T18:38:00",
+    "visitors": 311,
+    "lastVisit": "2026-03-13T00:40:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6260413140522563
+    "normalized": 0.6267431274042243
   },
   {
     "city": null,
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1238,
-    "lastVisit": "2026-03-12T22:02:00",
+    "visitors": 1240,
+    "lastVisit": "2026-03-13T00:36:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7772417910627993
+    "normalized": 0.777417809810836
   },
   {
     "city": "Riegelsberg",
