@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 387,
-    "lastVisit": "2026-03-12T19:26:00",
+    "visitors": 388,
+    "lastVisit": "2026-03-13T04:57:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6505340510621895
+    "normalized": 0.6508149562369089
   },
   {
     "city": "Sylhet",
@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 15,
-    "lastVisit": "2026-01-05T07:20:00",
+    "visitors": 16,
+    "lastVisit": "2026-03-13T04:05:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.3025770437444321
+    "normalized": 0.3091931057301862
   },
   {
     "city": "Visalia",
