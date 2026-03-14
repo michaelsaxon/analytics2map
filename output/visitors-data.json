@@ -110,11 +110,11 @@
   {
     "city": "Dallas",
     "country": "United States",
-    "visitors": 30,
-    "lastVisit": "2026-03-13T20:51:00",
+    "visitors": 31,
+    "lastVisit": "2026-03-14T07:55:00",
     "lat": 44.91928,
     "lon": -123.31705,
-    "normalized": 0.3747436599579142
+    "normalized": 0.37820832732469
   },
   {
     "city": "San Jose",
@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 16,
-    "lastVisit": "2026-03-12T19:00:00",
+    "visitors": 17,
+    "lastVisit": "2026-03-14T07:34:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.3091824968382232
+    "normalized": 0.3154200719729805
   },
   {
     "city": "Athens",
