@@ -10150,5 +10150,14 @@
     "lat": 33.89332,
     "lon": 35.50157,
     "normalized": 0.11988920325402126
+  },
+  {
+    "city": "Huddinge",
+    "country": "Sweden",
+    "visitors": 2,
+    "lastVisit": "2026-03-14T09:20:00",
+    "lat": 59.23705,
+    "lon": 17.98192,
+    "normalized": 0.11988920325402126
   }
 ]
