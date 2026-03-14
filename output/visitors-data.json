@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1249,
-    "lastVisit": "2026-03-14T02:25:00",
+    "visitors": 1250,
+    "lastVisit": "2026-03-14T03:41:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7781796982133807
+    "normalized": 0.778266965595601
   },
   {
     "city": "Riegelsberg",
@@ -10141,5 +10141,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.151283330929876
+  },
+  {
+    "city": "Baabda",
+    "country": "Lebanon",
+    "visitors": 2,
+    "lastVisit": "2026-03-14T04:05:00",
+    "lat": 33.89332,
+    "lon": 35.50157,
+    "normalized": 0.11988920325402126
   }
 ]
