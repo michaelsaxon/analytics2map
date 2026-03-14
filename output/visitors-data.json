@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 275,
-    "lastVisit": "2026-03-12T22:38:00",
+    "visitors": 276,
+    "lastVisit": "2026-03-14T01:27:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6133633398153414
+    "normalized": 0.6137580295769272
   },
   {
     "city": "Ashburn",
@@ -8966,11 +8966,11 @@
   {
     "city": "East Ithaca",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-01-22T16:10:00",
+    "visitors": 5,
+    "lastVisit": "2026-03-14T00:56:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.17564053468453983
+    "normalized": 0.19553757791460546
   },
   {
     "city": "Renton",
