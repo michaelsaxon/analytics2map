@@ -137,11 +137,11 @@
   {
     "city": "Las Vegas",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-01-27T05:19:00",
+    "visitors": 18,
+    "lastVisit": "2026-03-14T12:13:00",
     "lat": 36.17497,
     "lon": -115.13722,
-    "normalized": 0.29552371144113193
+    "normalized": 0.32132031189120563
   },
   {
     "city": "Chicago",
