@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 77,
-    "lastVisit": "2026-03-13T14:22:00",
+    "visitors": 78,
+    "lastVisit": "2026-03-14T10:16:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.47543829195175724
+    "normalized": 0.47682847451792904
   },
   {
     "city": "Stanford",
@@ -4250,11 +4250,11 @@
   {
     "city": "Boston",
     "country": "United States",
-    "visitors": 19,
-    "lastVisit": "2026-03-08T20:25:00",
+    "visitors": 20,
+    "lastVisit": "2026-03-14T10:11:00",
     "lat": 42.35843,
     "lon": -71.05977,
-    "normalized": 0.3269178391169867
+    "normalized": 0.33224220510964964
   },
   {
     "city": "Hoodsport",
