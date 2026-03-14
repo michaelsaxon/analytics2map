@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1250,
-    "lastVisit": "2026-03-14T03:41:00",
+    "visitors": 1252,
+    "lastVisit": "2026-03-14T07:19:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.778266965595601
+    "normalized": 0.7784412912806763
   },
   {
     "city": "Riegelsberg",
@@ -7886,11 +7886,11 @@
   {
     "city": "Aspen",
     "country": "United States",
-    "visitors": 22,
-    "lastVisit": "2026-03-13T18:15:00",
+    "visitors": 23,
+    "lastVisit": "2026-03-14T07:18:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.3421697601899852
+    "normalized": 0.3468141996488353
   },
   {
     "city": "Fulton",
@@ -9929,11 +9929,11 @@
   {
     "city": "Vallentuna",
     "country": "Sweden",
-    "visitors": 2,
-    "lastVisit": "2026-03-03T00:43:00",
+    "visitors": 3,
+    "lastVisit": "2026-03-14T07:00:00",
     "lat": 59.53436,
     "lon": 18.07758,
-    "normalized": 0.11988920325402126
+    "normalized": 0.151283330929876
   },
   {
     "city": "Shelby",
