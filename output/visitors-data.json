@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 315,
-    "lastVisit": "2026-03-10T13:11:00",
+    "visitors": 317,
+    "lastVisit": "2026-03-13T18:17:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6281333576713392
+    "normalized": 0.6288218874008547
   },
   {
     "city": "Santa Clara",
@@ -470,11 +470,11 @@
   {
     "city": "Cambridge",
     "country": "United States",
-    "visitors": 62,
-    "lastVisit": "2026-03-07T12:44:00",
+    "visitors": 63,
+    "lastVisit": "2026-03-13T16:21:00",
     "lat": 42.3751,
     "lon": -71.10561,
-    "normalized": 0.4521469222213875
+    "normalized": 0.45386556561664815
   },
   {
     "city": "San Diego",
@@ -7886,11 +7886,11 @@
   {
     "city": "Aspen",
     "country": "United States",
-    "visitors": 21,
-    "lastVisit": "2026-03-11T06:43:00",
+    "visitors": 22,
+    "lastVisit": "2026-03-13T18:15:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.33733040898693034
+    "normalized": 0.3421815009646279
   },
   {
     "city": "Fulton",
