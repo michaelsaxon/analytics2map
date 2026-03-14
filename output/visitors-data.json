@@ -10132,5 +10132,14 @@
     "lat": 46.71621,
     "lon": -122.9543,
     "normalized": 0.07564426093610803
+  },
+  {
+    "city": "Prairie View",
+    "country": "United States",
+    "visitors": 3,
+    "lastVisit": "2026-03-13T23:35:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.15128852187221606
   }
 ]
