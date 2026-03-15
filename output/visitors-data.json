@@ -74,11 +74,11 @@
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 30,
-    "lastVisit": "2026-03-08T16:13:00",
+    "visitors": 31,
+    "lastVisit": "2026-03-14T18:44:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.3747436599579142
+    "normalized": 0.37820832732469
   },
   {
     "city": "New York",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 395,
-    "lastVisit": "2026-03-14T15:17:00",
+    "visitors": 397,
+    "lastVisit": "2026-03-14T18:32:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6527389066337099
+    "normalized": 0.6532886702934099
   },
   {
     "city": "Sylhet",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1252,
-    "lastVisit": "2026-03-14T07:19:00",
+    "visitors": 1260,
+    "lastVisit": "2026-03-14T18:21:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7784412912806763
+    "normalized": 0.7791358225392649
   },
   {
     "city": "Riegelsberg",
