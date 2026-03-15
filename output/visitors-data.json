@@ -6905,11 +6905,11 @@
   {
     "city": "Champaign",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2026-03-07T16:50:00",
+    "visitors": 10,
+    "lastVisit": "2026-03-15T11:37:00",
     "lat": 40.11642,
     "lon": -88.24338,
-    "normalized": 0.25127617365204874
+    "normalized": 0.2616771691957914
   },
   {
     "city": "Norton",
@@ -9929,11 +9929,11 @@
   {
     "city": "Vallentuna",
     "country": "Sweden",
-    "visitors": 3,
-    "lastVisit": "2026-03-14T07:00:00",
+    "visitors": 5,
+    "lastVisit": "2026-03-15T11:16:00",
     "lat": 59.53436,
     "lon": 18.07758,
-    "normalized": 0.151283330929876
+    "normalized": 0.19553086871895925
   },
   {
     "city": "Shelby",
