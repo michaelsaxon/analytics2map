@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 315,
-    "lastVisit": "2026-03-14T02:11:00",
+    "visitors": 317,
+    "lastVisit": "2026-03-14T23:17:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6281118054478051
+    "normalized": 0.6288003115528045
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 398,
-    "lastVisit": "2026-03-14T21:21:00",
+    "visitors": 399,
+    "lastVisit": "2026-03-14T21:41:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6535625170008553
+    "normalized": 0.6538356782339734
   },
   {
     "city": "Sylhet",
@@ -7886,11 +7886,11 @@
   {
     "city": "Aspen",
     "country": "United States",
-    "visitors": 23,
-    "lastVisit": "2026-03-14T07:18:00",
+    "visitors": 24,
+    "lastVisit": "2026-03-14T22:29:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.3468141996488353
+    "normalized": 0.35126901637422137
   },
   {
     "city": "Fulton",
