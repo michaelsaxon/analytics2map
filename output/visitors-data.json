@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 317,
-    "lastVisit": "2026-03-14T23:17:00",
+    "visitors": 318,
+    "lastVisit": "2026-03-15T00:40:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6288003115528045
+    "normalized": 0.6291429424642578
   },
   {
     "city": null,
@@ -10159,5 +10159,14 @@
     "lat": 59.23705,
     "lon": 17.98192,
     "normalized": 0.11988920325402126
+  },
+  {
+    "city": "Marysville",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-03-15T01:20:00",
+    "lat": 48.05176,
+    "lon": -122.17708,
+    "normalized": 0.075641665464938
   }
 ]
