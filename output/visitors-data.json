@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 397,
-    "lastVisit": "2026-03-14T18:32:00",
+    "visitors": 398,
+    "lastVisit": "2026-03-14T21:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6532886702934099
+    "normalized": 0.6535625170008553
   },
   {
     "city": "Sylhet",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1260,
-    "lastVisit": "2026-03-14T18:21:00",
+    "visitors": 1264,
+    "lastVisit": "2026-03-14T20:17:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7791358225392649
+    "normalized": 0.7794814375728873
   },
   {
     "city": "Riegelsberg",
