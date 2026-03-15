@@ -10186,5 +10186,14 @@
     "lat": 23.23241,
     "lon": 87.0716,
     "normalized": 0.075641665464938
+  },
+  {
+    "city": "Sandwich",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-03-15T13:49:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.075641665464938
   }
 ]
