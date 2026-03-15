@@ -1343,11 +1343,11 @@
   {
     "city": "Chino Hills",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2024-01-01T00:00:00",
+    "visitors": 8,
+    "lastVisit": "2026-03-15T08:22:00",
     "lat": 33.9938,
     "lon": -117.75888,
-    "normalized": 0.226924996394814
+    "normalized": 0.23977840650804252
   },
   {
     "city": "San Bruno",
@@ -10176,6 +10176,15 @@
     "lastVisit": "2026-03-15T05:41:00",
     "lat": 23.11603,
     "lon": 109.59472,
+    "normalized": 0.075641665464938
+  },
+  {
+    "city": "Bankura",
+    "country": "India",
+    "visitors": 1,
+    "lastVisit": "2026-03-15T07:48:00",
+    "lat": 23.23241,
+    "lon": 87.0716,
     "normalized": 0.075641665464938
   }
 ]
