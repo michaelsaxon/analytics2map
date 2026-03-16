@@ -56,11 +56,11 @@
   {
     "city": "Austin",
     "country": "United States",
-    "visitors": 32,
-    "lastVisit": "2026-03-15T20:41:00",
+    "visitors": 34,
+    "lastVisit": "2026-03-16T07:59:00",
     "lat": 43.66663,
     "lon": -92.97464,
-    "normalized": 0.381540202326937
+    "normalized": 0.3879608995195243
   },
   {
     "city": "Seattle",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 410,
-    "lastVisit": "2026-03-16T03:40:00",
+    "visitors": 412,
+    "lastVisit": "2026-03-16T09:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.656751124490436
+    "normalized": 0.6572808360695107
   },
   {
     "city": "Sylhet",
@@ -1667,11 +1667,11 @@
   {
     "city": "Milan",
     "country": "Italy",
-    "visitors": 10,
-    "lastVisit": "2026-01-05T02:46:00",
+    "visitors": 11,
+    "lastVisit": "2026-03-16T08:03:00",
     "lat": 45.46427,
     "lon": 9.18951,
-    "normalized": 0.2616592217974721
+    "normalized": 0.27115393553618483
   },
   {
     "city": "Verona",
@@ -7778,11 +7778,11 @@
   {
     "city": "Reston",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-12-06T21:35:00",
+    "visitors": 2,
+    "lastVisit": "2026-03-16T06:26:00",
     "lat": 38.96872,
     "lon": -77.3411,
-    "normalized": 0.07563647750335997
+    "normalized": 0.1198809805294649
   },
   {
     "city": "Flint Hill",
