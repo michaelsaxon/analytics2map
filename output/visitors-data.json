@@ -1622,11 +1622,11 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 36,
-    "lastVisit": "2026-03-13T05:41:00",
+    "visitors": 37,
+    "lastVisit": "2026-03-16T20:28:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.39402019989821435
+    "normalized": 0.3969302156616448
   },
   {
     "city": "Shenzhen",
@@ -10208,10 +10208,10 @@
   {
     "city": "Srinagar",
     "country": "India",
-    "visitors": 2,
-    "lastVisit": "2026-03-16T18:25:00",
+    "visitors": 3,
+    "lastVisit": "2026-03-16T18:26:00",
     "lat": 30.22243,
     "lon": 78.78341,
-    "normalized": 0.11987961068731547
+    "normalized": 0.1512712264583804
   }
 ]
