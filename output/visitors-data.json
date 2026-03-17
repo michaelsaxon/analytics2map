@@ -1802,11 +1802,11 @@
   {
     "city": "Zurich",
     "country": "Switzerland",
-    "visitors": 14,
-    "lastVisit": "2026-01-27T09:26:00",
+    "visitors": 15,
+    "lastVisit": "2026-03-17T14:22:00",
     "lat": 47.36667,
     "lon": 8.55,
-    "normalized": 0.29550006601820644
+    "normalized": 0.3025424529167608
   },
   {
     "city": "Obanos",
