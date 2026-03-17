@@ -245,11 +245,11 @@
   {
     "city": "Montreal",
     "country": "Canada",
-    "visitors": 30,
-    "lastVisit": "2026-03-05T13:19:00",
+    "visitors": 32,
+    "lastVisit": "2026-03-16T18:15:00",
     "lat": 45.50884,
     "lon": -73.58781,
-    "normalized": 0.3747136759939028
+    "normalized": 0.3815358425873975
   },
   {
     "city": "Shawinigan",
@@ -470,11 +470,11 @@
   {
     "city": "Cambridge",
     "country": "United States",
-    "visitors": 63,
-    "lastVisit": "2026-03-13T16:21:00",
+    "visitors": 65,
+    "lastVisit": "2026-03-16T16:30:00",
     "lat": 42.3751,
     "lon": -71.10561,
-    "normalized": 0.4538136793751411
+    "normalized": 0.45717145581658764
   },
   {
     "city": "San Diego",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 412,
-    "lastVisit": "2026-03-16T09:15:00",
+    "visitors": 414,
+    "lastVisit": "2026-03-16T15:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6572733255287286
+    "normalized": 0.6578004720810835
   },
   {
     "city": "Sylhet",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1293,
-    "lastVisit": "2026-03-16T03:51:00",
+    "visitors": 1297,
+    "lastVisit": "2026-03-16T18:20:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7818923718887107
+    "normalized": 0.7822291595761884
   },
   {
     "city": "Riegelsberg",
@@ -10204,5 +10204,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.0756356132291902
+  },
+  {
+    "city": "Srinagar",
+    "country": "India",
+    "visitors": 2,
+    "lastVisit": "2026-03-16T18:25:00",
+    "lat": 30.22243,
+    "lon": 78.78341,
+    "normalized": 0.11987961068731547
   }
 ]
