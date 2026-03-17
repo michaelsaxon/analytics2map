@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 186,
-    "lastVisit": "2026-03-16T12:49:00",
+    "visitors": 187,
+    "lastVisit": "2026-03-17T02:12:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5708139904495796
+    "normalized": 0.5713959604910419
   },
   {
     "city": "Lompoc",
@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 186,
-    "lastVisit": "2026-03-10T04:48:00",
+    "visitors": 187,
+    "lastVisit": "2026-03-17T01:25:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5708139904495796
+    "normalized": 0.5713959604910419
   },
   {
     "city": null,
@@ -533,11 +533,11 @@
   {
     "city": "Des Moines",
     "country": "United States",
-    "visitors": 37,
-    "lastVisit": "2026-03-11T12:22:00",
+    "visitors": 38,
+    "lastVisit": "2026-03-17T01:42:00",
     "lat": 47.40177,
     "lon": -122.32429,
-    "normalized": 0.3969302156616448
+    "normalized": 0.39976463798656864
   },
   {
     "city": "West Milford",
@@ -10213,5 +10213,14 @@
     "lat": 30.22243,
     "lon": 78.78341,
     "normalized": 0.1512712264583804
+  },
+  {
+    "city": "Boydton",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-03-17T01:42:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.0756356132291902
   }
 ]
