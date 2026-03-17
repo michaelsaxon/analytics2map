@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 187,
-    "lastVisit": "2026-03-17T02:12:00",
+    "visitors": 188,
+    "lastVisit": "2026-03-17T02:22:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5713959604910419
+    "normalized": 0.5719748431437587
   },
   {
     "city": "Lompoc",
@@ -839,11 +839,11 @@
   {
     "city": null,
     "country": "Bangladesh",
-    "visitors": 74,
-    "lastVisit": "2026-03-16T03:04:00",
+    "visitors": 75,
+    "lastVisit": "2026-03-17T03:12:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.4711205213490974
+    "normalized": 0.47256582889083504
   },
   {
     "city": null,
