@@ -9316,3 +9316,6 @@ timestamp	country	city	num_unique
 2026-03-18T06:42:00	Sweden	Stockholm	1
 2026-03-18T08:04:00	China		1
 2026-03-18T10:14:00	United States	Columbus	1
+2026-03-18T12:23:00	Singapore	Singapore	1
+2026-03-18T13:08:00	Unknown		1
+2026-03-18T13:10:00	United States	Austin	1
