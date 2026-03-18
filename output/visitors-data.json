@@ -308,11 +308,11 @@
   {
     "city": "London",
     "country": "United Kingdom",
-    "visitors": 28,
-    "lastVisit": "2026-03-07T06:45:00",
+    "visitors": 29,
+    "lastVisit": "2026-03-18T05:10:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.36743637162222553
+    "normalized": 0.37113567924739665
   },
   {
     "city": "Berlin",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 421,
-    "lastVisit": "2026-03-17T21:40:00",
+    "visitors": 422,
+    "lastVisit": "2026-03-18T04:08:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.659625685170461
+    "normalized": 0.6598839554072924
   },
   {
     "city": "Sylhet",
