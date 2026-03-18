@@ -110,11 +110,11 @@
   {
     "city": "Dallas",
     "country": "United States",
-    "visitors": 31,
-    "lastVisit": "2026-03-14T07:55:00",
+    "visitors": 32,
+    "lastVisit": "2026-03-17T17:40:00",
     "lat": 44.91928,
     "lon": -123.31705,
-    "normalized": 0.37817806614595095
+    "normalized": 0.3815358425873975
   },
   {
     "city": "San Jose",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 326,
-    "lastVisit": "2026-03-17T09:14:00",
+    "visitors": 327,
+    "lastVisit": "2026-03-17T17:07:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6317953825400109
+    "normalized": 0.6321285709641367
   },
   {
     "city": null,
@@ -839,11 +839,11 @@
   {
     "city": null,
     "country": "Bangladesh",
-    "visitors": 75,
-    "lastVisit": "2026-03-17T03:12:00",
+    "visitors": 76,
+    "lastVisit": "2026-03-17T17:04:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.47256582889083504
+    "normalized": 0.47399224298189435
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 419,
-    "lastVisit": "2026-03-17T15:19:00",
+    "visitors": 420,
+    "lastVisit": "2026-03-17T18:24:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6591073035583991
+    "normalized": 0.6593668021922802
   },
   {
     "city": "Sylhet",
@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 17,
-    "lastVisit": "2026-03-14T07:34:00",
+    "visitors": 18,
+    "lastVisit": "2026-03-17T17:23:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.31539483460382106
+    "normalized": 0.32129460243245467
   },
   {
     "city": "Athens",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1300,
-    "lastVisit": "2026-03-17T03:32:00",
+    "visitors": 1302,
+    "lastVisit": "2026-03-17T18:25:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7824810699399821
+    "normalized": 0.7826486876751232
   },
   {
     "city": "Riegelsberg",
