@@ -5501,11 +5501,11 @@
   {
     "city": "Columbus",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-03-11T08:09:00",
+    "visitors": 13,
+    "lastVisit": "2026-03-18T10:14:00",
     "lat": 41.42973,
     "lon": -97.36838,
-    "normalized": 0.27988502729925324
+    "normalized": 0.2879716243110025
   },
   {
     "city": "Xiamen",
