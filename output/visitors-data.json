@@ -10231,5 +10231,14 @@
     "lat": 39.9075,
     "lon": 116.39723,
     "normalized": 0.07563474906526385
+  },
+  {
+    "city": "Ben Tre",
+    "country": "Vietnam",
+    "visitors": 1,
+    "lastVisit": "2026-03-19T05:20:00",
+    "lat": 10.24147,
+    "lon": 106.37585,
+    "normalized": 0.07563474906526385
   }
 ]
