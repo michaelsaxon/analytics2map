@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 111,
-    "lastVisit": "2026-03-11T19:10:00",
+    "visitors": 119,
+    "lastVisit": "2026-03-19T11:48:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5148725813280156
+    "normalized": 0.5224009370200811
   },
   {
     "city": "Four Oaks",
@@ -6842,11 +6842,11 @@
   {
     "city": "Moses Lake",
     "country": "United States",
-    "visitors": 21,
-    "lastVisit": "2026-02-21T01:10:00",
+    "visitors": 22,
+    "lastVisit": "2026-03-19T11:36:00",
     "lat": 47.13014,
     "lon": -119.27808,
-    "normalized": 0.3372879914493354
+    "normalized": 0.3421384734275463
   },
   {
     "city": "Camarillo",
