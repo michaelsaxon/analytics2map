@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 320,
-    "lastVisit": "2026-03-16T21:48:00",
+    "visitors": 321,
+    "lastVisit": "2026-03-19T13:11:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.629767404868109
+    "normalized": 0.6301068075597703
   },
   {
     "city": "Santa Clara",
@@ -2135,11 +2135,11 @@
   {
     "city": "Tempe",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2026-02-27T11:20:00",
+    "visitors": 16,
+    "lastVisit": "2026-03-19T13:06:00",
     "lat": 33.41477,
     "lon": -111.90931,
-    "normalized": 0.3025389962610554
+    "normalized": 0.3091542263115598
   },
   {
     "city": "Ludhiana",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 54,
-    "lastVisit": "2026-03-15T19:19:00",
+    "visitors": 55,
+    "lastVisit": "2026-03-19T13:06:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.4372716911884634
+    "normalized": 0.4392378322627518
   },
   {
     "city": "Minneapolis",
@@ -7751,11 +7751,11 @@
   {
     "city": "Gunnison",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-01-15T07:32:00",
+    "visitors": 3,
+    "lastVisit": "2026-03-19T13:06:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.11987824101989773
+    "normalized": 0.1512694981305277
   },
   {
     "city": "Arkadelphia",
