@@ -4403,11 +4403,11 @@
   {
     "city": "Nanjing",
     "country": "China",
-    "visitors": 9,
-    "lastVisit": "2026-01-26T01:52:00",
+    "visitors": 10,
+    "lastVisit": "2026-03-18T22:42:00",
     "lat": 32.06167,
     "lon": 118.77778,
-    "normalized": 0.25125319786965566
+    "normalized": 0.26165324238407156
   },
   {
     "city": "Atsugi",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1312,
-    "lastVisit": "2026-03-18T18:20:00",
+    "visitors": 1313,
+    "lastVisit": "2026-03-18T22:32:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7834739842341275
+    "normalized": 0.7835570583739568
   },
   {
     "city": "Riegelsberg",
