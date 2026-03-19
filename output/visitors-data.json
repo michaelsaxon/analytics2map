@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1313,
-    "lastVisit": "2026-03-18T22:32:00",
+    "visitors": 1314,
+    "lastVisit": "2026-03-18T23:41:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7835570583739568
+    "normalized": 0.7836400693154996
   },
   {
     "city": "Riegelsberg",
@@ -9749,11 +9749,11 @@
   {
     "city": "Tel Aviv-Yafo",
     "country": "Israel",
-    "visitors": 1,
-    "lastVisit": "2026-02-23T22:45:00",
+    "visitors": 2,
+    "lastVisit": "2026-03-19T01:01:00",
     "lat": 31.76904,
     "lon": 35.21633,
-    "normalized": 0.07563474906526385
+    "normalized": 0.11987824101989773
   },
   {
     "city": "Orlando",
