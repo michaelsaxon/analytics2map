@@ -839,11 +839,11 @@
   {
     "city": null,
     "country": "Bangladesh",
-    "visitors": 76,
-    "lastVisit": "2026-03-17T17:04:00",
+    "visitors": 77,
+    "lastVisit": "2026-03-19T03:26:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.47398682745103177
+    "normalized": 0.47539481959789875
   },
   {
     "city": null,
