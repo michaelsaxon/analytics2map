@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 187,
-    "lastVisit": "2026-03-17T01:25:00",
+    "visitors": 190,
+    "lastVisit": "2026-03-19T06:04:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5713894320878778
+    "normalized": 0.5731169279683802
   },
   {
     "city": null,
