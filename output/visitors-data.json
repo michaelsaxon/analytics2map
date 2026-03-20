@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 133,
-    "lastVisit": "2026-03-19T20:23:00",
+    "visitors": 134,
+    "lastVisit": "2026-03-20T03:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5344235686870251
+    "normalized": 0.5352348299570345
   },
   {
     "city": null,
@@ -10248,6 +10248,15 @@
     "lastVisit": "2026-03-19T14:47:00",
     "lat": 33.62594,
     "lon": -97.13335,
+    "normalized": 0.0756321572346871
+  },
+  {
+    "city": "Chimalhuacan",
+    "country": "Mexico",
+    "visitors": 1,
+    "lastVisit": "2026-03-20T03:05:00",
+    "lat": 19.42847,
+    "lon": -99.12766,
     "normalized": 0.0756321572346871
   }
 ]
