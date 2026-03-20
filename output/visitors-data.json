@@ -10258,5 +10258,14 @@
     "lat": 19.42847,
     "lon": -99.12766,
     "normalized": 0.07563042989837977
+  },
+  {
+    "city": "Plymouth",
+    "country": "United Kingdom",
+    "visitors": 1,
+    "lastVisit": "2026-03-20T08:06:00",
+    "lat": 50.37153,
+    "lon": -4.14305,
+    "normalized": 0.07563042989837977
   }
 ]
