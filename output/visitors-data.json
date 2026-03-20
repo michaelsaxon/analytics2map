@@ -4601,11 +4601,11 @@
   {
     "city": "Laurel",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-01-15T07:23:00",
+    "visitors": 10,
+    "lastVisit": "2026-03-20T11:33:00",
     "lat": 37.64292,
     "lon": -77.50887,
-    "normalized": 0.23974279060470424
+    "normalized": 0.2616383005215866
   },
   {
     "city": "Alameda",
