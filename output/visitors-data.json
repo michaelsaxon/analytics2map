@@ -10303,5 +10303,14 @@
     "lat": 7.63527,
     "lon": 4.18156,
     "normalized": 0.07563042989837977
+  },
+  {
+    "city": "Gurugram",
+    "country": "India",
+    "visitors": 1,
+    "lastVisit": "2026-03-21T13:09:00",
+    "lat": 28.4601,
+    "lon": 77.02635,
+    "normalized": 0.07563042989837977
   }
 ]
