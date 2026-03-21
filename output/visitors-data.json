@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 136,
-    "lastVisit": "2026-03-20T21:14:00",
+    "visitors": 137,
+    "lastVisit": "2026-03-21T08:03:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5368272178667968
+    "normalized": 0.5376207606092795
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 429,
-    "lastVisit": "2026-03-20T18:31:00",
+    "visitors": 430,
+    "lastVisit": "2026-03-21T09:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6616295860483828
+    "normalized": 0.66188303946352
   },
   {
     "city": "Sylhet",
@@ -10294,5 +10294,14 @@
     "lat": 31.30408,
     "lon": 120.59538,
     "normalized": 0.11987139530235212
+  },
+  {
+    "city": "Iwo",
+    "country": "Nigeria",
+    "visitors": 1,
+    "lastVisit": "2026-03-21T08:55:00",
+    "lat": 7.63527,
+    "lon": 4.18156,
+    "normalized": 0.07563042989837977
   }
 ]
