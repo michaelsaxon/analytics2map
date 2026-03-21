@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1322,
-    "lastVisit": "2026-03-20T18:44:00",
+    "visitors": 1323,
+    "lastVisit": "2026-03-21T04:19:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7842571051721545
+    "normalized": 0.7843395469185432
   },
   {
     "city": "Riegelsberg",
@@ -10285,5 +10285,14 @@
     "lat": 32.72541,
     "lon": -97.32085,
     "normalized": 0.1955018252007319
+  },
+  {
+    "city": "Suzhou",
+    "country": "China",
+    "visitors": 2,
+    "lastVisit": "2026-03-21T04:14:00",
+    "lat": 31.30408,
+    "lon": 120.59538,
+    "normalized": 0.11987139530235212
   }
 ]
