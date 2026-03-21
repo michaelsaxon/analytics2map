@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 428,
-    "lastVisit": "2026-03-20T05:53:00",
+    "visitors": 429,
+    "lastVisit": "2026-03-20T18:31:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6613755425199888
+    "normalized": 0.6616295860483828
   },
   {
     "city": "Sylhet",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 55,
-    "lastVisit": "2026-03-19T13:06:00",
+    "visitors": 56,
+    "lastVisit": "2026-03-20T19:26:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.43921274932768845
+    "normalized": 0.44114397932124594
   },
   {
     "city": "Minneapolis",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1321,
-    "lastVisit": "2026-03-20T17:35:00",
+    "visitors": 1322,
+    "lastVisit": "2026-03-20T18:44:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7841746010879552
+    "normalized": 0.7842571051721545
   },
   {
     "city": "Riegelsberg",
@@ -10267,5 +10267,23 @@
     "lat": 50.37153,
     "lon": -4.14305,
     "normalized": 0.07563042989837977
+  },
+  {
+    "city": "Warrenton",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-03-20T19:24:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07563042989837977
+  },
+  {
+    "city": "Fort Worth",
+    "country": "United States",
+    "visitors": 5,
+    "lastVisit": "2026-03-20T19:58:00",
+    "lat": 32.72541,
+    "lon": -97.32085,
+    "normalized": 0.1955018252007319
   }
 ]
