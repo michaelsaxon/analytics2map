@@ -10307,10 +10307,10 @@
   {
     "city": "Gurugram",
     "country": "India",
-    "visitors": 1,
-    "lastVisit": "2026-03-21T13:09:00",
+    "visitors": 2,
+    "lastVisit": "2026-03-21T13:17:00",
     "lat": 28.4601,
     "lon": 77.02635,
-    "normalized": 0.07563042989837977
+    "normalized": 0.11987139530235212
   }
 ]
