@@ -389,11 +389,11 @@
   {
     "city": null,
     "country": "Taiwan",
-    "visitors": 69,
-    "lastVisit": "2026-03-11T02:45:00",
+    "visitors": 72,
+    "lastVisit": "2026-03-22T05:12:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.4635550168860647
+    "normalized": 0.46813374745151975
   },
   {
     "city": null,
