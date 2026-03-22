@@ -9686,11 +9686,11 @@
   {
     "city": "Budapest",
     "country": "Hungary",
-    "visitors": 3,
-    "lastVisit": "2026-02-21T21:32:00",
+    "visitors": 4,
+    "lastVisit": "2026-03-22T10:47:00",
     "lat": 47.49835,
     "lon": 19.04045,
-    "normalized": 0.15125913279074377
+    "normalized": 0.1756064150175631
   },
   {
     "city": "Essen",
