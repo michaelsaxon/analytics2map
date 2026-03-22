@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 137,
-    "lastVisit": "2026-03-21T08:03:00",
+    "visitors": 139,
+    "lastVisit": "2026-03-21T15:50:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5376207606092795
+    "normalized": 0.5391907394387657
   },
   {
     "city": null,
@@ -2189,11 +2189,11 @@
   {
     "city": "Toronto",
     "country": "Canada",
-    "visitors": 31,
-    "lastVisit": "2026-03-20T10:18:00",
+    "visitors": 32,
+    "lastVisit": "2026-03-21T15:31:00",
     "lat": 43.70643,
     "lon": -79.39864,
-    "normalized": 0.3781521494918989
+    "normalized": 0.3815096958239387
   },
   {
     "city": "Surrey",
@@ -4745,11 +4745,11 @@
   {
     "city": "Chapel Hill",
     "country": "United States",
-    "visitors": 50,
-    "lastVisit": "2026-03-04T12:46:00",
+    "visitors": 51,
+    "lastVisit": "2026-03-21T16:02:00",
     "lat": 35.9132,
     "lon": -79.05584,
-    "normalized": 0.42900796717976813
+    "normalized": 0.43112670649280965
   },
   {
     "city": "Cumming",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1323,
-    "lastVisit": "2026-03-21T04:19:00",
+    "visitors": 1325,
+    "lastVisit": "2026-03-21T17:19:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7843395469185432
+    "normalized": 0.784504243774198
   },
   {
     "city": "Riegelsberg",
