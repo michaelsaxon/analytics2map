@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1335,
-    "lastVisit": "2026-03-22T17:46:00",
+    "visitors": 1337,
+    "lastVisit": "2026-03-22T19:14:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7853150532175743
+    "normalized": 0.7854782700025098
   },
   {
     "city": "Riegelsberg",
@@ -7166,11 +7166,11 @@
   {
     "city": "Virginia Beach",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2026-02-24T21:28:00",
+    "visitors": 11,
+    "lastVisit": "2026-03-22T19:18:00",
     "lat": 36.85293,
     "lon": -75.97799,
-    "normalized": 0.251235981412935
+    "normalized": 0.27112915947320915
   },
   {
     "city": "Chiyoda City",
