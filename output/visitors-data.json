@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 142,
-    "lastVisit": "2026-03-23T06:11:00",
+    "visitors": 143,
+    "lastVisit": "2026-03-23T09:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5414979646472012
+    "normalized": 0.5422583189464183
   },
   {
     "city": null,
@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 18,
-    "lastVisit": "2026-03-17T17:23:00",
+    "visitors": 19,
+    "lastVisit": "2026-03-23T07:59:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.3212689159207086
+    "normalized": 0.3268655478083069
   },
   {
     "city": "Athens",
