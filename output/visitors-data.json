@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 140,
-    "lastVisit": "2026-03-22T03:16:00",
+    "visitors": 141,
+    "lastVisit": "2026-03-22T21:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5399611730394117
+    "normalized": 0.5407322744846983
   },
   {
     "city": null,
@@ -4160,11 +4160,11 @@
   {
     "city": "Wuhan",
     "country": "China",
-    "visitors": 4,
-    "lastVisit": "2026-03-22T16:55:00",
+    "visitors": 5,
+    "lastVisit": "2026-03-22T22:33:00",
     "lat": 30.58333,
     "lon": 114.26667,
-    "normalized": 0.1756064150175631
+    "normalized": 0.19549959307783724
   },
   {
     "city": "Lausanne",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1337,
-    "lastVisit": "2026-03-22T19:14:00",
+    "visitors": 1338,
+    "lastVisit": "2026-03-22T20:57:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7854782700025098
+    "normalized": 0.7855597869285152
   },
   {
     "city": "Riegelsberg",
