@@ -10330,5 +10330,14 @@
     "lat": 37.65466,
     "lon": -122.40775,
     "normalized": 0.07562956639537188
+  },
+  {
+    "city": "Pristina",
+    "country": "Kosovo",
+    "visitors": 1,
+    "lastVisit": "2026-03-24T11:53:00",
+    "lat": 42.67272,
+    "lon": 21.16688,
+    "normalized": 0.07562956639537188
   }
 ]
