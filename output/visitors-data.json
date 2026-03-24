@@ -1802,11 +1802,11 @@
   {
     "city": "Zurich",
     "country": "Switzerland",
-    "visitors": 15,
-    "lastVisit": "2026-03-17T14:22:00",
+    "visitors": 16,
+    "lastVisit": "2026-03-24T08:03:00",
     "lat": 47.36667,
     "lon": 8.55,
-    "normalized": 0.30251826558148753
+    "normalized": 0.30913304234095795
   },
   {
     "city": "Obanos",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1359,
-    "lastVisit": "2026-03-24T06:54:00",
+    "visitors": 1360,
+    "lastVisit": "2026-03-24T07:02:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7872577229400086
+    "normalized": 0.7873379216943603
   },
   {
     "city": "Riegelsberg",
