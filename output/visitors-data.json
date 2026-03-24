@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1343,
-    "lastVisit": "2026-03-23T19:47:00",
+    "visitors": 1347,
+    "lastVisit": "2026-03-23T21:26:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7859664605278263
+    "normalized": 0.7862907115848342
   },
   {
     "city": "Riegelsberg",
@@ -8786,11 +8786,11 @@
   {
     "city": "Cincinnati",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-03-23T20:00:00",
+    "visitors": 8,
+    "lastVisit": "2026-03-23T21:37:00",
     "lat": 39.12711,
     "lon": -84.51439,
-    "normalized": 0.19549959307783724
+    "normalized": 0.2397400533649307
   },
   {
     "city": "Sandefjord",
