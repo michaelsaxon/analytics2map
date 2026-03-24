@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 282,
-    "lastVisit": "2026-03-23T19:07:00",
+    "visitors": 284,
+    "lastVisit": "2026-03-24T04:42:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6159769713438668
+    "normalized": 0.6167453576207371
   },
   {
     "city": "Ashburn",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 194,
-    "lastVisit": "2026-03-23T04:08:00",
+    "visitors": 195,
+    "lastVisit": "2026-03-24T05:36:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5753390930552514
+    "normalized": 0.575897203737003
   },
   {
     "city": "Lompoc",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1357,
-    "lastVisit": "2026-03-24T03:57:00",
+    "visitors": 1358,
+    "lastVisit": "2026-03-24T05:25:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7870971483703605
+    "normalized": 0.7871774651942912
   },
   {
     "city": "Riegelsberg",
@@ -8786,11 +8786,11 @@
   {
     "city": "Cincinnati",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-03-23T21:37:00",
+    "visitors": 9,
+    "lastVisit": "2026-03-24T05:30:00",
     "lat": 39.12711,
     "lon": -84.51439,
-    "normalized": 0.2397400533649307
+    "normalized": 0.251235981412935
   },
   {
     "city": "Sandefjord",
