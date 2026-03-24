@@ -1262,11 +1262,11 @@
   {
     "city": "State College",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2026-01-31T11:58:00",
+    "visitors": 11,
+    "lastVisit": "2026-03-24T13:49:00",
     "lat": 40.79339,
     "lon": -77.86,
-    "normalized": 0.2616353132919783
+    "normalized": 0.27112915947320915
   },
   {
     "city": "Sonoma",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 57,
-    "lastVisit": "2026-03-22T07:15:00",
+    "visitors": 58,
+    "lastVisit": "2026-03-24T13:51:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.44303656261382734
+    "normalized": 0.4449017430819843
   },
   {
     "city": "Minneapolis",
