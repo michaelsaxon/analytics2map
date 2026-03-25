@@ -470,11 +470,11 @@
   {
     "city": "Cambridge",
     "country": "United States",
-    "visitors": 65,
-    "lastVisit": "2026-03-16T16:30:00",
+    "visitors": 66,
+    "lastVisit": "2026-03-24T19:15:00",
     "lat": 42.3751,
     "lon": -71.10561,
-    "normalized": 0.4571349063698155
+    "normalized": 0.45877569518997374
   },
   {
     "city": "San Diego",
@@ -722,11 +722,11 @@
   {
     "city": "Charlottesville",
     "country": "United States",
-    "visitors": 36,
-    "lastVisit": "2026-02-28T18:33:00",
+    "visitors": 38,
+    "lastVisit": "2026-03-24T20:09:00",
     "lat": 38.02931,
     "lon": -78.47668,
-    "normalized": 0.3939886991994282
+    "normalized": 0.3997326780376883
   },
   {
     "city": "Winter Haven",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 442,
-    "lastVisit": "2026-03-24T15:17:00",
+    "visitors": 445,
+    "lastVisit": "2026-03-24T21:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6648718373725011
+    "normalized": 0.6656082433200445
   },
   {
     "city": "Sylhet",
@@ -3152,11 +3152,11 @@
   {
     "city": "Washington",
     "country": "United States",
-    "visitors": 26,
-    "lastVisit": "2026-03-24T18:36:00",
+    "visitors": 27,
+    "lastVisit": "2026-03-24T19:07:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.35961008004739603
+    "normalized": 0.3635781682638734
   },
   {
     "city": "Halethorpe",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1361,
-    "lastVisit": "2026-03-24T17:25:00",
+    "visitors": 1363,
+    "lastVisit": "2026-03-24T21:09:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7874180615440028
+    "normalized": 0.7875781648748327
   },
   {
     "city": "Riegelsberg",
