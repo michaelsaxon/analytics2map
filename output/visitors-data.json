@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1367,
-    "lastVisit": "2026-03-25T01:21:00",
+    "visitors": 1369,
+    "lastVisit": "2026-03-25T08:19:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.787897668471755
+    "normalized": 0.788057070107678
   },
   {
     "city": "Riegelsberg",
@@ -10338,6 +10338,15 @@
     "lastVisit": "2026-03-24T11:53:00",
     "lat": 42.67272,
     "lon": 21.16688,
+    "normalized": 0.07562956639537188
+  },
+  {
+    "city": "Coal Creek",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-03-25T08:04:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.07562956639537188
   }
 ]
