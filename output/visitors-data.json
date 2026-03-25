@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 190,
-    "lastVisit": "2026-03-19T06:04:00",
+    "visitors": 191,
+    "lastVisit": "2026-03-25T01:31:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5730776566561346
+    "normalized": 0.5736474250546967
   },
   {
     "city": null,
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1365,
-    "lastVisit": "2026-03-24T21:51:00",
+    "visitors": 1367,
+    "lastVisit": "2026-03-25T01:21:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7877380336219436
+    "normalized": 0.787897668471755
   },
   {
     "city": "Riegelsberg",
