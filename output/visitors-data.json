@@ -722,11 +722,11 @@
   {
     "city": "Charlottesville",
     "country": "United States",
-    "visitors": 38,
-    "lastVisit": "2026-03-24T20:09:00",
+    "visitors": 39,
+    "lastVisit": "2026-03-25T11:27:00",
     "lat": 38.02931,
     "lon": -78.47668,
-    "normalized": 0.3997326780376883
+    "normalized": 0.4024951142036788
   },
   {
     "city": "Winter Haven",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 448,
-    "lastVisit": "2026-03-25T05:56:00",
+    "visitors": 449,
+    "lastVisit": "2026-03-25T09:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6663397124308358
+    "normalized": 0.6665824497954288
   },
   {
     "city": "Sylhet",
@@ -10348,5 +10348,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.07562956639537188
+  },
+  {
+    "city": "Quezon City",
+    "country": "Philippines",
+    "visitors": 2,
+    "lastVisit": "2026-03-25T11:25:00",
+    "lat": 14.6488,
+    "lon": 121.0509,
+    "normalized": 0.11987002668246535
   }
 ]
