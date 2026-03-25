@@ -389,11 +389,11 @@
   {
     "city": null,
     "country": "Taiwan",
-    "visitors": 72,
-    "lastVisit": "2026-03-22T05:12:00",
+    "visitors": 73,
+    "lastVisit": "2026-03-24T18:10:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.46813374745151975
+    "normalized": 0.46961826559480013
   },
   {
     "city": null,
@@ -3152,11 +3152,11 @@
   {
     "city": "Washington",
     "country": "United States",
-    "visitors": 25,
-    "lastVisit": "2026-03-03T12:55:00",
+    "visitors": 26,
+    "lastVisit": "2026-03-24T18:36:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.35549221775059486
+    "normalized": 0.35961008004739603
   },
   {
     "city": "Halethorpe",
@@ -5231,11 +5231,11 @@
   {
     "city": "Dubai",
     "country": "United Arab Emirates",
-    "visitors": 23,
-    "lastVisit": "2026-03-15T17:56:00",
+    "visitors": 24,
+    "lastVisit": "2026-03-24T17:46:00",
     "lat": 25.07725,
     "lon": 55.30927,
-    "normalized": 0.34675872586858103
+    "normalized": 0.3512128300351262
   },
   {
     "city": "Manajao",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1360,
-    "lastVisit": "2026-03-24T07:02:00",
+    "visitors": 1361,
+    "lastVisit": "2026-03-24T17:25:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7873379216943603
+    "normalized": 0.7874180615440028
   },
   {
     "city": "Riegelsberg",
