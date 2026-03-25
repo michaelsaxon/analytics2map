@@ -281,20 +281,20 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 45,
-    "lastVisit": "2026-03-23T05:31:00",
+    "visitors": 46,
+    "lastVisit": "2026-03-25T06:05:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.41774459569456407
+    "normalized": 0.42009114635694633
   },
   {
     "city": null,
     "country": "China",
-    "visitors": 340,
-    "lastVisit": "2026-03-24T00:03:00",
+    "visitors": 341,
+    "lastVisit": "2026-03-25T06:15:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6363190320840889
+    "normalized": 0.6366385356810111
   },
   {
     "city": null,
@@ -1118,11 +1118,11 @@
   {
     "city": "Hyderabad",
     "country": "India",
-    "visitors": 28,
-    "lastVisit": "2026-01-13T02:44:00",
+    "visitors": 30,
+    "lastVisit": "2026-03-25T05:25:00",
     "lat": 17.38405,
     "lon": 78.45636,
-    "normalized": 0.3674069962184555
+    "normalized": 0.3746837187921106
   },
   {
     "city": "Istanbul",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 446,
-    "lastVisit": "2026-03-25T03:20:00",
+    "visitors": 448,
+    "lastVisit": "2026-03-25T05:56:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6658526116201371
+    "normalized": 0.6663397124308358
   },
   {
     "city": "Sylhet",
