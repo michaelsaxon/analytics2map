@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 191,
-    "lastVisit": "2026-03-25T01:31:00",
+    "visitors": 193,
+    "lastVisit": "2026-03-25T05:06:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5736474250546967
+    "normalized": 0.5747781128972308
   },
   {
     "city": null,
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 33,
-    "lastVisit": "2026-02-23T21:21:00",
+    "visitors": 35,
+    "lastVisit": "2026-03-25T03:59:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.3847626087363299
+    "normalized": 0.39099918615567447
   },
   {
     "city": "Seongnam-si",
