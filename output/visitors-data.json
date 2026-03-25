@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 101,
-    "lastVisit": "2026-03-25T12:02:00",
+    "visitors": 102,
+    "lastVisit": "2026-03-25T13:01:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.5046326354187951
+    "normalized": 0.5056971355732923
   },
   {
     "city": "Rochester",
@@ -7661,11 +7661,11 @@
   {
     "city": "Blacksburg",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-02-11T08:42:00",
+    "visitors": 9,
+    "lastVisit": "2026-03-25T13:13:00",
     "lat": 37.22957,
     "lon": -80.41394,
-    "normalized": 0.2397400533649307
+    "normalized": 0.251235981412935
   },
   {
     "city": "King City",
