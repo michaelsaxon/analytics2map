@@ -236,11 +236,11 @@
   {
     "city": null,
     "country": "Canada",
-    "visitors": 203,
-    "lastVisit": "2026-02-25T20:58:00",
+    "visitors": 204,
+    "lastVisit": "2026-03-26T14:24:00",
     "lat": 45.41117,
     "lon": -75.69812,
-    "normalized": 0.5802158493111405
+    "normalized": 0.5807493549435581
   },
   {
     "city": "Montreal",
@@ -7886,11 +7886,11 @@
   {
     "city": "Aspen",
     "country": "United States",
-    "visitors": 25,
-    "lastVisit": "2026-03-16T05:20:00",
+    "visitors": 26,
+    "lastVisit": "2026-03-26T14:43:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.3554638203225913
+    "normalized": 0.3595813536763319
   },
   {
     "city": "Fulton",
