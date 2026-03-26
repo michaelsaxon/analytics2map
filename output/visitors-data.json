@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 284,
-    "lastVisit": "2026-03-24T04:42:00",
+    "visitors": 285,
+    "lastVisit": "2026-03-26T02:53:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.616703126201976
+    "normalized": 0.617085273454623
   },
   {
     "city": "Ashburn",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 451,
-    "lastVisit": "2026-03-25T21:18:00",
+    "visitors": 453,
+    "lastVisit": "2026-03-26T03:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6670206333289528
+    "normalized": 0.6675023247475415
   },
   {
     "city": "Sylhet",
