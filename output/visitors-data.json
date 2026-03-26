@@ -9164,11 +9164,11 @@
   {
     "city": "Halifax",
     "country": "Canada",
-    "visitors": 1,
-    "lastVisit": "2026-01-31T03:00:00",
+    "visitors": 2,
+    "lastVisit": "2026-03-26T11:11:00",
     "lat": 44.64269,
     "lon": -63.57688,
-    "normalized": 0.07562352495463305
+    "normalized": 0.11986045122544398
   },
   {
     "city": "Cagayan De Oro City",
@@ -9686,11 +9686,11 @@
   {
     "city": "Budapest",
     "country": "Hungary",
-    "visitors": 6,
-    "lastVisit": "2026-03-26T08:33:00",
+    "visitors": 7,
+    "lastVisit": "2026-03-26T11:19:00",
     "lat": 47.49835,
     "lon": 19.04045,
-    "normalized": 0.21230207500473516
+    "normalized": 0.22687057486389917
   },
   {
     "city": "Essen",
