@@ -101,11 +101,11 @@
   {
     "city": "Baltimore",
     "country": "United States",
-    "visitors": 26,
-    "lastVisit": "2026-01-29T17:07:00",
+    "visitors": 27,
+    "lastVisit": "2026-03-26T07:20:00",
     "lat": 39.29038,
     "lon": -76.61219,
-    "normalized": 0.3595854558752096
+    "normalized": 0.3635532723782593
   },
   {
     "city": "Dallas",
@@ -2954,11 +2954,11 @@
   {
     "city": "Frankfurt am Main",
     "country": "Germany",
-    "visitors": 9,
-    "lastVisit": "2026-03-09T08:02:00",
+    "visitors": 11,
+    "lastVisit": "2026-03-26T08:00:00",
     "lat": 50.11552,
     "lon": 8.68417,
-    "normalized": 0.25121877811856436
+    "normalized": 0.27111059400055404
   },
   {
     "city": "Taito",
@@ -9686,11 +9686,11 @@
   {
     "city": "Budapest",
     "country": "Hungary",
-    "visitors": 5,
-    "lastVisit": "2026-03-23T10:37:00",
+    "visitors": 6,
+    "lastVisit": "2026-03-26T08:33:00",
     "lat": 47.49835,
     "lon": 19.04045,
-    "normalized": 0.19548620631281194
+    "normalized": 0.21230449700277515
   },
   {
     "city": "Essen",
