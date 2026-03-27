@@ -1451,11 +1451,11 @@
   {
     "city": "Munich",
     "country": "Germany",
-    "visitors": 8,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 10,
+    "lastVisit": "2026-03-27T02:25:00",
     "lat": 48.13743,
     "lon": 11.57549,
-    "normalized": 0.23972090245088795
+    "normalized": 0.26161441334086427
   },
   {
     "city": "Dachau",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1376,
-    "lastVisit": "2026-03-26T22:51:00",
+    "visitors": 1377,
+    "lastVisit": "2026-03-27T03:14:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7885501530782062
+    "normalized": 0.7886293557564045
   },
   {
     "city": "Riegelsberg",
