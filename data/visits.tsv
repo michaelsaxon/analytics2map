@@ -9641,3 +9641,10 @@ timestamp	country	city	num_unique
 2026-03-26T15:16:00	Singapore	Singapore	1
 2026-03-26T16:18:00	United States	Chicago	1
 2026-03-26T18:24:00	China	Beijing	1
+2026-03-26T18:57:00	United States	Bothell	1
+2026-03-26T18:58:00	United States	Dallas	1
+2026-03-26T18:58:00	United States	Bothell	1
+2026-03-26T18:59:00	United States	Bothell	1
+2026-03-26T19:25:00	Hong Kong	Hong Kong	1
+2026-03-26T20:09:00	United States	Bothell	1
+2026-03-26T21:14:00	Singapore	Singapore	1

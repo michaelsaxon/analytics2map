@@ -110,11 +110,11 @@
   {
     "city": "Dallas",
     "country": "United States",
-    "visitors": 32,
-    "lastVisit": "2026-03-17T17:40:00",
+    "visitors": 33,
+    "lastVisit": "2026-03-26T18:58:00",
     "lat": 44.91928,
     "lon": -123.31705,
-    "normalized": 0.38147486456630825
+    "normalized": 0.38473187313106344
   },
   {
     "city": "San Jose",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 456,
-    "lastVisit": "2026-03-26T15:16:00",
+    "visitors": 457,
+    "lastVisit": "2026-03-26T21:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6682132745261283
+    "normalized": 0.6684517482482364
   },
   {
     "city": "Sylhet",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1374,
-    "lastVisit": "2026-03-26T06:14:00",
+    "visitors": 1375,
+    "lastVisit": "2026-03-26T19:25:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7883915750205984
+    "normalized": 0.7884708928608253
   },
   {
     "city": "Riegelsberg",
@@ -8849,11 +8849,11 @@
   {
     "city": "Bothell",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-01-15T12:13:00",
+    "visitors": 8,
+    "lastVisit": "2026-03-26T20:09:00",
     "lat": 47.76232,
     "lon": -122.2054,
-    "normalized": 0.17559238722657802
+    "normalized": 0.23972090245088795
   },
   {
     "city": "Norman",
