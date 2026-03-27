@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 47,
-    "lastVisit": "2026-03-25T16:58:00",
+    "visitors": 49,
+    "lastVisit": "2026-03-27T00:06:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.42235455104397623
+    "normalized": 0.42680829940778914
   },
   {
     "city": null,
@@ -8849,11 +8849,11 @@
   {
     "city": "Bothell",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-03-26T20:09:00",
+    "visitors": 10,
+    "lastVisit": "2026-03-27T00:03:00",
     "lat": 47.76232,
     "lon": -122.2054,
-    "normalized": 0.23972090245088795
+    "normalized": 0.26161441334086427
   },
   {
     "city": "Norman",
