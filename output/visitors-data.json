@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 93,
-    "lastVisit": "2026-03-23T19:02:00",
+    "visitors": 94,
+    "lastVisit": "2026-03-27T15:20:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.49568111359220346
+    "normalized": 0.49683563954495136
   },
   {
     "city": "Ames",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 458,
-    "lastVisit": "2026-03-27T03:20:00",
+    "visitors": 459,
+    "lastVisit": "2026-03-27T15:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6686897018527623
+    "normalized": 0.6689271376035504
   },
   {
     "city": "Sylhet",
@@ -7616,11 +7616,11 @@
   {
     "city": "Ontario",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-01-22T17:33:00",
+    "visitors": 4,
+    "lastVisit": "2026-03-27T15:17:00",
     "lat": 34.06334,
     "lon": -117.65089,
-    "normalized": 0.1512470499092661
+    "normalized": 0.17559238722657802
   },
   {
     "city": "Manistee",
