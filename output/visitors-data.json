@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 196,
-    "lastVisit": "2026-03-25T19:32:00",
+    "visitors": 198,
+    "lastVisit": "2026-03-26T22:40:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5764064259741656
+    "normalized": 0.5775084725608478
   },
   {
     "city": "Lompoc",
@@ -1307,11 +1307,11 @@
   {
     "city": "Rockville",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-11-26T17:50:00",
+    "visitors": 3,
+    "lastVisit": "2026-03-26T22:25:00",
     "lat": 39.084,
     "lon": -77.15276,
-    "normalized": 0.11986045122544398
+    "normalized": 0.1512470499092661
   },
   {
     "city": "Redwood City",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1375,
-    "lastVisit": "2026-03-26T19:25:00",
+    "visitors": 1376,
+    "lastVisit": "2026-03-26T22:51:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7884708928608253
+    "normalized": 0.7885501530782062
   },
   {
     "city": "Riegelsberg",
@@ -7517,11 +7517,11 @@
   {
     "city": "Davis",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-02-24T15:07:00",
+    "visitors": 7,
+    "lastVisit": "2026-03-26T23:28:00",
     "lat": 38.54491,
     "lon": -121.74052,
-    "normalized": 0.195483976180077
+    "normalized": 0.22687057486389917
   },
   {
     "city": "Morristown",
