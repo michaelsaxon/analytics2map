@@ -9200,11 +9200,11 @@
   {
     "city": "Changhua City",
     "country": "Taiwan",
-    "visitors": 2,
-    "lastVisit": "2026-02-07T05:23:00",
+    "visitors": 3,
+    "lastVisit": "2026-03-28T01:07:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.11986045122544398
+    "normalized": 0.1512470499092661
   },
   {
     "city": "Carmel Hamlet",
