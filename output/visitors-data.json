@@ -7661,11 +7661,11 @@
   {
     "city": "Blacksburg",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2026-03-25T13:13:00",
+    "visitors": 10,
+    "lastVisit": "2026-03-28T12:37:00",
     "lat": 37.22957,
     "lon": -80.41394,
-    "normalized": 0.25121591218121114
+    "normalized": 0.26161441334086427
   },
   {
     "city": "King City",
@@ -10375,5 +10375,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.21230207500473516
+  },
+  {
+    "city": "Livermore",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-03-28T11:55:00",
+    "lat": 37.68187,
+    "lon": -121.76801,
+    "normalized": 0.07562352495463305
   }
 ]
