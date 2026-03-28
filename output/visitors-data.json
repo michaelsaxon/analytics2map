@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 134,
-    "lastVisit": "2026-03-22T16:52:00",
+    "visitors": 136,
+    "lastVisit": "2026-03-28T13:57:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5351737409029099
+    "normalized": 0.5367782063545514
   },
   {
     "city": "Rowland Heights",
@@ -4250,11 +4250,11 @@
   {
     "city": "Boston",
     "country": "United States",
-    "visitors": 20,
-    "lastVisit": "2026-03-14T10:11:00",
+    "visitors": 22,
+    "lastVisit": "2026-03-28T13:59:00",
     "lat": 42.35843,
     "lon": -71.05977,
-    "normalized": 0.33216252623017917
+    "normalized": 0.34208770046770626
   },
   {
     "city": "Hoodsport",
