@@ -56,11 +56,11 @@
   {
     "city": "Austin",
     "country": "United States",
-    "visitors": 35,
-    "lastVisit": "2026-03-18T13:10:00",
+    "visitors": 39,
+    "lastVisit": "2026-03-27T20:46:00",
     "lat": 43.66663,
     "lon": -92.97464,
-    "normalized": 0.390967952360154
+    "normalized": 0.4024629620904772
   },
   {
     "city": "Seattle",
@@ -3152,11 +3152,11 @@
   {
     "city": "Washington",
     "country": "United States",
-    "visitors": 27,
-    "lastVisit": "2026-03-24T19:07:00",
+    "visitors": 28,
+    "lastVisit": "2026-03-27T19:27:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.36354912491400126
+    "normalized": 0.3673776470141631
   },
   {
     "city": "Halethorpe",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1382,
-    "lastVisit": "2026-03-27T17:56:00",
+    "visitors": 1383,
+    "lastVisit": "2026-03-27T19:20:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7890245089751406
+    "normalized": 0.7891033681650044
   },
   {
     "city": "Riegelsberg",
