@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 291,
-    "lastVisit": "2026-03-29T09:35:00",
+    "visitors": 294,
+    "lastVisit": "2026-03-29T17:57:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6193434019025297
+    "normalized": 0.620458590669192
   },
   {
     "city": "Ashburn",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 84,
-    "lastVisit": "2026-03-29T10:10:00",
+    "visitors": 85,
+    "lastVisit": "2026-03-29T16:27:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.48470073540300845
+    "normalized": 0.48597679304229296
   },
   {
     "city": "Stanford",
@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 49,
-    "lastVisit": "2026-03-27T15:52:00",
+    "visitors": 50,
+    "lastVisit": "2026-03-29T16:28:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.42680829940778914
+    "normalized": 0.4289687994018744
   },
   {
     "city": "Mocksville",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 58,
-    "lastVisit": "2026-03-24T13:51:00",
+    "visitors": 59,
+    "lastVisit": "2026-03-29T17:31:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.44486620344261396
+    "normalized": 0.4466998883612881
   },
   {
     "city": "Minneapolis",
@@ -6842,11 +6842,11 @@
   {
     "city": "Moses Lake",
     "country": "United States",
-    "visitors": 22,
-    "lastVisit": "2026-03-19T11:36:00",
+    "visitors": 23,
+    "lastVisit": "2026-03-29T16:28:00",
     "lat": 47.13014,
     "lon": -119.27808,
-    "normalized": 0.34208770046770626
+    "normalized": 0.34673102608934314
   },
   {
     "city": "Camarillo",
@@ -8696,11 +8696,11 @@
   {
     "city": "Idaho Springs",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-01-07T16:30:00",
+    "visitors": 2,
+    "lastVisit": "2026-03-29T17:31:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.07562352495463305
+    "normalized": 0.11986045122544398
   },
   {
     "city": "Millbrae",
@@ -10217,11 +10217,11 @@
   {
     "city": "Boydton",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-03-18T13:57:00",
+    "visitors": 3,
+    "lastVisit": "2026-03-29T16:28:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.11986045122544398
+    "normalized": 0.1512470499092661
   },
   {
     "city": "Bayingolin Mongol Autonomous Prefecture",
@@ -10383,6 +10383,15 @@
     "lastVisit": "2026-03-28T11:55:00",
     "lat": 37.68187,
     "lon": -121.76801,
+    "normalized": 0.07562352495463305
+  },
+  {
+    "city": "Jackson",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-03-29T17:28:00",
+    "lat": 42.24587,
+    "lon": -84.40135,
     "normalized": 0.07562352495463305
   }
 ]
