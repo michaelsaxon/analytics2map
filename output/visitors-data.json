@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 146,
-    "lastVisit": "2026-03-27T09:39:00",
+    "visitors": 147,
+    "lastVisit": "2026-03-30T01:32:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5444273494677009
+    "normalized": 0.5451669741297892
   },
   {
     "city": null,
@@ -10392,6 +10392,15 @@
     "lastVisit": "2026-03-29T17:28:00",
     "lat": 42.24587,
     "lon": -84.40135,
+    "normalized": 0.07561835086261481
+  },
+  {
+    "city": "Golden Valley",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-03-30T02:15:00",
+    "lat": 45.00969,
+    "lon": -93.34912,
     "normalized": 0.07561835086261481
   }
 ]
