@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 472,
-    "lastVisit": "2026-03-31T03:43:00",
+    "visitors": 473,
+    "lastVisit": "2026-03-31T09:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6718834199905975
+    "normalized": 0.6721138065674919
   },
   {
     "city": "Sylhet",
@@ -10429,5 +10429,14 @@
     "lat": 27.70169,
     "lon": 85.3206,
     "normalized": 0.11984542131515229
+  },
+  {
+    "city": "Bethesda",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-03-31T08:27:00",
+    "lat": 38.98067,
+    "lon": -77.10026,
+    "normalized": 0.07561404213703651
   }
 ]
