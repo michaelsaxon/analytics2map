@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 471,
-    "lastVisit": "2026-03-30T21:19:00",
+    "visitors": 472,
+    "lastVisit": "2026-03-31T03:43:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6716525458227008
+    "normalized": 0.6718834199905975
   },
   {
     "city": "Sylhet",
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 36,
-    "lastVisit": "2026-03-25T20:15:00",
+    "visitors": 37,
+    "lastVisit": "2026-03-31T03:46:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.39390782629959414
+    "normalized": 0.39681701213363657
   },
   {
     "city": "Seongnam-si",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1398,
-    "lastVisit": "2026-03-30T20:00:00",
+    "visitors": 1400,
+    "lastVisit": "2026-03-31T04:05:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7901803695487424
+    "normalized": 0.7903362095804067
   },
   {
     "city": "Riegelsberg",
@@ -10419,6 +10419,15 @@
     "lastVisit": "2026-03-30T23:35:00",
     "lat": 25.79065,
     "lon": -80.13005,
+    "normalized": 0.07561404213703651
+  },
+  {
+    "city": "Lalitpur",
+    "country": "Nepal",
+    "visitors": 1,
+    "lastVisit": "2026-03-31T04:46:00",
+    "lat": 27.70169,
+    "lon": 85.3206,
     "normalized": 0.07561404213703651
   }
 ]
