@@ -56,11 +56,11 @@
   {
     "city": "Austin",
     "country": "United States",
-    "visitors": 40,
-    "lastVisit": "2026-03-28T14:49:00",
+    "visitors": 42,
+    "lastVisit": "2026-03-30T19:52:00",
     "lat": 43.66663,
     "lon": -92.97464,
-    "normalized": 0.4051200117987048
+    "normalized": 0.4103158381949325
   },
   {
     "city": "Seattle",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 86,
-    "lastVisit": "2026-03-30T13:07:00",
+    "visitors": 87,
+    "lastVisit": "2026-03-30T20:30:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.4871936553871477
+    "normalized": 0.4884404316186964
   },
   {
     "city": "Stanford",
@@ -1082,11 +1082,11 @@
   {
     "city": "Sundbyberg",
     "country": "Sweden",
-    "visitors": 2,
-    "lastVisit": "2026-01-25T10:45:00",
+    "visitors": 3,
+    "lastVisit": "2026-03-30T18:30:00",
     "lat": 59.36128,
     "lon": 17.97114,
-    "normalized": 0.11984951829477052
+    "normalized": 0.15123325408675486
   },
   {
     "city": "Stockholm",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 470,
-    "lastVisit": "2026-03-30T16:04:00",
+    "visitors": 471,
+    "lastVisit": "2026-03-30T21:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6714441348865913
+    "normalized": 0.6716755066230432
   },
   {
     "city": "Sylhet",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1396,
-    "lastVisit": "2026-03-30T17:58:00",
+    "visitors": 1398,
+    "lastVisit": "2026-03-30T20:00:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7900513139719779
+    "normalized": 0.790207382285927
   },
   {
     "city": "Riegelsberg",
@@ -9893,11 +9893,11 @@
   {
     "city": "Williamsburg",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-03-06T06:51:00",
+    "visitors": 3,
+    "lastVisit": "2026-03-30T21:26:00",
     "lat": 40.71427,
     "lon": -73.95347,
-    "normalized": 0.11984951829477052
+    "normalized": 0.15123325408675486
   },
   {
     "city": "Bobo-Dioulasso",
