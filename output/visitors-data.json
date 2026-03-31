@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 87,
-    "lastVisit": "2026-03-30T20:30:00",
+    "visitors": 88,
+    "lastVisit": "2026-03-31T07:54:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.48842373459294663
+    "normalized": 0.48965638051730925
   },
   {
     "city": "Stanford",
@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 19,
-    "lastVisit": "2026-03-23T07:59:00",
+    "visitors": 21,
+    "lastVisit": "2026-03-31T06:44:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.32679845308005495
+    "normalized": 0.3371956503188736
   },
   {
     "city": "Athens",
