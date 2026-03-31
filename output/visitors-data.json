@@ -10433,10 +10433,10 @@
   {
     "city": "Bethesda",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-03-31T08:27:00",
+    "visitors": 2,
+    "lastVisit": "2026-03-31T11:17:00",
     "lat": 38.98067,
     "lon": -77.10026,
-    "normalized": 0.07561404213703651
+    "normalized": 0.11984542131515229
   }
 ]
