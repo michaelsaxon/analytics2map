@@ -10424,10 +10424,10 @@
   {
     "city": "Lalitpur",
     "country": "Nepal",
-    "visitors": 1,
-    "lastVisit": "2026-03-31T04:46:00",
+    "visitors": 2,
+    "lastVisit": "2026-03-31T05:55:00",
     "lat": 27.70169,
     "lon": 85.3206,
-    "normalized": 0.07561404213703651
+    "normalized": 0.11984542131515229
   }
 ]
