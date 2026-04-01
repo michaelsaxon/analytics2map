@@ -10438,5 +10438,14 @@
     "lat": 38.98067,
     "lon": -77.10026,
     "normalized": 0.11984542131515229
+  },
+  {
+    "city": "Perth",
+    "country": "Australia",
+    "visitors": 1,
+    "lastVisit": "2026-04-01T03:43:00",
+    "lat": -31.95224,
+    "lon": 115.8614,
+    "normalized": 0.07561404213703651
   }
 ]
