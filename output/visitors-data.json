@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 52,
-    "lastVisit": "2026-04-01T12:08:00",
+    "visitors": 53,
+    "lastVisit": "2026-04-01T12:09:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.43310628448539384
+    "normalized": 0.4351453487291001
   },
   {
     "city": null,
