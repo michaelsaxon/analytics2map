@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 97,
-    "lastVisit": "2026-03-30T22:12:00",
+    "visitors": 98,
+    "lastVisit": "2026-03-31T15:52:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5001649488771976
+    "normalized": 0.5012724508121416
   },
   {
     "city": "Ames",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 137,
-    "lastVisit": "2026-03-28T17:15:00",
+    "visitors": 139,
+    "lastVisit": "2026-03-31T16:56:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5375042678069791
+    "normalized": 0.5390739064501355
   },
   {
     "city": "Rowland Heights",
@@ -902,11 +902,11 @@
   {
     "city": "Irvine",
     "country": "United States",
-    "visitors": 25,
-    "lastVisit": "2026-03-02T18:22:00",
+    "visitors": 26,
+    "lastVisit": "2026-03-31T16:25:00",
     "lat": 33.66946,
     "lon": -117.82311,
-    "normalized": 0.3554192469101206
+    "normalized": 0.35953626394545685
   },
   {
     "city": "Durham",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 473,
-    "lastVisit": "2026-03-31T09:21:00",
+    "visitors": 474,
+    "lastVisit": "2026-03-31T16:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6721138065674919
+    "normalized": 0.672343707608564
   },
   {
     "city": "Sylhet",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1400,
-    "lastVisit": "2026-03-31T04:05:00",
+    "visitors": 1401,
+    "lastVisit": "2026-03-31T18:31:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7903362095804067
+    "normalized": 0.7904140461899257
   },
   {
     "city": "Riegelsberg",
