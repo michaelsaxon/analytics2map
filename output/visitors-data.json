@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 325,
-    "lastVisit": "2026-03-23T14:16:00",
+    "visitors": 326,
+    "lastVisit": "2026-04-01T15:48:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6312738907149092
+    "normalized": 0.6316080005039671
   },
   {
     "city": "Santa Clara",
@@ -245,11 +245,11 @@
   {
     "city": "Montreal",
     "country": "Canada",
-    "visitors": 33,
-    "lastVisit": "2026-03-17T10:35:00",
+    "visitors": 34,
+    "lastVisit": "2026-04-01T12:15:00",
     "lat": 45.50884,
     "lon": -73.58781,
-    "normalized": 0.3846792472259407
+    "normalized": 0.38784140372851517
   },
   {
     "city": "Shawinigan",
