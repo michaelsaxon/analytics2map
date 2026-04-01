@@ -533,11 +533,11 @@
   {
     "city": "Des Moines",
     "country": "United States",
-    "visitors": 40,
-    "lastVisit": "2026-03-17T22:03:00",
+    "visitors": 41,
+    "lastVisit": "2026-04-01T10:23:00",
     "lat": 47.40177,
     "lon": -122.32429,
-    "normalized": 0.4051061630285563
+    "normalized": 0.40773491682226937
   },
   {
     "city": "West Milford",
@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 148,
-    "lastVisit": "2026-04-01T09:28:00",
+    "visitors": 149,
+    "lastVisit": "2026-04-01T10:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5458705127005935
+    "normalized": 0.5466002010641526
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 475,
-    "lastVisit": "2026-03-31T21:23:00",
+    "visitors": 476,
+    "lastVisit": "2026-04-01T10:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6725731251560279
+    "normalized": 0.6728020612392397
   },
   {
     "city": "Sylhet",
@@ -10446,6 +10446,15 @@
     "lastVisit": "2026-04-01T03:43:00",
     "lat": -31.95224,
     "lon": 115.8614,
+    "normalized": 0.07561404213703651
+  },
+  {
+    "city": "Cheyenne",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-04-01T10:22:00",
+    "lat": 41.13998,
+    "lon": -104.82025,
     "normalized": 0.07561404213703651
   }
 ]
