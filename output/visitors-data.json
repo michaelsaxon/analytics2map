@@ -902,11 +902,11 @@
   {
     "city": "Irvine",
     "country": "United States",
-    "visitors": 26,
-    "lastVisit": "2026-03-31T16:25:00",
+    "visitors": 29,
+    "lastVisit": "2026-04-02T12:49:00",
     "lat": 33.66946,
     "lon": -117.82311,
-    "normalized": 0.3595239776968383
+    "normalized": 0.3710171532457285
   },
   {
     "city": "Durham",
