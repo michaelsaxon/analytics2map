@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 200,
-    "lastVisit": "2026-03-30T16:54:00",
+    "visitors": 201,
+    "lastVisit": "2026-04-03T01:02:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.578487413101162
+    "normalized": 0.5790287568892463
   },
   {
     "city": "Lompoc",
@@ -236,11 +236,11 @@
   {
     "city": null,
     "country": "Canada",
-    "visitors": 204,
-    "lastVisit": "2026-03-26T14:24:00",
+    "visitors": 205,
+    "lastVisit": "2026-04-03T00:03:00",
     "lat": 45.41117,
     "lon": -75.69812,
-    "normalized": 0.5806368530808124
+    "normalized": 0.5811676597215334
   },
   {
     "city": "Montreal",
@@ -2360,11 +2360,11 @@
   {
     "city": "Osaka",
     "country": "Japan",
-    "visitors": 10,
-    "lastVisit": "2026-01-04T03:26:00",
+    "visitors": 11,
+    "lastVisit": "2026-04-02T23:44:00",
     "lat": 34.69379,
     "lon": 135.50107,
-    "normalized": 0.2615637338031748
+    "normalized": 0.27105498261080235
   },
   {
     "city": "Yokohama",
