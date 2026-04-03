@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 296,
-    "lastVisit": "2026-04-01T20:49:00",
+    "visitors": 299,
+    "lastVisit": "2026-04-03T01:44:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.621075429938344
+    "normalized": 0.6221717260950772
   },
   {
     "city": "Ashburn",
