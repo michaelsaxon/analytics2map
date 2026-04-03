@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 477,
-    "lastVisit": "2026-04-02T09:19:00",
+    "visitors": 478,
+    "lastVisit": "2026-04-02T21:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6729845283940802
+    "normalized": 0.6732124920077037
   },
   {
     "city": "Sylhet",
@@ -7517,11 +7517,11 @@
   {
     "city": "Davis",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-03-26T23:28:00",
+    "visitors": 10,
+    "lastVisit": "2026-04-02T21:42:00",
     "lat": 38.54491,
     "lon": -121.74052,
-    "normalized": 0.22682662584861893
+    "normalized": 0.2615637338031748
   },
   {
     "city": "Morristown",
