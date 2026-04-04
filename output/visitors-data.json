@@ -2441,11 +2441,11 @@
   {
     "city": "Oxford",
     "country": "United Kingdom",
-    "visitors": 9,
-    "lastVisit": "2026-03-01T05:19:00",
+    "visitors": 11,
+    "lastVisit": "2026-04-04T14:47:00",
     "lat": 51.75222,
     "lon": -1.25596,
-    "normalized": 0.25116438764501536
+    "normalized": 0.2710518968215363
   },
   {
     "city": "Hammersmith",
