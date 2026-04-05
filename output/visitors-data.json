@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 70,
-    "lastVisit": "2026-04-03T14:08:00",
+    "visitors": 75,
+    "lastVisit": "2026-04-04T21:56:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.46497016952874876
+    "normalized": 0.47239339417962645
   },
   {
     "city": "Oakland",
