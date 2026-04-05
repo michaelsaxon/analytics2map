@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 485,
-    "lastVisit": "2026-04-04T09:17:00",
+    "visitors": 486,
+    "lastVisit": "2026-04-04T21:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6747873533941524
+    "normalized": 0.6750115658217177
   },
   {
     "city": "Sylhet",
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 37,
-    "lastVisit": "2026-03-31T03:46:00",
+    "visitors": 39,
+    "lastVisit": "2026-04-04T21:00:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.396785379655901
+    "normalized": 0.4023804166924662
   },
   {
     "city": "Seongnam-si",
