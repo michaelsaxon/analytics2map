@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-01-24T19:54:00",
+    "visitors": 9,
+    "lastVisit": "2026-04-05T06:58:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.23966900735308597
+    "normalized": 0.2511615286285097
   },
   {
     "city": "Prague",
