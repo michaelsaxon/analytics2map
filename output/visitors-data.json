@@ -4268,11 +4268,11 @@
   {
     "city": "Miami",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-01-28T14:58:00",
+    "visitors": 5,
+    "lastVisit": "2026-04-06T14:49:00",
     "lat": 25.77427,
     "lon": -80.19366,
-    "normalized": 0.17555437475451052
+    "normalized": 0.19544165755054213
   },
   {
     "city": "Lowell",
