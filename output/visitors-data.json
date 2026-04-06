@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 55,
-    "lastVisit": "2026-04-01T20:01:00",
+    "visitors": 56,
+    "lastVisit": "2026-04-06T07:51:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.4390775771929358
+    "normalized": 0.44100821283106684
   },
   {
     "city": null,
@@ -1622,11 +1622,11 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 39,
-    "lastVisit": "2026-03-26T18:24:00",
+    "visitors": 40,
+    "lastVisit": "2026-04-06T07:50:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.40237583637650803
+    "normalized": 0.40506925880111216
   },
   {
     "city": "Shenzhen",
@@ -4322,11 +4322,11 @@
   {
     "city": "Calgary",
     "country": "Canada",
-    "visitors": 7,
-    "lastVisit": "2026-03-19T20:17:00",
+    "visitors": 8,
+    "lastVisit": "2026-04-06T07:16:00",
     "lat": 51.05011,
     "lon": -114.08529,
-    "normalized": 0.22682146162199748
+    "normalized": 0.23966900735308597
   },
   {
     "city": "Howrah",
