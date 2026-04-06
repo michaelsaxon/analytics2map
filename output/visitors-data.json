@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 490,
-    "lastVisit": "2026-04-06T03:16:00",
+    "visitors": 491,
+    "lastVisit": "2026-04-06T09:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6758961412254956
+    "normalized": 0.6761180702256534
   },
   {
     "city": "Sylhet",
@@ -10455,6 +10455,15 @@
     "lastVisit": "2026-04-01T10:22:00",
     "lat": 41.13998,
     "lon": -104.82025,
+    "normalized": 0.07560715387399916
+  },
+  {
+    "city": "El Paso",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-04-06T10:01:00",
+    "lat": 31.75872,
+    "lon": -106.48693,
     "normalized": 0.07560715387399916
   }
 ]
