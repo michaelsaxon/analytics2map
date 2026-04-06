@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 350,
-    "lastVisit": "2026-04-05T16:12:00",
+    "visitors": 352,
+    "lastVisit": "2026-04-05T19:15:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6392832262005805
+    "normalized": 0.6399029896062565
   },
   {
     "city": null,
@@ -470,11 +470,11 @@
   {
     "city": "Cambridge",
     "country": "United States",
-    "visitors": 67,
-    "lastVisit": "2026-03-29T10:31:00",
+    "visitors": 68,
+    "lastVisit": "2026-04-05T19:21:00",
     "lat": 42.3751,
     "lon": -71.10561,
-    "normalized": 0.4602557397406666
+    "normalized": 0.46184814854671424
   },
   {
     "city": "San Diego",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 488,
-    "lastVisit": "2026-04-05T15:24:00",
+    "visitors": 489,
+    "lastVisit": "2026-04-05T21:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6754509240116819
+    "normalized": 0.6756737597703861
   },
   {
     "city": "Sylhet",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1448,
-    "lastVisit": "2026-04-05T17:25:00",
+    "visitors": 1452,
+    "lastVisit": "2026-04-05T21:26:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7939387677941954
+    "normalized": 0.7942394656164643
   },
   {
     "city": "Riegelsberg",
