@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 205,
-    "lastVisit": "2026-04-06T13:29:00",
+    "visitors": 206,
+    "lastVisit": "2026-04-06T22:19:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5811544281113173
+    "normalized": 0.5816826522232571
   },
   {
     "city": "Lompoc",
@@ -317,11 +317,11 @@
   {
     "city": "Berlin",
     "country": "Germany",
-    "visitors": 23,
-    "lastVisit": "2026-03-11T08:21:00",
+    "visitors": 27,
+    "lastVisit": "2026-04-06T22:10:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.3466559652985405
+    "normalized": 0.36347042331893653
   },
   {
     "city": "Remshalden",
@@ -470,11 +470,11 @@
   {
     "city": "Cambridge",
     "country": "United States",
-    "visitors": 68,
-    "lastVisit": "2026-04-05T19:21:00",
+    "visitors": 72,
+    "lastVisit": "2026-04-06T22:08:00",
     "lat": 42.3751,
     "lon": -71.10561,
-    "normalized": 0.46184814854671424
+    "normalized": 0.46799501787630043
   },
   {
     "city": "San Diego",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 491,
-    "lastVisit": "2026-04-06T09:16:00",
+    "visitors": 492,
+    "lastVisit": "2026-04-06T21:46:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6761180702256534
+    "normalized": 0.6763395486082422
   },
   {
     "city": "Sylhet",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1462,
-    "lastVisit": "2026-04-06T20:28:00",
+    "visitors": 1464,
+    "lastVisit": "2026-04-06T22:33:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7949876034323502
+    "normalized": 0.7951366172068228
   },
   {
     "city": "Riegelsberg",
@@ -10217,11 +10217,11 @@
   {
     "city": "Boydton",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-03-29T16:28:00",
+    "visitors": 4,
+    "lastVisit": "2026-04-06T22:19:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.15121430774799832
+    "normalized": 0.17555437475451052
   },
   {
     "city": "Bayingolin Mongol Autonomous Prefecture",
