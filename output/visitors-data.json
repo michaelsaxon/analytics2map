@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 195,
-    "lastVisit": "2026-04-03T04:57:00",
+    "visitors": 197,
+    "lastVisit": "2026-04-07T06:36:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5757265388898747
+    "normalized": 0.5768339399339732
   },
   {
     "city": null,
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 104,
-    "lastVisit": "2026-04-05T21:48:00",
+    "visitors": 105,
+    "lastVisit": "2026-04-07T06:25:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.5076449940019917
+    "normalized": 0.5086789170601862
   },
   {
     "city": "Rochester",
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 39,
-    "lastVisit": "2026-04-04T21:00:00",
+    "visitors": 40,
+    "lastVisit": "2026-04-07T05:30:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.40237583637650803
+    "normalized": 0.40506925880111216
   },
   {
     "city": "Seongnam-si",
