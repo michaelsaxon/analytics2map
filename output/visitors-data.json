@@ -6662,11 +6662,11 @@
   {
     "city": "Columbia",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-11-10T08:13:00",
+    "visitors": 2,
+    "lastVisit": "2026-04-07T12:31:00",
     "lat": 35.61507,
     "lon": -87.03528,
-    "normalized": 0.07560715387399916
+    "normalized": 0.11983450367654298
   },
   {
     "city": "Corvallis",
