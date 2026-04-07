@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 99,
-    "lastVisit": "2026-04-05T07:50:00",
+    "visitors": 100,
+    "lastVisit": "2026-04-07T07:31:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5023230572570194
+    "normalized": 0.5034084201020431
   },
   {
     "city": "Ames",
@@ -5690,11 +5690,11 @@
   {
     "city": "Kawasaki",
     "country": "Japan",
-    "visitors": 1,
-    "lastVisit": "2025-08-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2026-04-07T07:37:00",
     "lat": 33.59993,
     "lon": 130.81495,
-    "normalized": 0.07560715387399916
+    "normalized": 0.17555437475451052
   },
   {
     "city": "Akasaka",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1465,
-    "lastVisit": "2026-04-07T01:16:00",
+    "visitors": 1466,
+    "lastVisit": "2026-04-07T07:22:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7952110478244838
+    "normalized": 0.7952854276882249
   },
   {
     "city": "Riegelsberg",
@@ -7994,11 +7994,11 @@
   {
     "city": "East Lansing",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2026-03-19T17:48:00",
+    "visitors": 16,
+    "lastVisit": "2026-04-07T08:40:00",
     "lat": 42.73698,
     "lon": -84.48387,
-    "normalized": 0.30242861549599664
+    "normalized": 0.30904143199266826
   },
   {
     "city": "Dublin",
