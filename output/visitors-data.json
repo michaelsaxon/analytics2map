@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 197,
-    "lastVisit": "2026-04-07T06:36:00",
+    "visitors": 199,
+    "lastVisit": "2026-04-07T10:23:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5768339399339732
+    "normalized": 0.5779302111310185
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 494,
-    "lastVisit": "2026-04-07T03:16:00",
+    "visitors": 495,
+    "lastVisit": "2026-04-07T10:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6767811608144846
+    "normalized": 0.6770012982574162
   },
   {
     "city": "Sylhet",
@@ -7886,11 +7886,11 @@
   {
     "city": "Aspen",
     "country": "United States",
-    "visitors": 29,
-    "lastVisit": "2026-03-31T14:49:00",
+    "visitors": 30,
+    "lastVisit": "2026-04-07T10:39:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.3709960323050527
+    "normalized": 0.3745726827614194
   },
   {
     "city": "Fulton",
@@ -8498,11 +8498,11 @@
   {
     "city": "Ashland",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-01-01T19:16:00",
+    "visitors": 2,
+    "lastVisit": "2026-04-07T08:55:00",
     "lat": 42.19458,
     "lon": -122.70948,
-    "normalized": 0.07560715387399916
+    "normalized": 0.11983450367654298
   },
   {
     "city": "Waltham",
