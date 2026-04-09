@@ -2,11 +2,11 @@
   {
     "city": "Santa Barbara",
     "country": "United States",
-    "visitors": 52,
-    "lastVisit": "2026-02-25T15:08:00",
+    "visitors": 54,
+    "lastVisit": "2026-04-08T15:44:00",
     "lat": 34.42083,
     "lon": -119.69819,
-    "normalized": 0.43307176318618706
+    "normalized": 0.4371121534613987
   },
   {
     "city": "Goleta",
