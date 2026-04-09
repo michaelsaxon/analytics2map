@@ -830,11 +830,11 @@
   {
     "city": "Dhaka",
     "country": "Bangladesh",
-    "visitors": 28,
-    "lastVisit": "2026-04-04T12:30:00",
+    "visitors": 32,
+    "lastVisit": "2026-04-08T23:02:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.36729811661557393
+    "normalized": 0.3813922823834311
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 499,
-    "lastVisit": "2026-04-08T15:20:00",
+    "visitors": 500,
+    "lastVisit": "2026-04-08T21:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.67787743201153
+    "normalized": 0.6780953702777368
   },
   {
     "city": "Sylhet",
