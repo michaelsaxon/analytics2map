@@ -10465,5 +10465,14 @@
     "lat": 31.75872,
     "lon": -106.48693,
     "normalized": 0.07560457258109246
+  },
+  {
+    "city": "Rolla",
+    "country": "United States",
+    "visitors": 5,
+    "lastVisit": "2026-04-10T06:38:00",
+    "lat": 37.95143,
+    "lon": -91.77127,
+    "normalized": 0.19543498500517495
   }
 ]
