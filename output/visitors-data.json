@@ -2,11 +2,11 @@
   {
     "city": "Santa Barbara",
     "country": "United States",
-    "visitors": 54,
-    "lastVisit": "2026-04-08T15:44:00",
+    "visitors": 55,
+    "lastVisit": "2026-04-10T20:07:00",
     "lat": 34.42083,
     "lon": -119.69819,
-    "normalized": 0.43709225688186226
+    "normalized": 0.4390575911507539
   },
   {
     "city": "Goleta",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 506,
-    "lastVisit": "2026-04-10T15:19:00",
+    "visitors": 507,
+    "lastVisit": "2026-04-10T21:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6793630091966638
+    "normalized": 0.6795779316325226
   },
   {
     "city": "Sylhet",
