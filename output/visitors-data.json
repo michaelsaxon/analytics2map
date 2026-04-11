@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 206,
-    "lastVisit": "2026-04-06T22:19:00",
+    "visitors": 207,
+    "lastVisit": "2026-04-11T15:30:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.581642941506042
+    "normalized": 0.5821685840623504
   },
   {
     "city": "Lompoc",
@@ -533,11 +533,11 @@
   {
     "city": "Des Moines",
     "country": "United States",
-    "visitors": 41,
-    "lastVisit": "2026-04-01T10:23:00",
+    "visitors": 42,
+    "lastVisit": "2026-04-11T15:30:00",
     "lat": 47.40177,
     "lon": -122.32429,
-    "normalized": 0.4076699401254029
+    "normalized": 0.41023642605112803
   },
   {
     "city": "West Milford",
