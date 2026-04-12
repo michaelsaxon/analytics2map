@@ -884,11 +884,11 @@
   {
     "city": "Madison",
     "country": "United States",
-    "visitors": 16,
-    "lastVisit": "2026-02-15T11:53:00",
+    "visitors": 17,
+    "lastVisit": "2026-04-12T10:31:00",
     "lat": 43.07305,
     "lon": -89.40123,
-    "normalized": 0.3090203341365319
+    "normalized": 0.3152546377341026
   },
   {
     "city": "Princeton",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 512,
-    "lastVisit": "2026-04-12T04:11:00",
+    "visitors": 513,
+    "lastVisit": "2026-04-12T09:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6806307512366911
+    "normalized": 0.6808431575732103
   },
   {
     "city": "Sylhet",
