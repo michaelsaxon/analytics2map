@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 509,
-    "lastVisit": "2026-04-11T12:23:00",
+    "visitors": 510,
+    "lastVisit": "2026-04-11T21:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6799910390255606
+    "normalized": 0.6802046935881638
   },
   {
     "city": "Sylhet",
@@ -7931,11 +7931,11 @@
   {
     "city": "Orem",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-12-11T17:39:00",
+    "visitors": 3,
+    "lastVisit": "2026-04-11T20:23:00",
     "lat": 40.2969,
     "lon": -111.69465,
-    "normalized": 0.1198263227310224
+    "normalized": 0.15120398454411577
   },
   {
     "city": "Purulia",
@@ -8849,11 +8849,11 @@
   {
     "city": "Bothell",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2026-03-27T00:03:00",
+    "visitors": 12,
+    "lastVisit": "2026-04-11T18:47:00",
     "lat": 47.76232,
     "lon": -122.2054,
-    "normalized": 0.2615399224979296
+    "normalized": 0.2797606149741189
   },
   {
     "city": "Norman",
