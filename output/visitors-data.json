@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 513,
-    "lastVisit": "2026-04-12T09:17:00",
+    "visitors": 514,
+    "lastVisit": "2026-04-12T15:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6808431575732103
+    "normalized": 0.6810551510691651
   },
   {
     "city": "Sylhet",
@@ -7049,11 +7049,11 @@
   {
     "city": "Cary",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-01-27T18:22:00",
+    "visitors": 4,
+    "lastVisit": "2026-04-12T14:23:00",
     "lat": 42.21197,
     "lon": -88.23814,
-    "normalized": 0.15120398454411577
+    "normalized": 0.17554238988594845
   },
   {
     "city": "Shiraz",
