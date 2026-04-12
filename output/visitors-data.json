@@ -9146,11 +9146,11 @@
   {
     "city": "San Mateo",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-01-29T00:44:00",
+    "visitors": 2,
+    "lastVisit": "2026-04-11T17:14:00",
     "lat": 37.56299,
     "lon": -122.32553,
-    "normalized": 0.07560199227205788
+    "normalized": 0.1198263227310224
   },
   {
     "city": "Kermanshah",
