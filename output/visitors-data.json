@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 101,
-    "lastVisit": "2026-04-09T04:20:00",
+    "visitors": 102,
+    "lastVisit": "2026-04-12T21:26:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5044486491396122
+    "normalized": 0.5055127611832166
   },
   {
     "city": "Ames",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 514,
-    "lastVisit": "2026-04-12T15:20:00",
+    "visitors": 515,
+    "lastVisit": "2026-04-12T21:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6810551510691651
+    "normalized": 0.6812667333262662
   },
   {
     "city": "Sylhet",
