@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 40,
-    "lastVisit": "2026-04-07T05:30:00",
+    "visitors": 45,
+    "lastVisit": "2026-04-13T00:16:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.4050416052502846
+    "normalized": 0.4175922883160552
   },
   {
     "city": "Seongnam-si",
