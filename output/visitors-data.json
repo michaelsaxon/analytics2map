@@ -8876,11 +8876,11 @@
   {
     "city": "Minato City",
     "country": "Japan",
-    "visitors": 17,
-    "lastVisit": "2026-02-28T11:54:00",
+    "visitors": 19,
+    "lastVisit": "2026-04-13T07:26:00",
     "lat": 35.6581,
     "lon": 139.7515,
-    "normalized": 0.3152546377341026
+    "normalized": 0.3267463744300642
   },
   {
     "city": "Ota City",
@@ -10474,5 +10474,23 @@
     "lat": 37.95143,
     "lon": -91.77127,
     "normalized": 0.19542831500308025
+  },
+  {
+    "city": "Hershey",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-04-13T07:30:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07560199227205788
+  },
+  {
+    "city": "Khlong Nueng",
+    "country": "Thailand",
+    "visitors": 2,
+    "lastVisit": "2026-04-13T07:53:00",
+    "lat": 13.75398,
+    "lon": 100.50144,
+    "normalized": 0.1198263227310224
   }
 ]
