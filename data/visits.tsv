@@ -10117,3 +10117,6 @@ timestamp	country	city	num_unique
 2026-04-12T14:23:00	United States	Cary	1
 2026-04-12T14:59:00	Netherlands		1
 2026-04-12T15:20:00	Singapore	Singapore	1
+2026-04-12T16:13:00	United States	San Mateo	1
+2026-04-12T16:22:00	United States	San Jose	1
+2026-04-12T18:06:00	United States	Boston	1

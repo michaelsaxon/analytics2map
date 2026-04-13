@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 207,
-    "lastVisit": "2026-04-11T15:30:00",
+    "visitors": 208,
+    "lastVisit": "2026-04-12T16:22:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5821685840623504
+    "normalized": 0.5826917055415536
   },
   {
     "city": "Lompoc",
@@ -4250,11 +4250,11 @@
   {
     "city": "Boston",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2026-04-02T16:03:00",
+    "visitors": 25,
+    "lastVisit": "2026-04-12T18:06:00",
     "lat": 42.35843,
     "lon": -71.05977,
-    "normalized": 0.3510847797718969
+    "normalized": 0.3553626072461768
   },
   {
     "city": "Hoodsport",
@@ -9146,11 +9146,11 @@
   {
     "city": "San Mateo",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-04-11T17:14:00",
+    "visitors": 3,
+    "lastVisit": "2026-04-12T16:13:00",
     "lat": 37.56299,
     "lon": -122.32553,
-    "normalized": 0.1198263227310224
+    "normalized": 0.15120398454411577
   },
   {
     "city": "Kermanshah",
