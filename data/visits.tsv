@@ -10139,3 +10139,6 @@ timestamp	country	city	num_unique
 2026-04-13T09:00:00	China		1
 2026-04-13T09:18:00	Singapore	Singapore	1
 2026-04-13T10:28:00	Singapore	Singapore	1
+2026-04-13T14:15:00	United States	New York	1
+2026-04-13T14:16:00	United States	New York	1
+2026-04-13T14:21:00	United States	Seattle	1

@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 335,
-    "lastVisit": "2026-04-13T08:51:00",
+    "visitors": 336,
+    "lastVisit": "2026-04-13T14:21:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6344759169415766
+    "normalized": 0.6348000497784351
   },
   {
     "city": "Santa Clara",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 128,
-    "lastVisit": "2026-04-07T11:22:00",
+    "visitors": 130,
+    "lastVisit": "2026-04-13T14:16:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5300627487821504
+    "normalized": 0.5317407914083484
   },
   {
     "city": "Four Oaks",
