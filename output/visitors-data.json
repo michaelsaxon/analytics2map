@@ -56,11 +56,11 @@
   {
     "city": "Austin",
     "country": "United States",
-    "visitors": 42,
-    "lastVisit": "2026-03-30T19:52:00",
+    "visitors": 43,
+    "lastVisit": "2026-04-14T04:48:00",
     "lat": 43.66663,
     "lon": -92.97464,
-    "normalized": 0.41023642605112803
+    "normalized": 0.4127439070420454
   },
   {
     "city": "Seattle",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 520,
-    "lastVisit": "2026-04-13T21:18:00",
+    "visitors": 521,
+    "lastVisit": "2026-04-14T03:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6823185314416236
+    "normalized": 0.6825276793855415
   },
   {
     "city": "Sylhet",
@@ -6842,11 +6842,11 @@
   {
     "city": "Moses Lake",
     "country": "United States",
-    "visitors": 23,
-    "lastVisit": "2026-03-29T16:28:00",
+    "visitors": 24,
+    "lastVisit": "2026-04-14T04:48:00",
     "lat": 47.13014,
     "lon": -119.27808,
-    "normalized": 0.34663229954719604
+    "normalized": 0.3510847797718969
   },
   {
     "city": "Camarillo",
