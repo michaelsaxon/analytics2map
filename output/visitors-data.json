@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 16,
-    "lastVisit": "2026-04-13T21:26:00",
+    "visitors": 17,
+    "lastVisit": "2026-04-13T21:27:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.3090203341365319
+    "normalized": 0.3152546377341026
   },
   {
     "city": "Massapequa",
@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 16,
-    "lastVisit": "2026-03-13T04:05:00",
+    "visitors": 18,
+    "lastVisit": "2026-04-13T22:52:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.3090203341365319
+    "normalized": 0.32115178304362396
   },
   {
     "city": "Visalia",
