@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 337,
-    "lastVisit": "2026-04-14T11:35:00",
+    "visitors": 338,
+    "lastVisit": "2026-04-14T11:53:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6351087755659172
+    "normalized": 0.6354309859579724
   },
   {
     "city": "Santa Clara",
@@ -10492,5 +10492,14 @@
     "lat": 13.75398,
     "lon": 100.50144,
     "normalized": 0.11982359713477683
+  },
+  {
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "visitors": 1,
+    "lastVisit": "2026-04-14T11:41:00",
+    "lat": -18.91368,
+    "lon": 47.53613,
+    "normalized": 0.07560027261229034
   }
 ]
