@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 130,
-    "lastVisit": "2026-04-13T14:16:00",
+    "visitors": 131,
+    "lastVisit": "2026-04-13T17:25:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5317407914083484
+    "normalized": 0.5325702297730678
   },
   {
     "city": "Four Oaks",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 210,
-    "lastVisit": "2026-04-13T15:09:00",
+    "visitors": 214,
+    "lastVisit": "2026-04-13T21:16:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.583730481196433
+    "normalized": 0.5857788159370765
   },
   {
     "city": "Lompoc",
@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2026-02-10T21:14:00",
+    "visitors": 16,
+    "lastVisit": "2026-04-13T21:26:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.30240796908823153
+    "normalized": 0.3090203341365319
   },
   {
     "city": "Massapequa",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 518,
-    "lastVisit": "2026-04-13T10:28:00",
+    "visitors": 520,
+    "lastVisit": "2026-04-13T21:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6818990285424374
+    "normalized": 0.6823185314416236
   },
   {
     "city": "Sylhet",
@@ -2126,11 +2126,11 @@
   {
     "city": "Amherst",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2025-12-29T08:03:00",
+    "visitors": 15,
+    "lastVisit": "2026-04-13T19:11:00",
     "lat": 42.97839,
     "lon": -78.79976,
-    "normalized": 0.29536871261697084
+    "normalized": 0.30240796908823153
   },
   {
     "city": "Tempe",
@@ -6770,11 +6770,11 @@
   {
     "city": "San Ramon",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-11-11T20:02:00",
+    "visitors": 3,
+    "lastVisit": "2026-04-13T20:37:00",
     "lat": 37.77993,
     "lon": -121.97802,
-    "normalized": 0.1198263227310224
+    "normalized": 0.15120398454411577
   },
   {
     "city": "Newark",
