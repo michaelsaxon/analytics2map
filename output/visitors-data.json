@@ -6896,11 +6896,11 @@
   {
     "city": "Visalia",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-11-15T16:06:00",
+    "visitors": 2,
+    "lastVisit": "2026-04-14T22:38:00",
     "lat": 36.33023,
     "lon": -119.29206,
-    "normalized": 0.07560027261229034
+    "normalized": 0.11982359713477683
   },
   {
     "city": "Champaign",
