@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 131,
-    "lastVisit": "2026-04-13T17:25:00",
+    "visitors": 132,
+    "lastVisit": "2026-04-14T21:20:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5325581158119139
+    "normalized": 0.5333812754805937
   },
   {
     "city": "Four Oaks",
@@ -884,11 +884,11 @@
   {
     "city": "Madison",
     "country": "United States",
-    "visitors": 17,
-    "lastVisit": "2026-04-12T10:31:00",
+    "visitors": 19,
+    "lastVisit": "2026-04-14T19:23:00",
     "lat": 43.07305,
     "lon": -89.40123,
-    "normalized": 0.31524746688184396
+    "normalized": 0.3267389421842012
   },
   {
     "city": "Princeton",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 523,
-    "lastVisit": "2026-04-14T15:22:00",
+    "visitors": 524,
+    "lastVisit": "2026-04-14T21:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6829292415383652
+    "normalized": 0.6831371884810279
   },
   {
     "city": "Sylhet",
@@ -10500,6 +10500,15 @@
     "lastVisit": "2026-04-14T11:41:00",
     "lat": -18.91368,
     "lon": 47.53613,
+    "normalized": 0.07560027261229034
+  },
+  {
+    "city": "Aliquippa",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-04-14T18:39:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.07560027261229034
   }
 ]
