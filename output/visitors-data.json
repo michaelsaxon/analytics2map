@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 102,
-    "lastVisit": "2026-04-12T21:26:00",
+    "visitors": 103,
+    "lastVisit": "2026-04-15T01:14:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5055012626772744
+    "normalized": 0.5065550693136843
   },
   {
     "city": "Ames",
@@ -4322,11 +4322,11 @@
   {
     "city": "Calgary",
     "country": "Canada",
-    "visitors": 8,
-    "lastVisit": "2026-04-06T07:16:00",
+    "visitors": 9,
+    "lastVisit": "2026-04-15T01:17:00",
     "lat": 51.05011,
     "lon": -114.08529,
-    "normalized": 0.23964719426955366
+    "normalized": 0.2511386695719109
   },
   {
     "city": "Howrah",
