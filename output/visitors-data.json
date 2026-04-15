@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 522,
-    "lastVisit": "2026-04-14T09:16:00",
+    "visitors": 523,
+    "lastVisit": "2026-04-14T15:22:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6827208973711201
+    "normalized": 0.6829292415383652
   },
   {
     "city": "Sylhet",
@@ -9236,11 +9236,11 @@
   {
     "city": "Woodbridge",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-02-28T06:48:00",
+    "visitors": 4,
+    "lastVisit": "2026-04-14T17:24:00",
     "lat": 33.67724,
     "lon": -117.79442,
-    "normalized": 0.11982359713477683
+    "normalized": 0.17553839695962054
   },
   {
     "city": "North Adams",
