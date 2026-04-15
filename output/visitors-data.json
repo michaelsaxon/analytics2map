@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 524,
-    "lastVisit": "2026-04-14T21:19:00",
+    "visitors": 525,
+    "lastVisit": "2026-04-15T03:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6831371884810279
+    "normalized": 0.6833447397109059
   },
   {
     "city": "Sylhet",
@@ -10509,6 +10509,15 @@
     "lastVisit": "2026-04-14T18:39:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.07560027261229034
+  },
+  {
+    "city": "Cheektowaga",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-04-15T03:32:00",
+    "lat": 42.90339,
+    "lon": -78.75475,
     "normalized": 0.07560027261229034
   }
 ]
