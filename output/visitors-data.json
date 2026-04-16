@@ -677,11 +677,11 @@
   {
     "city": "Rochester",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-03-05T12:22:00",
+    "visitors": 14,
+    "lastVisit": "2026-04-16T13:15:00",
     "lat": 43.15478,
     "lon": -77.61556,
-    "normalized": 0.2797542514768134
+    "normalized": 0.29536199409439734
   },
   {
     "city": "Mountain View",
