@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 359,
-    "lastVisit": "2026-04-15T09:45:00",
+    "visitors": 360,
+    "lastVisit": "2026-04-15T17:54:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6419864090660452
+    "normalized": 0.6422889561071673
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 526,
-    "lastVisit": "2026-04-15T15:16:00",
+    "visitors": 528,
+    "lastVisit": "2026-04-15T18:30:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6835518967311832
+    "normalized": 0.683965034112991
   },
   {
     "city": "Sylhet",
@@ -10519,5 +10519,23 @@
     "lat": 42.90339,
     "lon": -78.75475,
     "normalized": 0.07560027261229034
+  },
+  {
+    "city": "Zhuzhou",
+    "country": "China",
+    "visitors": 1,
+    "lastVisit": "2026-04-15T16:48:00",
+    "lat": 27.83333,
+    "lon": 113.15,
+    "normalized": 0.07560027261229034
+  },
+  {
+    "city": "Tucson",
+    "country": "United States",
+    "visitors": 3,
+    "lastVisit": "2026-04-15T18:09:00",
+    "lat": 32.22174,
+    "lon": -110.92648,
+    "normalized": 0.15120054522458068
   }
 ]
