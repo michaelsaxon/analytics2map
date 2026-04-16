@@ -74,20 +74,20 @@
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 33,
-    "lastVisit": "2026-04-01T10:57:00",
+    "visitors": 34,
+    "lastVisit": "2026-04-15T21:39:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.38461357770342286
+    "normalized": 0.3877751943866305
   },
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 132,
-    "lastVisit": "2026-04-14T21:20:00",
+    "visitors": 133,
+    "lastVisit": "2026-04-15T21:14:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5333812754805937
+    "normalized": 0.5341982691013655
   },
   {
     "city": "Four Oaks",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 528,
-    "lastVisit": "2026-04-15T18:30:00",
+    "visitors": 529,
+    "lastVisit": "2026-04-15T21:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.683965034112991
+    "normalized": 0.6841710174384027
   },
   {
     "city": "Sylhet",
@@ -10537,5 +10537,14 @@
     "lat": 32.22174,
     "lon": -110.92648,
     "normalized": 0.15120054522458068
+  },
+  {
+    "city": "Marietta",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-04-15T20:39:00",
+    "lat": 33.9526,
+    "lon": -84.54993,
+    "normalized": 0.11982359713477683
   }
 ]
