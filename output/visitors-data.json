@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 103,
-    "lastVisit": "2026-04-15T01:14:00",
+    "visitors": 104,
+    "lastVisit": "2026-04-16T12:13:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5065550693136843
+    "normalized": 0.5075987915214073
   },
   {
     "city": "Ames",
@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 338,
-    "lastVisit": "2026-04-14T11:53:00",
+    "visitors": 340,
+    "lastVisit": "2026-04-16T12:13:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6354309859579724
+    "normalized": 0.6360725650926072
   },
   {
     "city": "Santa Clara",
