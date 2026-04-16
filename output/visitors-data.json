@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 529,
-    "lastVisit": "2026-04-15T21:15:00",
+    "visitors": 530,
+    "lastVisit": "2026-04-16T09:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6841710174384027
+    "normalized": 0.6843766124821038
   },
   {
     "city": "Sylhet",
@@ -5501,11 +5501,11 @@
   {
     "city": "Columbus",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-04-01T15:52:00",
+    "visitors": 15,
+    "lastVisit": "2026-04-16T11:13:00",
     "lat": 41.42973,
     "lon": -97.36838,
-    "normalized": 0.29536199409439734
+    "normalized": 0.30240109044916136
   },
   {
     "city": "Xiamen",
