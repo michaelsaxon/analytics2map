@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 25,
-    "lastVisit": "2026-03-15T21:10:00",
+    "visitors": 26,
+    "lastVisit": "2026-04-17T08:45:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.35535452408910373
+    "normalized": 0.35947079140433047
   },
   {
     "city": "Cairo",
@@ -10554,6 +10554,15 @@
     "lastVisit": "2026-04-16T17:30:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.07560027261229034
+  },
+  {
+    "city": "Neihu District",
+    "country": "Taiwan",
+    "visitors": 1,
+    "lastVisit": "2026-04-17T07:35:00",
+    "lat": 25.05306,
+    "lon": 121.52639,
     "normalized": 0.07560027261229034
   }
 ]
