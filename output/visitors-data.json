@@ -308,11 +308,11 @@
   {
     "city": "London",
     "country": "United Kingdom",
-    "visitors": 30,
-    "lastVisit": "2026-03-18T05:15:00",
+    "visitors": 31,
+    "lastVisit": "2026-04-17T02:13:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.3745385916400507
+    "normalized": 0.3780013630614517
   },
   {
     "city": "Berlin",
