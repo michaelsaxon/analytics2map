@@ -1433,11 +1433,11 @@
   {
     "city": "San Antonio",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2024-03-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2026-04-17T11:09:00",
     "lat": 29.42412,
     "lon": -98.49363,
-    "normalized": 0.11982359713477683
+    "normalized": 0.15120054522458068
   },
   {
     "city": "Redondo Beach",
@@ -3350,11 +3350,11 @@
   {
     "city": "Redmond",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-03-23T23:07:00",
+    "visitors": 13,
+    "lastVisit": "2026-04-17T11:39:00",
     "lat": 47.67399,
     "lon": -122.12151,
-    "normalized": 0.2797542514768134
+    "normalized": 0.28783707003930026
   },
   {
     "city": "Everett",
