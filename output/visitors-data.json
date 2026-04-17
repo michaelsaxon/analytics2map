@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 104,
-    "lastVisit": "2026-04-16T12:13:00",
+    "visitors": 105,
+    "lastVisit": "2026-04-16T15:30:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5075987915214073
+    "normalized": 0.5086326204787821
   },
   {
     "city": "Ames",
@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 73,
-    "lastVisit": "2026-03-07T19:04:00",
+    "visitors": 74,
+    "lastVisit": "2026-04-16T16:00:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.4694363672148524
+    "normalized": 0.4709003910540179
   },
   {
     "city": "Manhattan",
@@ -10546,5 +10546,14 @@
     "lat": 33.9526,
     "lon": -84.54993,
     "normalized": 0.11982359713477683
+  },
+  {
+    "city": "Tarrytown",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-04-16T17:30:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07560027261229034
   }
 ]
