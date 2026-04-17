@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 50,
-    "lastVisit": "2026-03-29T16:28:00",
+    "visitors": 51,
+    "lastVisit": "2026-04-17T05:45:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.4288369022259093
+    "normalized": 0.4309547967013941
   },
   {
     "city": "Mocksville",
