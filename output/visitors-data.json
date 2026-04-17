@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 215,
-    "lastVisit": "2026-04-14T00:14:00",
+    "visitors": 216,
+    "lastVisit": "2026-04-17T00:41:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5862716092412015
+    "normalized": 0.5867753890670607
   },
   {
     "city": "Lompoc",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 89,
-    "lastVisit": "2026-04-05T15:09:00",
+    "visitors": 90,
+    "lastVisit": "2026-04-17T00:13:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.4907858638414645
+    "normalized": 0.49199104890382334
   },
   {
     "city": "Stanford",
@@ -1658,11 +1658,11 @@
   {
     "city": "Ahmedabad",
     "country": "India",
-    "visitors": 4,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 5,
+    "lastVisit": "2026-04-17T01:04:00",
     "lat": 23.02579,
     "lon": 72.58727,
-    "normalized": 0.17553839695962054
+    "normalized": 0.19542386974706716
   },
   {
     "city": "Milan",
