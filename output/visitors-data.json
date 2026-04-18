@@ -3350,11 +3350,11 @@
   {
     "city": "Redmond",
     "country": "United States",
-    "visitors": 13,
-    "lastVisit": "2026-04-17T11:39:00",
+    "visitors": 14,
+    "lastVisit": "2026-04-17T16:39:00",
     "lat": 47.67399,
     "lon": -122.12151,
-    "normalized": 0.28783707003930026
+    "normalized": 0.29536199409439734
   },
   {
     "city": "Everett",
