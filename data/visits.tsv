@@ -10245,3 +10245,5 @@ timestamp	country	city	num_unique
 2026-04-18T11:20:00	China		1
 2026-04-18T11:51:00	Netherlands		1
 2026-04-18T13:23:00	Puerto Rico	San Juan	1
+2026-04-18T14:38:00	United States	Los Angeles	1
+2026-04-18T14:38:00	United States	Ashburn	1

@@ -29,20 +29,20 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 323,
-    "lastVisit": "2026-04-16T14:32:00",
+    "visitors": 324,
+    "lastVisit": "2026-04-18T14:38:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6304949337636879
+    "normalized": 0.6308310453960544
   },
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 105,
-    "lastVisit": "2026-04-16T15:30:00",
+    "visitors": 106,
+    "lastVisit": "2026-04-18T14:38:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5086326204787821
+    "normalized": 0.509656741978682
   },
   {
     "city": "Ames",
