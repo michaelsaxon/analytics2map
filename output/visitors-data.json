@@ -10564,5 +10564,14 @@
     "lat": 25.05306,
     "lon": 121.52639,
     "normalized": 0.07560027261229034
+  },
+  {
+    "city": "San Juan",
+    "country": "Puerto Rico",
+    "visitors": 8,
+    "lastVisit": "2026-04-18T04:49:00",
+    "lat": 18.46633,
+    "lon": -66.10572,
+    "normalized": 0.23964719426955366
   }
 ]
