@@ -10568,10 +10568,10 @@
   {
     "city": "San Juan",
     "country": "Puerto Rico",
-    "visitors": 8,
-    "lastVisit": "2026-04-18T04:49:00",
+    "visitors": 9,
+    "lastVisit": "2026-04-18T04:51:00",
     "lat": 18.46633,
     "lon": -66.10572,
-    "normalized": 0.23964719426955366
+    "normalized": 0.2511386695719109
   }
 ]
