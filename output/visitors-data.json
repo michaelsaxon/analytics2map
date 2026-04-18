@@ -10573,5 +10573,14 @@
     "lat": 18.46633,
     "lon": -66.10572,
     "normalized": 0.2511386695719109
+  },
+  {
+    "city": "Bangi",
+    "country": "Malaysia",
+    "visitors": 1,
+    "lastVisit": "2026-04-18T10:16:00",
+    "lat": 2.9,
+    "lon": 101.78333,
+    "normalized": 0.07560027261229034
   }
 ]
