@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 340,
-    "lastVisit": "2026-04-16T12:13:00",
+    "visitors": 342,
+    "lastVisit": "2026-04-18T14:52:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6360725650926072
+    "normalized": 0.6367103922810299
   },
   {
     "city": "Santa Clara",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 216,
-    "lastVisit": "2026-04-17T00:41:00",
+    "visitors": 217,
+    "lastVisit": "2026-04-18T15:56:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5867753890670607
+    "normalized": 0.5872768526556561
   },
   {
     "city": "Lompoc",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 533,
-    "lastVisit": "2026-04-18T09:15:00",
+    "visitors": 534,
+    "lastVisit": "2026-04-18T15:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6849910824926491
+    "normalized": 0.6851951389383026
   },
   {
     "city": "Sylhet",
@@ -10581,6 +10581,15 @@
     "lastVisit": "2026-04-18T10:16:00",
     "lat": 2.9,
     "lon": 101.78333,
+    "normalized": 0.07560027261229034
+  },
+  {
+    "city": "Edmonds",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-04-18T14:41:00",
+    "lat": 47.81065,
+    "lon": -122.37736,
     "normalized": 0.07560027261229034
   }
 ]
