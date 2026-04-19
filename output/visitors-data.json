@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 134,
-    "lastVisit": "2026-04-18T07:50:00",
+    "visitors": 135,
+    "lastVisit": "2026-04-18T17:39:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5350091883639511
+    "normalized": 0.5358141229280036
   },
   {
     "city": "Four Oaks",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 217,
-    "lastVisit": "2026-04-18T15:56:00",
+    "visitors": 218,
+    "lastVisit": "2026-04-18T15:57:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5872768526556561
+    "normalized": 0.5877760212083559
   },
   {
     "city": "Lompoc",
