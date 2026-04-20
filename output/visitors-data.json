@@ -929,11 +929,11 @@
   {
     "city": "College Park",
     "country": "United States",
-    "visitors": 23,
-    "lastVisit": "2026-01-06T09:29:00",
+    "visitors": 24,
+    "lastVisit": "2026-04-20T12:24:00",
     "lat": 38.98067,
     "lon": -76.93692,
-    "normalized": 0.3466165323986578
+    "normalized": 0.3510688100948662
   },
   {
     "city": "Brooklyn",
