@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 541,
-    "lastVisit": "2026-04-20T09:15:00",
+    "visitors": 542,
+    "lastVisit": "2026-04-20T15:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6865973291922735
+    "normalized": 0.6867983719368914
   },
   {
     "city": "Sylhet",
@@ -7922,11 +7922,11 @@
   {
     "city": "Brookline",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-12-09T06:14:00",
+    "visitors": 3,
+    "lastVisit": "2026-04-20T15:28:00",
     "lat": 42.33176,
     "lon": -71.12116,
-    "normalized": 0.11982087223078985
+    "normalized": 0.15119710677857864
   },
   {
     "city": "Orem",
