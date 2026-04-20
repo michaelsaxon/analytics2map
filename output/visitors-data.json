@@ -1073,11 +1073,11 @@
   {
     "city": "Vancouver",
     "country": "Canada",
-    "visitors": 18,
-    "lastVisit": "2026-04-05T16:19:00",
+    "visitors": 19,
+    "lastVisit": "2026-04-20T10:11:00",
     "lat": 49.24966,
     "lon": -123.11934,
-    "normalized": 0.32113717491889593
+    "normalized": 0.32673151182601173
   },
   {
     "city": "Sundbyberg",
