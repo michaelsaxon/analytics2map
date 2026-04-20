@@ -155,11 +155,11 @@
   {
     "city": "Stanford",
     "country": "United States",
-    "visitors": 32,
-    "lastVisit": "2026-03-19T20:26:00",
+    "visitors": 34,
+    "lastVisit": "2026-04-19T22:24:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.38134889814893713
+    "normalized": 0.387766376005289
   },
   {
     "city": "Solvang",
