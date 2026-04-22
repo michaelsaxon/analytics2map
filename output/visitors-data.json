@@ -4160,11 +4160,11 @@
   {
     "city": "Wuhan",
     "country": "China",
-    "visitors": 6,
-    "lastVisit": "2026-03-23T16:48:00",
+    "visitors": 7,
+    "lastVisit": "2026-04-21T17:13:00",
     "lat": 30.58333,
     "lon": 114.26667,
-    "normalized": 0.21222473355192142
+    "normalized": 0.22678792611983828
   },
   {
     "city": "Lausanne",
