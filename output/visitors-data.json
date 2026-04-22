@@ -10334,11 +10334,11 @@
   {
     "city": "Pristina",
     "country": "Kosovo",
-    "visitors": 3,
-    "lastVisit": "2026-04-22T10:39:00",
+    "visitors": 4,
+    "lastVisit": "2026-04-22T10:40:00",
     "lat": 42.67272,
     "lon": 21.16688,
-    "normalized": 0.15119023250554425
+    "normalized": 0.17552642426358786
   },
   {
     "city": "Coal Creek",
@@ -10600,5 +10600,14 @@
     "lat": -25.74486,
     "lon": 28.18783,
     "normalized": 0.11981542449830024
+  },
+  {
+    "city": "Stamford",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-04-22T11:39:00",
+    "lat": 41.05343,
+    "lon": -73.53873,
+    "normalized": 0.07559511625277213
   }
 ]
