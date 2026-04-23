@@ -4322,11 +4322,11 @@
   {
     "city": "Calgary",
     "country": "Canada",
-    "visitors": 10,
-    "lastVisit": "2026-04-15T14:31:00",
+    "visitors": 11,
+    "lastVisit": "2026-04-22T18:39:00",
     "lat": 51.05011,
     "lon": -114.08529,
-    "normalized": 0.26151613537940216
+    "normalized": 0.2710056570038445
   },
   {
     "city": "Howrah",
