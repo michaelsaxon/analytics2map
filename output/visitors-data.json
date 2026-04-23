@@ -3755,11 +3755,11 @@
   {
     "city": "Salt Lake City",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-01-19T01:14:00",
+    "visitors": 13,
+    "lastVisit": "2026-04-23T09:03:00",
     "lat": 40.76078,
     "lon": -111.89105,
-    "normalized": 0.2797351706792512
+    "normalized": 0.2878174379485087
   },
   {
     "city": "Castro Valley",
