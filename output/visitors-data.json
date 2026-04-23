@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 551,
-    "lastVisit": "2026-04-22T21:16:00",
+    "visitors": 552,
+    "lastVisit": "2026-04-23T03:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6885599652013638
+    "normalized": 0.6887573601861715
   },
   {
     "city": "Sylhet",
@@ -10608,6 +10608,15 @@
     "lastVisit": "2026-04-22T11:39:00",
     "lat": 41.05343,
     "lon": -73.53873,
+    "normalized": 0.07559511625277213
+  },
+  {
+    "city": "Stavropol",
+    "country": "Russia",
+    "visitors": 1,
+    "lastVisit": "2026-04-23T02:36:00",
+    "lat": 45.0428,
+    "lon": 41.9734,
     "normalized": 0.07559511625277213
   }
 ]
