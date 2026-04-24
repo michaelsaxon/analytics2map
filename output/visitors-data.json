@@ -8444,11 +8444,11 @@
   {
     "city": "Burlington",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-12-29T14:08:00",
+    "visitors": 2,
+    "lastVisit": "2026-04-24T11:25:00",
     "lat": 44.47588,
     "lon": -73.21207,
-    "normalized": 0.07559425724130374
+    "normalized": 0.11981406299733516
   },
   {
     "city": "Colusa",
