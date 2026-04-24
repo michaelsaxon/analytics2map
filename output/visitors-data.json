@@ -10028,11 +10028,11 @@
   {
     "city": "Alexandria",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-03-07T11:25:00",
+    "visitors": 2,
+    "lastVisit": "2026-04-24T06:43:00",
     "lat": 38.80484,
     "lon": -77.04692,
-    "normalized": 0.07559425724130374
+    "normalized": 0.11981406299733516
   },
   {
     "city": "Panevezys",
