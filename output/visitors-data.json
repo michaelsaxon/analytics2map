@@ -830,11 +830,11 @@
   {
     "city": "Dhaka",
     "country": "Bangladesh",
-    "visitors": 34,
-    "lastVisit": "2026-04-21T03:20:00",
+    "visitors": 35,
+    "lastVisit": "2026-04-25T01:36:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.38773993429261333
+    "normalized": 0.39081220001600253
   },
   {
     "city": null,
