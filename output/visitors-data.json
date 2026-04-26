@@ -9353,11 +9353,11 @@
   {
     "city": "Los Altos",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-02-08T23:10:00",
+    "visitors": 3,
+    "lastVisit": "2026-04-26T00:53:00",
     "lat": 37.38522,
     "lon": -122.11413,
-    "normalized": 0.11980181725902446
+    "normalized": 0.15117306208129813
   },
   {
     "city": "Coram",
