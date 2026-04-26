@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 362,
-    "lastVisit": "2026-04-23T07:11:00",
+    "visitors": 363,
+    "lastVisit": "2026-04-26T01:34:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6427746881092863
+    "normalized": 0.6430746836588466
   },
   {
     "city": null,
@@ -10636,5 +10636,14 @@
     "lat": 35.14953,
     "lon": -90.04898,
     "normalized": 0.07558653104064907
+  },
+  {
+    "city": "Baker",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-04-26T02:14:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.11980181725902446
   }
 ]
