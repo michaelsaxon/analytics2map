@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 108,
-    "lastVisit": "2026-04-27T05:59:00",
+    "visitors": 109,
+    "lastVisit": "2026-04-27T11:06:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5115835745535856
+    "normalized": 0.5125794564841388
   },
   {
     "city": "Ames",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 26,
-    "lastVisit": "2026-04-17T08:45:00",
+    "visitors": 28,
+    "lastVisit": "2026-04-27T11:07:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.35940545177707334
+    "normalized": 0.3671979312830935
   },
   {
     "city": "Cairo",
