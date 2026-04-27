@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 107,
-    "lastVisit": "2026-04-22T20:37:00",
+    "visitors": 108,
+    "lastVisit": "2026-04-27T05:59:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5105785138583715
+    "normalized": 0.5115835745535856
   },
   {
     "city": "Ames",
