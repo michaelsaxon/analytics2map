@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 222,
-    "lastVisit": "2026-04-26T12:26:00",
+    "visitors": 224,
+    "lastVisit": "2026-04-27T04:41:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5896429624303223
+    "normalized": 0.5906166145547664
   },
   {
     "city": "Lompoc",
@@ -830,11 +830,11 @@
   {
     "city": "Dhaka",
     "country": "Bangladesh",
-    "visitors": 35,
-    "lastVisit": "2026-04-25T01:36:00",
+    "visitors": 36,
+    "lastVisit": "2026-04-27T03:19:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.39077669659934705
+    "normalized": 0.39376450852592637
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 568,
-    "lastVisit": "2026-04-26T21:15:00",
+    "visitors": 569,
+    "lastVisit": "2026-04-27T03:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6917894623258685
+    "normalized": 0.6919809431713632
   },
   {
     "city": "Sylhet",
@@ -10644,6 +10644,15 @@
     "lastVisit": "2026-04-26T02:14:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.11980181725902446
+  },
+  {
+    "city": "Weeze",
+    "country": "Germany",
+    "visitors": 2,
+    "lastVisit": "2026-04-27T04:50:00",
+    "lat": 52.52437,
+    "lon": 13.41053,
     "normalized": 0.11980181725902446
   }
 ]
