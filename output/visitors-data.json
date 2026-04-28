@@ -10672,5 +10672,14 @@
     "lat": 29.30135,
     "lon": -94.7977,
     "normalized": 0.11980181725902446
+  },
+  {
+    "city": "Woodlake",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-04-28T13:14:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07558653104064907
   }
 ]
