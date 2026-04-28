@@ -3350,11 +3350,11 @@
   {
     "city": "Redmond",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-04-17T16:39:00",
+    "visitors": 15,
+    "lastVisit": "2026-04-28T11:17:00",
     "lat": 47.67399,
     "lon": -122.12151,
-    "normalized": 0.2953083072773832
+    "normalized": 0.30234612416259626
   },
   {
     "city": "Everett",
@@ -10663,5 +10663,14 @@
     "lat": 51.50853,
     "lon": -0.12574,
     "normalized": 0.07558653104064907
+  },
+  {
+    "city": "Galveston",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-04-28T11:32:00",
+    "lat": 29.30135,
+    "lon": -94.7977,
+    "normalized": 0.11980181725902446
   }
 ]
