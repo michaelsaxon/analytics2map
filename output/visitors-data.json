@@ -1280,11 +1280,11 @@
   {
     "city": "Somerville",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-03-21T21:51:00",
+    "visitors": 9,
+    "lastVisit": "2026-04-27T16:41:00",
     "lat": 42.3876,
     "lon": -71.0995,
-    "normalized": 0.22675959312194718
+    "normalized": 0.2510930210590079
   },
   {
     "city": "Sherman Oaks",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 28,
-    "lastVisit": "2026-04-27T11:07:00",
+    "visitors": 31,
+    "lastVisit": "2026-04-27T19:33:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.3671979312830935
+    "normalized": 0.37793265520324537
   },
   {
     "city": "Cairo",
