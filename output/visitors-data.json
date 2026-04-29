@@ -11,11 +11,11 @@
   {
     "city": "Goleta",
     "country": "United States",
-    "visitors": 70,
-    "lastVisit": "2026-04-29T01:21:00",
+    "visitors": 71,
+    "lastVisit": "2026-04-29T01:28:00",
     "lat": 34.43583,
     "lon": -119.82764,
-    "normalized": 0.46483277553430935
+    "normalized": 0.46635793432266415
   },
   {
     "city": "Boardman",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 575,
-    "lastVisit": "2026-04-28T21:14:00",
+    "visitors": 576,
+    "lastVisit": "2026-04-29T03:27:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6931149536771843
+    "normalized": 0.693304107368619
   },
   {
     "city": "Sylhet",
