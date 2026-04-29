@@ -10690,5 +10690,14 @@
     "lat": 35.37329,
     "lon": -119.01871,
     "normalized": 0.11980045748407199
+  },
+  {
+    "city": "Wolcott",
+    "country": "United States",
+    "visitors": 3,
+    "lastVisit": "2026-04-29T13:13:00",
+    "lat": 41.60232,
+    "lon": -72.98677,
+    "normalized": 0.1511713462363468
   }
 ]
