@@ -11,11 +11,11 @@
   {
     "city": "Goleta",
     "country": "United States",
-    "visitors": 68,
-    "lastVisit": "2026-04-20T17:42:00",
+    "visitors": 70,
+    "lastVisit": "2026-04-29T01:21:00",
     "lat": 34.43583,
     "lon": -119.82764,
-    "normalized": 0.46171693282440246
+    "normalized": 0.46483277553430935
   },
   {
     "city": "Boardman",
@@ -10681,5 +10681,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.0755856731181734
+  },
+  {
+    "city": "Bakersfield",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-04-29T01:13:00",
+    "lat": 35.37329,
+    "lon": -119.01871,
+    "normalized": 0.11980045748407199
   }
 ]
