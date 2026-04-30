@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 343,
-    "lastVisit": "2026-04-21T10:24:00",
+    "visitors": 346,
+    "lastVisit": "2026-04-29T16:07:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6369048933560983
+    "normalized": 0.6378517624812854
   },
   {
     "city": "Santa Clara",
@@ -929,11 +929,11 @@
   {
     "city": "College Park",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2026-04-20T12:24:00",
+    "visitors": 25,
+    "lastVisit": "2026-04-29T16:02:00",
     "lat": 38.98067,
     "lon": -76.93692,
-    "normalized": 0.3510089959681185
+    "normalized": 0.3552859000470917
   },
   {
     "city": "Brooklyn",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 577,
-    "lastVisit": "2026-04-29T09:19:00",
+    "visitors": 578,
+    "lastVisit": "2026-04-29T15:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6934929335210304
+    "normalized": 0.6936814332667924
   },
   {
     "city": "Sylhet",
@@ -1370,11 +1370,11 @@
   {
     "city": "Clarksville",
     "country": "United States",
-    "visitors": 13,
-    "lastVisit": "2025-12-05T08:23:00",
+    "visitors": 14,
+    "lastVisit": "2026-04-29T18:44:00",
     "lat": 36.52977,
     "lon": -87.35945,
-    "normalized": 0.2877814845835146
+    "normalized": 0.29530495546813124
   },
   {
     "city": null,
@@ -5771,11 +5771,11 @@
   {
     "city": "Denver",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2026-01-12T09:51:00",
+    "visitors": 18,
+    "lastVisit": "2026-04-29T15:39:00",
     "lat": 39.73915,
     "lon": -104.9847,
-    "normalized": 0.3023426924726936
+    "normalized": 0.321082460460842
   },
   {
     "city": "Charlotte",
