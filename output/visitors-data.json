@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 52,
-    "lastVisit": "2026-04-19T19:28:00",
+    "visitors": 53,
+    "lastVisit": "2026-04-29T21:27:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.4329487231255132
+    "normalized": 0.43498704557038936
   },
   {
     "city": "Mocksville",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 578,
-    "lastVisit": "2026-04-29T15:18:00",
+    "visitors": 579,
+    "lastVisit": "2026-04-29T21:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6936814332667924
+    "normalized": 0.6938696077324175
   },
   {
     "city": "Sylhet",
@@ -1433,11 +1433,11 @@
   {
     "city": "San Antonio",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-04-17T11:09:00",
+    "visitors": 4,
+    "lastVisit": "2026-04-29T21:07:00",
     "lat": 29.42412,
     "lon": -98.49363,
-    "normalized": 0.1511713462363468
+    "normalized": 0.17550449798405926
   },
   {
     "city": "Redondo Beach",
@@ -10451,11 +10451,11 @@
   {
     "city": "Cheyenne",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-04-08T04:35:00",
+    "visitors": 4,
+    "lastVisit": "2026-04-29T21:27:00",
     "lat": 41.13998,
     "lon": -104.82025,
-    "normalized": 0.11980045748407199
+    "normalized": 0.17550449798405926
   },
   {
     "city": "El Paso",
@@ -10667,11 +10667,11 @@
   {
     "city": "Galveston",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-04-28T11:32:00",
+    "visitors": 3,
+    "lastVisit": "2026-04-29T21:15:00",
     "lat": 29.30135,
     "lon": -94.7977,
-    "normalized": 0.11980045748407199
+    "normalized": 0.1511713462363468
   },
   {
     "city": "Woodlake",
