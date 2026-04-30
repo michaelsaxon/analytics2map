@@ -3098,11 +3098,11 @@
   {
     "city": "Abu Dhabi",
     "country": "United Arab Emirates",
-    "visitors": 15,
-    "lastVisit": "2026-03-30T22:31:00",
+    "visitors": 16,
+    "lastVisit": "2026-04-30T12:45:00",
     "lat": 24.45118,
     "lon": 54.39696,
-    "normalized": 0.3023426924726936
+    "normalized": 0.30895363020142846
   },
   {
     "city": null,
