@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 112,
-    "lastVisit": "2026-04-30T16:34:00",
+    "visitors": 113,
+    "lastVisit": "2026-04-30T22:12:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5155019672174987
+    "normalized": 0.5164627297163141
   },
   {
     "city": "Ames",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 228,
-    "lastVisit": "2026-04-29T09:56:00",
+    "visitors": 229,
+    "lastVisit": "2026-04-30T21:27:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5925247704573113
+    "normalized": 0.5929999164735896
   },
   {
     "city": "Lompoc",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 582,
-    "lastVisit": "2026-04-30T15:18:00",
+    "visitors": 583,
+    "lastVisit": "2026-04-30T21:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6944243095898844
+    "normalized": 0.6946111919633139
   },
   {
     "city": "Sylhet",
@@ -10708,5 +10708,14 @@
     "lat": -22.90642,
     "lon": -43.18223,
     "normalized": 0.11979909788149973
+  },
+  {
+    "city": "Hialeah Gardens",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-04-30T22:13:00",
+    "lat": 25.8651,
+    "lon": -80.3245,
+    "normalized": 0.07558481530445751
   }
 ]
