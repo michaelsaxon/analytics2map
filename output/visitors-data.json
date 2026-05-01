@@ -74,11 +74,11 @@
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 34,
-    "lastVisit": "2026-04-15T21:39:00",
+    "visitors": 35,
+    "lastVisit": "2026-04-30T23:45:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.38769590948007593
+    "normalized": 0.3907678263719145
   },
   {
     "city": "New York",
@@ -7553,11 +7553,11 @@
   {
     "city": "Jersey City",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-03-10T15:43:00",
+    "visitors": 14,
+    "lastVisit": "2026-05-01T00:36:00",
     "lat": 40.72816,
     "lon": -74.07764,
-    "normalized": 0.2796970526409733
+    "normalized": 0.2953016040837919
   },
   {
     "city": "Pickens",
