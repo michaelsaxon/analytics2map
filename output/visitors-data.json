@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 113,
-    "lastVisit": "2026-04-30T22:12:00",
+    "visitors": 114,
+    "lastVisit": "2026-05-01T05:06:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5164627297163141
+    "normalized": 0.5174151011691321
   },
   {
     "city": "Ames",
@@ -10622,11 +10622,11 @@
   {
     "city": "New Cairo City",
     "country": "Egypt",
-    "visitors": 3,
-    "lastVisit": "2026-04-23T06:43:00",
+    "visitors": 4,
+    "lastVisit": "2026-05-01T04:49:00",
     "lat": 30.06263,
     "lon": 31.24967,
-    "normalized": 0.15116963060891503
+    "normalized": 0.17550250620229219
   },
   {
     "city": "Memphis",
