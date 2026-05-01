@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 583,
-    "lastVisit": "2026-04-30T21:14:00",
+    "visitors": 584,
+    "lastVisit": "2026-05-01T03:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6946111919633139
+    "normalized": 0.6947977546062649
   },
   {
     "city": "Sylhet",
@@ -10717,5 +10717,14 @@
     "lat": 25.8651,
     "lon": -80.3245,
     "normalized": 0.07558481530445751
+  },
+  {
+    "city": "Nong Krathum",
+    "country": "Thailand",
+    "visitors": 4,
+    "lastVisit": "2026-05-01T01:37:00",
+    "lat": 13.75398,
+    "lon": 100.50144,
+    "normalized": 0.17550250620229219
   }
 ]
