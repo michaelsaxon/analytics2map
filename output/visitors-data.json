@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 231,
-    "lastVisit": "2026-05-01T09:16:00",
+    "visitors": 232,
+    "lastVisit": "2026-05-01T16:46:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5939238252568294
+    "normalized": 0.5943928243732027
   },
   {
     "city": "Lompoc",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 61,
-    "lastVisit": "2026-04-07T10:40:00",
+    "visitors": 62,
+    "lastVisit": "2026-05-01T16:46:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.4500315095172436
+    "normalized": 0.45177622076169005
   },
   {
     "city": "Minneapolis",
@@ -10730,10 +10730,10 @@
   {
     "city": "Shoreline",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-05-01T15:53:00",
+    "visitors": 2,
+    "lastVisit": "2026-05-01T16:07:00",
     "lat": 47.75565,
     "lon": -122.34152,
-    "normalized": 0.07558224251561545
+    "normalized": 0.11979502010766277
   }
 ]
