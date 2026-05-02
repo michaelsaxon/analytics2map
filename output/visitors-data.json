@@ -10744,5 +10744,23 @@
     "lat": 39.75554,
     "lon": -105.2211,
     "normalized": 0.17549255107938577
+  },
+  {
+    "city": "Speyer",
+    "country": "Germany",
+    "visitors": 1,
+    "lastVisit": "2026-05-01T22:46:00",
+    "lat": 49.32083,
+    "lon": 8.43111,
+    "normalized": 0.075580527866389
+  },
+  {
+    "city": "Fakenham",
+    "country": "United Kingdom",
+    "visitors": 1,
+    "lastVisit": "2026-05-01T23:57:00",
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "normalized": 0.075580527866389
   }
 ]
