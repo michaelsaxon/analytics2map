@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 115,
-    "lastVisit": "2026-05-02T03:06:00",
+    "visitors": 116,
+    "lastVisit": "2026-05-02T15:41:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5183180676569229
+    "normalized": 0.519254014859883
   },
   {
     "city": "Ames",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 589,
-    "lastVisit": "2026-05-02T09:15:00",
+    "visitors": 590,
+    "lastVisit": "2026-05-02T15:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6956705672540539
+    "normalized": 0.6958552195922592
   },
   {
     "city": "Sylhet",
@@ -8354,11 +8354,11 @@
   {
     "city": "Cupertino",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-02-02T11:16:00",
+    "visitors": 7,
+    "lastVisit": "2026-05-02T15:36:00",
     "lat": 37.323,
     "lon": -122.03218,
-    "normalized": 0.1953683991383638
+    "normalized": 0.2267364409547833
   },
   {
     "city": "Clearwater",
