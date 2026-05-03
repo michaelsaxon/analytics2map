@@ -2585,11 +2585,11 @@
   {
     "city": "Paris",
     "country": "France",
-    "visitors": 18,
-    "lastVisit": "2026-02-20T09:19:00",
+    "visitors": 19,
+    "lastVisit": "2026-05-03T10:55:00",
     "lat": 48.85341,
     "lon": 2.3488,
-    "normalized": 0.32105332194403363
+    "normalized": 0.32664619809908246
   },
   {
     "city": "Perugia",
@@ -10761,6 +10761,15 @@
     "lastVisit": "2026-05-01T23:57:00",
     "lat": 51.50853,
     "lon": -0.12574,
+    "normalized": 0.07557881365159443
+  },
+  {
+    "city": "Scottsburg",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-05-03T12:20:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.07557881365159443
   }
 ]
