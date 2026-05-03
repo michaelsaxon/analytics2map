@@ -3710,11 +3710,11 @@
   {
     "city": "Bellevue",
     "country": "United States",
-    "visitors": 182,
-    "lastVisit": "2026-03-13T08:37:00",
+    "visitors": 183,
+    "lastVisit": "2026-05-02T23:03:00",
     "lat": 47.61038,
     "lon": -122.20068,
-    "normalized": 0.5680276775389881
+    "normalized": 0.5686218870730583
   },
   {
     "city": "Burlingame",
@@ -10622,11 +10622,11 @@
   {
     "city": "New Cairo City",
     "country": "Egypt",
-    "visitors": 4,
-    "lastVisit": "2026-05-01T04:49:00",
+    "visitors": 6,
+    "lastVisit": "2026-05-03T00:38:00",
     "lat": 30.06263,
     "lon": 31.24967,
-    "normalized": 0.17548857079589364
+    "normalized": 0.21217655450807807
   },
   {
     "city": "Memphis",
