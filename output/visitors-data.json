@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 329,
-    "lastVisit": "2026-04-30T19:20:00",
+    "visitors": 330,
+    "lastVisit": "2026-05-02T15:56:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6323167075796794
+    "normalized": 0.6326466236548309
   },
   {
     "city": "Ashburn",
@@ -8354,11 +8354,11 @@
   {
     "city": "Cupertino",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-05-02T15:36:00",
+    "visitors": 8,
+    "lastVisit": "2026-05-02T19:04:00",
     "lat": 37.323,
     "lon": -122.03218,
-    "normalized": 0.2267364409547833
+    "normalized": 0.23957917097353876
   },
   {
     "city": "Clearwater",
