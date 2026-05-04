@@ -2,11 +2,11 @@
   {
     "city": "Santa Barbara",
     "country": "United States",
-    "visitors": 55,
-    "lastVisit": "2026-04-10T20:07:00",
+    "visitors": 56,
+    "lastVisit": "2026-05-03T23:03:00",
     "lat": 34.42083,
     "lon": -119.69819,
-    "normalized": 0.43891299546286144
+    "normalized": 0.44084290743080307
   },
   {
     "city": "Goleta",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 100,
-    "lastVisit": "2026-04-29T10:24:00",
+    "visitors": 101,
+    "lastVisit": "2026-05-03T23:24:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.5032197249078042
+    "normalized": 0.5042939915250398
   },
   {
     "city": "Stanford",
