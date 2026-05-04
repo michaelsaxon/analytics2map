@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 346,
-    "lastVisit": "2026-04-29T16:07:00",
+    "visitors": 347,
+    "lastVisit": "2026-05-03T20:21:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6377938768706057
+    "normalized": 0.6381076531436923
   },
   {
     "city": "Santa Clara",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 237,
-    "lastVisit": "2026-05-03T19:28:00",
+    "visitors": 238,
+    "lastVisit": "2026-05-03T19:50:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5966809605463487
+    "normalized": 0.5971381401664447
   },
   {
     "city": "Lompoc",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 594,
-    "lastVisit": "2026-05-03T15:15:00",
+    "visitors": 595,
+    "lastVisit": "2026-05-03T21:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6965907176906478
+    "normalized": 0.6967738196306553
   },
   {
     "city": "Sylhet",
@@ -10770,6 +10770,15 @@
     "lastVisit": "2026-05-03T12:20:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.07557881365159443
+  },
+  {
+    "city": "Engstingen",
+    "country": "Germany",
+    "visitors": 1,
+    "lastVisit": "2026-05-03T20:39:00",
+    "lat": 52.52437,
+    "lon": 13.41053,
     "normalized": 0.07557881365159443
   }
 ]
