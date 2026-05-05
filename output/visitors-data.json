@@ -1280,11 +1280,11 @@
   {
     "city": "Somerville",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2026-04-27T16:41:00",
+    "visitors": 10,
+    "lastVisit": "2026-05-04T18:09:00",
     "lat": 42.3876,
     "lon": -71.0995,
-    "normalized": 0.2510673844474881
+    "normalized": 0.261459737645422
   },
   {
     "city": "Sherman Oaks",
