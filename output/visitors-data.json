@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 32,
-    "lastVisit": "2026-04-30T15:37:00",
+    "visitors": 34,
+    "lastVisit": "2026-05-06T07:51:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.38124932313219134
+    "normalized": 0.3876651253039717
   },
   {
     "city": "Cairo",
@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 19,
-    "lastVisit": "2026-04-16T22:21:00",
+    "visitors": 21,
+    "lastVisit": "2026-05-06T08:27:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.32664619809908246
+    "normalized": 0.33703855129701643
   },
   {
     "city": "Visalia",
