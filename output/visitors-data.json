@@ -4250,11 +4250,11 @@
   {
     "city": "Boston",
     "country": "United States",
-    "visitors": 27,
-    "lastVisit": "2026-05-01T11:51:00",
+    "visitors": 28,
+    "lastVisit": "2026-05-06T13:49:00",
     "lat": 42.35843,
     "lon": -71.05977,
-    "normalized": 0.3633341818112669
+    "normalized": 0.3671604403537341
   },
   {
     "city": "Hoodsport",
