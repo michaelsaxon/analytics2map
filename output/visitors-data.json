@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 116,
-    "lastVisit": "2026-05-02T15:41:00",
+    "visitors": 117,
+    "lastVisit": "2026-05-07T08:49:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.519254014859883
+    "normalized": 0.5201819964581603
   },
   {
     "city": "Ames",
@@ -1622,11 +1622,11 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 40,
-    "lastVisit": "2026-04-06T07:50:00",
+    "visitors": 41,
+    "lastVisit": "2026-05-07T09:24:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.40491742458575636
+    "normalized": 0.4075449536464419
   },
   {
     "city": "Shenzhen",
@@ -2207,11 +2207,11 @@
   {
     "city": "Kingston",
     "country": "Canada",
-    "visitors": 4,
-    "lastVisit": "2024-03-01T00:00:00",
+    "visitors": 5,
+    "lastVisit": "2026-05-07T09:21:00",
     "lat": 44.22976,
     "lon": -76.48098,
-    "normalized": 0.17548857079589364
+    "normalized": 0.1953683991383638
   },
   {
     "city": "Kamloops",
@@ -9164,11 +9164,11 @@
   {
     "city": "Halifax",
     "country": "Canada",
-    "visitors": 2,
-    "lastVisit": "2026-03-26T11:11:00",
+    "visitors": 3,
+    "lastVisit": "2026-05-07T09:20:00",
     "lat": 44.64269,
     "lon": -63.57688,
-    "normalized": 0.11978958548676938
+    "normalized": 0.15115762730318885
   },
   {
     "city": "Cagayan De Oro City",
