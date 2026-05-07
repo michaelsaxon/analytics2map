@@ -10780,5 +10780,14 @@
     "lat": 52.52437,
     "lon": 13.41053,
     "normalized": 0.07557881365159443
+  },
+  {
+    "city": "Johns Creek",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-05-07T01:18:00",
+    "lat": 34.02893,
+    "lon": -84.19858,
+    "normalized": 0.11978958548676938
   }
 ]
