@@ -335,11 +335,11 @@
   {
     "city": null,
     "country": "Germany",
-    "visitors": 161,
-    "lastVisit": "2026-05-07T03:01:00",
+    "visitors": 162,
+    "lastVisit": "2026-05-07T13:58:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.5547371555986719
+    "normalized": 0.5554081557448561
   },
   {
     "city": null,
@@ -2027,11 +2027,11 @@
   {
     "city": "Brussels",
     "country": "Belgium",
-    "visitors": 4,
-    "lastVisit": "2025-05-01T00:00:00",
+    "visitors": 5,
+    "lastVisit": "2026-05-07T14:28:00",
     "lat": 50.85045,
     "lon": 4.34878,
-    "normalized": 0.17548857079589364
+    "normalized": 0.1953683991383638
   },
   {
     "city": null,
