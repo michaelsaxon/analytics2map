@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 613,
-    "lastVisit": "2026-05-08T03:37:00",
+    "visitors": 614,
+    "lastVisit": "2026-05-08T09:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7000181403416261
+    "normalized": 0.7001955808684194
   },
   {
     "city": "Sylhet",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 35,
-    "lastVisit": "2026-05-07T10:47:00",
+    "visitors": 37,
+    "lastVisit": "2026-05-08T09:19:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.3907367982767276
+    "normalized": 0.3966321355956281
   },
   {
     "city": "Cairo",
@@ -10824,6 +10824,15 @@
     "lastVisit": "2026-05-08T08:14:00",
     "lat": 36.0526,
     "lon": -95.79082,
+    "normalized": 0.07557881365159443
+  },
+  {
+    "city": "Jinju-si",
+    "country": "South Korea",
+    "visitors": 1,
+    "lastVisit": "2026-05-08T09:20:00",
+    "lat": 37.566,
+    "lon": 126.9784,
     "normalized": 0.07557881365159443
   }
 ]
