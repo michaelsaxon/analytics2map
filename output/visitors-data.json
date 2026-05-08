@@ -6743,11 +6743,11 @@
   {
     "city": "Fairfax",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-01-30T05:53:00",
+    "visitors": 4,
+    "lastVisit": "2026-05-08T08:23:00",
     "lat": 38.84622,
     "lon": -77.30637,
-    "normalized": 0.15115762730318885
+    "normalized": 0.17548857079589364
   },
   {
     "city": "East Brunswick",
@@ -10807,5 +10807,23 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.11978958548676938
+  },
+  {
+    "city": "Carcavelos",
+    "country": "Portugal",
+    "visitors": 1,
+    "lastVisit": "2026-05-08T07:04:00",
+    "lat": 38.69105,
+    "lon": -9.32215,
+    "normalized": 0.07557881365159443
+  },
+  {
+    "city": "Broken Arrow",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-05-08T08:14:00",
+    "lat": 36.0526,
+    "lon": -95.79082,
+    "normalized": 0.07557881365159443
   }
 ]
