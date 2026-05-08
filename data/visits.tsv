@@ -10589,3 +10589,7 @@ timestamp	country	city	num_unique
 2026-05-08T09:19:00	United States	Philadelphia	1
 2026-05-08T09:20:00	Singapore	Singapore	1
 2026-05-08T09:20:00	South Korea	Jinju-si	1
+2026-05-08T12:15:00	United States	Minerva	1
+2026-05-08T12:15:00	United States	New York	1
+2026-05-08T12:19:00	Italy	Milan	1
+2026-05-08T14:17:00	United States		1
