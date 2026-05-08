@@ -335,11 +335,11 @@
   {
     "city": null,
     "country": "Germany",
-    "visitors": 162,
-    "lastVisit": "2026-05-07T13:58:00",
+    "visitors": 163,
+    "lastVisit": "2026-05-07T18:48:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.5554081557448561
+    "normalized": 0.5560750518889452
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 609,
-    "lastVisit": "2026-05-07T03:18:00",
+    "visitors": 610,
+    "lastVisit": "2026-05-07T15:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.6993054764997068
+    "normalized": 0.6994840796185123
   },
   {
     "city": "Sylhet",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 77,
-    "lastVisit": "2026-04-30T09:31:00",
+    "visitors": 78,
+    "lastVisit": "2026-05-07T16:50:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.475043243024708
+    "normalized": 0.4764322704669858
   },
   {
     "city": "Oakland",
@@ -10798,5 +10798,14 @@
     "lat": 50.90395,
     "lon": -1.40428,
     "normalized": 0.1953683991383638
+  },
+  {
+    "city": "Grand Terrace",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-05-07T18:13:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.11978958548676938
   }
 ]
