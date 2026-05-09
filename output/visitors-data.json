@@ -74,11 +74,11 @@
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 35,
-    "lastVisit": "2026-04-30T23:45:00",
+    "visitors": 36,
+    "lastVisit": "2026-05-09T09:28:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.3907279381597386
+    "normalized": 0.3937153772876105
   },
   {
     "city": "New York",
