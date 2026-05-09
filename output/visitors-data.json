@@ -56,11 +56,11 @@
   {
     "city": "Austin",
     "country": "United States",
-    "visitors": 43,
-    "lastVisit": "2026-04-14T04:48:00",
+    "visitors": 44,
+    "lastVisit": "2026-05-08T19:15:00",
     "lat": 43.66663,
     "lon": -92.97464,
-    "normalized": 0.4126126865184474
+    "normalized": 0.4150630355558603
   },
   {
     "city": "Seattle",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 102,
-    "lastVisit": "2026-05-04T11:08:00",
+    "visitors": 104,
+    "lastVisit": "2026-05-08T16:24:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.5053520473650932
+    "normalized": 0.5074489570546474
   },
   {
     "city": "Stanford",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 364,
-    "lastVisit": "2026-04-28T14:50:00",
+    "visitors": 365,
+    "lastVisit": "2026-05-08T19:52:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6433008735675144
+    "normalized": 0.6435991937080294
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 614,
-    "lastVisit": "2026-05-08T09:20:00",
+    "visitors": 615,
+    "lastVisit": "2026-05-08T15:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7001876417548383
+    "normalized": 0.7003647919860753
   },
   {
     "city": "Sylhet",
@@ -10842,6 +10842,15 @@
     "lastVisit": "2026-05-08T12:15:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.07557795670704594
+  },
+  {
+    "city": "White Plains",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-05-08T14:40:00",
+    "lat": 41.03399,
+    "lon": -73.76291,
     "normalized": 0.07557795670704594
   }
 ]

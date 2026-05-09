@@ -10593,3 +10593,9 @@ timestamp	country	city	num_unique
 2026-05-08T12:15:00	United States	New York	1
 2026-05-08T12:19:00	Italy	Milan	1
 2026-05-08T14:17:00	United States		1
+2026-05-08T14:40:00	United States	White Plains	1
+2026-05-08T15:17:00	Singapore	Singapore	1
+2026-05-08T16:22:00	United States	Chicago	1
+2026-05-08T16:24:00	United States	Chicago	1
+2026-05-08T19:15:00	United States	Austin	1
+2026-05-08T19:52:00	China		1
