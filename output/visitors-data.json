@@ -8237,11 +8237,11 @@
   {
     "city": "Zhuhai",
     "country": "China",
-    "visitors": 1,
-    "lastVisit": "2025-12-23T08:20:00",
+    "visitors": 2,
+    "lastVisit": "2026-05-10T15:26:00",
     "lat": 29.36937,
     "lon": 105.88323,
-    "normalized": 0.07557709987102962
+    "normalized": 0.11978686920883969
   },
   {
     "city": "Eastern Goleta Valley",
