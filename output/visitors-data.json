@@ -1541,11 +1541,11 @@
   {
     "city": "Ottawa",
     "country": "Canada",
-    "visitors": 4,
-    "lastVisit": "2026-01-13T10:57:00",
+    "visitors": 5,
+    "lastVisit": "2026-05-09T16:11:00",
     "lat": 45.41117,
     "lon": -75.69812,
-    "normalized": 0.1754845915206517
+    "normalized": 0.1953639690798693
   },
   {
     "city": "London",
