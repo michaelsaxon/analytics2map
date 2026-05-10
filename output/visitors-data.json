@@ -893,11 +893,11 @@
   {
     "city": "Princeton",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-02-23T10:17:00",
+    "visitors": 9,
+    "lastVisit": "2026-05-09T20:27:00",
     "lat": 40.34872,
     "lon": -74.65905,
-    "normalized": 0.23957373841767937
+    "normalized": 0.2510616913916814
   },
   {
     "city": "Irvine",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 618,
-    "lastVisit": "2026-05-09T15:16:00",
+    "visitors": 619,
+    "lastVisit": "2026-05-09T21:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7008865761853315
+    "normalized": 0.7010625805935063
   },
   {
     "city": "Sylhet",
@@ -5663,11 +5663,11 @@
   {
     "city": "Menlo Park",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-01-02T17:51:00",
+    "visitors": 5,
+    "lastVisit": "2026-05-09T20:46:00",
     "lat": 37.45383,
     "lon": -122.18219,
-    "normalized": 0.1754845915206517
+    "normalized": 0.1953639690798693
   },
   {
     "city": "Green Hill",
