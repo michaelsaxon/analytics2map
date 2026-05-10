@@ -10861,5 +10861,14 @@
     "lat": 39.47391,
     "lon": -0.37966,
     "normalized": 0.07557709987102962
+  },
+  {
+    "city": "Warrensburg",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-05-10T08:52:00",
+    "lat": 38.76279,
+    "lon": -93.73605,
+    "normalized": 0.07557709987102962
   }
 ]
