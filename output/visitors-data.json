@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 366,
-    "lastVisit": "2026-05-09T03:44:00",
+    "visitors": 369,
+    "lastVisit": "2026-05-10T02:05:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6438893999459762
+    "normalized": 0.6447770686792919
   },
   {
     "city": null,
@@ -533,11 +533,11 @@
   {
     "city": "Des Moines",
     "country": "United States",
-    "visitors": 42,
-    "lastVisit": "2026-04-11T15:30:00",
+    "visitors": 43,
+    "lastVisit": "2026-05-10T01:34:00",
     "lat": 47.40177,
     "lon": -122.32429,
-    "normalized": 0.41010135329276853
+    "normalized": 0.41260800868080794
   },
   {
     "city": "West Milford",
