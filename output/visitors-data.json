@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 622,
-    "lastVisit": "2026-05-11T03:14:00",
+    "visitors": 623,
+    "lastVisit": "2026-05-11T15:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.701580942490923
+    "normalized": 0.7017558157781157
   },
   {
     "city": "Sylhet",
@@ -10667,11 +10667,11 @@
   {
     "city": "Galveston",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-05-11T09:58:00",
+    "visitors": 6,
+    "lastVisit": "2026-05-11T15:01:00",
     "lat": 29.30135,
     "lon": -94.7977,
-    "normalized": 0.19536175447138424
+    "normalized": 0.21216933817958383
   },
   {
     "city": "Woodlake",
