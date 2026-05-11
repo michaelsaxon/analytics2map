@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 621,
-    "lastVisit": "2026-05-10T09:17:00",
+    "visitors": 622,
+    "lastVisit": "2026-05-11T03:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7014057882826661
+    "normalized": 0.701580942490923
   },
   {
     "city": "Sylhet",
@@ -4340,11 +4340,11 @@
   {
     "city": "Meerut",
     "country": "India",
-    "visitors": 3,
-    "lastVisit": "2025-01-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2026-05-11T04:14:00",
     "lat": 28.98002,
     "lon": 77.70636,
-    "normalized": 0.1511524862870405
+    "normalized": 0.17548260226097806
   },
   {
     "city": "Sheffield",
