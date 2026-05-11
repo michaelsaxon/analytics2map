@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 240,
-    "lastVisit": "2026-05-07T06:24:00",
+    "visitors": 241,
+    "lastVisit": "2026-05-10T18:40:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5980332276326571
+    "normalized": 0.598484717748527
   },
   {
     "city": "Lompoc",
@@ -884,11 +884,11 @@
   {
     "city": "Madison",
     "country": "United States",
-    "visitors": 19,
-    "lastVisit": "2026-04-14T19:23:00",
+    "visitors": 20,
+    "lastVisit": "2026-05-10T16:46:00",
     "lat": 43.07305,
     "lon": -89.40123,
-    "normalized": 0.32663879126271095
+    "normalized": 0.3319586125266138
   },
   {
     "city": "Princeton",
