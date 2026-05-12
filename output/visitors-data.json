@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 37,
-    "lastVisit": "2026-05-08T09:19:00",
+    "visitors": 39,
+    "lastVisit": "2026-05-12T08:42:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.39661415028101804
+    "normalized": 0.40220677282666867
   },
   {
     "city": "Cairo",
