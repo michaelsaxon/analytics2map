@@ -56,11 +56,11 @@
   {
     "city": "Austin",
     "country": "United States",
-    "visitors": 44,
-    "lastVisit": "2026-05-08T19:15:00",
+    "visitors": 45,
+    "lastVisit": "2026-05-12T11:56:00",
     "lat": 43.66663,
     "lon": -92.97464,
-    "normalized": 0.4150489204908464
+    "normalized": 0.4174453298209909
   },
   {
     "city": "Seattle",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 138,
-    "lastVisit": "2026-05-08T12:15:00",
+    "visitors": 139,
+    "lastVisit": "2026-05-12T10:12:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5380167232161647
+    "normalized": 0.5387983196481162
   },
   {
     "city": "Four Oaks",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 625,
-    "lastVisit": "2026-05-11T23:20:00",
+    "visitors": 626,
+    "lastVisit": "2026-05-12T09:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7020967651767532
+    "normalized": 0.7022707991089179
   },
   {
     "city": "Sylhet",
@@ -4250,11 +4250,11 @@
   {
     "city": "Boston",
     "country": "United States",
-    "visitors": 28,
-    "lastVisit": "2026-05-06T13:49:00",
+    "visitors": 29,
+    "lastVisit": "2026-05-12T11:56:00",
     "lat": 42.35843,
     "lon": -71.05977,
-    "normalized": 0.36714379143540526
+    "normalized": 0.3708401533965113
   },
   {
     "city": "Hoodsport",
@@ -5771,11 +5771,11 @@
   {
     "city": "Denver",
     "country": "United States",
-    "visitors": 18,
-    "lastVisit": "2026-04-29T15:39:00",
+    "visitors": 19,
+    "lastVisit": "2026-05-12T10:00:00",
     "lat": 39.73915,
     "lon": -104.9847,
-    "normalized": 0.3210387637565255
+    "normalized": 0.32663138630217614
   },
   {
     "city": "Charlotte",
