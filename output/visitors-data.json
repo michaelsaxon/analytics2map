@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 370,
-    "lastVisit": "2026-05-10T21:28:00",
+    "visitors": 371,
+    "lastVisit": "2026-05-12T03:14:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.645056735681101
+    "normalized": 0.6453502277435157
   },
   {
     "city": null,
