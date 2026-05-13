@@ -245,11 +245,11 @@
   {
     "city": "Montreal",
     "country": "Canada",
-    "visitors": 34,
-    "lastVisit": "2026-04-01T12:15:00",
+    "visitors": 35,
+    "lastVisit": "2026-05-13T12:10:00",
     "lat": 45.50884,
     "lon": -73.58781,
-    "normalized": 0.38764315331400423
+    "normalized": 0.39071465219122425
   },
   {
     "city": "Shawinigan",
@@ -4583,11 +4583,11 @@
   {
     "city": "Sunnyvale",
     "country": "United States",
-    "visitors": 19,
-    "lastVisit": "2026-04-03T16:01:00",
+    "visitors": 20,
+    "lastVisit": "2026-05-13T10:07:00",
     "lat": 37.36883,
     "lon": -122.03635,
-    "normalized": 0.32662768452507474
+    "normalized": 0.33194732489846296
   },
   {
     "city": "College Station",
