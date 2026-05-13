@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 628,
-    "lastVisit": "2026-05-12T19:06:00",
+    "visitors": 629,
+    "lastVisit": "2026-05-12T21:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7026180358207215
+    "normalized": 0.702791240361279
   },
   {
     "city": "Sylhet",
@@ -7166,11 +7166,11 @@
   {
     "city": "Virginia Beach",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2026-03-22T19:18:00",
+    "visitors": 14,
+    "lastVisit": "2026-05-12T22:28:00",
     "lat": 36.85293,
     "lon": -75.97799,
-    "normalized": 0.2709349266678128
+    "normalized": 0.29526476687201875
   },
   {
     "city": "Chiyoda City",
