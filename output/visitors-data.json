@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 244,
-    "lastVisit": "2026-05-11T22:34:00",
+    "visitors": 245,
+    "lastVisit": "2026-05-13T03:06:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.5998144799450713
+    "normalized": 0.6002586037174018
   },
   {
     "city": "Lompoc",
@@ -10879,5 +10879,14 @@
     "lat": -4.62001,
     "lon": 55.45501,
     "normalized": 0.07557538652449255
+  },
+  {
+    "city": "Sonipat",
+    "country": "India",
+    "visitors": 5,
+    "lastVisit": "2026-05-13T03:53:00",
+    "lat": 28.99478,
+    "lon": 77.01937,
+    "normalized": 0.19535954014332024
   }
 ]
