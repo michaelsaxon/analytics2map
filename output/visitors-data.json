@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 371,
-    "lastVisit": "2026-05-12T03:14:00",
+    "visitors": 372,
+    "lastVisit": "2026-05-13T04:56:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6453502277435157
+    "normalized": 0.6456429319068289
   },
   {
     "city": null,
@@ -1118,11 +1118,11 @@
   {
     "city": "Hyderabad",
     "country": "India",
-    "visitors": 30,
-    "lastVisit": "2026-03-25T05:25:00",
+    "visitors": 33,
+    "lastVisit": "2026-05-13T06:15:00",
     "lat": 17.38405,
     "lon": 78.45636,
-    "normalized": 0.374415301075703
+    "normalized": 0.3844869706564875
   },
   {
     "city": "Istanbul",
@@ -2180,11 +2180,11 @@
   {
     "city": "New Delhi",
     "country": "India",
-    "visitors": 22,
-    "lastVisit": "2025-12-15T08:40:00",
+    "visitors": 23,
+    "lastVisit": "2026-05-13T04:12:00",
     "lat": 28.62137,
     "lon": 77.2148,
-    "normalized": 0.34186994329649834
+    "normalized": 0.34651031319230535
   },
   {
     "city": "Toronto",
@@ -10883,10 +10883,19 @@
   {
     "city": "Sonipat",
     "country": "India",
-    "visitors": 5,
-    "lastVisit": "2026-05-13T03:53:00",
+    "visitors": 8,
+    "lastVisit": "2026-05-13T05:23:00",
     "lat": 28.99478,
     "lon": 77.01937,
-    "normalized": 0.19535954014332024
+    "normalized": 0.2395683072376554
+  },
+  {
+    "city": "Giza",
+    "country": "Egypt",
+    "visitors": 2,
+    "lastVisit": "2026-05-13T06:19:00",
+    "lat": 30.00944,
+    "lon": 31.20861,
+    "normalized": 0.1197841536188277
   }
 ]
