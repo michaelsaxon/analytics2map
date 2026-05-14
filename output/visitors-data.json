@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 333,
-    "lastVisit": "2026-05-14T09:56:00",
+    "visitors": 335,
+    "lastVisit": "2026-05-14T10:07:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6335945116794213
+    "normalized": 0.6342454449541483
   },
   {
     "city": "Ashburn",
@@ -10028,11 +10028,11 @@
   {
     "city": "Alexandria",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-04-24T06:43:00",
+    "visitors": 3,
+    "lastVisit": "2026-05-14T11:43:00",
     "lat": 38.80484,
     "lon": -77.04692,
-    "normalized": 0.11978279608169082
+    "normalized": 0.15114906002784265
   },
   {
     "city": "Panevezys",
