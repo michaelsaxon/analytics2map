@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 245,
-    "lastVisit": "2026-05-13T03:06:00",
+    "visitors": 246,
+    "lastVisit": "2026-05-14T14:10:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6002518008697658
+    "normalized": 0.600694117905065
   },
   {
     "city": "Lompoc",
@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 53,
-    "lastVisit": "2026-04-29T21:27:00",
+    "visitors": 54,
+    "lastVisit": "2026-05-14T14:09:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.43492291825899376
+    "normalized": 0.436923543191045
   },
   {
     "city": "Mocksville",
