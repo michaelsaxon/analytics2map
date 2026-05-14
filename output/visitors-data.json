@@ -7886,11 +7886,11 @@
   {
     "city": "Aspen",
     "country": "United States",
-    "visitors": 30,
-    "lastVisit": "2026-04-07T10:39:00",
+    "visitors": 31,
+    "lastVisit": "2026-05-13T17:04:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.37441105775419115
+    "normalized": 0.37787265006960663
   },
   {
     "city": "Fulton",
@@ -8696,11 +8696,11 @@
   {
     "city": "Idaho Springs",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-03-29T17:31:00",
+    "visitors": 3,
+    "lastVisit": "2026-05-13T17:04:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.11978279608169082
+    "normalized": 0.15114906002784265
   },
   {
     "city": "Millbrae",
