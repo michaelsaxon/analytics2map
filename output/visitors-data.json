@@ -281,20 +281,20 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 57,
-    "lastVisit": "2026-05-05T12:18:00",
+    "visitors": 58,
+    "lastVisit": "2026-05-15T07:40:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.4426940971970604
+    "normalized": 0.4445578358884877
   },
   {
     "city": null,
     "country": "China",
-    "visitors": 372,
-    "lastVisit": "2026-05-13T04:56:00",
+    "visitors": 373,
+    "lastVisit": "2026-05-15T07:40:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6456063551826683
+    "normalized": 0.6458982591281206
   },
   {
     "city": null,
@@ -893,11 +893,11 @@
   {
     "city": "Princeton",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2026-05-09T20:27:00",
+    "visitors": 10,
+    "lastVisit": "2026-05-15T09:01:00",
     "lat": 40.34872,
     "lon": -74.65905,
-    "normalized": 0.25104177704620323
+    "normalized": 0.26143307028503804
   },
   {
     "city": "Irvine",
@@ -4250,11 +4250,11 @@
   {
     "city": "Boston",
     "country": "United States",
-    "visitors": 29,
-    "lastVisit": "2026-05-12T11:56:00",
+    "visitors": 30,
+    "lastVisit": "2026-05-15T08:29:00",
     "lat": 42.35843,
     "lon": -71.05977,
-    "normalized": 0.37081914469754146
+    "normalized": 0.37439408983879147
   },
   {
     "city": "Hoodsport",
