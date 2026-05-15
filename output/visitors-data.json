@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 139,
-    "lastVisit": "2026-05-12T10:12:00",
+    "visitors": 140,
+    "lastVisit": "2026-05-15T01:52:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5387677958453423
+    "normalized": 0.5395437853026707
   },
   {
     "city": "Four Oaks",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 635,
-    "lastVisit": "2026-05-14T15:18:00",
+    "visitors": 636,
+    "lastVisit": "2026-05-14T21:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7037848561852011
+    "normalized": 0.7039561461787979
   },
   {
     "city": "Sylhet",
@@ -4898,11 +4898,11 @@
   {
     "city": "Ithaca",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-05-14T16:29:00",
+    "visitors": 14,
+    "lastVisit": "2026-05-14T21:49:00",
     "lat": 42.44063,
     "lon": -76.49661,
-    "normalized": 0.27964631869191314
+    "normalized": 0.29524803964184476
   },
   {
     "city": "Round Rock",
