@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 122,
-    "lastVisit": "2026-05-14T20:19:00",
+    "visitors": 123,
+    "lastVisit": "2026-05-17T13:13:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5246475504588024
+    "normalized": 0.5255303473760383
   },
   {
     "city": "Ames",
@@ -4340,11 +4340,11 @@
   {
     "city": "Meerut",
     "country": "India",
-    "visitors": 4,
-    "lastVisit": "2026-05-11T04:14:00",
+    "visitors": 6,
+    "lastVisit": "2026-05-17T13:32:00",
     "lat": 28.98002,
     "lon": 77.70636,
-    "normalized": 0.17546868449281006
+    "normalized": 0.2121525107355917
   },
   {
     "city": "Sheffield",
