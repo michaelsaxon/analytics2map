@@ -3449,11 +3449,11 @@
   {
     "city": "Raipur",
     "country": "India",
-    "visitors": 1,
-    "lastVisit": "2024-07-01T00:00:00",
+    "visitors": 2,
+    "lastVisit": "2026-05-17T01:40:00",
     "lat": 21.23333,
     "lon": 81.63333,
-    "normalized": 0.07557024908702958
+    "normalized": 0.1197760109730991
   },
   {
     "city": "Perm",
