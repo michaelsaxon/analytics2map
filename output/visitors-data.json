@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 111,
-    "lastVisit": "2026-05-15T20:28:00",
+    "visitors": 112,
+    "lastVisit": "2026-05-16T19:19:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.5144393339662291
+    "normalized": 0.5154084608673306
   },
   {
     "city": "Rochester",
