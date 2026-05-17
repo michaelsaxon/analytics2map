@@ -2180,11 +2180,11 @@
   {
     "city": "New Delhi",
     "country": "India",
-    "visitors": 25,
-    "lastVisit": "2026-05-14T18:59:00",
+    "visitors": 26,
+    "lastVisit": "2026-05-16T23:00:00",
     "lat": 28.62137,
     "lon": 77.2148,
-    "normalized": 0.3552134003184895
+    "normalized": 0.35932803291929727
   },
   {
     "city": "Toronto",
