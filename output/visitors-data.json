@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 335,
-    "lastVisit": "2026-05-14T10:07:00",
+    "visitors": 336,
+    "lastVisit": "2026-05-18T09:39:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6342095180568091
+    "normalized": 0.6345335147992567
   },
   {
     "city": "Ashburn",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 107,
-    "lastVisit": "2026-05-17T20:48:00",
+    "visitors": 108,
+    "lastVisit": "2026-05-18T06:34:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.5104685310933565
+    "normalized": 0.5114733752903214
   },
   {
     "city": "Stanford",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 651,
-    "lastVisit": "2026-05-17T23:43:00",
+    "visitors": 652,
+    "lastVisit": "2026-05-18T09:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.706485715262169
+    "normalized": 0.7066528031471284
   },
   {
     "city": "Sylhet",
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 55,
-    "lastVisit": "2026-05-12T23:58:00",
+    "visitors": 57,
+    "lastVisit": "2026-05-18T06:55:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.4388632579966805
+    "normalized": 0.4426890829488761
   },
   {
     "city": "Seongnam-si",
@@ -8930,11 +8930,11 @@
   {
     "city": "Pasadena",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-03-01T11:50:00",
+    "visitors": 3,
+    "lastVisit": "2026-05-18T09:36:00",
     "lat": 34.14778,
     "lon": -118.14452,
-    "normalized": 0.1197760109730991
+    "normalized": 0.15114049817405917
   },
   {
     "city": "Crystal",
@@ -10667,11 +10667,11 @@
   {
     "city": "Galveston",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-05-15T22:51:00",
+    "visitors": 9,
+    "lastVisit": "2026-05-18T06:54:00",
     "lat": 29.30135,
     "lon": -94.7977,
-    "normalized": 0.2395520219461982
+    "normalized": 0.2510389335798397
   },
   {
     "city": "Woodlake",
