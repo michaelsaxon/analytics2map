@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 140,
-    "lastVisit": "2026-05-15T01:52:00",
+    "visitors": 142,
+    "lastVisit": "2026-05-17T18:28:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5395376740704159
+    "normalized": 0.5410732603514264
   },
   {
     "city": "Four Oaks",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 105,
-    "lastVisit": "2026-05-15T13:25:00",
+    "visitors": 107,
+    "lastVisit": "2026-05-17T20:48:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.5084306245890623
+    "normalized": 0.5104685310933565
   },
   {
     "city": "Stanford",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 649,
-    "lastVisit": "2026-05-17T15:25:00",
+    "visitors": 650,
+    "lastVisit": "2026-05-17T21:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7061507693041096
+    "normalized": 0.7063183709106698
   },
   {
     "city": "Sylhet",
@@ -10915,5 +10915,14 @@
     "lat": 44.49381,
     "lon": 11.33875,
     "normalized": 0.07557024908702958
+  },
+  {
+    "city": "Mission Viejo",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-05-17T19:42:00",
+    "lat": 33.60002,
+    "lon": -117.672,
+    "normalized": 0.1197760109730991
   }
 ]
