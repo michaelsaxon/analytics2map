@@ -155,11 +155,11 @@
   {
     "city": "Stanford",
     "country": "United States",
-    "visitors": 34,
-    "lastVisit": "2026-04-19T22:24:00",
+    "visitors": 35,
+    "lastVisit": "2026-05-17T22:36:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.3876211952284017
+    "normalized": 0.39069252012025735
   },
   {
     "city": "Solvang",
@@ -245,11 +245,11 @@
   {
     "city": "Montreal",
     "country": "Canada",
-    "visitors": 35,
-    "lastVisit": "2026-05-13T12:10:00",
+    "visitors": 36,
+    "lastVisit": "2026-05-17T23:45:00",
     "lat": 45.50884,
     "lon": -73.58781,
-    "normalized": 0.39069252012025735
+    "normalized": 0.3936796884478444
   },
   {
     "city": "Shawinigan",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 650,
-    "lastVisit": "2026-05-17T21:15:00",
+    "visitors": 651,
+    "lastVisit": "2026-05-17T23:43:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7063183709106698
+    "normalized": 0.706485715262169
   },
   {
     "city": "Sylhet",
@@ -1802,11 +1802,11 @@
   {
     "city": "Zurich",
     "country": "Switzerland",
-    "visitors": 16,
-    "lastVisit": "2026-03-24T08:03:00",
+    "visitors": 17,
+    "lastVisit": "2026-05-17T23:35:00",
     "lat": 47.36667,
     "lon": 8.55,
-    "normalized": 0.30889058504726585
+    "normalized": 0.31512227103322776
   },
   {
     "city": "Obanos",
@@ -2423,11 +2423,11 @@
   {
     "city": "Daejeon",
     "country": "South Korea",
-    "visitors": 22,
-    "lastVisit": "2026-04-13T08:34:00",
+    "visitors": 24,
+    "lastVisit": "2026-05-18T01:15:00",
     "lat": 36.34913,
     "lon": 127.38493,
-    "normalized": 0.3418467037798393
+    "normalized": 0.3509373689856201
   },
   {
     "city": "Ansan-si",
@@ -9146,11 +9146,11 @@
   {
     "city": "San Mateo",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-04-12T16:13:00",
+    "visitors": 5,
+    "lastVisit": "2026-05-17T21:30:00",
     "lat": 37.56299,
     "lon": -122.32553,
-    "normalized": 0.15114049817405917
+    "normalized": 0.19534626006012867
   },
   {
     "city": "Kermanshah",
@@ -9353,11 +9353,11 @@
   {
     "city": "Los Altos",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-04-26T00:53:00",
+    "visitors": 4,
+    "lastVisit": "2026-05-18T01:48:00",
     "lat": 37.38522,
     "lon": -122.11413,
-    "normalized": 0.15114049817405917
+    "normalized": 0.17546868449281006
   },
   {
     "city": "Coram",
