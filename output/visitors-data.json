@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 654,
-    "lastVisit": "2026-05-18T21:17:00",
+    "visitors": 655,
+    "lastVisit": "2026-05-19T03:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7069862126534385
+    "normalized": 0.7071525358338216
   },
   {
     "city": "Sylhet",
@@ -7229,11 +7229,11 @@
   {
     "city": "Saarbrucken",
     "country": "Germany",
-    "visitors": 7,
-    "lastVisit": "2026-03-24T08:51:00",
+    "visitors": 13,
+    "lastVisit": "2026-05-19T07:30:00",
     "lat": 49.23262,
     "lon": 7.00982,
-    "normalized": 0.22671074726108875
+    "normalized": 0.28772275982262124
   },
   {
     "city": "Holbrook",
