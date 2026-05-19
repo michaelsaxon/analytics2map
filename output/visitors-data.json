@@ -10667,11 +10667,11 @@
   {
     "city": "Galveston",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2026-05-18T06:54:00",
+    "visitors": 10,
+    "lastVisit": "2026-05-19T08:03:00",
     "lat": 29.30135,
     "lon": -94.7977,
-    "normalized": 0.2510389335798397
+    "normalized": 0.26143010911996656
   },
   {
     "city": "Woodlake",
