@@ -9830,11 +9830,11 @@
   {
     "city": "Hanover",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-02-27T02:25:00",
+    "visitors": 6,
+    "lastVisit": "2026-05-20T14:20:00",
     "lat": 42.11316,
     "lon": -70.81199,
-    "normalized": 0.151137074949172
+    "normalized": 0.21214770563197352
   },
   {
     "city": "Fairwood",
