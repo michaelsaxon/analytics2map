@@ -10960,5 +10960,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.11977329813156025
+  },
+  {
+    "city": "Guthrie",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-05-20T11:28:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.075568537474586
   }
 ]
