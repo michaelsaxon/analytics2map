@@ -911,11 +911,11 @@
   {
     "city": "Durham",
     "country": "United States",
-    "visitors": 30,
-    "lastVisit": "2026-02-18T17:49:00",
+    "visitors": 32,
+    "lastVisit": "2026-05-19T21:38:00",
     "lat": 35.99403,
     "lon": -78.89862,
-    "normalized": 0.3743856091017323
+    "normalized": 0.38120180279608934
   },
   {
     "city": "Syracuse",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 657,
-    "lastVisit": "2026-05-19T15:19:00",
+    "visitors": 658,
+    "lastVisit": "2026-05-19T21:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7074764104033523
+    "normalized": 0.7076419739717702
   },
   {
     "city": "Sylhet",
