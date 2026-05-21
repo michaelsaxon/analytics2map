@@ -5780,11 +5780,11 @@
   {
     "city": "Charlotte",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-09-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2026-05-21T08:45:00",
     "lat": 35.22709,
     "lon": -80.84313,
-    "normalized": 0.11977194196818072
+    "normalized": 0.1511353636615183
   },
   {
     "city": "Sumida",
@@ -10978,5 +10978,14 @@
     "lat": 33.85455,
     "lon": -84.21714,
     "normalized": 0.07556768183075915
+  },
+  {
+    "city": "Lakeland",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-05-21T08:29:00",
+    "lat": 28.03947,
+    "lon": -81.9498,
+    "normalized": 0.11977194196818072
   }
 ]
