@@ -884,11 +884,11 @@
   {
     "city": "Madison",
     "country": "United States",
-    "visitors": 21,
-    "lastVisit": "2026-05-21T12:06:00",
+    "visitors": 22,
+    "lastVisit": "2026-05-21T12:09:00",
     "lat": 43.07305,
     "lon": -89.40123,
-    "normalized": 0.3369889097032106
+    "normalized": 0.34183509063704287
   },
   {
     "city": "Princeton",
@@ -7994,11 +7994,11 @@
   {
     "city": "East Lansing",
     "country": "United States",
-    "visitors": 16,
-    "lastVisit": "2026-04-07T08:40:00",
+    "visitors": 17,
+    "lastVisit": "2026-05-21T12:36:00",
     "lat": 42.73698,
     "lon": -84.48387,
-    "normalized": 0.3088800914826565
+    "normalized": 0.31511156576712057
   },
   {
     "city": "Dublin",
