@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 340,
-    "lastVisit": "2026-05-20T19:41:00",
+    "visitors": 341,
+    "lastVisit": "2026-05-21T11:45:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6357983583828878
+    "normalized": 0.6361176005431534
   },
   {
     "city": "Ashburn",
@@ -884,11 +884,11 @@
   {
     "city": "Madison",
     "country": "United States",
-    "visitors": 20,
-    "lastVisit": "2026-05-10T16:46:00",
+    "visitors": 21,
+    "lastVisit": "2026-05-21T12:06:00",
     "lat": 43.07305,
     "lon": -89.40123,
-    "normalized": 0.3319172455042454
+    "normalized": 0.3369889097032106
   },
   {
     "city": "Princeton",
