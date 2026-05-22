@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 341,
-    "lastVisit": "2026-05-21T11:45:00",
+    "visitors": 342,
+    "lastVisit": "2026-05-22T01:41:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6360959979580612
+    "normalized": 0.6364142972132764
   },
   {
     "city": "Ashburn",
@@ -218,11 +218,11 @@
   {
     "city": null,
     "country": "India",
-    "visitors": 206,
-    "lastVisit": "2026-05-18T17:20:00",
+    "visitors": 207,
+    "lastVisit": "2026-05-22T03:11:00",
     "lat": 28.62137,
     "lon": 77.2148,
-    "normalized": 0.5813592309147502
+    "normalized": 0.5818846170760268
   },
   {
     "city": "Waterloo",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 664,
-    "lastVisit": "2026-05-21T21:22:00",
+    "visitors": 665,
+    "lastVisit": "2026-05-22T03:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7085899972519533
+    "normalized": 0.7087538100813727
   },
   {
     "city": "Sylhet",
@@ -10987,5 +10987,14 @@
     "lat": 28.03947,
     "lon": -81.9498,
     "normalized": 0.1197678745071235
+  },
+  {
+    "city": "Rockland",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-05-22T03:46:00",
+    "lat": 42.13066,
+    "lon": -70.91616,
+    "normalized": 0.07556511554855666
   }
 ]
