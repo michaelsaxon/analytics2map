@@ -1505,11 +1505,11 @@
   {
     "city": "Edmonton",
     "country": "Canada",
-    "visitors": 3,
-    "lastVisit": "2024-09-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2026-05-22T13:09:00",
     "lat": 53.55014,
     "lon": -113.46871,
-    "normalized": 0.1511285206749961
+    "normalized": 0.1754547790470195
   },
   {
     "city": "Stittsville",
