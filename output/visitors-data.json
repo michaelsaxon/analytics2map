@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 665,
-    "lastVisit": "2026-05-22T03:16:00",
+    "visitors": 666,
+    "lastVisit": "2026-05-22T05:25:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7087538100813727
+    "normalized": 0.7089173771300105
   },
   {
     "city": "Sylhet",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 78,
-    "lastVisit": "2026-05-07T16:50:00",
+    "visitors": 79,
+    "lastVisit": "2026-05-22T07:51:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.4763459206287698
+    "normalized": 0.4777172269798302
   },
   {
     "city": "Oakland",
@@ -1802,11 +1802,11 @@
   {
     "city": "Zurich",
     "country": "Switzerland",
-    "visitors": 18,
-    "lastVisit": "2026-05-18T17:54:00",
+    "visitors": 19,
+    "lastVisit": "2026-05-22T07:34:00",
     "lat": 47.36667,
     "lon": 8.55,
-    "normalized": 0.32099513339525754
+    "normalized": 0.3265869958827169
   },
   {
     "city": "Obanos",
