@@ -10887,3 +10887,13 @@ timestamp	country	city	num_unique
 2026-05-22T11:48:00	United States	San Francisco	1
 2026-05-22T11:50:00	United States	San Francisco	1
 2026-05-22T13:09:00	Canada	Edmonton	1
+2026-05-22T15:20:00	Singapore	Singapore	1
+2026-05-22T16:06:00	United States	Aspen	1
+2026-05-22T16:11:00	United States		1
+2026-05-22T16:24:00	Japan	Urayasu	1
+2026-05-22T16:32:00	United States	San Francisco	1
+2026-05-22T16:33:00	United States	San Francisco	1
+2026-05-22T17:13:00	United States	Bellevue	1
+2026-05-22T18:27:00	United States	Hillsborough	1
+2026-05-22T18:29:00	United States	Hillsborough	1
+2026-05-22T18:36:00	United States		1
