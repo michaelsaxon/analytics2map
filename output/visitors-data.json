@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 255,
-    "lastVisit": "2026-05-22T11:11:00",
+    "visitors": 256,
+    "lastVisit": "2026-05-22T23:38:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6045004019179473
+    "normalized": 0.6049254071989856
   },
   {
     "city": "Lompoc",
@@ -9749,11 +9749,11 @@
   {
     "city": "Tel Aviv-Yafo",
     "country": "Israel",
-    "visitors": 2,
-    "lastVisit": "2026-03-19T01:01:00",
+    "visitors": 3,
+    "lastVisit": "2026-05-22T23:03:00",
     "lat": 31.76904,
     "lon": 35.21633,
-    "normalized": 0.11976380858885172
+    "normalized": 0.15112510047948682
   },
   {
     "city": "Orlando",
