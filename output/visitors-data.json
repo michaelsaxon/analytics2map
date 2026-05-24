@@ -7040,11 +7040,11 @@
   {
     "city": "West Lafayette",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-04-24T10:29:00",
+    "visitors": 6,
+    "lastVisit": "2026-05-24T12:41:00",
     "lat": 40.42587,
     "lon": -86.90807,
-    "normalized": 0.19532635882859511
+    "normalized": 0.21213089733876864
   },
   {
     "city": "Cary",
