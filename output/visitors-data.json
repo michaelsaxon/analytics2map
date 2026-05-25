@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 678,
-    "lastVisit": "2026-05-24T09:22:00",
+    "visitors": 679,
+    "lastVisit": "2026-05-24T15:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7108371430544612
+    "normalized": 0.7109975753372912
   },
   {
     "city": "Sylhet",
@@ -8012,11 +8012,11 @@
   {
     "city": "The Dalles",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-03-17T08:20:00",
+    "visitors": 7,
+    "lastVisit": "2026-05-24T14:29:00",
     "lat": 45.59456,
     "lon": -121.17868,
-    "normalized": 0.19532635882859511
+    "normalized": 0.2266876507192302
   },
   {
     "city": "Meriden",
