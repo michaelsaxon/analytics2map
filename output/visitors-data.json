@@ -830,11 +830,11 @@
   {
     "city": "Dhaka",
     "country": "Bangladesh",
-    "visitors": 36,
-    "lastVisit": "2026-04-27T03:19:00",
+    "visitors": 37,
+    "lastVisit": "2026-05-25T08:58:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.3936395816619379
+    "normalized": 0.3965467863891126
   },
   {
     "city": null,
@@ -1370,11 +1370,11 @@
   {
     "city": "Clarksville",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-04-29T18:44:00",
+    "visitors": 15,
+    "lastVisit": "2026-05-25T09:50:00",
     "lat": 36.52977,
     "lon": -87.35945,
-    "normalized": 0.29521461691184975
+    "normalized": 0.30225020095897365
   },
   {
     "city": null,
