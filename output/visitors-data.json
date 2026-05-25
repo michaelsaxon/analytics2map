@@ -11005,5 +11005,14 @@
     "lat": 35.65879,
     "lon": 139.90055,
     "normalized": 0.07556255023974341
+  },
+  {
+    "city": "Tanda Range",
+    "country": "India",
+    "visitors": 1,
+    "lastVisit": "2026-05-25T05:15:00",
+    "lat": 28.62137,
+    "lon": 77.2148,
+    "normalized": 0.07556255023974341
   }
 ]
