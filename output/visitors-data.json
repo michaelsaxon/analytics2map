@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 355,
-    "lastVisit": "2026-05-19T15:17:00",
+    "visitors": 356,
+    "lastVisit": "2026-05-24T21:49:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6404480331960712
+    "normalized": 0.6407538222226834
   },
   {
     "city": "Santa Clara",
@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 44,
-    "lastVisit": "2026-05-12T13:45:00",
+    "visitors": 46,
+    "lastVisit": "2026-05-24T21:32:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.4149784255007014
+    "normalized": 0.4197188991660101
   },
   {
     "city": "Tustin",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 679,
-    "lastVisit": "2026-05-24T15:18:00",
+    "visitors": 680,
+    "lastVisit": "2026-05-24T21:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7109975753372912
+    "normalized": 0.7111577718635592
   },
   {
     "city": "Sylhet",
