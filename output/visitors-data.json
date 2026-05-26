@@ -3755,11 +3755,11 @@
   {
     "city": "Salt Lake City",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2026-05-18T16:34:00",
+    "visitors": 17,
+    "lastVisit": "2026-05-26T13:37:00",
     "lat": 40.76078,
     "lon": -111.89105,
-    "normalized": 0.30224678141198863
+    "normalized": 0.3150866026038302
   },
   {
     "city": "Castro Valley",
@@ -4628,11 +4628,11 @@
   {
     "city": "Isfahan",
     "country": "Iran",
-    "visitors": 6,
-    "lastVisit": "2026-02-17T04:54:00",
+    "visitors": 8,
+    "lastVisit": "2026-05-26T13:14:00",
     "lat": 32.65246,
     "lon": 51.67462,
-    "normalized": 0.21212849736825376
+    "normalized": 0.2395249072508331
   },
   {
     "city": "Hur",
