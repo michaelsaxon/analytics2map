@@ -4277,11 +4277,11 @@
   {
     "city": "Lowell",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2025-12-02T13:40:00",
+    "visitors": 10,
+    "lastVisit": "2026-05-26T11:05:00",
     "lat": 42.63342,
     "lon": -71.31617,
-    "normalized": 0.2395249072508331
+    "normalized": 0.2614005180619973
   },
   {
     "city": "Farsi",
