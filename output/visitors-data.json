@@ -5780,11 +5780,11 @@
   {
     "city": "Charlotte",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-05-21T08:45:00",
+    "visitors": 4,
+    "lastVisit": "2026-05-26T21:13:00",
     "lat": 35.22709,
     "lon": -80.84313,
-    "normalized": 0.15112339070599431
+    "normalized": 0.17544882333744394
   },
   {
     "city": "Sumida",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1470,
-    "lastVisit": "2026-04-07T19:10:00",
+    "visitors": 1472,
+    "lastVisit": "2026-05-26T17:48:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7951040999917519
+    "normalized": 0.7952522148014491
   },
   {
     "city": "Riegelsberg",
