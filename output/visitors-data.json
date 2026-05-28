@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 31,
-    "lastVisit": "2026-01-28T17:28:00",
+    "visitors": 35,
+    "lastVisit": "2026-05-28T10:06:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.37779565670490806
+    "normalized": 0.3906350422070042
   },
   {
     "city": "Los Angeles",
@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 58,
-    "lastVisit": "2026-05-15T07:40:00",
+    "visitors": 59,
+    "lastVisit": "2026-05-28T10:24:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.44448739879884397
+    "normalized": 0.4463195223303931
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 693,
-    "lastVisit": "2026-05-28T03:16:00",
+    "visitors": 694,
+    "lastVisit": "2026-05-28T09:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.713186913289148
+    "normalized": 0.7133438734085334
   },
   {
     "city": "Sylhet",
@@ -8210,11 +8210,11 @@
   {
     "city": "Xitun District",
     "country": "Taiwan",
-    "visitors": 2,
-    "lastVisit": "2025-12-23T00:38:00",
+    "visitors": 3,
+    "lastVisit": "2026-05-28T09:27:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.11975838976252051
+    "normalized": 0.1511182626819632
   },
   {
     "city": "Schwalbach",
