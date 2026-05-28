@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 149,
-    "lastVisit": "2026-04-01T10:14:00",
+    "visitors": 150,
+    "lastVisit": "2026-05-28T02:08:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5462032608753209
+    "normalized": 0.5469275743978473
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 692,
-    "lastVisit": "2026-05-27T23:39:00",
+    "visitors": 693,
+    "lastVisit": "2026-05-28T03:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7130297268393029
+    "normalized": 0.713186913289148
   },
   {
     "city": "Sylhet",
@@ -11040,6 +11040,24 @@
     "lastVisit": "2026-05-27T13:33:00",
     "lat": 18.39856,
     "lon": -66.15572,
+    "normalized": 0.0755591313409816
+  },
+  {
+    "city": "Piru",
+    "country": "United States",
+    "visitors": 3,
+    "lastVisit": "2026-05-28T00:28:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.1511182626819632
+  },
+  {
+    "city": "Mairipora",
+    "country": "Brazil",
+    "visitors": 1,
+    "lastVisit": "2026-05-28T02:08:00",
+    "lat": -23.31861,
+    "lon": -46.58667,
     "normalized": 0.0755591313409816
   }
 ]
