@@ -1622,11 +1622,11 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 41,
-    "lastVisit": "2026-05-07T09:24:00",
+    "visitors": 42,
+    "lastVisit": "2026-05-28T06:05:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.4074388203800038
+    "normalized": 0.41000385129147515
   },
   {
     "city": "Shenzhen",
@@ -11058,6 +11058,15 @@
     "lastVisit": "2026-05-28T02:08:00",
     "lat": -23.31861,
     "lon": -46.58667,
+    "normalized": 0.0755591313409816
+  },
+  {
+    "city": null,
+    "country": "Iraq",
+    "visitors": 1,
+    "lastVisit": "2026-05-28T07:37:00",
+    "lat": 33.34058,
+    "lon": 44.40088,
     "normalized": 0.0755591313409816
   }
 ]
