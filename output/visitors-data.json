@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 262,
-    "lastVisit": "2026-05-27T15:51:00",
+    "visitors": 263,
+    "lastVisit": "2026-05-27T20:47:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6074137357514482
+    "normalized": 0.6078274318232254
   },
   {
     "city": "Lompoc",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 690,
-    "lastVisit": "2026-05-27T15:22:00",
+    "visitors": 692,
+    "lastVisit": "2026-05-27T23:39:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7127146723307487
+    "normalized": 0.7130297268393029
   },
   {
     "city": "Sylhet",
@@ -3773,11 +3773,11 @@
   {
     "city": "New Brunswick",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-01-23T19:06:00",
+    "visitors": 6,
+    "lastVisit": "2026-05-27T21:52:00",
     "lat": 40.48622,
     "lon": -74.45182,
-    "normalized": 0.1754428698859094
+    "normalized": 0.2121212992765017
   },
   {
     "city": "Zweibr\u00fccken",
@@ -8354,11 +8354,11 @@
   {
     "city": "Cupertino",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-05-02T19:04:00",
+    "visitors": 10,
+    "lastVisit": "2026-05-27T19:49:00",
     "lat": 37.323,
     "lon": -122.03218,
-    "normalized": 0.23951677952504102
+    "normalized": 0.26139164803776016
   },
   {
     "city": "Clearwater",
