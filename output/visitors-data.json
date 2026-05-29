@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 37,
-    "lastVisit": "2026-05-28T13:05:00",
+    "visitors": 38,
+    "lastVisit": "2026-05-29T05:19:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.3965288442562349
+    "normalized": 0.3993604004449282
   },
   {
     "city": "Los Angeles",
@@ -4097,11 +4097,11 @@
   {
     "city": "Edinburgh",
     "country": "United Kingdom",
-    "visitors": 8,
-    "lastVisit": "2026-04-19T14:37:00",
+    "visitors": 11,
+    "lastVisit": "2026-05-29T05:59:00",
     "lat": 55.95206,
     "lon": -3.19648,
-    "normalized": 0.23951677952504102
+    "normalized": 0.2708766524444837
   },
   {
     "city": "Bath",
@@ -11067,6 +11067,15 @@
     "lastVisit": "2026-05-28T07:37:00",
     "lat": 33.34058,
     "lon": 44.40088,
+    "normalized": 0.0755591313409816
+  },
+  {
+    "city": "Gaindakot",
+    "country": "Nepal",
+    "visitors": 1,
+    "lastVisit": "2026-05-29T04:51:00",
+    "lat": 27.70169,
+    "lon": 85.3206,
     "normalized": 0.0755591313409816
   }
 ]
