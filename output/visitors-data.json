@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 343,
-    "lastVisit": "2026-05-26T21:59:00",
+    "visitors": 344,
+    "lastVisit": "2026-05-28T22:33:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6366812453144199
+    "normalized": 0.6369976716152095
   },
   {
     "city": "Ashburn",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 694,
-    "lastVisit": "2026-05-28T09:18:00",
+    "visitors": 695,
+    "lastVisit": "2026-05-28T21:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7133438734085334
+    "normalized": 0.7135006078483022
   },
   {
     "city": "Sylhet",
@@ -1424,11 +1424,11 @@
   {
     "city": "Oakland",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-03-01T22:14:00",
+    "visitors": 9,
+    "lastVisit": "2026-05-28T22:53:00",
     "lat": 37.80437,
     "lon": -122.2708,
-    "normalized": 0.22667739402294482
+    "normalized": 0.25100200122689104
   },
   {
     "city": "San Antonio",
