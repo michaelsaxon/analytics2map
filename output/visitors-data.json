@@ -1667,11 +1667,11 @@
   {
     "city": "Milan",
     "country": "Italy",
-    "visitors": 12,
-    "lastVisit": "2026-05-08T12:19:00",
+    "visitors": 13,
+    "lastVisit": "2026-05-29T11:54:00",
     "lat": 45.46427,
     "lon": 9.18951,
-    "normalized": 0.27960201068240775
+    "normalized": 0.2876804306174833
   },
   {
     "city": "Verona",
@@ -11076,6 +11076,15 @@
     "lastVisit": "2026-05-29T04:51:00",
     "lat": 27.70169,
     "lon": 85.3206,
+    "normalized": 0.0755591313409816
+  },
+  {
+    "city": "Huddersfield",
+    "country": "United Kingdom",
+    "visitors": 1,
+    "lastVisit": "2026-05-29T11:52:00",
+    "lat": 53.64904,
+    "lon": -1.78416,
     "normalized": 0.0755591313409816
   }
 ]
