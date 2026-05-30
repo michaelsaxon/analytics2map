@@ -11086,5 +11086,14 @@
     "lat": 53.64904,
     "lon": -1.78416,
     "normalized": 0.0755591313409816
+  },
+  {
+    "city": "Oskemen",
+    "country": "Kazakhstan",
+    "visitors": 1,
+    "lastVisit": "2026-05-30T00:16:00",
+    "lat": 52.35062,
+    "lon": 71.88161,
+    "normalized": 0.0755591313409816
   }
 ]
