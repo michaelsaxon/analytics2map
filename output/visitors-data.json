@@ -335,11 +335,11 @@
   {
     "city": null,
     "country": "Germany",
-    "visitors": 163,
-    "lastVisit": "2026-05-07T18:48:00",
+    "visitors": 165,
+    "lastVisit": "2026-05-30T09:10:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.5559302382650403
+    "normalized": 0.5572515730380606
   },
   {
     "city": null,
