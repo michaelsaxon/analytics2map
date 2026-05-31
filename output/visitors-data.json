@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 705,
-    "lastVisit": "2026-05-31T03:17:00",
+    "visitors": 706,
+    "lastVisit": "2026-05-31T09:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7150556810685778
+    "normalized": 0.7152099751977765
   },
   {
     "city": "Sylhet",
@@ -6320,11 +6320,11 @@
   {
     "city": "Ramat Gan",
     "country": "Israel",
-    "visitors": 1,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2026-05-31T08:29:00",
     "lat": 32.08227,
     "lon": 34.81065,
-    "normalized": 0.0755591313409816
+    "normalized": 0.1511182626819632
   },
   {
     "city": "Holon",
