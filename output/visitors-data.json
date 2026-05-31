@@ -4583,11 +4583,11 @@
   {
     "city": "Sunnyvale",
     "country": "United States",
-    "visitors": 20,
-    "lastVisit": "2026-05-13T10:07:00",
+    "visitors": 21,
+    "lastVisit": "2026-05-31T01:24:00",
     "lat": 37.36883,
     "lon": -122.03635,
-    "normalized": 0.3318796890390222
+    "normalized": 0.3369507793787418
   },
   {
     "city": "College Station",
