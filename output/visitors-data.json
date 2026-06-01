@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 708,
-    "lastVisit": "2026-05-31T15:24:00",
+    "visitors": 709,
+    "lastVisit": "2026-05-31T21:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7155179098208524
+    "normalized": 0.7156715515433686
   },
   {
     "city": "Sylhet",
@@ -4583,11 +4583,11 @@
   {
     "city": "Sunnyvale",
     "country": "United States",
-    "visitors": 21,
-    "lastVisit": "2026-05-31T01:24:00",
+    "visitors": 22,
+    "lastVisit": "2026-05-31T16:58:00",
     "lat": 37.36883,
     "lon": -122.03635,
-    "normalized": 0.3369507793787418
+    "normalized": 0.3417964119667795
   },
   {
     "city": "College Station",
