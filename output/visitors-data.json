@@ -7400,11 +7400,11 @@
   {
     "city": "Milpitas",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-05-29T22:38:00",
+    "visitors": 5,
+    "lastVisit": "2026-06-01T11:13:00",
     "lat": 37.42827,
     "lon": -121.90662,
-    "normalized": 0.1511182626819632
+    "normalized": 0.1953175211035021
   },
   {
     "city": "Weifang",
