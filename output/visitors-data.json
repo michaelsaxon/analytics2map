@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 715,
-    "lastVisit": "2026-06-02T03:33:00",
+    "visitors": 716,
+    "lastVisit": "2026-06-02T15:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7165888819279835
+    "normalized": 0.7167410226143399
   },
   {
     "city": "Sylhet",
@@ -1766,11 +1766,11 @@
   {
     "city": "Sydney",
     "country": "Australia",
-    "visitors": 21,
-    "lastVisit": "2026-06-01T22:22:00",
+    "visitors": 23,
+    "lastVisit": "2026-06-02T14:48:00",
     "lat": -33.86785,
     "lon": 151.20732,
-    "normalized": 0.3369507793787418
+    "normalized": 0.34643578378546536
   },
   {
     "city": "Ormiston",
@@ -8354,11 +8354,11 @@
   {
     "city": "Cupertino",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2026-05-27T19:49:00",
+    "visitors": 11,
+    "lastVisit": "2026-06-02T13:34:00",
     "lat": 37.323,
     "lon": -122.03218,
-    "normalized": 0.26139164803776016
+    "normalized": 0.2708766524444837
   },
   {
     "city": "Clearwater",
