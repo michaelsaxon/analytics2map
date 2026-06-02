@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 126,
-    "lastVisit": "2026-05-30T12:51:00",
+    "visitors": 127,
+    "lastVisit": "2026-06-02T00:33:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.528058944148525
+    "normalized": 0.5289139193868713
   },
   {
     "city": "Ames",
@@ -380,11 +380,11 @@
   {
     "city": null,
     "country": "Vietnam",
-    "visitors": 10,
-    "lastVisit": "2025-10-01T00:00:00",
+    "visitors": 11,
+    "lastVisit": "2026-06-01T23:54:00",
     "lat": 21.0245,
     "lon": 105.84117,
-    "normalized": 0.26139164803776016
+    "normalized": 0.2708766524444837
   },
   {
     "city": null,
@@ -1253,11 +1253,11 @@
   {
     "city": "Ventura",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2024-03-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2026-06-01T22:59:00",
     "lat": 34.27834,
     "lon": -119.29317,
-    "normalized": 0.1511182626819632
+    "normalized": 0.1754428698859094
   },
   {
     "city": "State College",
@@ -1766,11 +1766,11 @@
   {
     "city": "Sydney",
     "country": "Australia",
-    "visitors": 20,
-    "lastVisit": "2026-02-24T19:46:00",
+    "visitors": 21,
+    "lastVisit": "2026-06-01T22:22:00",
     "lat": -33.86785,
     "lon": 151.20732,
-    "normalized": 0.3318796890390222
+    "normalized": 0.3369507793787418
   },
   {
     "city": "Ormiston",
