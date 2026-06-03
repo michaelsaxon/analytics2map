@@ -3260,11 +3260,11 @@
   {
     "city": "Phnom Penh",
     "country": "Cambodia",
-    "visitors": 2,
-    "lastVisit": "2024-07-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2026-06-03T04:17:00",
     "lat": 11.56245,
     "lon": 104.91601,
-    "normalized": 0.11975838976252051
+    "normalized": 0.1511182626819632
   },
   {
     "city": "Bavet",
