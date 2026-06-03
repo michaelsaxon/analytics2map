@@ -335,11 +335,11 @@
   {
     "city": null,
     "country": "Germany",
-    "visitors": 165,
-    "lastVisit": "2026-05-30T09:10:00",
+    "visitors": 166,
+    "lastVisit": "2026-06-03T13:20:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.5572515730380606
+    "normalized": 0.5579062824180167
   },
   {
     "city": null,
@@ -3152,11 +3152,11 @@
   {
     "city": "Washington",
     "country": "United States",
-    "visitors": 30,
-    "lastVisit": "2026-06-03T10:17:00",
+    "visitors": 31,
+    "lastVisit": "2026-06-03T13:06:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.37433476970552837
+    "normalized": 0.37779565670490806
   },
   {
     "city": "Halethorpe",
@@ -4322,11 +4322,11 @@
   {
     "city": "Calgary",
     "country": "Canada",
-    "visitors": 14,
-    "lastVisit": "2026-05-25T14:17:00",
+    "visitors": 15,
+    "lastVisit": "2026-06-03T14:10:00",
     "lat": 51.05011,
     "lon": -114.08529,
-    "normalized": 0.2952012596484299
+    "normalized": 0.3022365253639264
   },
   {
     "city": "Howrah",
