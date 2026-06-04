@@ -74,11 +74,11 @@
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 39,
-    "lastVisit": "2026-05-22T10:24:00",
+    "visitors": 41,
+    "lastVisit": "2026-06-03T16:47:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.40212026390885425
+    "normalized": 0.4074388203800038
   },
   {
     "city": "New York",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 717,
-    "lastVisit": "2026-06-02T21:17:00",
+    "visitors": 718,
+    "lastVisit": "2026-06-03T15:23:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7168929512578593
+    "normalized": 0.7170446684487793
   },
   {
     "city": "Sylhet",
