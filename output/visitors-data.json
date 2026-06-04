@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 46,
-    "lastVisit": "2026-05-24T21:32:00",
+    "visitors": 48,
+    "lastVisit": "2026-06-04T14:33:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.4196951624446173
+    "normalized": 0.42423780103789444
   },
   {
     "city": "Tustin",
@@ -6950,11 +6950,11 @@
   {
     "city": "Silverdale",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2025-11-16T14:12:00",
+    "visitors": 5,
+    "lastVisit": "2026-06-04T14:28:00",
     "lat": 47.64454,
     "lon": -122.69487,
-    "normalized": 0.1754408859035797
+    "normalized": 0.19531531237019306
   },
   {
     "city": "Kingston",
@@ -8453,11 +8453,11 @@
   {
     "city": "Colusa",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2025-12-30T17:36:00",
+    "visitors": 3,
+    "lastVisit": "2026-06-04T13:29:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.11975703548389251
+    "normalized": 0.15111655377260114
   },
   {
     "city": "Rosamond",
