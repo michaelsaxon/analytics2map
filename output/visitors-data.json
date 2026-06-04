@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 38,
-    "lastVisit": "2026-05-29T05:19:00",
+    "visitors": 39,
+    "lastVisit": "2026-06-04T06:30:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.3993604004449282
+    "normalized": 0.40212026390885425
   },
   {
     "city": "Los Angeles",
@@ -911,11 +911,11 @@
   {
     "city": "Durham",
     "country": "United States",
-    "visitors": 32,
-    "lastVisit": "2026-05-19T21:38:00",
+    "visitors": 34,
+    "lastVisit": "2026-06-04T06:43:00",
     "lat": 35.99403,
     "lon": -78.89862,
-    "normalized": 0.3811500378002806
+    "normalized": 0.3875641691624111
   },
   {
     "city": "Syracuse",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 62,
-    "lastVisit": "2026-05-01T16:46:00",
+    "visitors": 64,
+    "lastVisit": "2026-06-04T05:39:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.45163807880154266
+    "normalized": 0.45504488056831716
   },
   {
     "city": "Minneapolis",
@@ -5951,11 +5951,11 @@
   {
     "city": "Bangkok",
     "country": "Thailand",
-    "visitors": 2,
-    "lastVisit": "2025-09-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2026-06-04T06:31:00",
     "lat": 13.75398,
     "lon": 100.50144,
-    "normalized": 0.11975838976252051
+    "normalized": 0.1511182626819632
   },
   {
     "city": "Wiphawadi",
@@ -8147,11 +8147,11 @@
   {
     "city": "Glenview",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-12-20T21:56:00",
+    "visitors": 2,
+    "lastVisit": "2026-06-04T05:38:00",
     "lat": 42.06975,
     "lon": -87.78784,
-    "normalized": 0.0755591313409816
+    "normalized": 0.11975838976252051
   },
   {
     "city": "Kahaluu-Keauhou",
