@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 719,
-    "lastVisit": "2026-06-03T21:16:00",
+    "visitors": 720,
+    "lastVisit": "2026-06-04T03:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7171961747748768
+    "normalized": 0.7173474708214813
   },
   {
     "city": "Sylhet",
@@ -2558,11 +2558,11 @@
   {
     "city": "Dublin",
     "country": "Ireland",
-    "visitors": 6,
-    "lastVisit": "2026-01-14T16:00:00",
+    "visitors": 7,
+    "lastVisit": "2026-06-04T01:22:00",
     "lat": 53.33306,
     "lon": -6.24889,
-    "normalized": 0.2121212992765017
+    "normalized": 0.22667739402294482
   },
   {
     "city": "Celbridge",
