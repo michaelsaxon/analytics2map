@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 264,
-    "lastVisit": "2026-06-02T13:17:00",
+    "visitors": 265,
+    "lastVisit": "2026-06-05T00:40:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6082326855921706
+    "normalized": 0.6086432606589526
   },
   {
     "city": "Lompoc",
@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 199,
-    "lastVisit": "2026-04-07T10:23:00",
+    "visitors": 200,
+    "lastVisit": "2026-06-05T00:11:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5775566024660611
+    "normalized": 0.5781002821534957
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 722,
-    "lastVisit": "2026-06-04T15:17:00",
+    "visitors": 723,
+    "lastVisit": "2026-06-04T21:29:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7176413189214111
+    "normalized": 0.7177919859134165
   },
   {
     "city": "Sylhet",
@@ -6617,11 +6617,11 @@
   {
     "city": "Anaheim",
     "country": "United States",
-    "visitors": 32,
-    "lastVisit": "2026-04-28T13:38:00",
+    "visitors": 33,
+    "lastVisit": "2026-06-04T23:36:00",
     "lat": 33.83529,
     "lon": -117.9145,
-    "normalized": 0.38114572759411236
+    "normalized": 0.3843999260079586
   },
   {
     "city": "Khorramabad",
