@@ -3710,11 +3710,11 @@
   {
     "city": "Bellevue",
     "country": "United States",
-    "visitors": 184,
-    "lastVisit": "2026-05-22T17:13:00",
+    "visitors": 185,
+    "lastVisit": "2026-06-04T17:31:00",
     "lat": 47.61038,
     "lon": -122.20068,
-    "normalized": 0.5690582057300423
+    "normalized": 0.5696458489394933
   },
   {
     "city": "Burlingame",
@@ -4322,11 +4322,11 @@
   {
     "city": "Calgary",
     "country": "Canada",
-    "visitors": 15,
-    "lastVisit": "2026-06-03T14:10:00",
+    "visitors": 16,
+    "lastVisit": "2026-06-04T17:17:00",
     "lat": 51.05011,
     "lon": -114.08529,
-    "normalized": 0.3022331075452023
+    "normalized": 0.308841649121658
   },
   {
     "city": "Howrah",
