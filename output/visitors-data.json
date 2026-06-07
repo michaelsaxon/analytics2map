@@ -11099,10 +11099,10 @@
   {
     "city": "Durres",
     "country": "Albania",
-    "visitors": 1,
-    "lastVisit": "2026-06-07T03:25:00",
+    "visitors": 4,
+    "lastVisit": "2026-06-07T05:38:00",
     "lat": 41.32355,
     "lon": 19.45469,
-    "normalized": 0.07555656830077431
+    "normalized": 0.17543691869084377
   }
 ]
