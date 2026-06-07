@@ -9380,11 +9380,11 @@
   {
     "city": "Addis Ababa",
     "country": "Ethiopia",
-    "visitors": 2,
-    "lastVisit": "2026-02-10T10:59:00",
+    "visitors": 3,
+    "lastVisit": "2026-06-07T12:07:00",
     "lat": 9.02497,
     "lon": 38.74689,
-    "normalized": 0.11975432743990412
+    "normalized": 0.15111313660154863
   },
   {
     "city": "Newcastle",
@@ -10028,11 +10028,11 @@
   {
     "city": "Alexandria",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-05-14T11:43:00",
+    "visitors": 4,
+    "lastVisit": "2026-06-07T13:08:00",
     "lat": 38.80484,
     "lon": -77.04692,
-    "normalized": 0.15111313660154863
+    "normalized": 0.17543691869084377
   },
   {
     "city": "Panevezys",
