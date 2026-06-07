@@ -1388,11 +1388,11 @@
   {
     "city": null,
     "country": "Iran",
-    "visitors": 361,
-    "lastVisit": "2026-02-25T06:20:00",
+    "visitors": 362,
+    "lastVisit": "2026-06-07T08:26:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.642219186313458
+    "normalized": 0.6425198901907585
   },
   {
     "city": null,
@@ -11099,10 +11099,10 @@
   {
     "city": "Durres",
     "country": "Albania",
-    "visitors": 7,
-    "lastVisit": "2026-06-07T06:54:00",
+    "visitors": 8,
+    "lastVisit": "2026-06-07T08:17:00",
     "lat": 41.32355,
     "lon": 19.45469,
-    "normalized": 0.22666970490232294
+    "normalized": 0.23950865487980824
   }
 ]
