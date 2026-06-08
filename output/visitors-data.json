@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 129,
-    "lastVisit": "2026-06-06T13:51:00",
+    "visitors": 130,
+    "lastVisit": "2026-06-08T06:36:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5305800152769362
+    "normalized": 0.5314152979400161
   },
   {
     "city": "Ames",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 735,
-    "lastVisit": "2026-06-08T03:15:00",
+    "visitors": 736,
+    "lastVisit": "2026-06-08T07:58:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7195595250309775
+    "normalized": 0.7197075275712217
   },
   {
     "city": "Sylhet",
@@ -1433,11 +1433,11 @@
   {
     "city": "San Antonio",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-04-29T21:07:00",
+    "visitors": 5,
+    "lastVisit": "2026-06-08T07:24:00",
     "lat": 29.42412,
     "lon": -98.49363,
-    "normalized": 0.17543493546032124
+    "normalized": 0.19530868784434333
   },
   {
     "city": "Redondo Beach",
@@ -10217,11 +10217,11 @@
   {
     "city": "Boydton",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-04-08T04:35:00",
+    "visitors": 6,
+    "lastVisit": "2026-06-08T07:25:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.19530868784434333
+    "normalized": 0.21211170606438728
   },
   {
     "city": "Bayingolin Mongol Autonomous Prefecture",
