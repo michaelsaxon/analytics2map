@@ -11,11 +11,11 @@
   {
     "city": "Goleta",
     "country": "United States",
-    "visitors": 71,
-    "lastVisit": "2026-04-29T01:28:00",
+    "visitors": 73,
+    "lastVisit": "2026-06-08T20:41:00",
     "lat": 34.43583,
     "lon": -119.82764,
-    "normalized": 0.4661730898585657
+    "normalized": 0.4691596836446542
   },
   {
     "city": "Boardman",
@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 130,
-    "lastVisit": "2026-06-08T06:36:00",
+    "visitors": 131,
+    "lastVisit": "2026-06-08T18:42:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5314152979400161
+    "normalized": 0.5322442285822239
   },
   {
     "city": "Ames",
@@ -11104,5 +11104,14 @@
     "lat": 41.32355,
     "lon": 19.45469,
     "normalized": 0.2395059473489287
+  },
+  {
+    "city": "San Tan Valley",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-06-08T21:15:00",
+    "lat": 33.1911,
+    "lon": -111.528,
+    "normalized": 0.07555571416987901
   }
 ]
