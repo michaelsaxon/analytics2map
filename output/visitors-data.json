@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 269,
-    "lastVisit": "2026-06-08T04:39:00",
+    "visitors": 270,
+    "lastVisit": "2026-06-08T22:16:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6102495706535933
+    "normalized": 0.6106525428468947
   },
   {
     "city": "Lompoc",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 108,
-    "lastVisit": "2026-05-18T06:34:00",
+    "visitors": 109,
+    "lastVisit": "2026-06-08T22:29:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.511375000291901
+    "normalized": 0.5123704761982019
   },
   {
     "city": "Stanford",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 737,
-    "lastVisit": "2026-06-08T15:14:00",
+    "visitors": 738,
+    "lastVisit": "2026-06-08T21:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7198553294299939
+    "normalized": 0.7200029311507783
   },
   {
     "city": "Sylhet",
@@ -2135,11 +2135,11 @@
   {
     "city": "Tempe",
     "country": "United States",
-    "visitors": 19,
-    "lastVisit": "2026-04-06T06:49:00",
+    "visitors": 20,
+    "lastVisit": "2026-06-08T22:53:00",
     "lat": 33.41477,
     "lon": -111.90931,
-    "normalized": 0.3265463638000793
+    "normalized": 0.33186467973885164
   },
   {
     "city": "Ludhiana",
@@ -4628,11 +4628,11 @@
   {
     "city": "Isfahan",
     "country": "Iran",
-    "visitors": 8,
-    "lastVisit": "2026-05-26T13:14:00",
+    "visitors": 10,
+    "lastVisit": "2026-06-08T23:18:00",
     "lat": 32.65246,
     "lon": 51.67462,
-    "normalized": 0.2395059473489287
+    "normalized": 0.2613798265680015
   },
   {
     "city": "Hur",
@@ -11108,10 +11108,10 @@
   {
     "city": "San Tan Valley",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-06-08T21:15:00",
+    "visitors": 2,
+    "lastVisit": "2026-06-08T21:20:00",
     "lat": 33.1911,
     "lon": -111.528,
-    "normalized": 0.07555571416987901
+    "normalized": 0.11975297367446434
   }
 ]
