@@ -47,11 +47,11 @@
   {
     "city": "Ames",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2026-03-03T06:25:00",
+    "visitors": 8,
+    "lastVisit": "2026-06-09T11:59:00",
     "lat": 42.03471,
     "lon": -93.61994,
-    "normalized": 0.21210930851866747
+    "normalized": 0.23950324016001584
   },
   {
     "city": "Austin",
@@ -1280,11 +1280,11 @@
   {
     "city": "Somerville",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2026-05-04T18:09:00",
+    "visitors": 11,
+    "lastVisit": "2026-06-09T11:06:00",
     "lat": 42.3876,
     "lon": -71.0995,
-    "normalized": 0.2613768721337741
+    "normalized": 0.2708613403737323
   },
   {
     "city": "Sherman Oaks",
@@ -2135,11 +2135,11 @@
   {
     "city": "Tempe",
     "country": "United States",
-    "visitors": 20,
-    "lastVisit": "2026-06-08T22:53:00",
+    "visitors": 23,
+    "lastVisit": "2026-06-09T10:42:00",
     "lat": 33.41477,
     "lon": -111.90931,
-    "normalized": 0.3318609285986754
+    "normalized": 0.3464162005205945
   },
   {
     "city": "Ludhiana",
@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 21,
-    "lastVisit": "2026-05-06T08:27:00",
+    "visitors": 22,
+    "lastVisit": "2026-06-09T11:29:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.3369317322806363
+    "normalized": 0.341777090955554
   },
   {
     "city": "Visalia",
@@ -11113,5 +11113,14 @@
     "lat": 33.1911,
     "lon": -111.528,
     "normalized": 0.11975162008000792
+  },
+  {
+    "city": "Duvall",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-06-09T11:39:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07555486014686219
   }
 ]
