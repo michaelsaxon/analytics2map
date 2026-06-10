@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 388,
-    "lastVisit": "2026-06-06T21:20:00",
+    "visitors": 389,
+    "lastVisit": "2026-06-10T12:54:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6500457852512908
+    "normalized": 0.6503256380931993
   },
   {
     "city": null,
@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 22,
-    "lastVisit": "2026-06-09T11:29:00",
+    "visitors": 23,
+    "lastVisit": "2026-06-10T12:18:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.341777090955554
+    "normalized": 0.3464162005205945
   },
   {
     "city": "Visalia",
@@ -11121,6 +11121,15 @@
     "lastVisit": "2026-06-09T11:39:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.07555486014686219
+  },
+  {
+    "city": "Saguenay",
+    "country": "Canada",
+    "visitors": 1,
+    "lastVisit": "2026-06-10T12:52:00",
+    "lat": 48.41675,
+    "lon": -71.06573,
     "normalized": 0.07555486014686219
   }
 ]
