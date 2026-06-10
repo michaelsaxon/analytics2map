@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 146,
-    "lastVisit": "2026-05-31T01:10:00",
+    "visitors": 147,
+    "lastVisit": "2026-06-10T07:59:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5439702371173428
+    "normalized": 0.5447092407754202
   },
   {
     "city": "Four Oaks",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 67,
-    "lastVisit": "2026-06-03T08:54:00",
+    "visitors": 68,
+    "lastVisit": "2026-06-10T08:56:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.4599374036198898
+    "normalized": 0.4615287110355619
   },
   {
     "city": "Sabz",
