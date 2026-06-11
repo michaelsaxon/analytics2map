@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 743,
-    "lastVisit": "2026-06-10T10:12:00",
+    "visitors": 744,
+    "lastVisit": "2026-06-10T15:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7207298098919754
+    "normalized": 0.7208762204204335
   },
   {
     "city": "Sylhet",
@@ -11126,10 +11126,10 @@
   {
     "city": "Saguenay",
     "country": "Canada",
-    "visitors": 1,
-    "lastVisit": "2026-06-10T12:52:00",
+    "visitors": 2,
+    "lastVisit": "2026-06-10T13:43:00",
     "lat": 48.41675,
     "lon": -71.06573,
-    "normalized": 0.07555486014686219
+    "normalized": 0.11975162008000792
   }
 ]
