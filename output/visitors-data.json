@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 746,
-    "lastVisit": "2026-06-10T21:25:00",
+    "visitors": 747,
+    "lastVisit": "2026-06-11T09:27:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7211684528261646
+    "normalized": 0.7213142757536639
   },
   {
     "city": "Sylhet",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 39,
-    "lastVisit": "2026-05-12T08:42:00",
+    "visitors": 42,
+    "lastVisit": "2026-06-11T10:32:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.40209753292087136
+    "normalized": 0.40998067466136445
   },
   {
     "city": "Cairo",
@@ -11157,6 +11157,24 @@
     "lastVisit": "2026-06-11T07:09:00",
     "lat": 27.77086,
     "lon": -82.67927,
+    "normalized": 0.07555486014686219
+  },
+  {
+    "city": "North Potomac",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-06-11T11:12:00",
+    "lat": 39.08289,
+    "lon": -77.26498,
+    "normalized": 0.11975162008000792
+  },
+  {
+    "city": "Warren",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-06-11T12:50:00",
+    "lat": 41.23756,
+    "lon": -80.81842,
     "normalized": 0.07555486014686219
   }
 ]
