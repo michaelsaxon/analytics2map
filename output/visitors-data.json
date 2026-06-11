@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 23,
-    "lastVisit": "2026-06-10T12:18:00",
+    "visitors": 24,
+    "lastVisit": "2026-06-11T05:00:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.3464162005205945
+    "normalized": 0.35086590496056963
   },
   {
     "city": "Visalia",
@@ -11148,6 +11148,15 @@
     "lastVisit": "2026-06-10T21:21:00",
     "lat": -0.22985,
     "lon": -78.52495,
+    "normalized": 0.07555486014686219
+  },
+  {
+    "city": "St. Petersburg",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-06-11T07:09:00",
+    "lat": 27.77086,
+    "lon": -82.67927,
     "normalized": 0.07555486014686219
   }
 ]
