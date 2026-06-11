@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 744,
-    "lastVisit": "2026-06-10T15:17:00",
+    "visitors": 746,
+    "lastVisit": "2026-06-10T21:25:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7208762204204335
+    "normalized": 0.7211684528261646
   },
   {
     "city": "Sylhet",
@@ -7706,11 +7706,11 @@
   {
     "city": "Moreno Valley",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2025-12-06T10:57:00",
+    "visitors": 6,
+    "lastVisit": "2026-06-10T20:45:00",
     "lat": 33.93752,
     "lon": -117.23059,
-    "normalized": 0.17543295248028482
+    "normalized": 0.21210930851866747
   },
   {
     "city": "Setagaya City",
@@ -11131,5 +11131,23 @@
     "lat": 48.41675,
     "lon": -71.06573,
     "normalized": 0.11975162008000792
+  },
+  {
+    "city": "Lumajang",
+    "country": "Indonesia",
+    "visitors": 1,
+    "lastVisit": "2026-06-10T18:05:00",
+    "lat": -8.1335,
+    "lon": 113.2248,
+    "normalized": 0.07555486014686219
+  },
+  {
+    "city": null,
+    "country": "Ecuador",
+    "visitors": 1,
+    "lastVisit": "2026-06-10T21:21:00",
+    "lat": -0.22985,
+    "lon": -78.52495,
+    "normalized": 0.07555486014686219
   }
 ]
