@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 39,
-    "lastVisit": "2026-06-04T06:30:00",
+    "visitors": 40,
+    "lastVisit": "2026-06-11T15:06:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.40209753292087136
+    "normalized": 0.4047890924384605
   },
   {
     "city": "Los Angeles",
@@ -2558,11 +2558,11 @@
   {
     "city": "Dublin",
     "country": "Ireland",
-    "visitors": 7,
-    "lastVisit": "2026-06-04T01:22:00",
+    "visitors": 8,
+    "lastVisit": "2026-06-11T15:06:00",
     "lat": 53.33306,
     "lon": -6.24889,
-    "normalized": 0.22666458044058654
+    "normalized": 0.23950324016001584
   },
   {
     "city": "Celbridge",
@@ -9650,11 +9650,11 @@
   {
     "city": "Prineville",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-02-20T18:40:00",
+    "visitors": 2,
+    "lastVisit": "2026-06-11T15:06:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.07555486014686219
+    "normalized": 0.11975162008000792
   },
   {
     "city": "Altoona",
@@ -11171,10 +11171,10 @@
   {
     "city": "Warren",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-06-11T12:50:00",
+    "visitors": 2,
+    "lastVisit": "2026-06-11T15:05:00",
     "lat": 41.23756,
     "lon": -80.81842,
-    "normalized": 0.07555486014686219
+    "normalized": 0.11975162008000792
   }
 ]
