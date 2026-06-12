@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 749,
-    "lastVisit": "2026-06-11T21:28:00",
+    "visitors": 750,
+    "lastVisit": "2026-06-12T03:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7216053376677245
+    "normalized": 0.721750577691943
   },
   {
     "city": "Sylhet",
@@ -2585,11 +2585,11 @@
   {
     "city": "Paris",
     "country": "France",
-    "visitors": 19,
-    "lastVisit": "2026-05-03T10:55:00",
+    "visitors": 20,
+    "lastVisit": "2026-06-12T04:15:00",
     "lat": 48.85341,
     "lon": 2.3488,
-    "normalized": 0.32654267277400917
+    "normalized": 0.3318609285986754
   },
   {
     "city": "Perugia",
