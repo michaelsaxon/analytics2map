@@ -767,11 +767,11 @@
   {
     "city": "Ho Chi Minh City",
     "country": "Vietnam",
-    "visitors": 6,
-    "lastVisit": "2024-03-01T00:00:00",
+    "visitors": 7,
+    "lastVisit": "2026-06-12T06:26:00",
     "lat": 10.82302,
     "lon": 106.62965,
-    "normalized": 0.21210930851866747
+    "normalized": 0.22666458044058654
   },
   {
     "city": "Hanoi",
