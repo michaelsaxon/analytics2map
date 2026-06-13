@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 753,
-    "lastVisit": "2026-06-12T21:14:00",
+    "visitors": 754,
+    "lastVisit": "2026-06-13T03:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7221851402158846
+    "normalized": 0.7223296102463757
   },
   {
     "city": "Sylhet",
@@ -11176,5 +11176,14 @@
     "lat": 41.23756,
     "lon": -80.81842,
     "normalized": 0.11975162008000792
+  },
+  {
+    "city": "Wagga Wagga",
+    "country": "Australia",
+    "visitors": 1,
+    "lastVisit": "2026-06-13T04:10:00",
+    "lat": -35.28346,
+    "lon": 149.12807,
+    "normalized": 0.07555486014686219
   }
 ]
