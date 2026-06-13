@@ -281,20 +281,20 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 59,
-    "lastVisit": "2026-05-28T10:24:00",
+    "visitors": 60,
+    "lastVisit": "2026-06-12T21:38:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.44629429285401706
+    "normalized": 0.4480960301073377
   },
   {
     "city": null,
     "country": "China",
-    "visitors": 389,
-    "lastVisit": "2026-06-10T12:54:00",
+    "visitors": 390,
+    "lastVisit": "2026-06-12T21:38:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6503256380931993
+    "normalized": 0.6506047742817194
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 752,
-    "lastVisit": "2026-06-12T15:21:00",
+    "visitors": 753,
+    "lastVisit": "2026-06-12T21:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7220404784533793
+    "normalized": 0.7221851402158846
   },
   {
     "city": "Sylhet",
