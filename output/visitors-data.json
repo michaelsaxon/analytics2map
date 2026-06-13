@@ -3197,11 +3197,11 @@
   {
     "city": "Tabriz",
     "country": "Iran",
-    "visitors": 9,
-    "lastVisit": "2026-02-09T10:46:00",
+    "visitors": 10,
+    "lastVisit": "2026-06-13T05:08:00",
     "lat": 38.08,
     "lon": 46.2919,
-    "normalized": 0.25098781262714703
+    "normalized": 0.2613768721337741
   },
   {
     "city": "Victoria",
@@ -11180,10 +11180,10 @@
   {
     "city": "Wagga Wagga",
     "country": "Australia",
-    "visitors": 1,
-    "lastVisit": "2026-06-13T04:10:00",
+    "visitors": 5,
+    "lastVisit": "2026-06-13T04:41:00",
     "lat": -35.28346,
     "lon": 149.12807,
-    "normalized": 0.07555486014686219
+    "normalized": 0.1953064802268701
   }
 ]
