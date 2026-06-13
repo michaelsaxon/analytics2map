@@ -11185,5 +11185,14 @@
     "lat": -35.28346,
     "lon": 149.12807,
     "normalized": 0.1953064802268701
+  },
+  {
+    "city": "Gazipur",
+    "country": "Bangladesh",
+    "visitors": 1,
+    "lastVisit": "2026-06-13T12:28:00",
+    "lat": 23.99844,
+    "lon": 90.42234,
+    "normalized": 0.07555486014686219
   }
 ]
