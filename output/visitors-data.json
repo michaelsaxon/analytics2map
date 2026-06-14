@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 757,
-    "lastVisit": "2026-06-13T21:21:00",
+    "visitors": 758,
+    "lastVisit": "2026-06-14T03:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7227618750113431
+    "normalized": 0.7229055831693361
   },
   {
     "city": "Sylhet",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 68,
-    "lastVisit": "2026-06-10T08:56:00",
+    "visitors": 69,
+    "lastVisit": "2026-06-14T03:37:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.4615287110355619
+    "normalized": 0.4630971211458145
   },
   {
     "city": "Sabz",
