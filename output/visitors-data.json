@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 761,
-    "lastVisit": "2026-06-14T21:17:00",
+    "visitors": 763,
+    "lastVisit": "2026-06-15T03:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7233355743464586
+    "normalized": 0.7236212956687672
   },
   {
     "city": "Sylhet",
@@ -11099,11 +11099,11 @@
   {
     "city": "Durres",
     "country": "Albania",
-    "visitors": 8,
-    "lastVisit": "2026-06-07T08:17:00",
+    "visitors": 9,
+    "lastVisit": "2026-06-15T01:21:00",
     "lat": 41.32355,
     "lon": 19.45469,
-    "normalized": 0.23950324016001584
+    "normalized": 0.25098781262714703
   },
   {
     "city": "San Tan Valley",
@@ -11203,5 +11203,14 @@
     "lat": 45.11997,
     "lon": -93.28773,
     "normalized": 0.15110972029372438
+  },
+  {
+    "city": "Nagpur",
+    "country": "India",
+    "visitors": 2,
+    "lastVisit": "2026-06-15T03:14:00",
+    "lat": 21.14631,
+    "lon": 79.08491,
+    "normalized": 0.11975162008000792
   }
 ]
