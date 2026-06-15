@@ -6158,11 +6158,11 @@
   {
     "city": "Hamburg",
     "country": "Germany",
-    "visitors": 7,
-    "lastVisit": "2026-02-09T14:19:00",
+    "visitors": 8,
+    "lastVisit": "2026-06-15T15:05:00",
     "lat": 53.55073,
     "lon": 9.99302,
-    "normalized": 0.22666458044058654
+    "normalized": 0.23950324016001584
   },
   {
     "city": "Remagen",
