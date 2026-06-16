@@ -155,11 +155,11 @@
   {
     "city": "Stanford",
     "country": "United States",
-    "visitors": 35,
-    "lastVisit": "2026-05-17T22:36:00",
+    "visitors": 37,
+    "lastVisit": "2026-06-15T22:49:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.3906129604537402
+    "normalized": 0.39650642933910035
   },
   {
     "city": "Solvang",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 763,
-    "lastVisit": "2026-06-15T03:15:00",
+    "visitors": 764,
+    "lastVisit": "2026-06-15T21:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7236212956687672
+    "normalized": 0.723763875966466
   },
   {
     "city": "Sylhet",
@@ -2171,11 +2171,11 @@
   {
     "city": "Pune",
     "country": "India",
-    "visitors": 7,
-    "lastVisit": "2026-01-15T08:41:00",
+    "visitors": 9,
+    "lastVisit": "2026-06-16T00:52:00",
     "lat": 18.51957,
     "lon": 73.85535,
-    "normalized": 0.22666458044058654
+    "normalized": 0.25098781262714703
   },
   {
     "city": "New Delhi",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1472,
-    "lastVisit": "2026-05-26T17:48:00",
+    "visitors": 1473,
+    "lastVisit": "2026-06-15T22:29:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7951802773893507
+    "normalized": 0.7952542527040657
   },
   {
     "city": "Riegelsberg",
