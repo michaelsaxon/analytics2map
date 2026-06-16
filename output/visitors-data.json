@@ -470,11 +470,11 @@
   {
     "city": "Cambridge",
     "country": "United States",
-    "visitors": 74,
-    "lastVisit": "2026-05-17T15:47:00",
+    "visitors": 76,
+    "lastVisit": "2026-06-16T14:19:00",
     "lat": 42.3751,
     "lon": -71.10561,
-    "normalized": 0.4706175250405775
+    "normalized": 0.4734861806524416
   },
   {
     "city": "San Diego",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 765,
-    "lastVisit": "2026-06-16T09:20:00",
+    "visitors": 766,
+    "lastVisit": "2026-06-16T14:12:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7239062700063748
+    "normalized": 0.7240484782744891
   },
   {
     "city": "Sylhet",
@@ -2873,11 +2873,11 @@
   {
     "city": "Minneapolis",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-02-27T12:41:00",
+    "visitors": 6,
+    "lastVisit": "2026-06-16T14:04:00",
     "lat": 44.97997,
     "lon": -93.26384,
-    "normalized": 0.1953064802268701
+    "normalized": 0.21210930851866747
   },
   {
     "city": "Highland",
@@ -11212,5 +11212,14 @@
     "lat": 21.14631,
     "lon": 79.08491,
     "normalized": 0.11975162008000792
+  },
+  {
+    "city": "Tirana",
+    "country": "Albania",
+    "visitors": 1,
+    "lastVisit": "2026-06-16T14:12:00",
+    "lat": 41.32744,
+    "lon": 19.81866,
+    "normalized": 0.07555486014686219
   }
 ]
