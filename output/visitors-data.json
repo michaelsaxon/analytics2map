@@ -974,11 +974,11 @@
   {
     "city": "Moscow",
     "country": "Russia",
-    "visitors": 17,
-    "lastVisit": "2025-10-01T00:00:00",
+    "visitors": 18,
+    "lastVisit": "2026-06-16T06:00:00",
     "lat": 55.75222,
     "lon": 37.61556,
-    "normalized": 0.315058100306878
+    "normalized": 0.3209515691922381
   },
   {
     "city": "Voronezh",
