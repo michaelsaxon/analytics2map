@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 78,
-    "lastVisit": "2026-06-02T11:27:00",
+    "visitors": 79,
+    "lastVisit": "2026-06-16T10:32:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.4762812728250033
+    "normalized": 0.47765239306773355
   },
   {
     "city": "Manhattan",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 764,
-    "lastVisit": "2026-06-15T21:16:00",
+    "visitors": 765,
+    "lastVisit": "2026-06-16T09:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.723763875966466
+    "normalized": 0.7239062700063748
   },
   {
     "city": "Sylhet",
@@ -3350,11 +3350,11 @@
   {
     "city": "Redmond",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2026-04-28T11:17:00",
+    "visitors": 18,
+    "lastVisit": "2026-06-16T11:03:00",
     "lat": 47.67399,
     "lon": -122.12151,
-    "normalized": 0.30221944058744876
+    "normalized": 0.3209515691922381
   },
   {
     "city": "Everett",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 69,
-    "lastVisit": "2026-06-14T03:37:00",
+    "visitors": 70,
+    "lastVisit": "2026-06-16T10:16:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.4630971211458145
+    "normalized": 0.46464328355274487
   },
   {
     "city": "Sabz",
