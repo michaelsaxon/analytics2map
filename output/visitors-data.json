@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 49,
-    "lastVisit": "2026-06-09T13:39:00",
+    "visitors": 50,
+    "lastVisit": "2026-06-17T11:13:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.4264207651074318
+    "normalized": 0.4285793034061733
   },
   {
     "city": "Tustin",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 771,
-    "lastVisit": "2026-06-17T03:17:00",
+    "visitors": 772,
+    "lastVisit": "2026-06-17T09:22:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7247567499155738
+    "normalized": 0.7248978536531409
   },
   {
     "city": "Sylhet",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 70,
-    "lastVisit": "2026-06-16T10:16:00",
+    "visitors": 71,
+    "lastVisit": "2026-06-17T12:30:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.46464328355274487
+    "normalized": 0.4661678206006024
   },
   {
     "city": "Sabz",
