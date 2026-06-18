@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 772,
-    "lastVisit": "2026-06-17T09:22:00",
+    "visitors": 773,
+    "lastVisit": "2026-06-17T15:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7248978536531409
+    "normalized": 0.7250387749682425
   },
   {
     "city": "Sylhet",
@@ -7319,11 +7319,11 @@
   {
     "city": "Chandler",
     "country": "United States",
-    "visitors": 27,
-    "lastVisit": "2026-02-21T19:46:00",
+    "visitors": 28,
+    "lastVisit": "2026-06-17T15:48:00",
     "lat": 33.30616,
     "lon": -111.84125,
-    "normalized": 0.3632190288123918
+    "normalized": 0.3670440746829781
   },
   {
     "city": "Gilbert",
