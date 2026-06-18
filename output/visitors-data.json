@@ -9785,11 +9785,11 @@
   {
     "city": "Graz",
     "country": "Austria",
-    "visitors": 2,
-    "lastVisit": "2026-02-26T04:49:00",
+    "visitors": 3,
+    "lastVisit": "2026-06-18T12:00:00",
     "lat": 47.06667,
     "lon": 15.45,
-    "normalized": 0.11975162008000792
+    "normalized": 0.15110972029372438
   },
   {
     "city": "Dalian",
