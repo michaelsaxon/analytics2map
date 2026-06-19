@@ -1622,11 +1622,11 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 42,
-    "lastVisit": "2026-05-28T06:05:00",
+    "visitors": 43,
+    "lastVisit": "2026-06-18T17:37:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.40998067466136445
+    "normalized": 0.41248659242749847
   },
   {
     "city": "Shenzhen",
@@ -4583,11 +4583,11 @@
   {
     "city": "Sunnyvale",
     "country": "United States",
-    "visitors": 23,
-    "lastVisit": "2026-06-01T16:49:00",
+    "visitors": 24,
+    "lastVisit": "2026-06-18T19:41:00",
     "lat": 37.36883,
     "lon": -122.03635,
-    "normalized": 0.3464162005205945
+    "normalized": 0.35086590496056963
   },
   {
     "city": "College Station",
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2026-06-18T15:54:00",
+    "visitors": 12,
+    "lastVisit": "2026-06-18T17:05:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.2708613403737323
+    "normalized": 0.27958620538604434
   },
   {
     "city": "Prague",
