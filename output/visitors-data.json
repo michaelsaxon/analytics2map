@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 359,
-    "lastVisit": "2026-06-14T22:38:00",
+    "visitors": 360,
+    "lastVisit": "2026-06-19T00:48:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6416007730808873
+    "normalized": 0.6419031383844762
   },
   {
     "city": "Santa Clara",
@@ -11229,6 +11229,15 @@
     "lastVisit": "2026-06-18T01:46:00",
     "lat": 29.56026,
     "lon": 106.55771,
+    "normalized": 0.07555486014686219
+  },
+  {
+    "city": "Zhongshan District",
+    "country": "Taiwan",
+    "visitors": 1,
+    "lastVisit": "2026-06-19T02:04:00",
+    "lat": 25.05306,
+    "lon": 121.52639,
     "normalized": 0.07555486014686219
   }
 ]
