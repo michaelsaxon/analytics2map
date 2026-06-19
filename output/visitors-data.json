@@ -2027,11 +2027,11 @@
   {
     "city": "Brussels",
     "country": "Belgium",
-    "visitors": 7,
-    "lastVisit": "2026-05-28T18:36:00",
+    "visitors": 8,
+    "lastVisit": "2026-06-19T00:07:00",
     "lat": 50.85045,
     "lon": 4.34878,
-    "normalized": 0.22666458044058654
+    "normalized": 0.23950324016001584
   },
   {
     "city": null,
