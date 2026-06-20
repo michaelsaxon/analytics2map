@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 271,
-    "lastVisit": "2026-06-14T14:50:00",
+    "visitors": 272,
+    "lastVisit": "2026-06-20T02:21:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6110402179064609
+    "normalized": 0.6114402234566838
   },
   {
     "city": "Lompoc",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 778,
-    "lastVisit": "2026-06-19T21:15:00",
+    "visitors": 779,
+    "lastVisit": "2026-06-20T03:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7257324593660869
+    "normalized": 0.7258722943950272
   },
   {
     "city": "Sylhet",
@@ -11248,5 +11248,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.07555400623169883
+  },
+  {
+    "city": "Croton-on-Hudson",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-06-20T03:58:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.11975026665649521
   }
 ]
