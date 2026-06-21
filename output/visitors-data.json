@@ -1118,11 +1118,11 @@
   {
     "city": "Hyderabad",
     "country": "India",
-    "visitors": 33,
-    "lastVisit": "2026-05-13T06:15:00",
+    "visitors": 34,
+    "lastVisit": "2026-06-21T08:24:00",
     "lat": 17.38405,
     "lon": 78.45636,
-    "normalized": 0.3843781992113644
+    "normalized": 0.38753788102640696
   },
   {
     "city": "Istanbul",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 783,
-    "lastVisit": "2026-06-21T03:16:00",
+    "visitors": 784,
+    "lastVisit": "2026-06-21T09:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7264298474782566
+    "normalized": 0.7265687912703139
   },
   {
     "city": "Sylhet",
