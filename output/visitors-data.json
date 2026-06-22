@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 786,
-    "lastVisit": "2026-06-21T15:16:00",
+    "visitors": 788,
+    "lastVisit": "2026-06-22T02:42:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7268461486467053
+    "normalized": 0.7271228020696079
   },
   {
     "city": "Sylhet",
@@ -2873,11 +2873,11 @@
   {
     "city": "Minneapolis",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2026-06-16T14:04:00",
+    "visitors": 7,
+    "lastVisit": "2026-06-21T23:48:00",
     "lat": 44.97997,
     "lon": -93.26384,
-    "normalized": 0.21210691127573061
+    "normalized": 0.22666201869509647
   },
   {
     "city": "Highland",
@@ -10559,11 +10559,11 @@
   {
     "city": "Neihu District",
     "country": "Taiwan",
-    "visitors": 1,
-    "lastVisit": "2026-04-17T07:35:00",
+    "visitors": 2,
+    "lastVisit": "2026-06-21T23:20:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.07555400623169883
+    "normalized": 0.11975026665649521
   },
   {
     "city": "San Juan",
@@ -11257,5 +11257,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.11975026665649521
+  },
+  {
+    "city": "Pehuajo",
+    "country": "Argentina",
+    "visitors": 1,
+    "lastVisit": "2026-06-22T01:59:00",
+    "lat": -34.61315,
+    "lon": -58.37723,
+    "normalized": 0.07555400623169883
   }
 ]
