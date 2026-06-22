@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 785,
-    "lastVisit": "2026-06-21T12:10:00",
+    "visitors": 786,
+    "lastVisit": "2026-06-21T15:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7267075581765284
+    "normalized": 0.7268461486467053
   },
   {
     "city": "Sylhet",
@@ -4322,11 +4322,11 @@
   {
     "city": "Calgary",
     "country": "Canada",
-    "visitors": 16,
-    "lastVisit": "2026-06-04T17:17:00",
+    "visitors": 17,
+    "lastVisit": "2026-06-21T20:21:00",
     "lat": 51.05011,
     "lon": -114.08529,
-    "normalized": 0.30882419297966557
+    "normalized": 0.3150545395446892
   },
   {
     "city": "Howrah",
