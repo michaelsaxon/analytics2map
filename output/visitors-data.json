@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 788,
-    "lastVisit": "2026-06-22T02:42:00",
+    "visitors": 789,
+    "lastVisit": "2026-06-22T03:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7271228020696079
+    "normalized": 0.7272608659134112
   },
   {
     "city": "Sylhet",
@@ -4628,11 +4628,11 @@
   {
     "city": "Isfahan",
     "country": "Iran",
-    "visitors": 10,
-    "lastVisit": "2026-06-08T23:18:00",
+    "visitors": 11,
+    "lastVisit": "2026-06-22T06:41:00",
     "lat": 32.65246,
     "lon": 51.67462,
-    "normalized": 0.26137391807265836
+    "normalized": 0.27085827911989285
   },
   {
     "city": "Hur",
@@ -11265,6 +11265,15 @@
     "lastVisit": "2026-06-22T01:59:00",
     "lat": -34.61315,
     "lon": -58.37723,
+    "normalized": 0.07555400623169883
+  },
+  {
+    "city": "Ogbomoso",
+    "country": "Nigeria",
+    "visitors": 1,
+    "lastVisit": "2026-06-22T05:06:00",
+    "lat": 8.13373,
+    "lon": 4.24014,
     "normalized": 0.07555400623169883
   }
 ]
