@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 18,
-    "lastVisit": "2026-04-20T08:52:00",
+    "visitors": 19,
+    "lastVisit": "2026-06-23T08:55:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.32094794182252157
+    "normalized": 0.326538982214074
   },
   {
     "city": "Massapequa",
