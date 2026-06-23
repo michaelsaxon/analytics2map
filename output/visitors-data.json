@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 19,
-    "lastVisit": "2026-06-23T08:55:00",
+    "visitors": 20,
+    "lastVisit": "2026-06-23T08:57:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.326538982214074
+    "normalized": 0.3318571779322258
   },
   {
     "city": "Massapequa",
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 64,
-    "lastVisit": "2026-06-04T05:39:00",
+    "visitors": 65,
+    "lastVisit": "2026-06-23T09:53:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.4550140152751343
+    "normalized": 0.4566781909608523
   },
   {
     "city": "Minneapolis",
