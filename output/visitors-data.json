@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 364,
-    "lastVisit": "2026-06-20T18:19:00",
+    "visitors": 366,
+    "lastVisit": "2026-06-22T23:57:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6430970130454197
+    "normalized": 0.6436926505391235
   },
   {
     "city": "Santa Clara",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 276,
-    "lastVisit": "2026-06-21T15:04:00",
+    "visitors": 278,
+    "lastVisit": "2026-06-22T22:46:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.613025726176078
+    "normalized": 0.6138099122210198
   },
   {
     "city": "Lompoc",
@@ -6617,11 +6617,11 @@
   {
     "city": "Anaheim",
     "country": "United States",
-    "visitors": 33,
-    "lastVisit": "2026-06-04T23:36:00",
+    "visitors": 34,
+    "lastVisit": "2026-06-22T21:30:00",
     "lat": 33.83529,
     "lon": -117.9145,
-    "normalized": 0.3843781992113644
+    "normalized": 0.38753788102640696
   },
   {
     "city": "Khorramabad",
