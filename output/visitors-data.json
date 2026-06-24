@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 795,
-    "lastVisit": "2026-06-23T21:18:00",
+    "visitors": 796,
+    "lastVisit": "2026-06-24T03:26:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7280855966330972
+    "normalized": 0.7282224471094659
   },
   {
     "city": "Sylhet",
@@ -9011,11 +9011,11 @@
   {
     "city": "Zhubei City",
     "country": "Taiwan",
-    "visitors": 1,
-    "lastVisit": "2026-01-23T06:08:00",
+    "visitors": 3,
+    "lastVisit": "2026-06-24T02:28:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.07555400623169883
+    "normalized": 0.15110801246339767
   },
   {
     "city": "Orting",
