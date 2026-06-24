@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 366,
-    "lastVisit": "2026-06-22T23:57:00",
+    "visitors": 367,
+    "lastVisit": "2026-06-24T08:38:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6436926505391235
+    "normalized": 0.6439892531442027
   },
   {
     "city": "Santa Clara",
