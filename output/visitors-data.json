@@ -101,11 +101,11 @@
   {
     "city": "Baltimore",
     "country": "United States",
-    "visitors": 28,
-    "lastVisit": "2026-04-27T12:59:00",
+    "visitors": 29,
+    "lastVisit": "2026-06-23T17:13:00",
     "lat": 39.29038,
     "lon": -76.61219,
-    "normalized": 0.36703992637934313
+    "normalized": 0.3707352426388704
   },
   {
     "city": "Dallas",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 392,
-    "lastVisit": "2026-06-22T21:09:00",
+    "visitors": 393,
+    "lastVisit": "2026-06-23T17:33:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6511535519448296
+    "normalized": 0.6514305568972374
   },
   {
     "city": null,
@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 50,
-    "lastVisit": "2026-06-17T11:13:00",
+    "visitors": 51,
+    "lastVisit": "2026-06-23T12:25:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.42857445963616075
+    "normalized": 0.4306910579878556
   },
   {
     "city": "Tustin",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 793,
-    "lastVisit": "2026-06-23T03:17:00",
+    "visitors": 794,
+    "lastVisit": "2026-06-23T15:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.727811379154864
+    "normalized": 0.7279485741259147
   },
   {
     "city": "Sylhet",
@@ -7184,11 +7184,11 @@
   {
     "city": "Raleigh",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-06-22T13:16:00",
+    "visitors": 6,
+    "lastVisit": "2026-06-23T11:26:00",
     "lat": 35.7721,
     "lon": -78.63861,
-    "normalized": 0.19530427288819402
+    "normalized": 0.21210691127573061
   },
   {
     "city": "Ardmore",
