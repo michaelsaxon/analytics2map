@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 368,
-    "lastVisit": "2026-06-25T03:32:00",
+    "visitors": 369,
+    "lastVisit": "2026-06-25T11:25:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6442632111469685
+    "normalized": 0.6445581983235692
   },
   {
     "city": "Santa Clara",
@@ -1631,11 +1631,11 @@
   {
     "city": "Shenzhen",
     "country": "China",
-    "visitors": 31,
-    "lastVisit": "2026-05-23T07:35:00",
+    "visitors": 32,
+    "lastVisit": "2026-06-25T10:44:00",
     "lat": 22.54554,
     "lon": 114.0683,
-    "normalized": 0.3777572256653972
+    "normalized": 0.38111126553833874
   },
   {
     "city": "Huzhou",
