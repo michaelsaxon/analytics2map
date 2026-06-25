@@ -11275,5 +11275,14 @@
     "lat": 8.13373,
     "lon": 4.24014,
     "normalized": 0.07555144513307943
+  },
+  {
+    "city": "Atherton",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-06-25T07:07:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07555144513307943
   }
 ]
