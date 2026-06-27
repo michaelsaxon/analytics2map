@@ -1388,11 +1388,11 @@
   {
     "city": null,
     "country": "Iran",
-    "visitors": 365,
-    "lastVisit": "2026-06-17T02:03:00",
+    "visitors": 366,
+    "lastVisit": "2026-06-26T22:48:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.6433734291018902
+    "normalized": 0.6436708309104785
   },
   {
     "city": null,
