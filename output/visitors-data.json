@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 71,
-    "lastVisit": "2026-06-17T12:30:00",
+    "visitors": 72,
+    "lastVisit": "2026-06-28T09:11:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.46614675022168395
+    "normalized": 0.46765019054361123
   },
   {
     "city": "Sabz",
@@ -4097,11 +4097,11 @@
   {
     "city": "Edinburgh",
     "country": "United Kingdom",
-    "visitors": 13,
-    "lastVisit": "2026-06-01T09:04:00",
+    "visitors": 15,
+    "lastVisit": "2026-06-28T08:25:00",
     "lat": 55.95206,
     "lon": -3.19648,
-    "normalized": 0.287651166495995
+    "normalized": 0.3022057805323177
   },
   {
     "city": "Bath",
