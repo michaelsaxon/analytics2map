@@ -11302,5 +11302,14 @@
     "lat": 45.0408,
     "lon": -93.263,
     "normalized": 0.07555144513307943
+  },
+  {
+    "city": "La Crosse",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-06-27T22:38:00",
+    "lat": 43.80136,
+    "lon": -91.23958,
+    "normalized": 0.07555144513307943
   }
 ]
