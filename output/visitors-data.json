@@ -227,11 +227,11 @@
   {
     "city": "Waterloo",
     "country": "Canada",
-    "visitors": 10,
-    "lastVisit": "2026-03-16T05:39:00",
+    "visitors": 13,
+    "lastVisit": "2026-06-27T18:50:00",
     "lat": 43.4668,
     "lon": -80.51639,
-    "normalized": 0.26136505812711597
+    "normalized": 0.287651166495995
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 810,
-    "lastVisit": "2026-06-27T15:34:00",
+    "visitors": 811,
+    "lastVisit": "2026-06-27T21:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7300957799010964
+    "normalized": 0.7302300962399979
   },
   {
     "city": "Sylhet",
@@ -11293,5 +11293,14 @@
     "lat": 28.85541,
     "lon": 106.33602,
     "normalized": 0.11974620741122281
+  },
+  {
+    "city": "Columbia Heights",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-06-27T15:59:00",
+    "lat": 45.0408,
+    "lon": -93.263,
+    "normalized": 0.07555144513307943
   }
 ]
