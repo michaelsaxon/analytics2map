@@ -56,11 +56,11 @@
   {
     "city": "Austin",
     "country": "United States",
-    "visitors": 46,
-    "lastVisit": "2026-05-12T14:05:00",
+    "visitors": 47,
+    "lastVisit": "2026-06-28T12:27:00",
     "lat": 43.66663,
     "lon": -92.97464,
-    "normalized": 0.4196572148643377
+    "normalized": 0.4219519879435406
   },
   {
     "city": "Seattle",
