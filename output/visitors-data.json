@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 816,
-    "lastVisit": "2026-06-29T09:33:00",
+    "visitors": 817,
+    "lastVisit": "2026-06-29T15:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7308992063536699
+    "normalized": 0.7310325368843326
   },
   {
     "city": "Sylhet",
@@ -6158,11 +6158,11 @@
   {
     "city": "Hamburg",
     "country": "Germany",
-    "visitors": 8,
-    "lastVisit": "2026-06-15T15:05:00",
+    "visitors": 10,
+    "lastVisit": "2026-06-29T14:03:00",
     "lat": 53.55073,
     "lon": 9.99302,
-    "normalized": 0.23949241482244563
+    "normalized": 0.26136505812711597
   },
   {
     "city": "Remagen",
@@ -11337,6 +11337,15 @@
     "lastVisit": "2026-06-29T06:04:00",
     "lat": 61.68857,
     "lon": 27.27227,
+    "normalized": 0.07555144513307943
+  },
+  {
+    "city": "Jericho",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-06-29T13:24:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.07555144513307943
   }
 ]
