@@ -1280,11 +1280,11 @@
   {
     "city": "Somerville",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-06-10T10:17:00",
+    "visitors": 14,
+    "lastVisit": "2026-06-29T08:06:00",
     "lat": 42.3876,
     "lon": -71.0995,
-    "normalized": 0.2795735683334047
+    "normalized": 0.29517123047506105
   },
   {
     "city": "Sherman Oaks",
@@ -2585,11 +2585,11 @@
   {
     "city": "Paris",
     "country": "France",
-    "visitors": 25,
-    "lastVisit": "2026-06-29T04:53:00",
+    "visitors": 26,
+    "lastVisit": "2026-06-29T06:46:00",
     "lat": 48.85341,
     "lon": 2.3488,
-    "normalized": 0.3551250134664841
+    "normalized": 0.3592386222336684
   },
   {
     "city": "Perugia",
