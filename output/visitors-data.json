@@ -1802,11 +1802,11 @@
   {
     "city": "Zurich",
     "country": "Switzerland",
-    "visitors": 22,
-    "lastVisit": "2026-06-30T02:14:00",
+    "visitors": 23,
+    "lastVisit": "2026-06-30T02:26:00",
     "lat": 47.36667,
     "lon": 8.55,
-    "normalized": 0.3417616429291269
+    "normalized": 0.3464005428104611
   },
   {
     "city": "Obanos",
@@ -11347,5 +11347,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.07555144513307943
+  },
+  {
+    "city": "Faisalabad",
+    "country": "Pakistan",
+    "visitors": 2,
+    "lastVisit": "2026-06-30T04:52:00",
+    "lat": 31.41554,
+    "lon": 73.08969,
+    "normalized": 0.11974620741122281
   }
 ]
