@@ -74,20 +74,20 @@
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 41,
-    "lastVisit": "2026-06-03T16:47:00",
+    "visitors": 42,
+    "lastVisit": "2026-06-29T23:25:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.40739737390721786
+    "normalized": 0.4099621438924383
   },
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 154,
-    "lastVisit": "2026-06-29T11:41:00",
+    "visitors": 155,
+    "lastVisit": "2026-06-29T19:21:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5497217137865368
+    "normalized": 0.5504226660107864
   },
   {
     "city": "Four Oaks",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 393,
-    "lastVisit": "2026-06-23T17:33:00",
+    "visitors": 394,
+    "lastVisit": "2026-06-29T22:07:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6514084749722262
+    "normalized": 0.6516847683907031
   },
   {
     "city": null,
@@ -3656,11 +3656,11 @@
   {
     "city": "Jakarta",
     "country": "Indonesia",
-    "visitors": 3,
-    "lastVisit": "2026-02-06T04:49:00",
+    "visitors": 4,
+    "lastVisit": "2026-06-29T21:43:00",
     "lat": -6.21462,
     "lon": 106.84513,
-    "normalized": 0.15110289026615886
+    "normalized": 0.17542502306383823
   },
   {
     "city": "Claye-Souilly",
@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 23,
-    "lastVisit": "2026-05-12T19:04:00",
+    "visitors": 24,
+    "lastVisit": "2026-06-29T22:43:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.3464005428104611
+    "normalized": 0.35085004612767645
   },
   {
     "city": "Athens",
