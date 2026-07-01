@@ -3350,11 +3350,11 @@
   {
     "city": "Redmond",
     "country": "United States",
-    "visitors": 19,
-    "lastVisit": "2026-06-16T15:19:00",
+    "visitors": 20,
+    "lastVisit": "2026-06-30T16:57:00",
     "lat": 47.67399,
     "lon": -122.12151,
-    "normalized": 0.3265279133299971
+    "normalized": 0.3318459287741384
   },
   {
     "city": "Everett",
@@ -7049,11 +7049,11 @@
   {
     "city": "Cary",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-04-12T14:23:00",
+    "visitors": 6,
+    "lastVisit": "2026-06-30T18:45:00",
     "lat": 42.21197,
     "lon": -88.23814,
-    "normalized": 0.17542502306383823
+    "normalized": 0.21209972136291558
   },
   {
     "city": "Shiraz",
