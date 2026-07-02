@@ -3152,11 +3152,11 @@
   {
     "city": "Washington",
     "country": "United States",
-    "visitors": 31,
-    "lastVisit": "2026-06-03T13:06:00",
+    "visitors": 32,
+    "lastVisit": "2026-07-02T05:48:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.37774869136404354
+    "normalized": 0.38110265546242655
   },
   {
     "city": "Halethorpe",
@@ -11364,6 +11364,15 @@
     "lastVisit": "2026-07-01T13:49:00",
     "lat": 33.96173,
     "lon": -116.50353,
+    "normalized": 0.07554973827280871
+  },
+  {
+    "city": "Ahvaz",
+    "country": "Iran",
+    "visitors": 1,
+    "lastVisit": "2026-07-02T04:39:00",
+    "lat": 31.31901,
+    "lon": 48.6842,
     "normalized": 0.07554973827280871
   }
 ]
