@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 394,
-    "lastVisit": "2026-06-29T22:07:00",
+    "visitors": 395,
+    "lastVisit": "2026-07-01T22:59:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.651670045510972
+    "normalized": 0.6519456341097437
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 823,
-    "lastVisit": "2026-07-01T15:27:00",
+    "visitors": 824,
+    "lastVisit": "2026-07-01T21:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7318125796081157
+    "normalized": 0.7319447751764696
   },
   {
     "city": "Sylhet",
