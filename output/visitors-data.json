@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 51,
-    "lastVisit": "2026-06-23T12:25:00",
+    "visitors": 52,
+    "lastVisit": "2026-07-02T11:33:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.43066672874548295
+    "normalized": 0.4327428911897172
   },
   {
     "city": "Tustin",
