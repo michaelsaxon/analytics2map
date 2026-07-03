@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 150,
-    "lastVisit": "2026-05-28T02:08:00",
+    "visitors": 151,
+    "lastVisit": "2026-07-03T04:55:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5468595835686678
+    "normalized": 0.5475790266609522
   },
   {
     "city": null,
@@ -1631,11 +1631,11 @@
   {
     "city": "Shenzhen",
     "country": "China",
-    "visitors": 32,
-    "lastVisit": "2026-06-25T10:44:00",
+    "visitors": 34,
+    "lastVisit": "2026-07-03T05:23:00",
     "lat": 22.54554,
     "lon": 114.0683,
-    "normalized": 0.38110265546242655
+    "normalized": 0.3875159894573548
   },
   {
     "city": "Huzhou",
