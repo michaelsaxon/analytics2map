@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 826,
-    "lastVisit": "2026-07-02T09:43:00",
+    "visitors": 827,
+    "lastVisit": "2026-07-02T21:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7322086862805798
+    "normalized": 0.7323404025899588
   },
   {
     "city": "Sylhet",
@@ -11373,6 +11373,24 @@
     "lastVisit": "2026-07-02T04:39:00",
     "lat": 31.31901,
     "lon": 48.6842,
+    "normalized": 0.07554973827280871
+  },
+  {
+    "city": "Chakdaha",
+    "country": "India",
+    "visitors": 1,
+    "lastVisit": "2026-07-02T21:55:00",
+    "lat": 28.62137,
+    "lon": 77.2148,
+    "normalized": 0.07554973827280871
+  },
+  {
+    "city": "Pembroke Pines",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-07-02T22:14:00",
+    "lat": 26.00315,
+    "lon": -80.22394,
     "normalized": 0.07554973827280871
   }
 ]
