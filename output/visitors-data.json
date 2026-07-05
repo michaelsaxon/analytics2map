@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 373,
-    "lastVisit": "2026-06-27T09:26:00",
+    "visitors": 374,
+    "lastVisit": "2026-07-04T17:48:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6457010548173593
+    "normalized": 0.6459920904265722
   },
   {
     "city": "Santa Clara",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 142,
-    "lastVisit": "2026-05-13T00:40:00",
+    "visitors": 144,
+    "lastVisit": "2026-07-04T12:19:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5409141877452364
+    "normalized": 0.5424280005648201
   },
   {
     "city": "Rowland Heights",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 831,
-    "lastVisit": "2026-07-04T09:19:00",
+    "visitors": 832,
+    "lastVisit": "2026-07-04T15:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7328491287206389
+    "normalized": 0.7329800509836956
   },
   {
     "city": "Sylhet",
