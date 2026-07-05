@@ -8795,11 +8795,11 @@
   {
     "city": "Sandefjord",
     "country": "Norway",
-    "visitors": 1,
-    "lastVisit": "2026-01-13T18:38:00",
+    "visitors": 2,
+    "lastVisit": "2026-07-05T07:21:00",
     "lat": 59.13118,
     "lon": 10.21665,
-    "normalized": 0.07554717879011633
+    "normalized": 0.11973944541761107
   },
   {
     "city": "Dunn",
