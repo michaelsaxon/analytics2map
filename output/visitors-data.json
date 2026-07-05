@@ -4628,11 +4628,11 @@
   {
     "city": "Isfahan",
     "country": "Iran",
-    "visitors": 11,
-    "lastVisit": "2026-06-22T06:41:00",
+    "visitors": 12,
+    "lastVisit": "2026-07-05T11:17:00",
     "lat": 32.65246,
     "lon": 51.67462,
-    "normalized": 0.2708338029978437
+    "normalized": 0.27955778098845274
   },
   {
     "city": "Hur",
