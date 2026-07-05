@@ -11401,5 +11401,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.11973944541761107
+  },
+  {
+    "city": "Redwood Valley",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-07-05T10:09:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07554717879011633
   }
 ]
