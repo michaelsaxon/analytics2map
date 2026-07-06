@@ -3575,11 +3575,11 @@
   {
     "city": "Melbourne",
     "country": "Australia",
-    "visitors": 7,
-    "lastVisit": "2026-04-05T00:22:00",
+    "visitors": 10,
+    "lastVisit": "2026-07-06T01:41:00",
     "lat": -37.814,
     "lon": 144.96332,
-    "normalized": 0.22663897753352796
+    "normalized": 0.2613473482983716
   },
   {
     "city": "Traralgon",
