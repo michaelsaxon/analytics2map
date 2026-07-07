@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 374,
-    "lastVisit": "2026-07-04T17:48:00",
+    "visitors": 376,
+    "lastVisit": "2026-07-06T22:48:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6459629189787005
+    "normalized": 0.6465426429468306
   },
   {
     "city": "Santa Clara",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 835,
-    "lastVisit": "2026-07-06T15:19:00",
+    "visitors": 836,
+    "lastVisit": "2026-07-06T21:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.733338759516601
+    "normalized": 0.7334690498477641
   },
   {
     "city": "Sylhet",
@@ -11409,6 +11409,15 @@
     "lastVisit": "2026-07-05T10:09:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.07554462027608136
+  },
+  {
+    "city": "Sancraiu de Mures",
+    "country": "Romania",
+    "visitors": 1,
+    "lastVisit": "2026-07-06T21:34:00",
+    "lat": 44.43225,
+    "lon": 26.10626,
     "normalized": 0.07554462027608136
   }
 ]
