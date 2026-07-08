@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 136,
-    "lastVisit": "2026-07-07T04:41:00",
+    "visitors": 137,
+    "lastVisit": "2026-07-08T06:51:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5362181384146959
+    "normalized": 0.5370107808105443
   },
   {
     "city": "Ames",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 155,
-    "lastVisit": "2026-06-29T19:21:00",
+    "visitors": 157,
+    "lastVisit": "2026-07-08T08:23:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5503729441824692
+    "normalized": 0.5517613432007927
   },
   {
     "city": "Four Oaks",
