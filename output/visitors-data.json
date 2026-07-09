@@ -1433,11 +1433,11 @@
   {
     "city": "San Antonio",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-06-08T07:24:00",
+    "visitors": 6,
+    "lastVisit": "2026-07-09T10:53:00",
     "lat": 29.42412,
     "lon": -98.49363,
-    "normalized": 0.1952733993842544
+    "normalized": 0.21207338162753572
   },
   {
     "city": "Redondo Beach",
