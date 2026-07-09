@@ -8651,11 +8651,11 @@
   {
     "city": "Karaj",
     "country": "Iran",
-    "visitors": 2,
-    "lastVisit": "2026-02-23T23:12:00",
+    "visitors": 3,
+    "lastVisit": "2026-07-08T13:52:00",
     "lat": 35.83266,
     "lon": 50.99155,
-    "normalized": 0.11973539026880808
+    "normalized": 0.15108924055216272
   },
   {
     "city": "Highlands Ranch",
