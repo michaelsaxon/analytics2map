@@ -74,11 +74,11 @@
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 44,
-    "lastVisit": "2026-07-09T00:43:00",
+    "visitors": 45,
+    "lastVisit": "2026-07-09T00:44:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.4148659111070491
+    "normalized": 0.4172612637776695
   },
   {
     "city": "New York",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 842,
-    "lastVisit": "2026-07-08T21:15:00",
+    "visitors": 843,
+    "lastVisit": "2026-07-09T03:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.734222680009165
+    "normalized": 0.7343518847181679
   },
   {
     "city": "Sylhet",
@@ -2162,11 +2162,11 @@
   {
     "city": "Chennai",
     "country": "India",
-    "visitors": 18,
-    "lastVisit": "2026-03-06T02:05:00",
+    "visitors": 21,
+    "lastVisit": "2026-07-09T02:41:00",
     "lat": 13.08784,
     "lon": 80.27847,
-    "normalized": 0.3208972066931783
+    "normalized": 0.33687466307538066
   },
   {
     "city": "Pune",
