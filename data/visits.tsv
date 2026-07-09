@@ -11564,3 +11564,8 @@ timestamp	country	city	num_unique
 2026-07-08T18:12:00	United States	Seattle	1
 2026-07-08T18:35:00	United States	Seattle	1
 2026-07-08T18:47:00	Canada	Montreal	1
+2026-07-08T21:15:00	Singapore	Singapore	1
+2026-07-08T21:34:00	United States	San Francisco	1
+2026-07-08T23:44:00	United States		1
+2026-07-08T23:45:00	United States		1
+2026-07-09T00:43:00	United States	Santa Clara	1
