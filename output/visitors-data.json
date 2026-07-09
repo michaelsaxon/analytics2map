@@ -5762,11 +5762,11 @@
   {
     "city": "Nashville",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2025-12-15T21:40:00",
+    "visitors": 14,
+    "lastVisit": "2026-07-09T08:17:00",
     "lat": 36.16589,
     "lon": -86.78444,
-    "normalized": 0.2795388493165112
+    "normalized": 0.29513457445282537
   },
   {
     "city": "Denver",
@@ -11419,5 +11419,23 @@
     "lat": 44.43225,
     "lon": 26.10626,
     "normalized": 0.07554206273003061
+  },
+  {
+    "city": "Sankt Ingbert",
+    "country": "Germany",
+    "visitors": 1,
+    "lastVisit": "2026-07-09T07:19:00",
+    "lat": 49.27697,
+    "lon": 7.11672,
+    "normalized": 0.07554206273003061
+  },
+  {
+    "city": "Scandia",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-07-09T08:37:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.11973133665422378
   }
 ]
