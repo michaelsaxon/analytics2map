@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 158,
-    "lastVisit": "2026-07-08T11:16:00",
+    "visitors": 159,
+    "lastVisit": "2026-07-09T20:23:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5524302629454624
+    "normalized": 0.5531135514487546
   },
   {
     "city": "Four Oaks",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 843,
-    "lastVisit": "2026-07-09T03:14:00",
+    "visitors": 844,
+    "lastVisit": "2026-07-09T21:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7343518847181679
+    "normalized": 0.7344809364316239
   },
   {
     "city": "Sylhet",
