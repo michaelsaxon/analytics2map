@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 113,
-    "lastVisit": "2026-05-20T06:14:00",
+    "visitors": 114,
+    "lastVisit": "2026-07-09T15:25:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.5161706060774327
+    "normalized": 0.5171224388462404
   },
   {
     "city": "Rochester",
@@ -4628,11 +4628,11 @@
   {
     "city": "Isfahan",
     "country": "Iran",
-    "visitors": 12,
-    "lastVisit": "2026-07-05T11:17:00",
+    "visitors": 13,
+    "lastVisit": "2026-07-09T13:37:00",
     "lat": 32.65246,
     "lon": 51.67462,
-    "normalized": 0.2795388493165112
+    "normalized": 0.2876154443575663
   },
   {
     "city": "Hur",
