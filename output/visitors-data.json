@@ -11437,5 +11437,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.11973133665422378
+  },
+  {
+    "city": "Tabor City",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-07-10T16:59:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.11973133665422378
   }
 ]
