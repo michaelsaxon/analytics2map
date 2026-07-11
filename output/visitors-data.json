@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 846,
-    "lastVisit": "2026-07-10T15:24:00",
+    "visitors": 847,
+    "lastVisit": "2026-07-10T21:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7347385823182359
+    "normalized": 0.7348671772113611
   },
   {
     "city": "Sylhet",
@@ -3368,11 +3368,11 @@
   {
     "city": "Belmont",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2024-07-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2026-07-10T19:10:00",
     "lat": 37.52021,
     "lon": -122.2758,
-    "normalized": 0.07554206273003061
+    "normalized": 0.15108412546006122
   },
   {
     "city": "Albuquerque",
