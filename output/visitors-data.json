@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 851,
-    "lastVisit": "2026-07-11T21:17:00",
+    "visitors": 852,
+    "lastVisit": "2026-07-12T00:27:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7353800447897327
+    "normalized": 0.7355078854604375
   },
   {
     "city": "Sylhet",
@@ -2873,11 +2873,11 @@
   {
     "city": "Minneapolis",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-06-21T23:48:00",
+    "visitors": 8,
+    "lastVisit": "2026-07-11T23:25:00",
     "lat": 44.97997,
     "lon": -93.26384,
-    "normalized": 0.2266261881900918
+    "normalized": 0.23946267330844756
   },
   {
     "city": "Highland",
@@ -11446,5 +11446,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.11973133665422378
+  },
+  {
+    "city": "West Bend",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-07-11T23:18:00",
+    "lat": 43.42528,
+    "lon": -88.18343,
+    "normalized": 0.07554206273003061
   }
 ]
