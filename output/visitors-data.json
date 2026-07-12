@@ -2441,11 +2441,11 @@
   {
     "city": "Oxford",
     "country": "United Kingdom",
-    "visitors": 11,
-    "lastVisit": "2026-04-04T14:47:00",
+    "visitors": 12,
+    "lastVisit": "2026-07-12T11:37:00",
     "lat": 51.75222,
     "lon": -1.25596,
-    "normalized": 0.270815462114285
+    "normalized": 0.2795388493165112
   },
   {
     "city": "Hammersmith",
@@ -3152,11 +3152,11 @@
   {
     "city": "Washington",
     "country": "United States",
-    "visitors": 32,
-    "lastVisit": "2026-07-02T05:48:00",
+    "visitors": 33,
+    "lastVisit": "2026-07-12T11:56:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.3810639369995738
+    "normalized": 0.3843174370904329
   },
   {
     "city": "Halethorpe",
