@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 853,
-    "lastVisit": "2026-07-12T03:23:00",
+    "visitors": 854,
+    "lastVisit": "2026-07-12T15:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7356355763470767
+    "normalized": 0.7357631178002274
   },
   {
     "city": "Sylhet",
@@ -11463,6 +11463,15 @@
     "lastVisit": "2026-07-12T02:51:00",
     "lat": 37.566,
     "lon": 126.9784,
+    "normalized": 0.07554206273003061
+  },
+  {
+    "city": "Prilep",
+    "country": "North Macedonia",
+    "visitors": 1,
+    "lastVisit": "2026-07-12T15:29:00",
+    "lat": 41.34514,
+    "lon": 21.55504,
     "normalized": 0.07554206273003061
   }
 ]
