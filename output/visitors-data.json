@@ -11473,5 +11473,14 @@
     "lat": 41.34514,
     "lon": 21.55504,
     "normalized": 0.07554121042967168
+  },
+  {
+    "city": "Vitoria",
+    "country": "Brazil",
+    "visitors": 1,
+    "lastVisit": "2026-07-13T10:44:00",
+    "lat": -20.31944,
+    "lon": -40.33778,
+    "normalized": 0.07554121042967168
   }
 ]
