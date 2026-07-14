@@ -3152,11 +3152,11 @@
   {
     "city": "Washington",
     "country": "United States",
-    "visitors": 34,
-    "lastVisit": "2026-07-14T09:02:00",
+    "visitors": 35,
+    "lastVisit": "2026-07-14T09:30:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.38747224773638095
+    "normalized": 0.3905423924395744
   },
   {
     "city": "Halethorpe",
