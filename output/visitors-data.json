@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 860,
-    "lastVisit": "2026-07-14T03:14:00",
+    "visitors": 861,
+    "lastVisit": "2026-07-14T09:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7365169380768075
+    "normalized": 0.7366434417818644
   },
   {
     "city": "Sylhet",
@@ -3152,11 +3152,11 @@
   {
     "city": "Washington",
     "country": "United States",
-    "visitors": 33,
-    "lastVisit": "2026-07-12T11:56:00",
+    "visitors": 34,
+    "lastVisit": "2026-07-14T09:02:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.3843131010440273
+    "normalized": 0.38747224773638095
   },
   {
     "city": "Halethorpe",
