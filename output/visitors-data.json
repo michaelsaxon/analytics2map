@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 858,
-    "lastVisit": "2026-07-13T15:15:00",
+    "visitors": 859,
+    "lastVisit": "2026-07-13T21:35:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7362634892889293
+    "normalized": 0.7363902873598582
   },
   {
     "city": "Sylhet",
@@ -8147,11 +8147,11 @@
   {
     "city": "Glenview",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-06-04T05:38:00",
+    "visitors": 3,
+    "lastVisit": "2026-07-13T20:08:00",
     "lat": 42.06975,
     "lon": -87.78784,
-    "normalized": 0.11972998579011553
+    "normalized": 0.15108242085934337
   },
   {
     "city": "Kahaluu-Keauhou",
