@@ -1208,11 +1208,11 @@
   {
     "city": null,
     "country": "Italy",
-    "visitors": 30,
-    "lastVisit": "2026-03-30T00:15:00",
+    "visitors": 31,
+    "lastVisit": "2026-07-14T05:35:00",
     "lat": 41.89193,
     "lon": 12.51133,
-    "normalized": 0.374245985992838
+    "normalized": 0.37770605214835845
   },
   {
     "city": null,
@@ -3098,11 +3098,11 @@
   {
     "city": "Abu Dhabi",
     "country": "United Arab Emirates",
-    "visitors": 16,
-    "lastVisit": "2026-04-30T12:45:00",
+    "visitors": 17,
+    "lastVisit": "2026-07-14T04:31:00",
     "lat": 24.45118,
     "lon": 54.39696,
-    "normalized": 0.3087718906143556
+    "normalized": 0.3150011820099027
   },
   {
     "city": null,
