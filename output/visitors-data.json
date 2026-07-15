@@ -74,11 +74,11 @@
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 45,
-    "lastVisit": "2026-07-09T00:44:00",
+    "visitors": 47,
+    "lastVisit": "2026-07-14T16:49:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.41725655604383177
+    "normalized": 0.4218948275088023
   },
   {
     "city": "New York",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 284,
-    "lastVisit": "2026-07-13T14:46:00",
+    "visitors": 285,
+    "lastVisit": "2026-07-14T15:40:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6160248307916024
+    "normalized": 0.6164065577306227
   },
   {
     "city": "Lompoc",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 144,
-    "lastVisit": "2026-07-04T12:19:00",
+    "visitors": 149,
+    "lastVisit": "2026-07-14T16:43:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5423790234347307
+    "normalized": 0.546073713856693
   },
   {
     "city": "Rowland Heights",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 861,
-    "lastVisit": "2026-07-14T09:16:00",
+    "visitors": 862,
+    "lastVisit": "2026-07-14T15:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7366434417818644
+    "normalized": 0.7367697988159259
   },
   {
     "city": "Sylhet",
@@ -8444,11 +8444,11 @@
   {
     "city": "Burlington",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-04-24T11:25:00",
+    "visitors": 3,
+    "lastVisit": "2026-07-14T16:15:00",
     "lat": 44.47588,
     "lon": -73.21207,
-    "normalized": 0.11972998579011553
+    "normalized": 0.15108242085934337
   },
   {
     "city": "Colusa",
