@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 869,
-    "lastVisit": "2026-07-16T09:19:00",
+    "visitors": 870,
+    "lastVisit": "2026-07-16T15:31:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7376418981002326
+    "normalized": 0.7377670924852988
   },
   {
     "city": "Sylhet",
@@ -11481,6 +11481,15 @@
     "lastVisit": "2026-07-13T10:44:00",
     "lat": -20.31944,
     "lon": -40.33778,
+    "normalized": 0.07554035823676694
+  },
+  {
+    "city": "Wuxi",
+    "country": "China",
+    "visitors": 1,
+    "lastVisit": "2026-07-16T15:13:00",
+    "lat": 26.5844,
+    "lon": 111.859,
     "normalized": 0.07554035823676694
   }
 ]
