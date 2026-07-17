@@ -11491,5 +11491,14 @@
     "lat": 26.5844,
     "lon": 111.859,
     "normalized": 0.07554035823676694
+  },
+  {
+    "city": "Shivamogga",
+    "country": "India",
+    "visitors": 1,
+    "lastVisit": "2026-07-17T12:24:00",
+    "lat": 13.93157,
+    "lon": 75.56791,
+    "normalized": 0.07554035823676694
   }
 ]
