@@ -11500,5 +11500,14 @@
     "lat": 13.93157,
     "lon": 75.56791,
     "normalized": 0.07554035823676694
+  },
+  {
+    "city": "Ipoh",
+    "country": "Malaysia",
+    "visitors": 1,
+    "lastVisit": "2026-07-18T07:25:00",
+    "lat": 4.5841,
+    "lon": 101.0829,
+    "normalized": 0.07554035823676694
   }
 ]
