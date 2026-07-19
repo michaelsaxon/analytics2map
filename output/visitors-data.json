@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 288,
-    "lastVisit": "2026-07-18T17:51:00",
+    "visitors": 291,
+    "lastVisit": "2026-07-19T15:07:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6175298488796108
+    "normalized": 0.6186553026435152
   },
   {
     "city": "Lompoc",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 881,
-    "lastVisit": "2026-07-19T09:18:00",
+    "visitors": 882,
+    "lastVisit": "2026-07-19T15:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7391264841041334
+    "normalized": 0.7392499747359484
   },
   {
     "city": "Sylhet",
@@ -11508,6 +11508,15 @@
     "lastVisit": "2026-07-18T07:25:00",
     "lat": 4.5841,
     "lon": 101.0829,
+    "normalized": 0.0755395061512915
+  },
+  {
+    "city": "Charleston",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-07-19T15:15:00",
+    "lat": 38.34982,
+    "lon": -81.63262,
     "normalized": 0.0755395061512915
   }
 ]
