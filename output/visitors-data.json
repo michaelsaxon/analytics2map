@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 44,
-    "lastVisit": "2026-07-19T09:45:00",
+    "visitors": 45,
+    "lastVisit": "2026-07-20T01:41:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.4148518707521847
+    "normalized": 0.4172471423566084
   },
   {
     "city": "Los Angeles",
@@ -11517,6 +11517,15 @@
     "lastVisit": "2026-07-19T15:15:00",
     "lat": 38.34982,
     "lon": -81.63262,
+    "normalized": 0.0755395061512915
+  },
+  {
+    "city": "Rasht",
+    "country": "Iran",
+    "visitors": 1,
+    "lastVisit": "2026-07-19T23:14:00",
+    "lat": 37.27611,
+    "lon": 49.58862,
     "normalized": 0.0755395061512915
   }
 ]
