@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 883,
-    "lastVisit": "2026-07-19T21:15:00",
+    "visitors": 884,
+    "lastVisit": "2026-07-20T03:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7393733255933908
+    "normalized": 0.7394965369925135
   },
   {
     "city": "Sylhet",
@@ -11527,5 +11527,14 @@
     "lat": 37.27611,
     "lon": 49.58862,
     "normalized": 0.0755395061512915
+  },
+  {
+    "city": "Edogawa City",
+    "country": "Japan",
+    "visitors": 2,
+    "lastVisit": "2026-07-20T04:08:00",
+    "lat": 35.6895,
+    "lon": 139.69171,
+    "normalized": 0.11972728457279214
   }
 ]
