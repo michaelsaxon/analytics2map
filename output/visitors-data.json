@@ -3755,11 +3755,11 @@
   {
     "city": "Salt Lake City",
     "country": "United States",
-    "visitors": 17,
-    "lastVisit": "2026-05-26T13:37:00",
+    "visitors": 18,
+    "lastVisit": "2026-07-21T08:16:00",
     "lat": 40.76078,
     "lon": -111.89105,
-    "normalized": 0.31499407529687573
+    "normalized": 0.3208863465320121
   },
   {
     "city": "Castro Valley",
@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 28,
-    "lastVisit": "2026-07-20T08:59:00",
+    "visitors": 29,
+    "lastVisit": "2026-07-21T09:12:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.3669694852642964
+    "normalized": 0.3706640923306841
   },
   {
     "city": "Visalia",
