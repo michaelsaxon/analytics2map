@@ -110,11 +110,11 @@
   {
     "city": "Dallas",
     "country": "United States",
-    "visitors": 38,
-    "lastVisit": "2026-05-20T17:26:00",
+    "visitors": 39,
+    "lastVisit": "2026-07-21T14:03:00",
     "lat": 44.91928,
     "lon": -123.31705,
-    "normalized": 0.3992566734237945
+    "normalized": 0.4020158200604749
   },
   {
     "city": "San Jose",
