@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 52,
-    "lastVisit": "2026-07-02T11:33:00",
+    "visitors": 53,
+    "lastVisit": "2026-07-22T11:23:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.4326696440687673
+    "normalized": 0.4347066526095369
   },
   {
     "city": "Tustin",
@@ -1073,11 +1073,11 @@
   {
     "city": "Vancouver",
     "country": "Canada",
-    "visitors": 21,
-    "lastVisit": "2026-06-04T12:12:00",
+    "visitors": 22,
+    "lastVisit": "2026-07-22T11:39:00",
     "lat": 49.24966,
     "lon": -123.11934,
-    "normalized": 0.33685186560991504
+    "normalized": 0.3416960757356498
   },
   {
     "city": "Sundbyberg",
