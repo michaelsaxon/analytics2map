@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 889,
-    "lastVisit": "2026-07-21T21:52:00",
+    "visitors": 890,
+    "lastVisit": "2026-07-22T03:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7400854740781612
+    "normalized": 0.7402078511645158
   },
   {
     "city": "Sylhet",
@@ -11545,5 +11545,14 @@
     "lat": 44.43225,
     "lon": 26.10626,
     "normalized": 0.15107390107838425
+  },
+  {
+    "city": "Asan-si",
+    "country": "South Korea",
+    "visitors": 1,
+    "lastVisit": "2026-07-22T01:38:00",
+    "lat": 37.566,
+    "lon": 126.9784,
+    "normalized": 0.07553695053919213
   }
 ]
