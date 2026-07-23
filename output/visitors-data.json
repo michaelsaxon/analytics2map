@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 891,
-    "lastVisit": "2026-07-22T15:31:00",
+    "visitors": 892,
+    "lastVisit": "2026-07-22T21:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7403300909798531
+    "normalized": 0.7404521938317832
   },
   {
     "city": "Sylhet",
@@ -11553,6 +11553,15 @@
     "lastVisit": "2026-07-22T01:38:00",
     "lat": 37.566,
     "lon": 126.9784,
+    "normalized": 0.07553695053919213
+  },
+  {
+    "city": "Hamedan",
+    "country": "Iran",
+    "visitors": 1,
+    "lastVisit": "2026-07-22T21:12:00",
+    "lat": 35.69439,
+    "lon": 51.42151,
     "normalized": 0.07553695053919213
   }
 ]
