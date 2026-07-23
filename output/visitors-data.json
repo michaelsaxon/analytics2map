@@ -11563,5 +11563,14 @@
     "lat": 35.69439,
     "lon": 51.42151,
     "normalized": 0.07553695053919213
+  },
+  {
+    "city": "Bacoor",
+    "country": "Philippines",
+    "visitors": 1,
+    "lastVisit": "2026-07-23T10:16:00",
+    "lat": 14.45896,
+    "lon": 120.93851,
+    "normalized": 0.07553695053919213
   }
 ]
