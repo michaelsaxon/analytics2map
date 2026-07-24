@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 292,
-    "lastVisit": "2026-07-23T00:40:00",
+    "visitors": 294,
+    "lastVisit": "2026-07-24T00:04:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.619006943193199
+    "normalized": 0.6197482847184351
   },
   {
     "city": "Lompoc",
@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 53,
-    "lastVisit": "2026-07-22T11:23:00",
+    "visitors": 55,
+    "lastVisit": "2026-07-24T00:04:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.4347066526095369
+    "normalized": 0.4386698815109992
   },
   {
     "city": "Tustin",
