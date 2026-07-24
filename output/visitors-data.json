@@ -2090,11 +2090,11 @@
   {
     "city": "Mesa",
     "country": "United States",
-    "visitors": 27,
-    "lastVisit": "2025-12-28T20:50:00",
+    "visitors": 38,
+    "lastVisit": "2026-07-23T19:04:00",
     "lat": 33.42227,
     "lon": -111.82264,
-    "normalized": 0.36313293097180704
+    "normalized": 0.39924316598593396
   },
   {
     "city": "St Louis",
