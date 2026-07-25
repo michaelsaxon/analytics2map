@@ -7058,11 +7058,11 @@
   {
     "city": "Shiraz",
     "country": "Iran",
-    "visitors": 2,
-    "lastVisit": "2026-07-12T20:48:00",
+    "visitors": 3,
+    "lastVisit": "2026-07-25T09:30:00",
     "lat": 29.61031,
     "lon": 52.53113,
-    "normalized": 0.11972188418061366
+    "normalized": 0.15107219776637026
   },
   {
     "city": "Misawa",
