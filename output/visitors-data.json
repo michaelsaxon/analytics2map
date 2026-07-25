@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 54,
-    "lastVisit": "2026-05-14T14:09:00",
+    "visitors": 55,
+    "lastVisit": "2026-07-25T02:36:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.43670135900006163
+    "normalized": 0.43866493564229514
   },
   {
     "city": "Mocksville",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 900,
-    "lastVisit": "2026-07-24T21:19:00",
+    "visitors": 901,
+    "lastVisit": "2026-07-25T03:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7414157632089351
+    "normalized": 0.7415366457008276
   },
   {
     "city": "Sylhet",
@@ -11572,5 +11572,14 @@
     "lat": 14.45896,
     "lon": 120.93851,
     "normalized": 0.07553609888318513
+  },
+  {
+    "city": "Accra",
+    "country": "Ghana",
+    "visitors": 2,
+    "lastVisit": "2026-07-25T03:05:00",
+    "lat": 5.55602,
+    "lon": -0.1969,
+    "normalized": 0.11972188418061366
   }
 ]
