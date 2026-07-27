@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 60,
-    "lastVisit": "2026-07-26T03:18:00",
+    "visitors": 61,
+    "lastVisit": "2026-07-26T19:41:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.44795951678297213
+    "normalized": 0.4497314162167746
   },
   {
     "city": "Los Angeles",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 907,
-    "lastVisit": "2026-07-26T15:18:00",
+    "visitors": 908,
+    "lastVisit": "2026-07-26T21:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7422173098328702
+    "normalized": 0.7423372541643954
   },
   {
     "city": "Sylhet",
@@ -4583,11 +4583,11 @@
   {
     "city": "Sunnyvale",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2026-06-18T19:41:00",
+    "visitors": 25,
+    "lastVisit": "2026-07-26T21:00:00",
     "lat": 37.36883,
     "lon": -122.03635,
-    "normalized": 0.35075901298234513
+    "normalized": 0.35503287111872484
   },
   {
     "city": "College Station",
@@ -11581,5 +11581,14 @@
     "lat": 5.55602,
     "lon": -0.1969,
     "normalized": 0.11971513751676949
+  },
+  {
+    "city": "Clifton",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-07-26T23:14:00",
+    "lat": 39.09193,
+    "lon": -108.44898,
+    "normalized": 0.0755318422122285
   }
 ]
