@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 81,
-    "lastVisit": "2026-07-26T08:58:00",
+    "visitors": 82,
+    "lastVisit": "2026-07-27T10:04:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.48019761486885015
+    "normalized": 0.4815184724252309
   },
   {
     "city": "Sabz",
