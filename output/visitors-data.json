@@ -884,11 +884,11 @@
   {
     "city": "Madison",
     "country": "United States",
-    "visitors": 23,
-    "lastVisit": "2026-05-22T21:50:00",
+    "visitors": 24,
+    "lastVisit": "2026-07-27T08:47:00",
     "lat": 43.07305,
     "lon": -89.40123,
-    "normalized": 0.346310664153455
+    "normalized": 0.35075901298234513
   },
   {
     "city": "Princeton",
