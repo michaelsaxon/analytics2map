@@ -11825,3 +11825,12 @@ timestamp	country	city	num_unique
 2026-07-27T12:55:00	United States	New York	1
 2026-07-27T12:56:00	United States	Madison	1
 2026-07-27T13:36:00	Iran	Tehran	1
+2026-07-27T13:38:00	United States	Dallas	1
+2026-07-27T13:54:00	United States	Philadelphia	1
+2026-07-27T13:55:00	United States	Philadelphia	1
+2026-07-27T14:45:00	United Arab Emirates	Dubai	1
+2026-07-27T14:46:00	United Arab Emirates	Dubai	1
+2026-07-27T14:52:00	Germany		1
+2026-07-27T14:53:00	Germany		1
+2026-07-27T14:53:00	Germany	Munich	1
+2026-07-27T15:14:00	Iran	Tehran	1

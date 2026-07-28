@@ -110,11 +110,11 @@
   {
     "city": "Dallas",
     "country": "United States",
-    "visitors": 39,
-    "lastVisit": "2026-07-21T14:03:00",
+    "visitors": 40,
+    "lastVisit": "2026-07-27T13:38:00",
     "lat": 44.91928,
     "lon": -123.31705,
-    "normalized": 0.4019750331278581
+    "normalized": 0.4046657726566216
   },
   {
     "city": "San Jose",
@@ -335,11 +335,11 @@
   {
     "city": null,
     "country": "Germany",
-    "visitors": 167,
-    "lastVisit": "2026-06-05T07:16:00",
+    "visitors": 169,
+    "lastVisit": "2026-07-27T14:53:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.5583553531600329
+    "normalized": 0.559644947077069
   },
   {
     "city": null,
@@ -1451,11 +1451,11 @@
   {
     "city": "Munich",
     "country": "Germany",
-    "visitors": 10,
-    "lastVisit": "2026-03-27T02:25:00",
+    "visitors": 11,
+    "lastVisit": "2026-07-27T14:53:00",
     "lat": 48.13743,
     "lon": 11.57549,
-    "normalized": 0.2612972431629066
+    "normalized": 0.2707788219412265
   },
   {
     "city": "Dachau",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 83,
-    "lastVisit": "2026-07-27T13:36:00",
+    "visitors": 84,
+    "lastVisit": "2026-07-27T15:14:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.48282351094780446
+    "normalized": 0.48411310486484044
   },
   {
     "city": "Sabz",
@@ -5231,11 +5231,11 @@
   {
     "city": "Dubai",
     "country": "United Arab Emirates",
-    "visitors": 25,
-    "lastVisit": "2026-04-04T04:17:00",
+    "visitors": 27,
+    "lastVisit": "2026-07-27T14:46:00",
     "lat": 25.07725,
     "lon": 55.30927,
-    "normalized": 0.35503287111872484
+    "normalized": 0.363108373431035
   },
   {
     "city": "Manajao",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 42,
-    "lastVisit": "2026-06-11T10:32:00",
+    "visitors": 44,
+    "lastVisit": "2026-07-27T13:55:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.4098557732539357
+    "normalized": 0.41480978152471154
   },
   {
     "city": "Cairo",
