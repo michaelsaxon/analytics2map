@@ -265,8 +265,8 @@
     "country": "China",
     "visitors": 19,
     "lastVisit": "2025-10-01T00:00:00",
-    "lat": 39.9075,
-    "lon": 116.39723,
+    "lat": 31.25,
+    "lon": 121.48917,
     "normalized": 0.32644319091562957
   },
   {
@@ -346,8 +346,8 @@
     "country": "Russia",
     "visitors": 132,
     "lastVisit": "2025-11-01T00:00:00",
-    "lat": 55.75222,
-    "lon": 37.61556,
+    "lat": 55.75204,
+    "lon": 37.61781,
     "normalized": 0.532898479680983
   },
   {
@@ -976,8 +976,8 @@
     "country": "Russia",
     "visitors": 18,
     "lastVisit": "2026-06-16T06:00:00",
-    "lat": 55.75222,
-    "lon": 37.61556,
+    "lat": 55.75204,
+    "lon": 37.61781,
     "normalized": 0.32085379067440506
   },
   {
@@ -985,8 +985,8 @@
     "country": "Russia",
     "visitors": 10,
     "lastVisit": "2025-06-01T00:00:00",
-    "lat": 51.67204,
-    "lon": 39.1843,
+    "lat": 51.66833,
+    "lon": 39.19204,
     "normalized": 0.2612972431629066
   },
   {
@@ -1003,8 +1003,8 @@
     "country": "Russia",
     "visitors": 3,
     "lastVisit": "2025-04-01T00:00:00",
-    "lat": 55.75222,
-    "lon": 37.61556,
+    "lat": 55.75204,
+    "lon": 37.61781,
     "normalized": 0.151063684424457
   },
   {
@@ -1057,8 +1057,8 @@
     "country": "Taiwan",
     "visitors": 3,
     "lastVisit": "2025-01-01T00:00:00",
-    "lat": 24.9896,
-    "lon": 121.3187,
+    "lat": 24.99368,
+    "lon": 121.29696,
     "normalized": 0.151063684424457
   },
   {
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 911,
-    "lastVisit": "2026-07-27T21:50:00",
+    "visitors": 912,
+    "lastVisit": "2026-07-28T03:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7426962970400885
+    "normalized": 0.7428157155881374
   },
   {
     "city": "Sylhet",
@@ -1480,8 +1480,8 @@
     "country": "Germany",
     "visitors": 2,
     "lastVisit": "2026-06-27T01:05:00",
-    "lat": 52.52437,
-    "lon": 13.41053,
+    "lat": 49.45421,
+    "lon": 11.07752,
     "normalized": 0.11971513751676949
   },
   {
@@ -1516,8 +1516,8 @@
     "country": "Canada",
     "visitors": 1,
     "lastVisit": "2024-01-01T00:00:00",
-    "lat": 45.41117,
-    "lon": -75.69812,
+    "lat": 45.2501,
+    "lon": -75.91606,
     "normalized": 0.0755318422122285
   },
   {
@@ -1696,8 +1696,8 @@
     "country": "Russia",
     "visitors": 6,
     "lastVisit": "2025-02-01T00:00:00",
-    "lat": 55.75222,
-    "lon": 37.61556,
+    "lat": 55.75204,
+    "lon": 37.61781,
     "normalized": 0.212044689006578
   },
   {
@@ -2254,8 +2254,8 @@
     "country": "Russia",
     "visitors": 5,
     "lastVisit": "2025-10-01T00:00:00",
-    "lat": 48.71939,
-    "lon": 44.50183,
+    "lat": 48.71378,
+    "lon": 44.4976,
     "normalized": 0.195246979728998
   },
   {
@@ -2272,8 +2272,8 @@
     "country": "Russia",
     "visitors": 5,
     "lastVisit": "2025-07-01T00:00:00",
-    "lat": 55.75222,
-    "lon": 37.61556,
+    "lat": 47.21997,
+    "lon": 39.70769,
     "normalized": 0.195246979728998
   },
   {
@@ -2281,8 +2281,8 @@
     "country": "Russia",
     "visitors": 5,
     "lastVisit": "2025-03-01T00:00:00",
-    "lat": 55.75222,
-    "lon": 37.61556,
+    "lat": 55.75204,
+    "lon": 37.61781,
     "normalized": 0.195246979728998
   },
   {
@@ -2974,8 +2974,8 @@
     "country": "Russia",
     "visitors": 5,
     "lastVisit": "2025-07-01T00:00:00",
-    "lat": 51.54056,
-    "lon": 46.00861,
+    "lat": 51.54048,
+    "lon": 45.9901,
     "normalized": 0.195246979728998
   },
   {
@@ -3271,8 +3271,8 @@
     "country": "Cambodia",
     "visitors": 2,
     "lastVisit": "2024-07-01T00:00:00",
-    "lat": 11.56245,
-    "lon": 104.91601,
+    "lat": 11.06317,
+    "lon": 106.13557,
     "normalized": 0.11971513751676949
   },
   {
@@ -3469,8 +3469,8 @@
     "country": "Russia",
     "visitors": 1,
     "lastVisit": "2024-07-01T00:00:00",
-    "lat": 55.75222,
-    "lon": 37.61556,
+    "lat": 55.75204,
+    "lon": 37.61781,
     "normalized": 0.0755318422122285
   },
   {
@@ -3946,8 +3946,8 @@
     "country": "Russia",
     "visitors": 6,
     "lastVisit": "2025-06-01T00:00:00",
-    "lat": 56.8519,
-    "lon": 60.6122,
+    "lat": 56.85733,
+    "lon": 60.61529,
     "normalized": 0.212044689006578
   },
   {
@@ -3982,8 +3982,8 @@
     "country": "Greece",
     "visitors": 1,
     "lastVisit": "2024-09-01T00:00:00",
-    "lat": 41.11917,
-    "lon": 25.40535,
+    "lat": 41.11758,
+    "lon": 25.40587,
     "normalized": 0.0755318422122285
   },
   {
@@ -4477,8 +4477,8 @@
     "country": "Spain",
     "visitors": 6,
     "lastVisit": "2025-02-01T00:00:00",
-    "lat": 41.65518,
-    "lon": -4.72372,
+    "lat": 41.65541,
+    "lon": -4.72353,
     "normalized": 0.212044689006578
   },
   {
@@ -4693,8 +4693,8 @@
     "country": "United Arab Emirates",
     "visitors": 1,
     "lastVisit": "2025-02-01T00:00:00",
-    "lat": 25.33737,
-    "lon": 55.41206,
+    "lat": 25.3342,
+    "lon": 55.41221,
     "normalized": 0.0755318422122285
   },
   {
@@ -4774,8 +4774,8 @@
     "country": "India",
     "visitors": 2,
     "lastVisit": "2025-03-01T00:00:00",
-    "lat": 28.62137,
-    "lon": 77.2148,
+    "lat": 30.32443,
+    "lon": 78.03392,
     "normalized": 0.11971513751676949
   },
   {
@@ -4945,8 +4945,8 @@
     "country": "Russia",
     "visitors": 1,
     "lastVisit": "2025-04-01T00:00:00",
-    "lat": 55.75222,
-    "lon": 37.61556,
+    "lat": 55.75204,
+    "lon": 37.61781,
     "normalized": 0.0755318422122285
   },
   {
@@ -4972,8 +4972,8 @@
     "country": "North Macedonia",
     "visitors": 1,
     "lastVisit": "2025-04-01T00:00:00",
-    "lat": 41.71556,
-    "lon": 21.77556,
+    "lat": 41.71719,
+    "lon": 21.77196,
     "normalized": 0.0755318422122285
   },
   {
@@ -5404,8 +5404,8 @@
     "country": "Russia",
     "visitors": 1,
     "lastVisit": "2025-06-01T00:00:00",
-    "lat": 55.75222,
-    "lon": 37.61556,
+    "lat": 55.75204,
+    "lon": 37.61781,
     "normalized": 0.0755318422122285
   },
   {
@@ -5557,8 +5557,8 @@
     "country": "Panama",
     "visitors": 6,
     "lastVisit": "2025-07-01T00:00:00",
-    "lat": 9.08929,
-    "lon": -79.39177,
+    "lat": 8.9936,
+    "lon": -79.51973,
     "normalized": 0.212044689006578
   },
   {
@@ -5566,8 +5566,8 @@
     "country": "Panama",
     "visitors": 1,
     "lastVisit": "2025-07-01T00:00:00",
-    "lat": 9.08929,
-    "lon": -79.39177,
+    "lat": 8.9936,
+    "lon": -79.51973,
     "normalized": 0.0755318422122285
   },
   {
@@ -5593,8 +5593,8 @@
     "country": "South Korea",
     "visitors": 3,
     "lastVisit": "2025-09-01T00:00:00",
-    "lat": 37.566,
-    "lon": 126.9784,
+    "lat": 34.81379,
+    "lon": 128.70556,
     "normalized": 0.151063684424457
   },
   {
@@ -5845,8 +5845,8 @@
     "country": "China",
     "visitors": 2,
     "lastVisit": "2025-09-01T00:00:00",
-    "lat": 32.97944,
-    "lon": 114.02944,
+    "lat": 32.98385,
+    "lon": 114.02586,
     "normalized": 0.11971513751676949
   },
   {
@@ -5944,8 +5944,8 @@
     "country": "France",
     "visitors": 2,
     "lastVisit": "2025-09-01T00:00:00",
-    "lat": 45.74846,
-    "lon": 4.84671,
+    "lat": 45.74906,
+    "lon": 4.84789,
     "normalized": 0.11971513751676949
   },
   {
@@ -6286,8 +6286,8 @@
     "country": "South Korea",
     "visitors": 1,
     "lastVisit": "2025-11-01T00:00:00",
-    "lat": 37.566,
-    "lon": 126.9784,
+    "lat": 37.62361,
+    "lon": 126.71417,
     "normalized": 0.0755318422122285
   },
   {
@@ -6340,8 +6340,8 @@
     "country": "Sweden",
     "visitors": 14,
     "lastVisit": "2025-11-15T14:03:00",
-    "lat": 59.32938,
-    "lon": 18.06871,
+    "lat": 57.70716,
+    "lon": 11.96679,
     "normalized": 0.29509464400794205
   },
   {
@@ -6484,8 +6484,8 @@
     "country": "Poland",
     "visitors": 1,
     "lastVisit": "2025-11-01T00:00:00",
-    "lat": 51.25,
-    "lon": 22.56667,
+    "lat": 51.25058,
+    "lon": 22.57009,
     "normalized": 0.0755318422122285
   },
   {
@@ -6538,8 +6538,8 @@
     "country": "Russia",
     "visitors": 1,
     "lastVisit": "2025-11-01T00:00:00",
-    "lat": 55.15402,
-    "lon": 61.42915,
+    "lat": 55.1611,
+    "lon": 61.42877,
     "normalized": 0.0755318422122285
   },
   {
@@ -7339,8 +7339,8 @@
     "country": "Portugal",
     "visitors": 6,
     "lastVisit": "2025-12-03T16:13:00",
-    "lat": 41.14961,
-    "lon": -8.61099,
+    "lat": 41.1485,
+    "lon": -8.61097,
     "normalized": 0.212044689006578
   },
   {
@@ -8050,8 +8050,8 @@
     "country": "United Arab Emirates",
     "visitors": 1,
     "lastVisit": "2025-12-15T08:10:00",
-    "lat": 24.45118,
-    "lon": 54.39696,
+    "lat": 25.40177,
+    "lon": 55.47878,
     "normalized": 0.0755318422122285
   },
   {
@@ -8563,8 +8563,8 @@
     "country": "United States",
     "visitors": 5,
     "lastVisit": "2026-01-03T15:19:00",
-    "lat": 43.54997,
-    "lon": -96.70033,
+    "lat": 43.54369,
+    "lon": -96.72796,
     "normalized": 0.195246979728998
   },
   {
@@ -8572,8 +8572,8 @@
     "country": "France",
     "visitors": 2,
     "lastVisit": "2026-02-01T20:09:00",
-    "lat": 50.63297,
-    "lon": 3.05858,
+    "lat": 50.63391,
+    "lon": 3.05512,
     "normalized": 0.11971513751676949
   },
   {
@@ -8635,8 +8635,8 @@
     "country": "Switzerland",
     "visitors": 1,
     "lastVisit": "2026-01-06T02:57:00",
-    "lat": 46.94809,
-    "lon": 7.44744,
+    "lat": 46.20222,
+    "lon": 6.14569,
     "normalized": 0.0755318422122285
   },
   {
@@ -8671,8 +8671,8 @@
     "country": "Germany",
     "visitors": 1,
     "lastVisit": "2026-01-06T15:14:00",
-    "lat": 51.22172,
-    "lon": 6.77616,
+    "lat": 51.22319,
+    "lon": 6.77927,
     "normalized": 0.0755318422122285
   },
   {
@@ -9481,8 +9481,8 @@
     "country": "Slovakia",
     "visitors": 1,
     "lastVisit": "2026-02-13T02:55:00",
-    "lat": 48.71395,
-    "lon": 21.25808,
+    "lat": 48.71441,
+    "lon": 21.25802,
     "normalized": 0.0755318422122285
   },
   {
@@ -9589,8 +9589,8 @@
     "country": "United States",
     "visitors": 1,
     "lastVisit": "2026-02-17T20:53:00",
-    "lat": 37.13054,
-    "lon": -113.50829,
+    "lat": 33.32456,
+    "lon": -96.78444,
     "normalized": 0.0755318422122285
   },
   {
@@ -9787,8 +9787,8 @@
     "country": "Austria",
     "visitors": 3,
     "lastVisit": "2026-06-18T12:00:00",
-    "lat": 47.06667,
-    "lon": 15.45,
+    "lat": 47.06733,
+    "lon": 15.44197,
     "normalized": 0.151063684424457
   },
   {
@@ -9904,8 +9904,8 @@
     "country": "Burkina Faso",
     "visitors": 2,
     "lastVisit": "2026-03-02T08:15:00",
-    "lat": 11.17715,
-    "lon": -4.2979,
+    "lat": 11.18064,
+    "lon": -4.29489,
     "normalized": 0.11971513751676949
   },
   {
@@ -10615,8 +10615,8 @@
     "country": "Russia",
     "visitors": 1,
     "lastVisit": "2026-04-23T02:36:00",
-    "lat": 45.0428,
-    "lon": 41.9734,
+    "lat": 45.03442,
+    "lon": 41.9642,
     "normalized": 0.0755318422122285
   },
   {
@@ -11263,8 +11263,8 @@
     "country": "Argentina",
     "visitors": 1,
     "lastVisit": "2026-06-22T01:59:00",
-    "lat": -34.61315,
-    "lon": -58.37723,
+    "lat": -35.81081,
+    "lon": -61.89897,
     "normalized": 0.0755318422122285
   },
   {
@@ -11470,8 +11470,8 @@
     "country": "North Macedonia",
     "visitors": 1,
     "lastVisit": "2026-07-12T15:29:00",
-    "lat": 41.34514,
-    "lon": 21.55504,
+    "lat": 41.34558,
+    "lon": 21.5537,
     "normalized": 0.0755318422122285
   },
   {
