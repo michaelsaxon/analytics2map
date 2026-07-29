@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 65,
-    "lastVisit": "2026-07-28T01:18:00",
+    "visitors": 66,
+    "lastVisit": "2026-07-29T00:10:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.45653907903665547
+    "normalized": 0.45817772926093453
   },
   {
     "city": "Los Angeles",
@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 143,
-    "lastVisit": "2026-07-24T11:02:00",
+    "visitors": 144,
+    "lastVisit": "2026-07-29T00:52:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5415515421862985
+    "normalized": 0.5423056502924141
   },
   {
     "city": "Ames",
@@ -11599,5 +11599,14 @@
     "lat": 27.94752,
     "lon": -82.45843,
     "normalized": 0.11971378869379104
+  },
+  {
+    "city": "Las Vegas Valley",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-07-29T02:00:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.0755309911996791
   }
 ]
