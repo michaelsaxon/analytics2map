@@ -470,11 +470,11 @@
   {
     "city": "Cambridge",
     "country": "United States",
-    "visitors": 79,
-    "lastVisit": "2026-07-17T10:08:00",
+    "visitors": 81,
+    "lastVisit": "2026-07-30T12:44:00",
     "lat": 42.3751,
     "lon": -71.10561,
-    "normalized": 0.4775014952999414
+    "normalized": 0.48019220451231076
   },
   {
     "city": "San Diego",
@@ -11617,5 +11617,14 @@
     "lat": 30.88697,
     "lon": 30.66724,
     "normalized": 0.11971378869379104
+  },
+  {
+    "city": "Arar",
+    "country": "Saudi Arabia",
+    "visitors": 1,
+    "lastVisit": "2026-07-30T13:37:00",
+    "lat": 30.97531,
+    "lon": 41.03808,
+    "normalized": 0.0755309911996791
   }
 ]
