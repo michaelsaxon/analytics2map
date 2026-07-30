@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 55,
-    "lastVisit": "2026-07-24T00:04:00",
+    "visitors": 57,
+    "lastVisit": "2026-07-29T16:25:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.43863527351134607
+    "normalized": 0.4424591109908681
   },
   {
     "city": "Tustin",
@@ -1973,11 +1973,11 @@
   {
     "city": "Seongnam-si",
     "country": "South Korea",
-    "visitors": 7,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 8,
+    "lastVisit": "2026-07-29T16:55:00",
     "lat": 37.43861,
     "lon": 127.13778,
-    "normalized": 0.2265929735990373
+    "normalized": 0.23942757738758208
   },
   {
     "city": "Seodaemun-gu",
