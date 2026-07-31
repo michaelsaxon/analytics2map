@@ -4916,11 +4916,11 @@
   {
     "city": "Berkeley",
     "country": "United States",
-    "visitors": 23,
-    "lastVisit": "2026-06-06T13:21:00",
+    "visitors": 24,
+    "lastVisit": "2026-07-31T11:18:00",
     "lat": 37.87159,
     "lon": -122.27275,
-    "normalized": 0.3463028609235085
+    "normalized": 0.3507511095201725
   },
   {
     "city": "Providence",
