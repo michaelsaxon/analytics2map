@@ -11621,10 +11621,10 @@
   {
     "city": "Arar",
     "country": "Saudi Arabia",
-    "visitors": 1,
-    "lastVisit": "2026-07-30T13:37:00",
+    "visitors": 2,
+    "lastVisit": "2026-07-30T13:38:00",
     "lat": 30.97531,
     "lon": 41.03808,
-    "normalized": 0.0755309911996791
+    "normalized": 0.11971378869379104
   }
 ]
