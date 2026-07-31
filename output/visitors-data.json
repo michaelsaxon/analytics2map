@@ -2126,11 +2126,11 @@
   {
     "city": "Amherst",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2026-04-13T19:11:00",
+    "visitors": 16,
+    "lastVisit": "2026-07-31T11:09:00",
     "lat": 42.97839,
     "lon": -78.79976,
-    "normalized": 0.30212056117714325
+    "normalized": 0.3087266418473183
   },
   {
     "city": "Tempe",
