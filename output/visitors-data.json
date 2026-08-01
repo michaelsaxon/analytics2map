@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 72,
-    "lastVisit": "2026-07-31T21:28:00",
+    "visitors": 73,
+    "lastVisit": "2026-08-01T01:14:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.46751831732922355
+    "normalized": 0.4690008838567799
   },
   {
     "city": "Los Angeles",
@@ -11661,6 +11661,15 @@
     "lastVisit": "2026-07-30T21:50:00",
     "lat": 28.79304,
     "lon": 76.13968,
+    "normalized": 0.07553014029428581
+  },
+  {
+    "city": "Santa Paula",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-08-01T00:53:00",
+    "lat": 34.35417,
+    "lon": -119.05927,
     "normalized": 0.07553014029428581
   }
 ]
