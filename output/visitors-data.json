@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 24,
-    "lastVisit": "2026-06-29T22:43:00",
+    "visitors": 26,
+    "lastVisit": "2026-08-01T06:28:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.3507511095201725
+    "normalized": 0.35913732012195304
   },
   {
     "city": "Athens",
@@ -11670,6 +11670,15 @@
     "lastVisit": "2026-08-01T00:53:00",
     "lat": 34.35417,
     "lon": -119.05927,
+    "normalized": 0.07553014029428581
+  },
+  {
+    "city": "Espoo",
+    "country": "Finland",
+    "visitors": 1,
+    "lastVisit": "2026-08-01T07:10:00",
+    "lat": 60.2052,
+    "lon": 24.6522,
     "normalized": 0.07553014029428581
   }
 ]
