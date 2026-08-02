@@ -11680,5 +11680,14 @@
     "lat": 60.2052,
     "lon": 24.6522,
     "normalized": 0.07553014029428581
+  },
+  {
+    "city": "Tuckahoe",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-08-02T09:53:00",
+    "lat": 37.59015,
+    "lon": -77.55638,
+    "normalized": 0.07553014029428581
   }
 ]
