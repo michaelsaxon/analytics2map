@@ -1613,11 +1613,11 @@
   {
     "city": "Cambridge",
     "country": "United Kingdom",
-    "visitors": 10,
-    "lastVisit": "2026-01-22T09:38:00",
+    "visitors": 11,
+    "lastVisit": "2026-08-03T10:14:00",
     "lat": 52.2,
     "lon": 0.11667,
-    "normalized": 0.2612913554941634
+    "normalized": 0.2707727206292227
   },
   {
     "city": "Beijing",
