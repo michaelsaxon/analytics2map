@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 179,
-    "lastVisit": "2026-03-24T21:39:00",
+    "visitors": 180,
+    "lastVisit": "2026-08-05T00:37:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.56586071542996
+    "normalized": 0.566464412036917
   },
   {
     "city": "Recife",
@@ -11689,5 +11689,14 @@
     "lat": 37.59015,
     "lon": -77.55638,
     "normalized": 0.07553014029428581
+  },
+  {
+    "city": "Bordeaux",
+    "country": "France",
+    "visitors": 2,
+    "lastVisit": "2026-08-05T00:55:00",
+    "lat": 44.84124,
+    "lon": -0.58046,
+    "normalized": 0.11971244004065103
   }
 ]
