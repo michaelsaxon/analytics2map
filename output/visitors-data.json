@@ -7184,11 +7184,11 @@
   {
     "city": "Raleigh",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-07-04T11:30:00",
+    "visitors": 8,
+    "lastVisit": "2026-08-06T00:47:00",
     "lat": 35.7721,
     "lon": -78.63861,
-    "normalized": 0.22659042088285744
+    "normalized": 0.23942488008130206
   },
   {
     "city": "Ardmore",
