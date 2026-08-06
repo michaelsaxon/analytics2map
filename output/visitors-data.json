@@ -317,11 +317,11 @@
   {
     "city": "Berlin",
     "country": "Germany",
-    "visitors": 29,
-    "lastVisit": "2026-05-15T12:04:00",
+    "visitors": 31,
+    "lastVisit": "2026-08-06T04:21:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.3706181350950231
+    "normalized": 0.3776507014714291
   },
   {
     "city": "Remshalden",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 943,
-    "lastVisit": "2026-08-05T21:35:00",
+    "visitors": 944,
+    "lastVisit": "2026-08-06T03:22:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7464374159966485
+    "normalized": 0.746552786000904
   },
   {
     "city": "Sylhet",
