@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 85,
-    "lastVisit": "2026-08-05T20:45:00",
+    "visitors": 87,
+    "lastVisit": "2026-08-06T15:28:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.4853766784908737
+    "normalized": 0.48788177637702085
   },
   {
     "city": "Los Angeles",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 297,
-    "lastVisit": "2026-08-03T23:02:00",
+    "visitors": 299,
+    "lastVisit": "2026-08-06T09:22:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6207949514528847
+    "normalized": 0.6215238301493952
   },
   {
     "city": "Lompoc",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 944,
-    "lastVisit": "2026-08-06T03:22:00",
+    "visitors": 945,
+    "lastVisit": "2026-08-06T09:34:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.746552786000904
+    "normalized": 0.746668033985037
   },
   {
     "city": "Sylhet",
@@ -1631,11 +1631,11 @@
   {
     "city": "Shenzhen",
     "country": "China",
-    "visitors": 34,
-    "lastVisit": "2026-07-03T05:23:00",
+    "visitors": 35,
+    "lastVisit": "2026-08-06T12:28:00",
     "lat": 22.54554,
     "lon": 114.0683,
-    "normalized": 0.3874154658789509
+    "normalized": 0.39048516066987365
   },
   {
     "city": "Huzhou",
