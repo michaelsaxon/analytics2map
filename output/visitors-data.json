@@ -1649,11 +1649,11 @@
   {
     "city": "Mumbai",
     "country": "India",
-    "visitors": 11,
-    "lastVisit": "2026-07-15T21:13:00",
+    "visitors": 12,
+    "lastVisit": "2026-08-06T23:49:00",
     "lat": 19.07283,
     "lon": 72.88261,
-    "normalized": 0.2707727206292227
+    "normalized": 0.27949473106174416
   },
   {
     "city": "Ahmedabad",
