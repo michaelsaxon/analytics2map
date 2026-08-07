@@ -2027,11 +2027,11 @@
   {
     "city": "Brussels",
     "country": "Belgium",
-    "visitors": 9,
-    "lastVisit": "2026-07-17T05:37:00",
+    "visitors": 10,
+    "lastVisit": "2026-08-07T10:06:00",
     "lat": 50.85045,
     "lon": 4.34878,
-    "normalized": 0.2509056950543721
+    "normalized": 0.2612913554941634
   },
   {
     "city": null,
@@ -11698,5 +11698,14 @@
     "lat": 44.84124,
     "lon": -0.58046,
     "normalized": 0.11971244004065103
+  },
+  {
+    "city": "Fuzhou",
+    "country": "China",
+    "visitors": 1,
+    "lastVisit": "2026-08-07T11:43:00",
+    "lat": 26.06139,
+    "lon": 119.30611,
+    "normalized": 0.07553014029428581
   }
 ]
