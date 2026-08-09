@@ -8849,11 +8849,11 @@
   {
     "city": "Bothell",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-08-02T23:32:00",
+    "visitors": 15,
+    "lastVisit": "2026-08-08T22:55:00",
     "lat": 47.76232,
     "lon": -122.2054,
-    "normalized": 0.2950879948007373
+    "normalized": 0.30212056117714325
   },
   {
     "city": "Norman",
