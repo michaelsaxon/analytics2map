@@ -4538,11 +4538,11 @@
   {
     "city": "Trento",
     "country": "Italy",
-    "visitors": 1,
-    "lastVisit": "2025-01-01T00:00:00",
+    "visitors": 2,
+    "lastVisit": "2026-08-10T02:21:00",
     "lat": 46.06787,
     "lon": 11.12108,
-    "normalized": 0.07552928949602386
+    "normalized": 0.11971109155731013
   },
   {
     "city": "Frederiksberg",
@@ -7535,11 +7535,11 @@
   {
     "city": "Fremont",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-01-25T16:21:00",
+    "visitors": 7,
+    "lastVisit": "2026-08-10T02:19:00",
     "lat": 37.54827,
     "lon": -121.98857,
-    "normalized": 0.19524038105333397
+    "normalized": 0.22658786848807155
   },
   {
     "city": "Grants Pass",
@@ -11612,11 +11612,11 @@
   {
     "city": "Itay Al Barud",
     "country": "Egypt",
-    "visitors": 2,
-    "lastVisit": "2026-07-29T14:58:00",
+    "visitors": 3,
+    "lastVisit": "2026-08-10T02:34:00",
     "lat": 30.88697,
     "lon": 30.66724,
-    "normalized": 0.11971109155731013
+    "normalized": 0.15105857899204772
   },
   {
     "city": "Arar",
