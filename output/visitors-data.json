@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 93,
-    "lastVisit": "2026-08-09T12:34:00",
+    "visitors": 94,
+    "lastVisit": "2026-08-10T11:34:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.49506343890577087
+    "normalized": 0.4962165261887041
   },
   {
     "city": "Los Angeles",
