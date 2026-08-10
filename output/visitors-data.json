@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 299,
-    "lastVisit": "2026-08-06T09:22:00",
+    "visitors": 300,
+    "lastVisit": "2026-08-10T00:46:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6215168290847554
+    "normalized": 0.6218794441661418
   },
   {
     "city": "Lompoc",
