@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 172,
-    "lastVisit": "2026-07-28T11:47:00",
+    "visitors": 173,
+    "lastVisit": "2026-08-10T12:40:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.561532187700485
+    "normalized": 0.5621602340005064
   },
   {
     "city": "Four Oaks",
@@ -4250,11 +4250,11 @@
   {
     "city": "Boston",
     "country": "United States",
-    "visitors": 36,
-    "lastVisit": "2026-08-05T13:53:00",
+    "visitors": 38,
+    "lastVisit": "2026-08-10T12:38:00",
     "lat": 42.35843,
     "lon": -71.05977,
-    "normalized": 0.39346631136862475
+    "normalized": 0.39920267429137357
   },
   {
     "city": "Hoodsport",
@@ -4916,11 +4916,11 @@
   {
     "city": "Berkeley",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2026-07-31T11:18:00",
+    "visitors": 26,
+    "lastVisit": "2026-08-10T12:10:00",
     "lat": 37.87159,
     "lon": -122.27275,
-    "normalized": 0.35074715853539745
+    "normalized": 0.3591332746719304
   },
   {
     "city": "Providence",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 45,
-    "lastVisit": "2026-07-28T08:20:00",
+    "visitors": 47,
+    "lastVisit": "2026-08-10T13:17:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.4171907100282539
+    "normalized": 0.4218282495414056
   },
   {
     "city": "Cairo",
@@ -11715,6 +11715,15 @@
     "lastVisit": "2026-08-10T09:29:00",
     "lat": 33.94621,
     "lon": -84.33465,
+    "normalized": 0.07552928949602386
+  },
+  {
+    "city": "Bridgeport",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-08-10T12:17:00",
+    "lat": 41.17923,
+    "lon": -73.18945,
     "normalized": 0.07552928949602386
   }
 ]
