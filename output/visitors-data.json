@@ -65,29 +65,29 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 387,
-    "lastVisit": "2026-08-08T12:53:00",
+    "visitors": 389,
+    "lastVisit": "2026-08-10T14:02:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6495453066981249
+    "normalized": 0.6501055430550962
   },
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 47,
-    "lastVisit": "2026-07-14T16:49:00",
+    "visitors": 49,
+    "lastVisit": "2026-08-10T14:05:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.4218282495414056
+    "normalized": 0.42627644803142134
   },
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 173,
-    "lastVisit": "2026-08-10T12:40:00",
+    "visitors": 174,
+    "lastVisit": "2026-08-10T15:03:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5621602340005064
+    "normalized": 0.5627846811615738
   },
   {
     "city": "Four Oaks",
@@ -2162,11 +2162,11 @@
   {
     "city": "Chennai",
     "country": "India",
-    "visitors": 21,
-    "lastVisit": "2026-07-09T02:41:00",
+    "visitors": 22,
+    "lastVisit": "2026-08-10T14:43:00",
     "lat": 13.08784,
     "lon": 80.27847,
-    "normalized": 0.3368177017117787
+    "normalized": 0.3416614205322301
   },
   {
     "city": "Pune",
