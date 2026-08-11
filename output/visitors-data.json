@@ -9191,11 +9191,11 @@
   {
     "city": "Hartford",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-02-01T16:37:00",
+    "visitors": 2,
+    "lastVisit": "2026-08-11T15:15:00",
     "lat": 41.76371,
     "lon": -72.68509,
-    "normalized": 0.0755275882207948
+    "normalized": 0.11970839509986869
   },
   {
     "city": "Changhua City",
