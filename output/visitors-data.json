@@ -2027,11 +2027,11 @@
   {
     "city": "Brussels",
     "country": "Belgium",
-    "visitors": 10,
-    "lastVisit": "2026-08-07T10:06:00",
+    "visitors": 11,
+    "lastVisit": "2026-08-10T22:30:00",
     "lat": 50.85045,
     "lon": 4.34878,
-    "normalized": 0.2612854693078741
+    "normalized": 0.270766620853466
   },
   {
     "city": null,
@@ -6635,11 +6635,11 @@
   {
     "city": "Sammamish",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2025-11-09T14:59:00",
+    "visitors": 5,
+    "lastVisit": "2026-08-10T21:49:00",
     "lat": 47.64177,
     "lon": -122.0804,
-    "normalized": 0.15105687760973688
+    "normalized": 0.19523818204859755
   },
   {
     "city": "Huntsville",
