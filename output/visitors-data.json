@@ -1649,11 +1649,11 @@
   {
     "city": "Mumbai",
     "country": "India",
-    "visitors": 13,
-    "lastVisit": "2026-08-07T05:08:00",
+    "visitors": 14,
+    "lastVisit": "2026-08-12T04:58:00",
     "lat": 19.07283,
     "lon": 72.88261,
-    "normalized": 0.28756033476358306
+    "normalized": 0.29507802412881595
   },
   {
     "city": "Ahmedabad",
@@ -2162,11 +2162,11 @@
   {
     "city": "Chennai",
     "country": "India",
-    "visitors": 22,
-    "lastVisit": "2026-08-10T14:43:00",
+    "visitors": 23,
+    "lastVisit": "2026-08-12T06:02:00",
     "lat": 13.08784,
     "lon": 80.27847,
-    "normalized": 0.34165372470832717
+    "normalized": 0.34629115976225316
   },
   {
     "city": "Pune",
@@ -11742,6 +11742,15 @@
     "lastVisit": "2026-08-10T17:48:00",
     "lat": 25.58474,
     "lon": 100.21229,
+    "normalized": 0.0755275882207948
+  },
+  {
+    "city": "Garching",
+    "country": "Germany",
+    "visitors": 1,
+    "lastVisit": "2026-08-12T05:12:00",
+    "lat": 48.24896,
+    "lon": 11.65101,
     "normalized": 0.0755275882207948
   }
 ]
