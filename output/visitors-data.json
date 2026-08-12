@@ -3710,11 +3710,11 @@
   {
     "city": "Bellevue",
     "country": "United States",
-    "visitors": 185,
-    "lastVisit": "2026-06-04T17:31:00",
+    "visitors": 186,
+    "lastVisit": "2026-08-11T22:07:00",
     "lat": 47.61038,
     "lon": -122.20068,
-    "normalized": 0.5694144822165444
+    "normalized": 0.5699987371121912
   },
   {
     "city": "Burlingame",
@@ -6635,11 +6635,11 @@
   {
     "city": "Sammamish",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-08-10T21:49:00",
+    "visitors": 6,
+    "lastVisit": "2026-08-11T21:39:00",
     "lat": 47.64177,
     "lon": -122.0804,
-    "normalized": 0.1952359833206635
+    "normalized": 0.21203274654278823
   },
   {
     "city": "Huntsville",
