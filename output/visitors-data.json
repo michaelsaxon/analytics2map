@@ -11752,5 +11752,14 @@
     "lat": 48.24896,
     "lon": 11.65101,
     "normalized": 0.0755275882207948
+  },
+  {
+    "city": "Buttstadt",
+    "country": "Germany",
+    "visitors": 1,
+    "lastVisit": "2026-08-13T04:53:00",
+    "lat": 52.52437,
+    "lon": 13.41053,
+    "normalized": 0.0755275882207948
   }
 ]
