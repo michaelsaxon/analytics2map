@@ -830,11 +830,11 @@
   {
     "city": "Dhaka",
     "country": "Bangladesh",
-    "visitors": 52,
-    "lastVisit": "2026-08-12T07:52:00",
+    "visitors": 53,
+    "lastVisit": "2026-08-13T07:29:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.4326160174537172
+    "normalized": 0.4346527735204009
   },
   {
     "city": null,
@@ -1802,11 +1802,11 @@
   {
     "city": "Zurich",
     "country": "Switzerland",
-    "visitors": 25,
-    "lastVisit": "2026-08-10T16:59:00",
+    "visitors": 26,
+    "lastVisit": "2026-08-13T08:01:00",
     "lat": 47.36667,
     "lon": 8.55,
-    "normalized": 0.35501287548842925
+    "normalized": 0.3591251852996061
   },
   {
     "city": "Obanos",
