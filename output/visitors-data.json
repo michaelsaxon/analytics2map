@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 177,
-    "lastVisit": "2026-08-11T20:07:00",
+    "visitors": 178,
+    "lastVisit": "2026-08-12T19:08:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5646241162224597
+    "normalized": 0.5652345563455022
   },
   {
     "city": "Four Oaks",
@@ -110,11 +110,11 @@
   {
     "city": "Dallas",
     "country": "United States",
-    "visitors": 41,
-    "lastVisit": "2026-07-28T10:00:00",
+    "visitors": 42,
+    "lastVisit": "2026-08-12T20:15:00",
     "lat": 44.91928,
     "lon": -123.31705,
-    "normalized": 0.40726872986345175
+    "normalized": 0.4098326899701522
   },
   {
     "city": "San Jose",
@@ -7553,11 +7553,11 @@
   {
     "city": "Jersey City",
     "country": "United States",
-    "visitors": 17,
-    "lastVisit": "2026-07-25T17:22:00",
+    "visitors": 18,
+    "lastVisit": "2026-08-12T19:40:00",
     "lat": 40.72816,
     "lon": -74.07764,
-    "normalized": 0.3149443784205322
+    "normalized": 0.32083572002715194
   },
   {
     "city": "Pickens",
