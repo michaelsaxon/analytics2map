@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 960,
-    "lastVisit": "2026-08-12T15:15:00",
+    "visitors": 961,
+    "lastVisit": "2026-08-12T21:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7483569977917618
+    "normalized": 0.7484703241430862
   },
   {
     "city": "Sylhet",
@@ -6779,11 +6779,11 @@
   {
     "city": "Newark",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-07-01T14:54:00",
+    "visitors": 13,
+    "lastVisit": "2026-08-12T21:31:00",
     "lat": 37.52966,
     "lon": -122.04024,
-    "normalized": 0.27948528726763444
+    "normalized": 0.28756033476358306
   },
   {
     "city": "New Haven",
