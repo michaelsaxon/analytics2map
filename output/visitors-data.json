@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 149,
-    "lastVisit": "2026-08-05T12:01:00",
+    "visitors": 150,
+    "lastVisit": "2026-08-14T01:59:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.545975241378558
+    "normalized": 0.5466992525271942
   },
   {
     "city": "Ames",
@@ -11765,10 +11765,10 @@
   {
     "city": "Rawalpindi",
     "country": "Pakistan",
-    "visitors": 1,
-    "lastVisit": "2026-08-13T23:20:00",
+    "visitors": 2,
+    "lastVisit": "2026-08-13T23:57:00",
     "lat": 33.59733,
     "lon": 73.0479,
-    "normalized": 0.0755275882207948
+    "normalized": 0.11970839509986869
   }
 ]
