@@ -74,11 +74,11 @@
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 49,
-    "lastVisit": "2026-08-10T14:05:00",
+    "visitors": 53,
+    "lastVisit": "2026-08-14T11:31:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.4262668462786894
+    "normalized": 0.4346527735204009
   },
   {
     "city": "New York",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 966,
-    "lastVisit": "2026-08-14T03:15:00",
+    "visitors": 967,
+    "lastVisit": "2026-08-14T09:50:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7490351946511344
+    "normalized": 0.7491478182032554
   },
   {
     "city": "Sylhet",
@@ -1262,11 +1262,11 @@
   {
     "city": "State College",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-08-14T09:40:00",
+    "visitors": 13,
+    "lastVisit": "2026-08-14T09:41:00",
     "lat": 40.79339,
     "lon": -77.86,
-    "normalized": 0.27948528726763444
+    "normalized": 0.28756033476358306
   },
   {
     "city": "Sonoma",
