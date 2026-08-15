@@ -1262,11 +1262,11 @@
   {
     "city": "State College",
     "country": "United States",
-    "visitors": 13,
-    "lastVisit": "2026-08-14T09:41:00",
+    "visitors": 14,
+    "lastVisit": "2026-08-14T17:48:00",
     "lat": 40.79339,
     "lon": -77.86,
-    "normalized": 0.28755709669572777
+    "normalized": 0.29507470140815806
   },
   {
     "city": "Sonoma",
