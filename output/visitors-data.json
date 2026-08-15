@@ -11779,5 +11779,14 @@
     "lat": 42.08836,
     "lon": -87.98063,
     "normalized": 0.07552673774377822
+  },
+  {
+    "city": "Cotonou",
+    "country": "Benin",
+    "visitors": 2,
+    "lastVisit": "2026-08-15T10:45:00",
+    "lat": 6.36536,
+    "lon": 2.41833,
+    "normalized": 0.11970704712568966
   }
 ]
