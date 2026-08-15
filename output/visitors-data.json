@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 56,
-    "lastVisit": "2026-08-10T20:15:00",
+    "visitors": 58,
+    "lastVisit": "2026-08-15T08:07:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.44053915438812324
+    "normalized": 0.44429683882941157
   },
   {
     "city": "Mocksville",
@@ -11770,5 +11770,14 @@
     "lat": 33.59733,
     "lon": 73.0479,
     "normalized": 0.11970704712568966
+  },
+  {
+    "city": "Arlington Heights",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-08-15T08:06:00",
+    "lat": 42.08836,
+    "lon": -87.98063,
+    "normalized": 0.07552673774377822
   }
 ]
