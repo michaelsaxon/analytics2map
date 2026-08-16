@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 151,
-    "lastVisit": "2026-08-15T13:39:00",
+    "visitors": 152,
+    "lastVisit": "2026-08-16T10:20:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5474123204937682
+    "normalized": 0.5481268282999322
   },
   {
     "city": "Ames",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 180,
-    "lastVisit": "2026-08-13T18:22:00",
+    "visitors": 181,
+    "lastVisit": "2026-08-16T10:27:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.566438893432487
+    "normalized": 0.5670392368244306
   },
   {
     "city": "Four Oaks",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 977,
-    "lastVisit": "2026-08-16T09:19:00",
+    "visitors": 978,
+    "lastVisit": "2026-08-16T10:12:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7502592489243979
+    "normalized": 0.7503706051425696
   },
   {
     "city": "Sylhet",
