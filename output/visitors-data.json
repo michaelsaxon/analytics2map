@@ -3197,11 +3197,11 @@
   {
     "city": "Tabriz",
     "country": "Iran",
-    "visitors": 15,
-    "lastVisit": "2026-07-27T04:58:00",
+    "visitors": 16,
+    "lastVisit": "2026-08-15T22:01:00",
     "lat": 38.08,
     "lon": 46.2919,
-    "normalized": 0.30210695097511286
+    "normalized": 0.308712734048553
   },
   {
     "city": "Victoria",
