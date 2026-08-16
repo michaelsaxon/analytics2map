@@ -10424,11 +10424,11 @@
   {
     "city": "Lalitpur",
     "country": "Nepal",
-    "visitors": 2,
-    "lastVisit": "2026-03-31T05:55:00",
+    "visitors": 4,
+    "lastVisit": "2026-08-16T04:09:00",
     "lat": 27.70169,
     "lon": 85.3206,
-    "normalized": 0.11970704712568966
+    "normalized": 0.1753676542824684
   },
   {
     "city": "Bethesda",
