@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 301,
-    "lastVisit": "2026-08-15T08:28:00",
+    "visitors": 304,
+    "lastVisit": "2026-08-15T17:12:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6222198341741048
+    "normalized": 0.623296897803814
   },
   {
     "city": "Lompoc",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 971,
-    "lastVisit": "2026-08-15T09:19:00",
+    "visitors": 973,
+    "lastVisit": "2026-08-15T17:09:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7495887111160047
+    "normalized": 0.749812682520654
   },
   {
     "city": "Sylhet",
@@ -5663,11 +5663,11 @@
   {
     "city": "Menlo Park",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-05-09T20:46:00",
+    "visitors": 7,
+    "lastVisit": "2026-08-15T17:06:00",
     "lat": 37.45383,
     "lon": -122.18219,
-    "normalized": 0.19523378486946785
+    "normalized": 0.22658021323133462
   },
   {
     "city": "Green Hill",
@@ -8849,11 +8849,11 @@
   {
     "city": "Bothell",
     "country": "United States",
-    "visitors": 16,
-    "lastVisit": "2026-08-08T22:59:00",
+    "visitors": 18,
+    "lastVisit": "2026-08-15T16:30:00",
     "lat": 47.76232,
     "lon": -122.2054,
-    "normalized": 0.308712734048553
+    "normalized": 0.32083210726243355
   },
   {
     "city": "Norman",
