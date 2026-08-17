@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 181,
-    "lastVisit": "2026-08-16T10:27:00",
+    "visitors": 182,
+    "lastVisit": "2026-08-17T13:57:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5670328524212199
+    "normalized": 0.5676298995214814
   },
   {
     "city": "Four Oaks",
@@ -308,11 +308,11 @@
   {
     "city": "London",
     "country": "United Kingdom",
-    "visitors": 36,
-    "lastVisit": "2026-08-11T06:46:00",
+    "visitors": 37,
+    "lastVisit": "2026-08-17T13:12:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.39344858817152345
+    "normalized": 0.3963543823261743
   },
   {
     "city": "Berlin",
