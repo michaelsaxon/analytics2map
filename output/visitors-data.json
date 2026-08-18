@@ -5015,11 +5015,11 @@
   {
     "city": "Richardson",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-05-01T00:00:00",
+    "visitors": 2,
+    "lastVisit": "2026-08-18T10:25:00",
     "lat": 32.94818,
     "lon": -96.72972,
-    "normalized": 0.07552588737379386
+    "normalized": 0.11970569932115273
   },
   {
     "city": "Guntur",
