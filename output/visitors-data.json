@@ -11522,11 +11522,11 @@
   {
     "city": "Rasht",
     "country": "Iran",
-    "visitors": 1,
-    "lastVisit": "2026-07-19T23:14:00",
+    "visitors": 2,
+    "lastVisit": "2026-08-19T11:16:00",
     "lat": 37.27611,
     "lon": 49.58862,
-    "normalized": 0.07552588737379386
+    "normalized": 0.11970569932115273
   },
   {
     "city": "Edogawa City",
