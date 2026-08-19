@@ -236,11 +236,11 @@
   {
     "city": null,
     "country": "Canada",
-    "visitors": 205,
-    "lastVisit": "2026-04-03T00:03:00",
+    "visitors": 206,
+    "lastVisit": "2026-08-19T00:33:00",
     "lat": 45.41117,
     "lon": -75.69812,
-    "normalized": 0.5805297731146469
+    "normalized": 0.581057429463846
   },
   {
     "city": "Montreal",
