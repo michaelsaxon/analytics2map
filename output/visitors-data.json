@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 61,
-    "lastVisit": "2026-08-10T15:22:00",
+    "visitors": 62,
+    "lastVisit": "2026-08-20T13:44:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.4496959599397381
+    "normalized": 0.45143937030389386
   },
   {
     "city": "Tustin",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 992,
-    "lastVisit": "2026-08-20T09:56:00",
+    "visitors": 994,
+    "lastVisit": "2026-08-20T15:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7519092936489092
+    "normalized": 0.7521285307916316
   },
   {
     "city": "Sylhet",
