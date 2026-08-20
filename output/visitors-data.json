@@ -11797,5 +11797,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.11970569932115273
+  },
+  {
+    "city": "Hubbard",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-08-20T07:28:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07552588737379386
   }
 ]
