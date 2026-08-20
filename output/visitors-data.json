@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 306,
-    "lastVisit": "2026-08-19T21:05:00",
+    "visitors": 307,
+    "lastVisit": "2026-08-20T10:02:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.624002044763031
+    "normalized": 0.624356389215718
   },
   {
     "city": "Lompoc",
@@ -389,11 +389,11 @@
   {
     "city": null,
     "country": "Taiwan",
-    "visitors": 73,
-    "lastVisit": "2026-03-24T18:10:00",
+    "visitors": 74,
+    "lastVisit": "2026-08-20T09:41:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.46897447554531735
+    "normalized": 0.47043705889017406
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 991,
-    "lastVisit": "2026-08-20T03:43:00",
+    "visitors": 992,
+    "lastVisit": "2026-08-20T09:56:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7517995094349135
+    "normalized": 0.7519092936489092
   },
   {
     "city": "Sylhet",
@@ -11801,10 +11801,10 @@
   {
     "city": "Hubbard",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-08-20T07:28:00",
+    "visitors": 2,
+    "lastVisit": "2026-08-20T07:31:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.07552588737379386
+    "normalized": 0.11970569932115273
   }
 ]
