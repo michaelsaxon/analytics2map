@@ -11815,5 +11815,14 @@
     "lat": 29.87819,
     "lon": 121.54945,
     "normalized": 0.07552588737379386
+  },
+  {
+    "city": "Feni",
+    "country": "Bangladesh",
+    "visitors": 1,
+    "lastVisit": "2026-08-21T08:23:00",
+    "lat": 23.0144,
+    "lon": 91.3966,
+    "normalized": 0.07552588737379386
   }
 ]
