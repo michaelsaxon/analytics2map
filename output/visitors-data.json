@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 110,
-    "lastVisit": "2026-06-14T16:51:00",
+    "visitors": 111,
+    "lastVisit": "2026-08-21T11:06:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.5131542874926761
+    "normalized": 0.5141315211567639
   },
   {
     "city": "Stanford",
