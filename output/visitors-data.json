@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 349,
-    "lastVisit": "2026-08-09T19:32:00",
+    "visitors": 350,
+    "lastVisit": "2026-08-22T07:16:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6382852186044037
+    "normalized": 0.6385960913492957
   },
   {
     "city": "Ashburn",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 91,
-    "lastVisit": "2026-08-14T13:38:00",
+    "visitors": 92,
+    "lastVisit": "2026-08-22T06:46:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.49269780556912834
+    "normalized": 0.49387577188709697
   },
   {
     "city": "Sabz",
