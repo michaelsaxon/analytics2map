@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 29,
-    "lastVisit": "2026-07-21T09:12:00",
+    "visitors": 31,
+    "lastVisit": "2026-08-22T09:00:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.3705972664794573
+    "normalized": 0.3776294368689693
   },
   {
     "city": "Visalia",
