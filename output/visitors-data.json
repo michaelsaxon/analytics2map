@@ -6617,11 +6617,11 @@
   {
     "city": "Anaheim",
     "country": "United States",
-    "visitors": 35,
-    "lastVisit": "2026-07-11T11:05:00",
+    "visitors": 37,
+    "lastVisit": "2026-08-21T16:40:00",
     "lat": 33.83529,
     "lon": -117.9145,
-    "normalized": 0.39046317338989317
+    "normalized": 0.3963543823261743
   },
   {
     "city": "Khorramabad",
