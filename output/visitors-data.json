@@ -9155,11 +9155,11 @@
   {
     "city": "Kermanshah",
     "country": "Iran",
-    "visitors": 1,
-    "lastVisit": "2026-01-29T09:20:00",
+    "visitors": 4,
+    "lastVisit": "2026-08-22T12:46:00",
     "lat": 34.31417,
     "lon": 47.065,
-    "normalized": 0.07552588737379386
+    "normalized": 0.17536567978451068
   },
   {
     "city": "Halifax",
