@@ -11824,5 +11824,14 @@
     "lat": 23.0144,
     "lon": 91.3966,
     "normalized": 0.07552588737379386
+  },
+  {
+    "city": "Zhangjiajie",
+    "country": "China",
+    "visitors": 1,
+    "lastVisit": "2026-08-23T01:32:00",
+    "lat": 29.12944,
+    "lon": 110.47833,
+    "normalized": 0.07552588737379386
   }
 ]
