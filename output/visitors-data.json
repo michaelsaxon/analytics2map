@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1005,
-    "lastVisit": "2026-08-23T09:16:00",
+    "visitors": 1006,
+    "lastVisit": "2026-08-23T15:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7533180320537375
+    "normalized": 0.7534262879955813
   },
   {
     "city": "Sylhet",
@@ -11832,6 +11832,15 @@
     "lastVisit": "2026-08-23T01:32:00",
     "lat": 29.12944,
     "lon": 110.47833,
+    "normalized": 0.07552503711081705
+  },
+  {
+    "city": "Tabuk",
+    "country": "Saudi Arabia",
+    "visitors": 1,
+    "lastVisit": "2026-08-23T15:24:00",
+    "lat": 28.3998,
+    "lon": 36.57151,
     "normalized": 0.07552503711081705
   }
 ]
