@@ -11702,11 +11702,11 @@
   {
     "city": "Fuzhou",
     "country": "China",
-    "visitors": 1,
-    "lastVisit": "2026-08-07T11:43:00",
+    "visitors": 2,
+    "lastVisit": "2026-08-24T23:03:00",
     "lat": 26.06139,
     "lon": 119.30611,
-    "normalized": 0.07552418695482303
+    "normalized": 0.11970300422084845
   },
   {
     "city": "Dunwoody",
