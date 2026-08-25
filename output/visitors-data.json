@@ -101,11 +101,11 @@
   {
     "city": "Baltimore",
     "country": "United States",
-    "visitors": 29,
-    "lastVisit": "2026-06-23T17:13:00",
+    "visitors": 30,
+    "lastVisit": "2026-08-25T11:37:00",
     "lat": 39.29038,
     "lon": -76.61219,
-    "normalized": 0.3705805810390704
+    "normalized": 0.3741532262667266
   },
   {
     "city": "Dallas",
