@@ -12298,3 +12298,10 @@ timestamp	country	city	num_unique
 2026-08-26T20:00:00	United States	Mountain View	1
 2026-08-26T20:21:00	United States	Boardman	1
 2026-08-26T20:22:00	United States	Mountain View	1
+2026-08-26T21:00:00	United States	Houston	1
+2026-08-26T21:01:00	United States	Houston	1
+2026-08-26T21:12:00	United States		1
+2026-08-26T21:18:00	Singapore	Singapore	1
+2026-08-26T22:27:00	United States	San Jose	1
+2026-08-27T04:02:00	Singapore	Singapore	1
+2026-08-27T07:49:00	France	Paris	1
