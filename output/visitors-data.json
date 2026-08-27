@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 114,
-    "lastVisit": "2026-08-25T19:59:00",
+    "visitors": 116,
+    "lastVisit": "2026-08-26T20:21:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5169884331324784
+    "normalized": 0.5188670299704955
   },
   {
     "city": "Los Angeles",
@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 62,
-    "lastVisit": "2026-08-20T13:44:00",
+    "visitors": 71,
+    "lastVisit": "2026-08-26T20:22:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.45141904510081543
+    "normalized": 0.46596808048833804
   },
   {
     "city": "Tustin",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1013,
-    "lastVisit": "2026-08-26T10:03:00",
+    "visitors": 1014,
+    "lastVisit": "2026-08-26T15:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7541556175087487
+    "normalized": 0.7542630161546235
   },
   {
     "city": "Sylhet",
@@ -10955,11 +10955,11 @@
   {
     "city": "Tamalpais-Homestead Valley",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-05-20T10:05:00",
+    "visitors": 4,
+    "lastVisit": "2026-08-26T16:29:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.1197003097986423
+    "normalized": 0.17535778427674356
   },
   {
     "city": "Guthrie",
