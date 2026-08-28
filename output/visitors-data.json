@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 116,
-    "lastVisit": "2026-08-26T20:21:00",
+    "visitors": 117,
+    "lastVisit": "2026-08-28T12:26:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5188611912927614
+    "normalized": 0.5197884708588325
   },
   {
     "city": "Los Angeles",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1018,
-    "lastVisit": "2026-08-27T21:26:00",
+    "visitors": 1019,
+    "lastVisit": "2026-08-28T09:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7546830628712964
+    "normalized": 0.7547899335923367
   },
   {
     "city": "Sylhet",
@@ -11842,5 +11842,14 @@
     "lat": 28.3998,
     "lon": 36.57151,
     "normalized": 0.15104327425698102
+  },
+  {
+    "city": "Plainsboro Township",
+    "country": "United States",
+    "visitors": 4,
+    "lastVisit": "2026-08-28T14:32:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.17535581102053066
   }
 ]
