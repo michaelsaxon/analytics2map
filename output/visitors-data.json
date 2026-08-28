@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1016,
-    "lastVisit": "2026-08-27T04:02:00",
+    "visitors": 1018,
+    "lastVisit": "2026-08-27T21:26:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7544690064343409
+    "normalized": 0.7546830628712964
   },
   {
     "city": "Sylhet",
@@ -7382,11 +7382,11 @@
   {
     "city": "Kuala Lumpur",
     "country": "Malaysia",
-    "visitors": 1,
-    "lastVisit": "2025-11-27T18:50:00",
+    "visitors": 2,
+    "lastVisit": "2026-08-27T21:51:00",
     "lat": 3.1412,
     "lon": 101.68653,
-    "normalized": 0.07552163712849051
+    "normalized": 0.11969896284172805
   },
   {
     "city": "Riyadh",
