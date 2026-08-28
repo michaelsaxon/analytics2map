@@ -2585,11 +2585,11 @@
   {
     "city": "Paris",
     "country": "France",
-    "visitors": 27,
-    "lastVisit": "2026-08-27T07:49:00",
+    "visitors": 28,
+    "lastVisit": "2026-08-27T07:50:00",
     "lat": 48.85341,
     "lon": 2.3488,
-    "normalized": 0.36305931397149716
+    "normalized": 0.3668826778911278
   },
   {
     "city": "Perugia",
