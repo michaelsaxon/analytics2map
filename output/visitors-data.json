@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 59,
-    "lastVisit": "2026-07-30T23:23:00",
+    "visitors": 60,
+    "lastVisit": "2026-08-29T13:03:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.44609804811923975
+    "normalized": 0.4478989931118143
   },
   {
     "city": "Seongnam-si",
@@ -11837,11 +11837,11 @@
   {
     "city": "Tabuk",
     "country": "Saudi Arabia",
-    "visitors": 3,
-    "lastVisit": "2026-08-23T16:38:00",
+    "visitors": 4,
+    "lastVisit": "2026-08-29T12:52:00",
     "lat": 28.3998,
     "lon": 36.57151,
-    "normalized": 0.15104327425698102
+    "normalized": 0.17535581102053066
   },
   {
     "city": "Plainsboro Township",
