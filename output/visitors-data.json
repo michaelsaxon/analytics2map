@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1020,
-    "lastVisit": "2026-08-28T21:36:00",
+    "visitors": 1021,
+    "lastVisit": "2026-08-29T04:27:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7548966995894788
+    "normalized": 0.7550033610677622
   },
   {
     "city": "Sylhet",
@@ -8651,11 +8651,11 @@
   {
     "city": "Karaj",
     "country": "Iran",
-    "visitors": 3,
-    "lastVisit": "2026-07-08T13:52:00",
+    "visitors": 4,
+    "lastVisit": "2026-08-28T23:55:00",
     "lat": 35.83266,
     "lon": 50.99155,
-    "normalized": 0.15104327425698102
+    "normalized": 0.17535581102053066
   },
   {
     "city": "Highlands Ranch",
