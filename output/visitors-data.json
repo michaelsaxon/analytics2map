@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 155,
-    "lastVisit": "2026-08-29T18:51:00",
+    "visitors": 156,
+    "lastVisit": "2026-08-29T22:00:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5502055027080144
+    "normalized": 0.5509017011877512
   },
   {
     "city": "Ames",
@@ -1505,11 +1505,11 @@
   {
     "city": "Edmonton",
     "country": "Canada",
-    "visitors": 5,
-    "lastVisit": "2026-07-19T08:49:00",
+    "visitors": 6,
+    "lastVisit": "2026-08-29T23:23:00",
     "lat": 53.55014,
     "lon": -113.46871,
-    "normalized": 0.19522059997021857
+    "normalized": 0.21201603971451616
   },
   {
     "city": "Stittsville",
