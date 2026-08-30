@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 153,
-    "lastVisit": "2026-08-17T19:28:00",
+    "visitors": 155,
+    "lastVisit": "2026-08-29T18:51:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5487996162165593
+    "normalized": 0.5502055027080144
   },
   {
     "city": "Ames",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1022,
-    "lastVisit": "2026-08-29T09:17:00",
+    "visitors": 1023,
+    "lastVisit": "2026-08-29T15:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7551099182316248
+    "normalized": 0.7552163712849052
   },
   {
     "city": "Sylhet",
@@ -11851,5 +11851,23 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.17535581102053066
+  },
+  {
+    "city": "Noda",
+    "country": "Japan",
+    "visitors": 1,
+    "lastVisit": "2026-08-29T15:39:00",
+    "lat": 35.94897,
+    "lon": 139.86793,
+    "normalized": 0.07552163712849051
+  },
+  {
+    "city": "Ketchikan",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-08-29T17:05:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07552163712849051
   }
 ]
