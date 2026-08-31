@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1028,
-    "lastVisit": "2026-08-30T21:42:00",
+    "visitors": 1029,
+    "lastVisit": "2026-08-31T05:00:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7557470819852765
+    "normalized": 0.7558529146224128
   },
   {
     "city": "Sylhet",
@@ -3350,11 +3350,11 @@
   {
     "city": "Redmond",
     "country": "United States",
-    "visitors": 21,
-    "lastVisit": "2026-07-24T17:49:00",
+    "visitors": 22,
+    "lastVisit": "2026-08-31T01:45:00",
     "lat": 47.67399,
     "lon": -122.12151,
-    "normalized": 0.3367835765020431
+    "normalized": 0.34162680457358247
   },
   {
     "city": "Everett",
