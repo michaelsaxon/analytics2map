@@ -12339,3 +12339,15 @@ timestamp	country	city	num_unique
 2026-08-30T21:42:00	Singapore	Singapore	1
 2026-08-31T01:45:00	United States	Redmond	1
 2026-08-31T05:00:00	Singapore	Singapore	1
+2026-08-31T09:21:00	Singapore	Singapore	1
+2026-08-31T10:25:00	United States	Palo Alto	1
+2026-08-31T10:26:00	United States	Palo Alto	1
+2026-08-31T10:51:00	United States		1
+2026-08-31T11:29:00	United States	Menlo Park	1
+2026-08-31T11:35:00	United States	New York	1
+2026-08-31T11:48:00	United States	New York	1
+2026-08-31T11:59:00	United States	Clayton	1
+2026-08-31T12:01:00	United States	Clayton	1
+2026-08-31T12:11:00	United States	Clayton	1
+2026-08-31T12:29:00	United States	New York	1
+2026-08-31T12:36:00	United States	New York	1
