@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 156,
-    "lastVisit": "2026-08-29T22:00:00",
+    "visitors": 157,
+    "lastVisit": "2026-08-31T15:02:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.55089550274199
+    "normalized": 0.5515872731006142
   },
   {
     "city": "Ames",
@@ -8129,11 +8129,11 @@
   {
     "city": "Islamabad",
     "country": "Pakistan",
-    "visitors": 3,
-    "lastVisit": "2026-08-18T02:00:00",
+    "visitors": 5,
+    "lastVisit": "2026-08-31T13:52:00",
     "lat": 33.72148,
     "lon": 73.04329,
-    "normalized": 0.15104157480036098
+    "normalized": 0.19521840345440133
   },
   {
     "city": "Yelm",
@@ -11878,5 +11878,23 @@
     "lat": 35.65071,
     "lon": -78.45639,
     "normalized": 0.15104157480036098
+  },
+  {
+    "city": "Camino Tassajara",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-08-31T14:28:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.11969761605422086
+  },
+  {
+    "city": "Swansea",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-08-31T16:42:00",
+    "lat": 41.74816,
+    "lon": -71.18977,
+    "normalized": 0.07552078740018049
   }
 ]
