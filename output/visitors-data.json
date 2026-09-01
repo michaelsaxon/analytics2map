@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1034,
-    "lastVisit": "2026-09-01T03:39:00",
+    "visitors": 1035,
+    "lastVisit": "2026-09-01T09:23:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7563720308958626
+    "normalized": 0.7564772491227422
   },
   {
     "city": "Sylhet",
@@ -11914,5 +11914,14 @@
     "lat": 41.77583,
     "lon": 140.73667,
     "normalized": 0.11969761605422086
+  },
+  {
+    "city": "Westford",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-09-01T12:48:00",
+    "lat": 42.57926,
+    "lon": -71.43784,
+    "normalized": 0.07552078740018049
   }
 ]
