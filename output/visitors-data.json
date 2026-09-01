@@ -272,11 +272,11 @@
   {
     "city": "Zhengzhou",
     "country": "China",
-    "visitors": 6,
-    "lastVisit": "2025-03-01T00:00:00",
+    "visitors": 7,
+    "lastVisit": "2026-09-01T01:21:00",
     "lat": 34.75778,
     "lon": 113.64861,
-    "normalized": 0.21201365422556256
+    "normalized": 0.22656236220054143
   },
   {
     "city": "Shanghai",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 396,
-    "lastVisit": "2026-08-04T22:10:00",
+    "visitors": 397,
+    "lastVisit": "2026-09-01T01:30:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6519705949102126
+    "normalized": 0.6522446918232414
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1030,
-    "lastVisit": "2026-08-31T09:21:00",
+    "visitors": 1034,
+    "lastVisit": "2026-09-01T03:39:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7559501389244996
+    "normalized": 0.7563720308958626
   },
   {
     "city": "Sylhet",
@@ -4619,11 +4619,11 @@
   {
     "city": "Qazvin",
     "country": "Iran",
-    "visitors": 2,
-    "lastVisit": "2025-03-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2026-09-01T00:30:00",
     "lat": 36.26877,
     "lon": 50.0041,
-    "normalized": 0.11969761605422086
+    "normalized": 0.15104157480036098
   },
   {
     "city": "Isfahan",
@@ -7157,11 +7157,11 @@
   {
     "city": "Indianapolis",
     "country": "United States",
-    "visitors": 20,
-    "lastVisit": "2026-04-08T13:07:00",
+    "visitors": 21,
+    "lastVisit": "2026-09-01T01:43:00",
     "lat": 39.76838,
     "lon": -86.15804,
-    "normalized": 0.3317112702797834
+    "normalized": 0.3367797871967501
   },
   {
     "city": "Virginia Beach",
@@ -11895,6 +11895,15 @@
     "lastVisit": "2026-08-31T16:42:00",
     "lat": 41.74816,
     "lon": -71.18977,
+    "normalized": 0.07552078740018049
+  },
+  {
+    "city": "Nanterre",
+    "country": "France",
+    "visitors": 1,
+    "lastVisit": "2026-09-01T05:01:00",
+    "lat": 48.89198,
+    "lon": 2.20675,
     "normalized": 0.07552078740018049
   }
 ]
