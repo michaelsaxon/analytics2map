@@ -11905,5 +11905,14 @@
     "lat": 48.89198,
     "lon": 2.20675,
     "normalized": 0.07552078740018049
+  },
+  {
+    "city": "Hakodate",
+    "country": "Japan",
+    "visitors": 2,
+    "lastVisit": "2026-09-01T06:31:00",
+    "lat": 41.77583,
+    "lon": 140.73667,
+    "normalized": 0.11969761605422086
   }
 ]
