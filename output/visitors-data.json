@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 112,
-    "lastVisit": "2026-08-24T17:23:00",
+    "visitors": 113,
+    "lastVisit": "2026-09-02T11:18:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.515065285451741
+    "normalized": 0.5160252340885517
   },
   {
     "city": "Stanford",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1039,
-    "lastVisit": "2026-09-02T03:26:00",
+    "visitors": 1040,
+    "lastVisit": "2026-09-02T09:39:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7568971088541337
+    "normalized": 0.757001821467159
   },
   {
     "city": "Sylhet",
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-06-18T17:05:00",
+    "visitors": 13,
+    "lastVisit": "2026-09-02T12:10:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.27946012124091724
+    "normalized": 0.28753444162574304
   },
   {
     "city": "Prague",
