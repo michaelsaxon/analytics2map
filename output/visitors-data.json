@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 313,
-    "lastVisit": "2026-08-29T12:38:00",
+    "visitors": 316,
+    "lastVisit": "2026-09-02T09:02:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6264162901421704
+    "normalized": 0.6274523055437798
   },
   {
     "city": "Lompoc",
@@ -7184,11 +7184,11 @@
   {
     "city": "Raleigh",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-08-06T00:47:00",
+    "visitors": 10,
+    "lastVisit": "2026-09-02T09:06:00",
     "lat": 35.7721,
     "lon": -78.63861,
-    "normalized": 0.2393952321084417
+    "normalized": 0.2612589997965696
   },
   {
     "city": "Ardmore",
