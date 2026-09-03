@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 79,
-    "lastVisit": "2026-06-16T10:32:00",
+    "visitors": 82,
+    "lastVisit": "2026-09-03T05:01:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.4774316163674968
+    "normalized": 0.4814425811922682
   },
   {
     "city": "Manhattan",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1043,
-    "lastVisit": "2026-09-02T21:24:00",
+    "visitors": 1044,
+    "lastVisit": "2026-09-03T03:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7573068369119081
+    "normalized": 0.7574111473456505
   },
   {
     "city": "Sylhet",
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 60,
-    "lastVisit": "2026-08-29T13:03:00",
+    "visitors": 61,
+    "lastVisit": "2026-09-03T03:24:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.44788891471473824
+    "normalized": 0.4496605348827588
   },
   {
     "city": "Seongnam-si",
