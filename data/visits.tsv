@@ -12390,3 +12390,9 @@ timestamp	country	city	num_unique
 2026-09-02T09:39:00	Singapore	Singapore	1
 2026-09-02T11:18:00	United States	Chicago	1
 2026-09-02T12:10:00	United States	New Haven	1
+2026-09-02T13:49:00	United States		1
+2026-09-02T15:21:00	Singapore	Singapore	1
+2026-09-02T15:36:00	Singapore	Singapore	1
+2026-09-02T16:26:00	United States	La Canada Flintridge	1
+2026-09-02T16:27:00	United States	La Canada Flintridge	1
+2026-09-02T16:52:00	United States	San Francisco	1
