@@ -10289,11 +10289,11 @@
   {
     "city": "Suzhou",
     "country": "China",
-    "visitors": 5,
-    "lastVisit": "2026-08-24T02:24:00",
+    "visitors": 6,
+    "lastVisit": "2026-09-03T09:51:00",
     "lat": 31.30408,
     "lon": 120.59538,
-    "normalized": 0.19521620721481125
+    "normalized": 0.21201126903660084
   },
   {
     "city": "Iwo",
@@ -11932,5 +11932,14 @@
     "lat": 34.19917,
     "lon": -118.18785,
     "normalized": 0.11969626943608157
+  },
+  {
+    "city": "Oulu",
+    "country": "Finland",
+    "visitors": 1,
+    "lastVisit": "2026-09-03T10:38:00",
+    "lat": 65.01236,
+    "lon": 25.46816,
+    "normalized": 0.0755199377787297
   }
 ]
