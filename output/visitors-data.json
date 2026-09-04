@@ -929,11 +929,11 @@
   {
     "city": "College Park",
     "country": "United States",
-    "visitors": 25,
-    "lastVisit": "2026-04-29T16:02:00",
+    "visitors": 26,
+    "lastVisit": "2026-09-04T08:57:00",
     "lat": 38.98067,
     "lon": -76.93692,
-    "normalized": 0.3549769150466851
+    "normalized": 0.3590888083082447
   },
   {
     "city": "Brooklyn",
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 13,
-    "lastVisit": "2026-09-02T12:10:00",
+    "visitors": 14,
+    "lastVisit": "2026-09-04T10:59:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.2875312068153305
+    "normalized": 0.2950481346886596
   },
   {
     "city": "Prague",
@@ -9146,11 +9146,11 @@
   {
     "city": "San Mateo",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-09-04T00:50:00",
+    "visitors": 8,
+    "lastVisit": "2026-09-04T11:00:00",
     "lat": 37.56299,
     "lon": -122.32553,
-    "normalized": 0.2265598133361891
+    "normalized": 0.23939253887216314
   },
   {
     "city": "Kermanshah",
