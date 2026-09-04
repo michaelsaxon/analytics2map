@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 28,
-    "lastVisit": "2026-08-17T01:36:00",
+    "visitors": 30,
+    "lastVisit": "2026-09-04T11:42:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.3668744224822857
+    "normalized": 0.3741405971040291
   },
   {
     "city": "Athens",
