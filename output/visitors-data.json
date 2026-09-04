@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 119,
-    "lastVisit": "2026-09-02T04:22:00",
+    "visitors": 120,
+    "lastVisit": "2026-09-03T20:47:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5216079480248487
+    "normalized": 0.5225121211785178
   },
   {
     "city": "Los Angeles",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 316,
-    "lastVisit": "2026-09-02T09:02:00",
+    "visitors": 317,
+    "lastVisit": "2026-09-03T23:49:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6274452466007195
+    "normalized": 0.6277884035449373
   },
   {
     "city": "Lompoc",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1044,
-    "lastVisit": "2026-09-03T03:19:00",
+    "visitors": 1045,
+    "lastVisit": "2026-09-03T21:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7574111473456505
+    "normalized": 0.757515358008518
   },
   {
     "city": "Sylhet",
@@ -9146,11 +9146,11 @@
   {
     "city": "San Mateo",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-05-17T21:30:00",
+    "visitors": 7,
+    "lastVisit": "2026-09-04T00:50:00",
     "lat": 37.56299,
     "lon": -122.32553,
-    "normalized": 0.19521620721481125
+    "normalized": 0.2265598133361891
   },
   {
     "city": "Kermanshah",
@@ -10244,11 +10244,11 @@
   {
     "city": "Gainesville",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-03-19T14:47:00",
+    "visitors": 2,
+    "lastVisit": "2026-09-03T19:07:00",
     "lat": 33.62594,
     "lon": -97.13335,
-    "normalized": 0.0755199377787297
+    "normalized": 0.11969626943608157
   },
   {
     "city": "Chimalhuacan",
@@ -10289,11 +10289,11 @@
   {
     "city": "Suzhou",
     "country": "China",
-    "visitors": 6,
-    "lastVisit": "2026-09-03T09:51:00",
+    "visitors": 8,
+    "lastVisit": "2026-09-04T00:25:00",
     "lat": 31.30408,
     "lon": 120.59538,
-    "normalized": 0.21201126903660084
+    "normalized": 0.23939253887216314
   },
   {
     "city": "Iwo",
@@ -11765,11 +11765,11 @@
   {
     "city": "Rawalpindi",
     "country": "Pakistan",
-    "visitors": 2,
-    "lastVisit": "2026-08-13T23:57:00",
+    "visitors": 3,
+    "lastVisit": "2026-09-04T00:30:00",
     "lat": 33.59733,
     "lon": 73.0479,
-    "normalized": 0.11969626943608157
+    "normalized": 0.1510398755574594
   },
   {
     "city": "Arlington Heights",
@@ -11936,10 +11936,19 @@
   {
     "city": "Oulu",
     "country": "Finland",
-    "visitors": 1,
-    "lastVisit": "2026-09-03T10:38:00",
+    "visitors": 2,
+    "lastVisit": "2026-09-03T10:39:00",
     "lat": 65.01236,
     "lon": 25.46816,
+    "normalized": 0.11969626943608157
+  },
+  {
+    "city": "Sanya",
+    "country": "China",
+    "visitors": 1,
+    "lastVisit": "2026-09-04T00:25:00",
+    "lat": 18.25435,
+    "lon": 109.50947,
     "normalized": 0.0755199377787297
   }
 ]
