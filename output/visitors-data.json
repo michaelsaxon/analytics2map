@@ -11,11 +11,11 @@
   {
     "city": "Goleta",
     "country": "United States",
-    "visitors": 73,
-    "lastVisit": "2026-06-08T20:41:00",
+    "visitors": 74,
+    "lastVisit": "2026-09-04T17:45:00",
     "lat": 34.43583,
     "lon": -119.82764,
-    "normalized": 0.4689375318122221
+    "normalized": 0.47039999994123755
   },
   {
     "city": "Boardman",
@@ -9137,20 +9137,20 @@
   {
     "city": "Burien",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-01-28T22:38:00",
+    "visitors": 4,
+    "lastVisit": "2026-09-04T19:38:00",
     "lat": 47.47038,
     "lon": -122.34679,
-    "normalized": 0.11969626943608157
+    "normalized": 0.175351865252578
   },
   {
     "city": "San Mateo",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2026-09-04T14:02:00",
+    "visitors": 11,
+    "lastVisit": "2026-09-04T16:22:00",
     "lat": 37.56299,
     "lon": -122.32553,
-    "normalized": 0.2612560605892589
+    "normalized": 0.270736144993541
   },
   {
     "city": "Kermanshah",
@@ -11486,11 +11486,11 @@
   {
     "city": "Wuxi",
     "country": "China",
-    "visitors": 1,
-    "lastVisit": "2026-07-16T15:13:00",
+    "visitors": 2,
+    "lastVisit": "2026-09-04T17:40:00",
     "lat": 26.5844,
     "lon": 111.859,
-    "normalized": 0.0755199377787297
+    "normalized": 0.11969626943608157
   },
   {
     "city": "Shivamogga",
