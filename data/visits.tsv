@@ -12420,3 +12420,8 @@ timestamp	country	city	num_unique
 2026-09-04T11:00:00	United States	San Mateo	1
 2026-09-04T11:41:00	China	Guangzhou	1
 2026-09-04T11:42:00	China	Guangzhou	1
+2026-09-04T13:54:00	United States	San Jose	1
+2026-09-04T13:55:00	United States	San Mateo	1
+2026-09-04T14:02:00	United States	San Mateo	1
+2026-09-04T14:12:00	United States	San Jose	1
+2026-09-04T15:26:00	Singapore	Singapore	1
