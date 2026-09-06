@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1051,
-    "lastVisit": "2026-09-06T09:17:00",
+    "visitors": 1052,
+    "lastVisit": "2026-09-06T15:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7581385374370628
+    "normalized": 0.7582420550122816
   },
   {
     "city": "Sylhet",
@@ -1334,11 +1334,11 @@
   {
     "city": null,
     "country": "Sweden",
-    "visitors": 26,
-    "lastVisit": "2026-01-14T04:25:00",
+    "visitors": 28,
+    "lastVisit": "2026-09-06T14:27:00",
     "lat": 59.32938,
     "lon": 18.06871,
-    "normalized": 0.3590888083082447
+    "normalized": 0.3668744224822857
   },
   {
     "city": "Chino Hills",
