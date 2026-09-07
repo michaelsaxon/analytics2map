@@ -272,11 +272,11 @@
   {
     "city": "Zhengzhou",
     "country": "China",
-    "visitors": 7,
-    "lastVisit": "2026-09-01T01:21:00",
+    "visitors": 8,
+    "lastVisit": "2026-09-07T01:34:00",
     "lat": 34.75778,
     "lon": 113.64861,
-    "normalized": 0.2265598133361891
+    "normalized": 0.23939253887216314
   },
   {
     "city": "Shanghai",
@@ -5600,11 +5600,11 @@
   {
     "city": "Lahore",
     "country": "Pakistan",
-    "visitors": 7,
-    "lastVisit": "2026-04-12T12:24:00",
+    "visitors": 8,
+    "lastVisit": "2026-09-07T04:35:00",
     "lat": 31.558,
     "lon": 74.35071,
-    "normalized": 0.2265598133361891
+    "normalized": 0.23939253887216314
   },
   {
     "city": "Karachi",
