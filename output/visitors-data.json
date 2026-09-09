@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 396,
-    "lastVisit": "2026-08-19T21:57:00",
+    "visitors": 397,
+    "lastVisit": "2026-09-08T21:31:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6519632601323087
+    "normalized": 0.6522373539617015
   },
   {
     "city": "Santa Clara",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1056,
-    "lastVisit": "2026-09-08T03:16:00",
+    "visitors": 1057,
+    "lastVisit": "2026-09-08T21:34:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.758655144567693
+    "normalized": 0.7587581726980386
   },
   {
     "city": "Sylhet",
@@ -7499,11 +7499,11 @@
   {
     "city": "Da\u2019an District",
     "country": "Taiwan",
-    "visitors": 3,
-    "lastVisit": "2025-12-07T02:24:00",
+    "visitors": 4,
+    "lastVisit": "2026-09-08T21:59:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.1510398755574594
+    "normalized": 0.175351865252578
   },
   {
     "city": "Mansfield",
