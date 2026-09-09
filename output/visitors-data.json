@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 322,
-    "lastVisit": "2026-09-08T18:29:00",
+    "visitors": 323,
+    "lastVisit": "2026-09-09T00:38:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6294881609479089
+    "normalized": 0.6298249533017856
   },
   {
     "city": "Lompoc",
@@ -7499,11 +7499,11 @@
   {
     "city": "Da\u2019an District",
     "country": "Taiwan",
-    "visitors": 4,
-    "lastVisit": "2026-09-08T21:59:00",
+    "visitors": 5,
+    "lastVisit": "2026-09-09T00:56:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.175351865252578
+    "normalized": 0.19521620721481125
   },
   {
     "city": "Mansfield",
