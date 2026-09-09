@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1057,
-    "lastVisit": "2026-09-08T21:34:00",
+    "visitors": 1058,
+    "lastVisit": "2026-09-09T09:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7587581726980386
+    "normalized": 0.7588611034942835
   },
   {
     "city": "Sylhet",
@@ -6698,11 +6698,11 @@
   {
     "city": "Knoxville",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2026-09-07T15:57:00",
+    "visitors": 7,
+    "lastVisit": "2026-09-09T07:56:00",
     "lat": 35.96064,
     "lon": -83.92074,
-    "normalized": 0.21201126903660084
+    "normalized": 0.2265598133361891
   },
   {
     "city": "Philadelphia",
