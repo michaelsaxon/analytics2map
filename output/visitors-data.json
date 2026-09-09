@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 321,
-    "lastVisit": "2026-09-08T00:26:00",
+    "visitors": 322,
+    "lastVisit": "2026-09-08T18:29:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6291503242749851
+    "normalized": 0.6294881609479089
   },
   {
     "city": "Lompoc",
@@ -2954,11 +2954,11 @@
   {
     "city": "Frankfurt am Main",
     "country": "Germany",
-    "visitors": 14,
-    "lastVisit": "2026-08-11T05:58:00",
+    "visitors": 16,
+    "lastVisit": "2026-09-08T17:03:00",
     "lat": 50.11552,
     "lon": 8.68417,
-    "normalized": 0.2950481346886596
+    "normalized": 0.30868493944409536
   },
   {
     "city": "Taito",
@@ -3224,11 +3224,11 @@
   {
     "city": "Bristol",
     "country": "United Kingdom",
-    "visitors": 1,
-    "lastVisit": "2024-03-01T00:00:00",
+    "visitors": 2,
+    "lastVisit": "2026-09-08T16:17:00",
     "lat": 51.45523,
     "lon": -2.59665,
-    "normalized": 0.0755199377787297
+    "normalized": 0.11969626943608157
   },
   {
     "city": "Leuven",
