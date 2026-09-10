@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 122,
-    "lastVisit": "2026-09-08T12:56:00",
+    "visitors": 123,
+    "lastVisit": "2026-09-10T04:44:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5242923657036022
+    "normalized": 0.5251745649700787
   },
   {
     "city": "Los Angeles",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 186,
-    "lastVisit": "2026-08-31T12:36:00",
+    "visitors": 187,
+    "lastVisit": "2026-09-10T06:25:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5699345888362035
+    "normalized": 0.5705156622889312
   },
   {
     "city": "Four Oaks",
