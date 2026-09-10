@@ -569,11 +569,11 @@
   {
     "city": "Tianjin",
     "country": "China",
-    "visitors": 2,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2026-09-09T21:12:00",
     "lat": 39.14222,
     "lon": 117.17667,
-    "normalized": 0.11969492298727104
+    "normalized": 0.17534989274072357
   },
   {
     "city": "Taizhou",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1059,
-    "lastVisit": "2026-09-09T15:15:00",
+    "visitors": 1060,
+    "lastVisit": "2026-09-09T21:30:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7589553996469298
+    "normalized": 0.7590581351699887
   },
   {
     "city": "Sylhet",
@@ -7040,11 +7040,11 @@
   {
     "city": "West Lafayette",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2026-09-05T09:24:00",
+    "visitors": 14,
+    "lastVisit": "2026-09-09T21:52:00",
     "lat": 40.42587,
     "lon": -86.90807,
-    "normalized": 0.25086898100483707
+    "normalized": 0.2950448157279946
   },
   {
     "city": "Cary",
