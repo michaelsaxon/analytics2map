@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1061,
-    "lastVisit": "2026-09-10T09:22:00",
+    "visitors": 1062,
+    "lastVisit": "2026-09-10T15:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7591522351799099
+    "normalized": 0.7592547761650743
   },
   {
     "city": "Sylhet",
@@ -7040,11 +7040,11 @@
   {
     "city": "West Lafayette",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-09-09T21:52:00",
+    "visitors": 15,
+    "lastVisit": "2026-09-10T13:35:00",
     "lat": 40.42587,
     "lon": -86.90807,
-    "normalized": 0.2950414971846242
+    "normalized": 0.30207295542522855
   },
   {
     "city": "Cary",
