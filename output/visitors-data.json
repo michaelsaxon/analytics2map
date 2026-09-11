@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 123,
-    "lastVisit": "2026-09-10T04:44:00",
+    "visitors": 124,
+    "lastVisit": "2026-09-11T01:07:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5251686580214459
+    "normalized": 0.5260437614306221
   },
   {
     "city": "Los Angeles",
@@ -9659,11 +9659,11 @@
   {
     "city": "Altoona",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-02-20T18:40:00",
+    "visitors": 2,
+    "lastVisit": "2026-09-11T01:06:00",
     "lat": 40.51868,
     "lon": -78.39474,
-    "normalized": 0.07551823885630714
+    "normalized": 0.11969357670775016
   },
   {
     "city": "Hyderabad",
@@ -10289,11 +10289,11 @@
   {
     "city": "Suzhou",
     "country": "China",
-    "visitors": 8,
-    "lastVisit": "2026-09-04T00:25:00",
+    "visitors": 9,
+    "lastVisit": "2026-09-11T02:06:00",
     "lat": 31.30408,
     "lon": 120.59538,
-    "normalized": 0.23938715341550032
+    "normalized": 0.2508661593331812
   },
   {
     "city": "Iwo",
