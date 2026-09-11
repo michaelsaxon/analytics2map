@@ -7382,11 +7382,11 @@
   {
     "city": "Kuala Lumpur",
     "country": "Malaysia",
-    "visitors": 2,
-    "lastVisit": "2026-08-27T21:51:00",
+    "visitors": 3,
+    "lastVisit": "2026-09-10T17:43:00",
     "lat": 3.1412,
     "lon": 101.68653,
-    "normalized": 0.11969357670775016
+    "normalized": 0.15103647771261428
   },
   {
     "city": "Riyadh",
@@ -11949,6 +11949,15 @@
     "lastVisit": "2026-09-04T00:25:00",
     "lat": 18.25435,
     "lon": 109.50947,
+    "normalized": 0.07551823885630714
+  },
+  {
+    "city": "Ili",
+    "country": "China",
+    "visitors": 1,
+    "lastVisit": "2026-09-10T16:39:00",
+    "lat": 39.9075,
+    "lon": 116.39723,
     "normalized": 0.07551823885630714
   }
 ]
