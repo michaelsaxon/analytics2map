@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1068,
-    "lastVisit": "2026-09-12T03:38:00",
+    "visitors": 1069,
+    "lastVisit": "2026-09-12T15:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7598680036115587
+    "normalized": 0.759969873454132
   },
   {
     "city": "Sylhet",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 95,
-    "lastVisit": "2026-09-11T10:42:00",
+    "visitors": 96,
+    "lastVisit": "2026-09-12T14:21:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.4972847709892858
+    "normalized": 0.49841379444709644
   },
   {
     "city": "Sabz",
@@ -7832,11 +7832,11 @@
   {
     "city": "University City",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-12-07T09:50:00",
+    "visitors": 8,
+    "lastVisit": "2026-09-12T15:32:00",
     "lat": 39.95071,
     "lon": -75.19476,
-    "normalized": 0.07551823885630714
+    "normalized": 0.23938715341550032
   },
   {
     "city": "Schwabisch Hall",
