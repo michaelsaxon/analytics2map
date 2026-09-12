@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1066,
-    "lastVisit": "2026-09-11T15:19:00",
+    "visitors": 1067,
+    "lastVisit": "2026-09-11T20:02:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7596639777304091
+    "normalized": 0.7597660384298582
   },
   {
     "city": "Sylhet",
@@ -4268,11 +4268,11 @@
   {
     "city": "Miami",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-04-06T14:49:00",
+    "visitors": 6,
+    "lastVisit": "2026-09-11T18:32:00",
     "lat": 25.77427,
     "lon": -80.19366,
-    "normalized": 0.19521181556405728
+    "normalized": 0.21200649955837564
   },
   {
     "city": "Lowell",
