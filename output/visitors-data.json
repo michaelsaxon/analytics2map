@@ -335,11 +335,11 @@
   {
     "city": null,
     "country": "Germany",
-    "visitors": 171,
-    "lastVisit": "2026-08-19T17:30:00",
+    "visitors": 172,
+    "lastVisit": "2026-09-12T07:18:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.5608184355557682
+    "normalized": 0.5614500303025136
   },
   {
     "city": null,
@@ -893,11 +893,11 @@
   {
     "city": "Princeton",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2026-06-24T19:02:00",
+    "visitors": 13,
+    "lastVisit": "2026-09-12T09:23:00",
     "lat": 40.34872,
     "lon": -74.65905,
-    "normalized": 0.2707300544203644
+    "normalized": 0.2875247384146828
   },
   {
     "city": "Irvine",
@@ -11959,5 +11959,14 @@
     "lat": 39.9075,
     "lon": 116.39723,
     "normalized": 0.07551823885630714
+  },
+  {
+    "city": "Keflavik",
+    "country": "Iceland",
+    "visitors": 2,
+    "lastVisit": "2026-09-12T08:11:00",
+    "lat": 64.00492,
+    "lon": -22.56242,
+    "normalized": 0.11969357670775016
   }
 ]

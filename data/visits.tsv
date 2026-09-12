@@ -12514,3 +12514,8 @@ timestamp	country	city	num_unique
 2026-09-11T20:02:00	Singapore	Singapore	1
 2026-09-12T02:17:00	China	Nanjing	1
 2026-09-12T03:38:00	Singapore	Singapore	1
+2026-09-12T07:18:00	Germany		1
+2026-09-12T08:10:00	Iceland	Keflavik	1
+2026-09-12T08:11:00	Iceland	Keflavik	1
+2026-09-12T09:17:00	United States	Princeton	1
+2026-09-12T09:23:00	United States	Princeton	1
