@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1069,
-    "lastVisit": "2026-09-12T15:16:00",
+    "visitors": 1070,
+    "lastVisit": "2026-09-12T21:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.759969873454132
+    "normalized": 0.7600716481356989
   },
   {
     "city": "Sylhet",
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-09-04T10:59:00",
+    "visitors": 18,
+    "lastVisit": "2026-09-12T19:58:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.2950414971846242
+    "normalized": 0.3207960046045115
   },
   {
     "city": "Prague",
@@ -9326,11 +9326,11 @@
   {
     "city": "Jiaxing",
     "country": "China",
-    "visitors": 1,
-    "lastVisit": "2026-02-07T05:40:00",
+    "visitors": 2,
+    "lastVisit": "2026-09-12T20:34:00",
     "lat": 30.7522,
     "lon": 120.75,
-    "normalized": 0.07551823885630714
+    "normalized": 0.11969357670775016
   },
   {
     "city": "West Windsor Township",
