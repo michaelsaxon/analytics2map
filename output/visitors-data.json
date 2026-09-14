@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 149,
-    "lastVisit": "2026-07-14T16:43:00",
+    "visitors": 150,
+    "lastVisit": "2026-09-13T21:06:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5459076565178053
+    "normalized": 0.5466315780429769
   },
   {
     "city": "Rowland Heights",
