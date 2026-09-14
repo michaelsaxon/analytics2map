@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 82,
-    "lastVisit": "2026-09-03T05:01:00",
+    "visitors": 83,
+    "lastVisit": "2026-09-14T12:24:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.48143175049483355
+    "normalized": 0.48273655397874005
   },
   {
     "city": "Manhattan",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 97,
-    "lastVisit": "2026-09-02T16:52:00",
+    "visitors": 99,
+    "lastVisit": "2026-09-14T13:22:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.4995312379730585
+    "normalized": 0.5017323186663624
   },
   {
     "city": "Oakland",
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 18,
-    "lastVisit": "2026-09-12T19:58:00",
+    "visitors": 21,
+    "lastVisit": "2026-09-14T11:35:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.3207960046045115
+    "normalized": 0.3367684221396198
   },
   {
     "city": "Prague",
