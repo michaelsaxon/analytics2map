@@ -335,11 +335,11 @@
   {
     "city": null,
     "country": "Germany",
-    "visitors": 172,
-    "lastVisit": "2026-09-12T07:18:00",
+    "visitors": 173,
+    "lastVisit": "2026-09-14T03:03:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.5614500303025136
+    "normalized": 0.5620779847135019
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1072,
-    "lastVisit": "2026-09-13T15:19:00",
+    "visitors": 1074,
+    "lastVisit": "2026-09-14T03:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7602749127258048
+    "normalized": 0.7604777987969019
   },
   {
     "city": "Sylhet",
@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 31,
-    "lastVisit": "2026-08-22T09:00:00",
+    "visitors": 32,
+    "lastVisit": "2026-09-14T00:53:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.3775911942815357
+    "normalized": 0.3809437599910628
   },
   {
     "city": "Visalia",
