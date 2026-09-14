@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1074,
-    "lastVisit": "2026-09-14T03:17:00",
+    "visitors": 1075,
+    "lastVisit": "2026-09-14T09:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7604777987969019
+    "normalized": 0.7605791003278586
   },
   {
     "city": "Sylhet",
@@ -4925,11 +4925,11 @@
   {
     "city": "Providence",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-04-21T12:24:00",
+    "visitors": 16,
+    "lastVisit": "2026-09-14T09:55:00",
     "lat": 41.82399,
     "lon": -71.41283,
-    "normalized": 0.2950414971846242
+    "normalized": 0.308677995161823
   },
   {
     "city": "Chandigarh",
