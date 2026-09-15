@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 188,
-    "lastVisit": "2026-09-10T19:54:00",
+    "visitors": 190,
+    "lastVisit": "2026-09-15T07:58:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5710872296816262
+    "normalized": 0.5722340801522712
   },
   {
     "city": "Four Oaks",
