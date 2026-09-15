@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 83,
-    "lastVisit": "2026-09-14T12:24:00",
+    "visitors": 87,
+    "lastVisit": "2026-09-14T14:52:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.48273655397874005
+    "normalized": 0.48780489985223413
   },
   {
     "city": "Manhattan",
@@ -1631,11 +1631,11 @@
   {
     "city": "Shenzhen",
     "country": "China",
-    "visitors": 40,
-    "lastVisit": "2026-08-19T23:46:00",
+    "visitors": 43,
+    "lastVisit": "2026-09-14T15:54:00",
     "lat": 22.54554,
     "lon": 114.0683,
-    "normalized": 0.4045928919698356
+    "normalized": 0.4122866609959269
   },
   {
     "city": "Huzhou",
