@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 124,
-    "lastVisit": "2026-09-11T01:07:00",
+    "visitors": 125,
+    "lastVisit": "2026-09-14T20:46:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5260437614306221
+    "normalized": 0.526911891830183
   },
   {
     "city": "Los Angeles",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1075,
-    "lastVisit": "2026-09-14T09:18:00",
+    "visitors": 1076,
+    "lastVisit": "2026-09-14T21:36:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7605791003278586
+    "normalized": 0.7606803077561254
   },
   {
     "city": "Sylhet",
@@ -11828,11 +11828,11 @@
   {
     "city": "Zhangjiajie",
     "country": "China",
-    "visitors": 1,
-    "lastVisit": "2026-08-23T01:32:00",
+    "visitors": 2,
+    "lastVisit": "2026-09-14T19:51:00",
     "lat": 29.12944,
     "lon": 110.47833,
-    "normalized": 0.07551823885630714
+    "normalized": 0.11969357670775016
   },
   {
     "city": "Tabuk",
