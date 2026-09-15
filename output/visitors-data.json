@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 206,
-    "lastVisit": "2026-09-02T00:06:00",
+    "visitors": 207,
+    "lastVisit": "2026-09-14T23:36:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5809985856943177
+    "normalized": 0.5815236459331734
   },
   {
     "city": null,
@@ -2639,11 +2639,11 @@
   {
     "city": "Lisbon",
     "country": "Portugal",
-    "visitors": 1,
-    "lastVisit": "2024-01-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2026-09-15T02:10:00",
     "lat": 38.72509,
     "lon": -9.1498,
-    "normalized": 0.07551823885630714
+    "normalized": 0.175347920476874
   },
   {
     "city": "Mersin",
@@ -3224,11 +3224,11 @@
   {
     "city": "Bristol",
     "country": "United Kingdom",
-    "visitors": 2,
-    "lastVisit": "2026-09-08T16:17:00",
+    "visitors": 3,
+    "lastVisit": "2026-09-15T02:40:00",
     "lat": 51.45523,
     "lon": -2.59665,
-    "normalized": 0.11969357670775016
+    "normalized": 0.15103647771261428
   },
   {
     "city": "Leuven",
