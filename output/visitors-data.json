@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1078,
-    "lastVisit": "2026-09-15T15:16:00",
+    "visitors": 1079,
+    "lastVisit": "2026-09-16T03:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7608567728853315
+    "normalized": 0.7609576956468882
   },
   {
     "city": "Sylhet",
@@ -11981,10 +11981,10 @@
   {
     "city": "Banqiao District",
     "country": "Taiwan",
-    "visitors": 1,
-    "lastVisit": "2026-09-15T22:23:00",
+    "visitors": 2,
+    "lastVisit": "2026-09-16T05:39:00",
     "lat": 25.05306,
     "lon": 121.52639,
-    "normalized": 0.07551569127350079
+    "normalized": 0.11968953888453462
   }
 ]
