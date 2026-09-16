@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1079,
-    "lastVisit": "2026-09-16T03:16:00",
+    "visitors": 1080,
+    "lastVisit": "2026-09-16T09:34:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7609576956468882
+    "normalized": 0.7610585250046725
   },
   {
     "city": "Sylhet",
@@ -4736,11 +4736,11 @@
   {
     "city": "Dearborn",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2025-03-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2026-09-16T06:36:00",
     "lat": 42.32226,
     "lon": -83.17631,
-    "normalized": 0.15103138254700157
+    "normalized": 0.1753420051727819
   },
   {
     "city": "Chapel Hill",
@@ -6698,11 +6698,11 @@
   {
     "city": "Knoxville",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-09-09T07:56:00",
+    "visitors": 8,
+    "lastVisit": "2026-09-16T10:00:00",
     "lat": 35.96064,
     "lon": -83.92074,
-    "normalized": 0.22654707382050238
+    "normalized": 0.23937907776906925
   },
   {
     "city": "Philadelphia",
