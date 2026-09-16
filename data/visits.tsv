@@ -12576,3 +12576,6 @@ timestamp	country	city	num_unique
 2026-09-15T11:42:00	United States	Seattle	1
 2026-09-15T11:45:00	United States	Seattle	1
 2026-09-15T12:10:00	Singapore	Singapore	1
+2026-09-15T15:16:00	Singapore	Singapore	1
+2026-09-15T18:14:00	United States		1
+2026-09-15T18:15:00	United States		1
