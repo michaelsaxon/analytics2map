@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 125,
-    "lastVisit": "2026-09-14T20:46:00",
+    "visitors": 126,
+    "lastVisit": "2026-09-16T13:20:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.526894116631815
+    "normalized": 0.5277553552141295
   },
   {
     "city": "Los Angeles",
@@ -11986,5 +11986,14 @@
     "lat": 25.05306,
     "lon": 121.52639,
     "normalized": 0.11968953888453462
+  },
+  {
+    "city": "Vadodara",
+    "country": "India",
+    "visitors": 5,
+    "lastVisit": "2026-09-16T11:28:00",
+    "lat": 22.29941,
+    "lon": 73.20812,
+    "normalized": 0.1952052301580354
   }
 ]
