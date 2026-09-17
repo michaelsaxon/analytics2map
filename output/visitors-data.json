@@ -209,11 +209,11 @@
   {
     "city": "Delhi",
     "country": "India",
-    "visitors": 26,
-    "lastVisit": "2026-04-03T08:21:00",
+    "visitors": 27,
+    "lastVisit": "2026-09-17T01:13:00",
     "lat": 28.65195,
     "lon": 77.23149,
-    "normalized": 0.35906457984534457
+    "normalized": 0.3630266487841544
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1080,
-    "lastVisit": "2026-09-16T09:34:00",
+    "visitors": 1081,
+    "lastVisit": "2026-09-17T02:08:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7610499688480021
+    "normalized": 0.7611507038422242
   },
   {
     "city": "Sylhet",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 98,
-    "lastVisit": "2026-09-13T12:52:00",
+    "visitors": 99,
+    "lastVisit": "2026-09-16T23:03:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.5006148196672948
+    "normalized": 0.5017097523861332
   },
   {
     "city": "Sabz",
