@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1085,
-    "lastVisit": "2026-09-17T15:22:00",
+    "visitors": 1086,
+    "lastVisit": "2026-09-17T21:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7615527149570173
+    "normalized": 0.7616529863754986
   },
   {
     "city": "Sylhet",
@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 30,
-    "lastVisit": "2026-09-04T11:42:00",
+    "visitors": 31,
+    "lastVisit": "2026-09-17T21:48:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.3741153530658786
+    "normalized": 0.37757421146343695
   },
   {
     "city": "Athens",
@@ -6617,11 +6617,11 @@
   {
     "city": "Anaheim",
     "country": "United States",
-    "visitors": 37,
-    "lastVisit": "2026-08-21T16:40:00",
+    "visitors": 38,
+    "lastVisit": "2026-09-17T23:21:00",
     "lat": 33.83529,
     "lon": -117.9145,
-    "normalized": 0.3962964185411474
+    "normalized": 0.39912631501080265
   },
   {
     "city": "Khorramabad",
