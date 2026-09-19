@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 115,
-    "lastVisit": "2026-08-12T09:08:00",
+    "visitors": 119,
+    "lastVisit": "2026-09-19T14:04:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.5178677108995344
+    "normalized": 0.5215610286354795
   },
   {
     "city": "Rochester",
@@ -10289,11 +10289,11 @@
   {
     "city": "Suzhou",
     "country": "China",
-    "visitors": 9,
-    "lastVisit": "2026-09-11T02:06:00",
+    "visitors": 10,
+    "lastVisit": "2026-09-19T13:46:00",
     "lat": 31.30408,
     "lon": 120.59538,
-    "normalized": 0.2508492367497686
+    "normalized": 0.2612325602287328
   },
   {
     "city": "Iwo",
