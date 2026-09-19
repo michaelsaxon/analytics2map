@@ -4403,11 +4403,11 @@
   {
     "city": "Nanjing",
     "country": "China",
-    "visitors": 11,
-    "lastVisit": "2026-09-12T02:17:00",
+    "visitors": 12,
+    "lastVisit": "2026-09-19T06:22:00",
     "lat": 32.06167,
     "lon": 118.77778,
-    "normalized": 0.27071179188571093
+    "normalized": 0.2794318397086486
   },
   {
     "city": "Atsugi",
