@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 63,
-    "lastVisit": "2026-07-21T06:44:00",
+    "visitors": 64,
+    "lastVisit": "2026-09-18T19:41:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.4530788679065749
+    "normalized": 0.4547679318073213
   },
   {
     "city": null,
@@ -2342,11 +2342,11 @@
   {
     "city": "Hangzhou",
     "country": "China",
-    "visitors": 19,
-    "lastVisit": "2026-08-19T23:46:00",
+    "visitors": 20,
+    "lastVisit": "2026-09-18T20:16:00",
     "lat": 30.29365,
     "lon": 120.16142,
-    "normalized": 0.3263623814008644
+    "normalized": 0.33167770089982096
   },
   {
     "city": "Kowloon",
@@ -8237,11 +8237,11 @@
   {
     "city": "Zhuhai",
     "country": "China",
-    "visitors": 2,
-    "lastVisit": "2026-05-10T15:26:00",
+    "visitors": 3,
+    "lastVisit": "2026-09-18T23:38:00",
     "lat": 29.36937,
     "lon": 105.88323,
-    "normalized": 0.11968550258351926
+    "normalized": 0.15102628930219164
   },
   {
     "city": "Eastern Goleta Valley",
