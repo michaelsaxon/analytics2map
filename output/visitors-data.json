@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1091,
-    "lastVisit": "2026-09-20T03:16:00",
+    "visitors": 1092,
+    "lastVisit": "2026-09-20T15:19:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7621272645830354
+    "normalized": 0.7622269819492208
   },
   {
     "city": "Sylhet",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 101,
-    "lastVisit": "2026-09-18T17:23:00",
+    "visitors": 102,
+    "lastVisit": "2026-09-20T12:23:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.5038501573959197
+    "normalized": 0.5049130069477452
   },
   {
     "city": "Oakland",
