@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1089,
-    "lastVisit": "2026-09-18T15:18:00",
+    "visitors": 1090,
+    "lastVisit": "2026-09-19T21:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.761936118691928
+    "normalized": 0.7620360200646417
   },
   {
     "city": "Sylhet",
@@ -6698,11 +6698,11 @@
   {
     "city": "Knoxville",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-09-16T10:00:00",
+    "visitors": 9,
+    "lastVisit": "2026-09-19T18:31:00",
     "lat": 35.96064,
     "lon": -83.92074,
-    "normalized": 0.23937100516703852
+    "normalized": 0.2508492367497686
   },
   {
     "city": "Philadelphia",
@@ -11027,11 +11027,11 @@
   {
     "city": "Norwalk",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-05-27T13:09:00",
+    "visitors": 2,
+    "lastVisit": "2026-09-19T20:17:00",
     "lat": 33.90224,
     "lon": -118.08173,
-    "normalized": 0.07551314465109582
+    "normalized": 0.11968550258351926
   },
   {
     "city": "Bayamon",
@@ -11225,11 +11225,11 @@
   {
     "city": "Chongqing",
     "country": "China",
-    "visitors": 1,
-    "lastVisit": "2026-06-18T01:46:00",
+    "visitors": 2,
+    "lastVisit": "2026-09-19T21:24:00",
     "lat": 29.56026,
     "lon": 106.55771,
-    "normalized": 0.07551314465109582
+    "normalized": 0.11968550258351926
   },
   {
     "city": "Zhongshan District",
