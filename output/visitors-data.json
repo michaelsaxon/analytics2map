@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1090,
-    "lastVisit": "2026-09-19T21:18:00",
+    "visitors": 1091,
+    "lastVisit": "2026-09-20T03:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7620360200646417
+    "normalized": 0.7621358299106612
   },
   {
     "city": "Sylhet",
@@ -8795,11 +8795,11 @@
   {
     "city": "Sandefjord",
     "country": "Norway",
-    "visitors": 2,
-    "lastVisit": "2026-07-05T07:21:00",
+    "visitors": 5,
+    "lastVisit": "2026-09-20T06:11:00",
     "lat": 59.13118,
     "lon": 10.21665,
-    "normalized": 0.11968550258351926
+    "normalized": 0.19519864723461508
   },
   {
     "city": "Dunn",
@@ -12021,6 +12021,15 @@
     "lastVisit": "2026-09-20T01:41:00",
     "lat": 30.1467,
     "lon": 107.3196,
+    "normalized": 0.07551314465109582
+  },
+  {
+    "city": "McMurray",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-09-20T04:32:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.07551314465109582
   }
 ]
