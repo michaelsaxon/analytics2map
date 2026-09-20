@@ -12031,5 +12031,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.07551229599026844
+  },
+  {
+    "city": "Markham",
+    "country": "Canada",
+    "visitors": 1,
+    "lastVisit": "2026-09-20T11:43:00",
+    "lat": 43.86682,
+    "lon": -79.2663,
+    "normalized": 0.07551229599026844
   }
 ]
