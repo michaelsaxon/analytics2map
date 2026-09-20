@@ -11828,11 +11828,11 @@
   {
     "city": "Zhangjiajie",
     "country": "China",
-    "visitors": 2,
-    "lastVisit": "2026-09-14T19:51:00",
+    "visitors": 3,
+    "lastVisit": "2026-09-19T23:17:00",
     "lat": 29.12944,
     "lon": 110.47833,
-    "normalized": 0.11968550258351926
+    "normalized": 0.15102628930219164
   },
   {
     "city": "Tabuk",
@@ -12012,6 +12012,15 @@
     "lastVisit": "2026-09-17T16:11:00",
     "lat": 45.81444,
     "lon": 15.97798,
+    "normalized": 0.07551314465109582
+  },
+  {
+    "city": "Yantai",
+    "country": "China",
+    "visitors": 1,
+    "lastVisit": "2026-09-20T01:41:00",
+    "lat": 30.1467,
+    "lon": 107.3196,
     "normalized": 0.07551314465109582
   }
 ]
