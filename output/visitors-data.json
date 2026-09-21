@@ -7247,11 +7247,11 @@
   {
     "city": "St. Louis",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-01-14T23:07:00",
+    "visitors": 4,
+    "lastVisit": "2026-09-21T14:31:00",
     "lat": 38.62727,
     "lon": -90.19789,
-    "normalized": 0.1510245919805369
+    "normalized": 0.1753341215692546
   },
   {
     "city": "Franklin Township",
