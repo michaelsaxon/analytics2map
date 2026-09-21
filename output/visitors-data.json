@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 126,
-    "lastVisit": "2026-09-16T13:20:00",
+    "visitors": 128,
+    "lastVisit": "2026-09-21T04:51:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5277316266501962
+    "normalized": 0.5294338677665582
   },
   {
     "city": "Los Angeles",
@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 159,
-    "lastVisit": "2026-09-18T08:50:00",
+    "visitors": 160,
+    "lastVisit": "2026-09-21T04:20:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5528956015205968
+    "normalized": 0.5535743651802457
   },
   {
     "city": "Ames",
@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 32,
-    "lastVisit": "2026-09-14T00:53:00",
+    "visitors": 35,
+    "lastVisit": "2026-09-21T07:23:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.3809137818325651
+    "normalized": 0.3903929069564009
   },
   {
     "city": "Visalia",
@@ -11702,11 +11702,11 @@
   {
     "city": "Fuzhou",
     "country": "China",
-    "visitors": 2,
-    "lastVisit": "2026-08-24T23:03:00",
+    "visitors": 3,
+    "lastVisit": "2026-09-21T02:12:00",
     "lat": 26.06139,
     "lon": 119.30611,
-    "normalized": 0.11968415748793201
+    "normalized": 0.1510245919805369
   },
   {
     "city": "Dunwoody",
@@ -12039,6 +12039,15 @@
     "lastVisit": "2026-09-20T11:43:00",
     "lat": 43.86682,
     "lon": -79.2663,
+    "normalized": 0.07551229599026844
+  },
+  {
+    "city": "Sari",
+    "country": "Iran",
+    "visitors": 1,
+    "lastVisit": "2026-09-21T06:30:00",
+    "lat": 36.56332,
+    "lon": 53.06009,
     "normalized": 0.07551229599026844
   }
 ]
