@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1092,
-    "lastVisit": "2026-09-20T15:19:00",
+    "visitors": 1093,
+    "lastVisit": "2026-09-21T10:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7622269819492208
+    "normalized": 0.7623266081243864
   },
   {
     "city": "Sylhet",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 99,
-    "lastVisit": "2026-09-16T23:03:00",
+    "visitors": 100,
+    "lastVisit": "2026-09-21T07:58:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.5016928351190462
+    "normalized": 0.5027768362513577
   },
   {
     "city": "Sabz",
@@ -9002,11 +9002,11 @@
   {
     "city": "North Charleston",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-05-25T18:43:00",
+    "visitors": 8,
+    "lastVisit": "2026-09-21T08:26:00",
     "lat": 32.85462,
     "lon": -79.97481,
-    "normalized": 0.22653688797080532
+    "normalized": 0.23936831497586403
   },
   {
     "city": "Zhubei City",
@@ -9704,11 +9704,11 @@
   {
     "city": "Palm Beach Gardens",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-02-22T15:53:00",
+    "visitors": 5,
+    "lastVisit": "2026-09-21T11:37:00",
     "lat": 26.82339,
     "lon": -80.13865,
-    "normalized": 0.07551229599026844
+    "normalized": 0.19519645347820044
   },
   {
     "city": "Missoula",
@@ -12049,5 +12049,14 @@
     "lat": 36.56332,
     "lon": 53.06009,
     "normalized": 0.07551229599026844
+  },
+  {
+    "city": "Agra",
+    "country": "India",
+    "visitors": 2,
+    "lastVisit": "2026-09-21T08:56:00",
+    "lat": 27.18333,
+    "lon": 78.01667,
+    "normalized": 0.11968415748793201
   }
 ]
