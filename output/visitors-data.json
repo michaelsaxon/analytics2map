@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1095,
-    "lastVisit": "2026-09-21T15:57:00",
+    "visitors": 1096,
+    "lastVisit": "2026-09-21T21:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7625255875677424
+    "normalized": 0.7626249411678354
   },
   {
     "city": "Sylhet",
@@ -1622,11 +1622,11 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 45,
-    "lastVisit": "2026-08-31T22:12:00",
+    "visitors": 46,
+    "lastVisit": "2026-09-21T22:58:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.4170968453463633
+    "normalized": 0.41943975747212703
   },
   {
     "city": "Shenzhen",
@@ -2135,11 +2135,11 @@
   {
     "city": "Tempe",
     "country": "United States",
-    "visitors": 23,
-    "lastVisit": "2026-06-09T10:42:00",
+    "visitors": 24,
+    "lastVisit": "2026-09-21T20:28:00",
     "lat": 33.41477,
     "lon": -111.90931,
-    "normalized": 0.34622104545873733
+    "normalized": 0.3506682431385092
   },
   {
     "city": "Ludhiana",
@@ -8354,11 +8354,11 @@
   {
     "city": "Cupertino",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2026-06-02T13:34:00",
+    "visitors": 12,
+    "lastVisit": "2026-09-21T23:50:00",
     "lat": 37.323,
     "lon": -122.03218,
-    "normalized": 0.2707087494684689
+    "normalized": 0.2794286992904157
   },
   {
     "city": "Clearwater",
