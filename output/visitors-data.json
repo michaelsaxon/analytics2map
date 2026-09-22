@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 192,
-    "lastVisit": "2026-09-16T19:08:00",
+    "visitors": 194,
+    "lastVisit": "2026-09-22T11:53:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5733238630915839
+    "normalized": 0.5744469783476023
   },
   {
     "city": "Four Oaks",
@@ -506,11 +506,11 @@
   {
     "city": "Phoenix",
     "country": "United States",
-    "visitors": 58,
-    "lastVisit": "2026-08-15T08:07:00",
+    "visitors": 59,
+    "lastVisit": "2026-09-22T10:21:00",
     "lat": 33.44838,
     "lon": -112.07404,
-    "normalized": 0.44421188314850674
+    "normalized": 0.4460428710377235
   },
   {
     "city": "Mocksville",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1097,
-    "lastVisit": "2026-09-22T03:45:00",
+    "visitors": 1098,
+    "lastVisit": "2026-09-22T09:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7627242042407177
+    "normalized": 0.7628233769512089
   },
   {
     "city": "Sylhet",
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 21,
-    "lastVisit": "2026-09-14T11:35:00",
+    "visitors": 26,
+    "lastVisit": "2026-09-22T12:20:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.3367419203349015
+    "normalized": 0.359052472463796
   },
   {
     "city": "Prague",
@@ -7580,11 +7580,11 @@
   {
     "city": "Santiago",
     "country": "Chile",
-    "visitors": 1,
-    "lastVisit": "2025-12-02T13:24:00",
+    "visitors": 2,
+    "lastVisit": "2026-09-22T10:45:00",
     "lat": -33.45694,
     "lon": -70.64827,
-    "normalized": 0.07551229599026844
+    "normalized": 0.11968415748793201
   },
   {
     "city": "Wroclaw",
