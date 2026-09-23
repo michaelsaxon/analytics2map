@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 114,
-    "lastVisit": "2026-09-07T07:01:00",
+    "visitors": 115,
+    "lastVisit": "2026-09-23T09:17:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.5169186709253495
+    "normalized": 0.5178618907997089
   },
   {
     "city": "Stanford",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1101,
-    "lastVisit": "2026-09-23T03:27:00",
+    "visitors": 1102,
+    "lastVisit": "2026-09-23T09:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7631203545497975
+    "normalized": 0.763219167449952
   },
   {
     "city": "Sylhet",
@@ -3359,11 +3359,11 @@
   {
     "city": "Everett",
     "country": "United States",
-    "visitors": 150,
-    "lastVisit": "2025-12-04T14:33:00",
+    "visitors": 153,
+    "lastVisit": "2026-09-23T09:29:00",
     "lat": 47.97898,
     "lon": -122.20208,
-    "normalized": 0.5465885611732773
+    "normalized": 0.5487317361590524
   },
   {
     "city": "Belmont",
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 26,
-    "lastVisit": "2026-09-22T12:20:00",
+    "visitors": 27,
+    "lastVisit": "2026-09-23T07:57:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.359052472463796
+    "normalized": 0.3630144078046877
   },
   {
     "city": "Prague",
@@ -8147,11 +8147,11 @@
   {
     "city": "Glenview",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-07-13T20:08:00",
+    "visitors": 4,
+    "lastVisit": "2026-09-23T09:36:00",
     "lat": 42.06975,
     "lon": -87.78784,
-    "normalized": 0.1510245919805369
+    "normalized": 0.1753341215692546
   },
   {
     "city": "Kahaluu-Keauhou",
@@ -8975,11 +8975,11 @@
   {
     "city": "Renton",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-01-22T15:51:00",
+    "visitors": 4,
+    "lastVisit": "2026-09-23T09:05:00",
     "lat": 47.48288,
     "lon": -122.21707,
-    "normalized": 0.11968415748793201
+    "normalized": 0.1753341215692546
   },
   {
     "city": "Baku",
@@ -12067,5 +12067,23 @@
     "lat": 46.94809,
     "lon": 7.44744,
     "normalized": 0.11968415748793201
+  },
+  {
+    "city": "Seal Beach",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-09-23T09:20:00",
+    "lat": 33.74141,
+    "lon": -118.10479,
+    "normalized": 0.11968415748793201
+  },
+  {
+    "city": "Branson West",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-09-23T09:14:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07551229599026844
   }
 ]
