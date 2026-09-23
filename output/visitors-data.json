@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 128,
-    "lastVisit": "2026-09-21T04:51:00",
+    "visitors": 129,
+    "lastVisit": "2026-09-22T21:18:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5294338677665582
+    "normalized": 0.5302751168499388
   },
   {
     "city": "Los Angeles",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 329,
-    "lastVisit": "2026-09-18T04:54:00",
+    "visitors": 330,
+    "lastVisit": "2026-09-22T22:17:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.631760199392088
+    "normalized": 0.6320898251048392
   },
   {
     "city": "Lompoc",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1099,
-    "lastVisit": "2026-09-22T15:19:00",
+    "visitors": 1100,
+    "lastVisit": "2026-09-22T22:02:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7629224594636791
+    "normalized": 0.7630214519420502
   },
   {
     "city": "Sylhet",
@@ -11558,11 +11558,11 @@
   {
     "city": "Hamedan",
     "country": "Iran",
-    "visitors": 2,
-    "lastVisit": "2026-08-19T04:01:00",
+    "visitors": 3,
+    "lastVisit": "2026-09-22T23:26:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.11968415748793201
+    "normalized": 0.1510245919805369
   },
   {
     "city": "Bacoor",
