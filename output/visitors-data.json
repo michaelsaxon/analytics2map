@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1106,
-    "lastVisit": "2026-09-24T01:03:00",
+    "visitors": 1107,
+    "lastVisit": "2026-09-24T03:30:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7636135252197729
+    "normalized": 0.763711892011965
   },
   {
     "city": "Sylhet",
@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 31,
-    "lastVisit": "2026-09-17T21:48:00",
+    "visitors": 32,
+    "lastVisit": "2026-09-24T04:30:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.3775614799513422
+    "normalized": 0.3809137818325651
   },
   {
     "city": "Athens",
@@ -11765,11 +11765,11 @@
   {
     "city": "Rawalpindi",
     "country": "Pakistan",
-    "visitors": 3,
-    "lastVisit": "2026-09-04T00:30:00",
+    "visitors": 5,
+    "lastVisit": "2026-09-24T03:22:00",
     "lat": 33.59733,
     "lon": 73.0479,
-    "normalized": 0.1510245919805369
+    "normalized": 0.19519645347820044
   },
   {
     "city": "Arlington Heights",
