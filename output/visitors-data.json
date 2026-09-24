@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1103,
-    "lastVisit": "2026-09-23T15:21:00",
+    "visitors": 1105,
+    "lastVisit": "2026-09-23T22:22:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7633178908051006
+    "normalized": 0.7635150695285245
   },
   {
     "city": "Sylhet",
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 27,
-    "lastVisit": "2026-09-23T07:57:00",
+    "visitors": 31,
+    "lastVisit": "2026-09-23T23:21:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.3630144078046877
+    "normalized": 0.3775614799513422
   },
   {
     "city": "Prague",
@@ -12094,5 +12094,23 @@
     "lat": 41.66113,
     "lon": -91.53017,
     "normalized": 0.07551229599026844
+  },
+  {
+    "city": "Maryland Heights",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-09-23T16:57:00",
+    "lat": 38.71311,
+    "lon": -90.42984,
+    "normalized": 0.07551229599026844
+  },
+  {
+    "city": "Astoria",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-09-23T18:03:00",
+    "lat": 40.77205,
+    "lon": -73.93014,
+    "normalized": 0.11968415748793201
   }
 ]
