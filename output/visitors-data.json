@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1109,
-    "lastVisit": "2026-09-24T21:15:00",
+    "visitors": 1110,
+    "lastVisit": "2026-09-25T03:04:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7639083595403284
+    "normalized": 0.7640064605959908
   },
   {
     "city": "Sylhet",
@@ -12130,5 +12130,14 @@
     "lat": 35.05266,
     "lon": -78.87836,
     "normalized": 0.11968415748793201
+  },
+  {
+    "city": "Nantong",
+    "country": "China",
+    "visitors": 1,
+    "lastVisit": "2026-09-24T22:52:00",
+    "lat": 28.94386,
+    "lon": 106.88194,
+    "normalized": 0.07551229599026844
   }
 ]
