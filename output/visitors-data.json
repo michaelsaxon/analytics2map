@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 103,
-    "lastVisit": "2026-09-23T16:08:00",
+    "visitors": 105,
+    "lastVisit": "2026-09-24T12:01:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.505965587261221
+    "normalized": 0.5080407207639577
   },
   {
     "city": "Oakland",
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 31,
-    "lastVisit": "2026-09-23T23:21:00",
+    "visitors": 32,
+    "lastVisit": "2026-09-24T09:31:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.3775614799513422
+    "normalized": 0.3809137818325651
   },
   {
     "city": "Prague",
@@ -12112,5 +12112,23 @@
     "lat": 40.77205,
     "lon": -73.93014,
     "normalized": 0.11968415748793201
+  },
+  {
+    "city": "Walnut Creek",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-09-24T12:33:00",
+    "lat": 37.90631,
+    "lon": -122.06496,
+    "normalized": 0.07551229599026844
+  },
+  {
+    "city": "Fayetteville",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-09-24T13:19:00",
+    "lat": 35.05266,
+    "lon": -78.87836,
+    "normalized": 0.07551229599026844
   }
 ]
