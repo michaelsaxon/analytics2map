@@ -839,11 +839,11 @@
   {
     "city": null,
     "country": "Bangladesh",
-    "visitors": 77,
-    "lastVisit": "2026-03-19T03:26:00",
+    "visitors": 78,
+    "lastVisit": "2026-09-24T22:07:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.4746251527686161
+    "normalized": 0.47601295771410523
   },
   {
     "city": null,
@@ -956,11 +956,11 @@
   {
     "city": "Palo Alto",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2026-08-31T10:26:00",
+    "visitors": 12,
+    "lastVisit": "2026-09-24T18:59:00",
     "lat": 37.44188,
     "lon": -122.14302,
-    "normalized": 0.2707087494684689
+    "normalized": 0.2794286992904157
   },
   {
     "city": "Troy",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1107,
-    "lastVisit": "2026-09-24T03:30:00",
+    "visitors": 1109,
+    "lastVisit": "2026-09-24T21:15:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.763711892011965
+    "normalized": 0.7639083595403284
   },
   {
     "city": "Sylhet",
@@ -5663,11 +5663,11 @@
   {
     "city": "Menlo Park",
     "country": "United States",
-    "visitors": 8,
-    "lastVisit": "2026-08-31T11:29:00",
+    "visitors": 9,
+    "lastVisit": "2026-09-24T20:12:00",
     "lat": 37.45383,
     "lon": -122.18219,
-    "normalized": 0.23936831497586403
+    "normalized": 0.2508464175595231
   },
   {
     "city": "Green Hill",
@@ -7256,11 +7256,11 @@
   {
     "city": "Franklin Township",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2025-11-24T09:44:00",
+    "visitors": 3,
+    "lastVisit": "2026-09-24T17:07:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.07551229599026844
+    "normalized": 0.1510245919805369
   },
   {
     "city": "Long Beach",
@@ -8750,11 +8750,11 @@
   {
     "city": "Lafayette",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-01-12T13:46:00",
+    "visitors": 4,
+    "lastVisit": "2026-09-24T22:07:00",
     "lat": 39.9936,
     "lon": -105.08971,
-    "normalized": 0.11968415748793201
+    "normalized": 0.1753341215692546
   },
   {
     "city": "Chattogram",
@@ -12125,10 +12125,10 @@
   {
     "city": "Fayetteville",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-09-24T13:19:00",
+    "visitors": 2,
+    "lastVisit": "2026-09-24T13:20:00",
     "lat": 35.05266,
     "lon": -78.87836,
-    "normalized": 0.07551229599026844
+    "normalized": 0.11968415748793201
   }
 ]
