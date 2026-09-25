@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 160,
-    "lastVisit": "2026-09-21T04:20:00",
+    "visitors": 163,
+    "lastVisit": "2026-09-25T12:04:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5535743651802457
+    "normalized": 0.5555856447365137
   },
   {
     "city": "Ames",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 194,
-    "lastVisit": "2026-09-22T11:53:00",
+    "visitors": 196,
+    "lastVisit": "2026-09-25T12:09:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5744469783476023
+    "normalized": 0.575558633043954
   },
   {
     "city": "Four Oaks",
@@ -929,11 +929,11 @@
   {
     "city": "College Park",
     "country": "United States",
-    "visitors": 26,
-    "lastVisit": "2026-09-04T08:57:00",
+    "visitors": 28,
+    "lastVisit": "2026-09-25T12:40:00",
     "lat": 38.98067,
     "lon": -76.93692,
-    "normalized": 0.359052472463796
+    "normalized": 0.3668372988191721
   },
   {
     "city": "Brooklyn",
