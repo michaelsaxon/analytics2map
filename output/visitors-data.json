@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1114,
-    "lastVisit": "2026-09-26T03:10:00",
+    "visitors": 1115,
+    "lastVisit": "2026-09-26T09:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7643893940341331
+    "normalized": 0.7644870542744218
   },
   {
     "city": "Sylhet",
@@ -11522,11 +11522,11 @@
   {
     "city": "Rasht",
     "country": "Iran",
-    "visitors": 3,
-    "lastVisit": "2026-08-22T11:01:00",
+    "visitors": 4,
+    "lastVisit": "2026-09-26T10:02:00",
     "lat": 37.27611,
     "lon": 49.58862,
-    "normalized": 0.1510228948721076
+    "normalized": 0.1753321512873836
   },
   {
     "city": "Edogawa City",
