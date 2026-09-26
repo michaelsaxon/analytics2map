@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 196,
-    "lastVisit": "2026-09-25T12:09:00",
+    "visitors": 197,
+    "lastVisit": "2026-09-25T14:50:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.575558633043954
+    "normalized": 0.5761102353107656
   },
   {
     "city": "Four Oaks",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1111,
-    "lastVisit": "2026-09-25T09:17:00",
+    "visitors": 1112,
+    "lastVisit": "2026-09-25T15:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7641044733915819
+    "normalized": 0.7642023980857721
   },
   {
     "city": "Sylhet",
@@ -3350,11 +3350,11 @@
   {
     "city": "Redmond",
     "country": "United States",
-    "visitors": 22,
-    "lastVisit": "2026-08-31T01:45:00",
+    "visitors": 25,
+    "lastVisit": "2026-09-25T14:26:00",
     "lat": 47.67399,
     "lon": -122.12151,
-    "normalized": 0.34158454935609484
+    "normalized": 0.3549409952806841
   },
   {
     "city": "Everett",
