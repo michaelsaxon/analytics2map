@@ -1631,11 +1631,11 @@
   {
     "city": "Shenzhen",
     "country": "China",
-    "visitors": 44,
-    "lastVisit": "2026-09-17T15:16:00",
+    "visitors": 45,
+    "lastVisit": "2026-09-26T04:52:00",
     "lat": 22.54554,
     "lon": 114.0683,
-    "normalized": 0.4146977764100276
+    "normalized": 0.4170921583045857
   },
   {
     "city": "Huzhou",
