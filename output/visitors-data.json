@@ -56,11 +56,11 @@
   {
     "city": "Austin",
     "country": "United States",
-    "visitors": 50,
-    "lastVisit": "2026-09-20T17:14:00",
+    "visitors": 51,
+    "lastVisit": "2026-09-26T20:09:00",
     "lat": 43.66663,
     "lon": -92.97464,
-    "normalized": 0.4283330480452201
+    "normalized": 0.4304484541388045
   },
   {
     "city": "Seattle",
@@ -74,11 +74,11 @@
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 53,
-    "lastVisit": "2026-08-14T11:31:00",
+    "visitors": 54,
+    "lastVisit": "2026-09-26T21:59:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.43455988512001975
+    "normalized": 0.43655884011673646
   },
   {
     "city": "New York",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1116,
-    "lastVisit": "2026-09-26T15:16:00",
+    "visitors": 1117,
+    "lastVisit": "2026-09-26T21:30:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.764584627044712
+    "normalized": 0.7646821125015495
   },
   {
     "city": "Sylhet",
@@ -6698,11 +6698,11 @@
   {
     "city": "Knoxville",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2026-09-21T18:17:00",
+    "visitors": 12,
+    "lastVisit": "2026-09-26T19:17:00",
     "lat": 35.96064,
     "lon": -83.92074,
-    "normalized": 0.2707057074334296
+    "normalized": 0.2794255592666968
   },
   {
     "city": "Philadelphia",
@@ -6842,11 +6842,11 @@
   {
     "city": "Moses Lake",
     "country": "United States",
-    "visitors": 24,
-    "lastVisit": "2026-04-14T04:48:00",
+    "visitors": 26,
+    "lastVisit": "2026-09-26T23:08:00",
     "lat": 47.13014,
     "lon": -119.27808,
-    "normalized": 0.3506643025747672
+    "normalized": 0.35904843768396594
   },
   {
     "city": "Camarillo",
