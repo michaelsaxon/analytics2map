@@ -8012,11 +8012,11 @@
   {
     "city": "The Dalles",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2026-07-29T16:11:00",
+    "visitors": 11,
+    "lastVisit": "2026-09-27T09:53:00",
     "lat": 45.59456,
     "lon": -121.17868,
-    "normalized": 0.26122375368280715
+    "normalized": 0.27070266578050495
   },
   {
     "city": "Meriden",
@@ -11765,11 +11765,11 @@
   {
     "city": "Rawalpindi",
     "country": "Pakistan",
-    "visitors": 5,
-    "lastVisit": "2026-09-24T03:22:00",
+    "visitors": 6,
+    "lastVisit": "2026-09-27T09:59:00",
     "lat": 33.59733,
     "lon": 73.0479,
-    "normalized": 0.19519206679207757
+    "normalized": 0.21198505173767948
   },
   {
     "city": "Arlington Heights",
