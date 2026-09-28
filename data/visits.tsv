@@ -12821,3 +12821,9 @@ timestamp	country	city	num_unique
 2026-09-28T01:01:00	India	Bengaluru	1
 2026-09-28T02:36:00	Singapore	Singapore	1
 2026-09-28T03:17:00	Singapore	Singapore	1
+2026-09-28T08:36:00	United States	New York	1
+2026-09-28T09:53:00	Canada	Oakville	1
+2026-09-28T10:26:00	United States	Glendale	1
+2026-09-28T12:23:00	United States		1
+2026-09-28T12:38:00	United States		1
+2026-09-28T12:39:00	United States		1
