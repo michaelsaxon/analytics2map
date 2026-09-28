@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 119,
-    "lastVisit": "2026-09-19T14:04:00",
+    "visitors": 120,
+    "lastVisit": "2026-09-27T23:27:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.521543446021935
+    "normalized": 0.5224475073656143
   },
   {
     "city": "Rochester",
@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 75,
-    "lastVisit": "2026-09-08T12:59:00",
+    "visitors": 77,
+    "lastVisit": "2026-09-28T00:01:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.47178474897640066
+    "normalized": 0.47461448642947873
   },
   {
     "city": "Tustin",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1121,
-    "lastVisit": "2026-09-27T21:26:00",
+    "visitors": 1123,
+    "lastVisit": "2026-09-28T03:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.765062587960637
+    "normalized": 0.7652566018439658
   },
   {
     "city": "Sylhet",
@@ -4916,11 +4916,11 @@
   {
     "city": "Berkeley",
     "country": "United States",
-    "visitors": 26,
-    "lastVisit": "2026-08-10T12:10:00",
+    "visitors": 27,
+    "lastVisit": "2026-09-27T22:37:00",
     "lat": 37.87159,
     "lon": -122.27275,
-    "normalized": 0.3590444034109507
+    "normalized": 0.36300624971453416
   },
   {
     "city": "Providence",
@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 35,
-    "lastVisit": "2026-09-21T07:23:00",
+    "visitors": 37,
+    "lastVisit": "2026-09-28T01:01:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.39038413358415514
+    "normalized": 0.3962741499879733
   },
   {
     "city": "Visalia",
