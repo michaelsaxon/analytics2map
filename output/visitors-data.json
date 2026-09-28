@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 402,
-    "lastVisit": "2026-09-22T19:04:00",
+    "visitors": 404,
+    "lastVisit": "2026-09-27T17:53:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6535167505409708
+    "normalized": 0.6540560524676036
   },
   {
     "city": "Santa Clara",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1120,
-    "lastVisit": "2026-09-27T15:18:00",
+    "visitors": 1121,
+    "lastVisit": "2026-09-27T21:26:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7649654512919675
+    "normalized": 0.765062587960637
   },
   {
     "city": "Sylhet",
@@ -12165,6 +12165,15 @@
     "lastVisit": "2026-09-27T01:03:00",
     "lat": 45.49818,
     "lon": -122.43148,
+    "normalized": 0.11968146780365024
+  },
+  {
+    "city": "Glendale",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-09-27T18:26:00",
+    "lat": 34.14251,
+    "lon": -118.25508,
     "normalized": 0.11968146780365024
   }
 ]
