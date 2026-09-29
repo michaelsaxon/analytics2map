@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 64,
-    "lastVisit": "2026-09-18T19:41:00",
+    "visitors": 65,
+    "lastVisit": "2026-09-28T15:10:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.45473727574937195
+    "normalized": 0.4564004392834318
   },
   {
     "city": null,
@@ -6698,11 +6698,11 @@
   {
     "city": "Knoxville",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-09-26T19:17:00",
+    "visitors": 13,
+    "lastVisit": "2026-09-28T15:33:00",
     "lat": 35.96064,
     "lon": -83.92074,
-    "normalized": 0.2794130031151426
+    "normalized": 0.28748596213634436
   },
   {
     "city": "Philadelphia",
@@ -8012,11 +8012,11 @@
   {
     "city": "The Dalles",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2026-09-27T09:53:00",
+    "visitors": 12,
+    "lastVisit": "2026-09-28T15:05:00",
     "lat": 45.59456,
     "lon": -121.17868,
-    "normalized": 0.2706935431135369
+    "normalized": 0.2794130031151426
   },
   {
     "city": "Meriden",
@@ -12175,5 +12175,14 @@
     "lat": 34.14251,
     "lon": -118.25508,
     "normalized": 0.15101610856966216
+  },
+  {
+    "city": "South Hadley",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-09-28T16:20:00",
+    "lat": 42.25842,
+    "lon": -72.57453,
+    "normalized": 0.1196774345438747
   }
 ]
