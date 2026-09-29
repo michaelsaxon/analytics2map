@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1125,
-    "lastVisit": "2026-09-29T03:17:00",
+    "visitors": 1126,
+    "lastVisit": "2026-09-29T09:16:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7654072834818269
+    "normalized": 0.7655039835758332
   },
   {
     "city": "Sylhet",
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 33,
-    "lastVisit": "2026-09-25T08:32:00",
+    "visitors": 34,
+    "lastVisit": "2026-09-29T07:04:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.38413579237489026
+    "normalized": 0.38729348154707577
   },
   {
     "city": "Prague",
@@ -12219,6 +12219,15 @@
     "lastVisit": "2026-09-29T01:59:00",
     "lat": 25.28022,
     "lon": 110.29639,
+    "normalized": 0.07550635834825707
+  },
+  {
+    "city": "Claremont",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-09-29T09:18:00",
+    "lat": 34.09668,
+    "lon": -117.71978,
     "normalized": 0.07550635834825707
   }
 ]
