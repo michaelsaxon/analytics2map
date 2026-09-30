@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 356,
-    "lastVisit": "2026-09-27T01:41:00",
+    "visitors": 357,
+    "lastVisit": "2026-09-30T00:10:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6402773273302591
+    "normalized": 0.6405820342387121
   },
   {
     "city": "Ashburn",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 331,
-    "lastVisit": "2026-09-29T04:51:00",
+    "visitors": 332,
+    "lastVisit": "2026-09-29T23:34:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.632368728484064
+    "normalized": 0.6326963457197159
   },
   {
     "city": "Lompoc",
@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 77,
-    "lastVisit": "2026-09-28T00:01:00",
+    "visitors": 79,
+    "lastVisit": "2026-09-29T20:50:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.47458783230034307
+    "normalized": 0.47734576818447927
   },
   {
     "city": "Tustin",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1128,
-    "lastVisit": "2026-09-29T12:20:00",
+    "visitors": 1130,
+    "lastVisit": "2026-09-30T02:25:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7656971266206598
+    "normalized": 0.7658899278192111
   },
   {
     "city": "Sylhet",
@@ -8012,11 +8012,11 @@
   {
     "city": "The Dalles",
     "country": "United States",
-    "visitors": 12,
-    "lastVisit": "2026-09-28T15:05:00",
+    "visitors": 13,
+    "lastVisit": "2026-09-30T01:31:00",
     "lat": 45.59456,
     "lon": -121.17868,
-    "normalized": 0.27940672740408473
+    "normalized": 0.2874795051038818
   },
   {
     "city": "Meriden",
@@ -12228,6 +12228,33 @@
     "lastVisit": "2026-09-29T09:18:00",
     "lat": 34.09668,
     "lon": -117.71978,
+    "normalized": 0.07550635834825707
+  },
+  {
+    "city": "Tallahassee",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-09-29T21:38:00",
+    "lat": 30.43826,
+    "lon": -84.28073,
+    "normalized": 0.07550635834825707
+  },
+  {
+    "city": "Front Royal",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-09-29T21:41:00",
+    "lat": 38.91817,
+    "lon": -78.19444,
+    "normalized": 0.07550635834825707
+  },
+  {
+    "city": "Ocala",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-09-29T21:48:00",
+    "lat": 29.1872,
+    "lon": -82.14009,
     "normalized": 0.07550635834825707
   }
 ]
