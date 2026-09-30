@@ -6203,11 +6203,11 @@
   {
     "city": "Kaiserslautern",
     "country": "Germany",
-    "visitors": 2,
-    "lastVisit": "2026-03-06T04:51:00",
+    "visitors": 3,
+    "lastVisit": "2026-09-29T20:09:00",
     "lat": 49.443,
     "lon": 7.77161,
-    "normalized": 0.1196747465480013
+    "normalized": 0.15101271669651414
   },
   {
     "city": "Erlangen",
@@ -6680,11 +6680,11 @@
   {
     "city": "Urbana",
     "country": "United States",
-    "visitors": 16,
-    "lastVisit": "2026-09-29T13:56:00",
+    "visitors": 17,
+    "lastVisit": "2026-09-29T15:09:00",
     "lat": 40.11059,
     "lon": -88.20727,
-    "normalized": 0.3086294340266332
+    "normalized": 0.3148558514442596
   },
   {
     "city": "Sayreville",
