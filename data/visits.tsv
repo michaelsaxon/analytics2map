@@ -12895,3 +12895,12 @@ timestamp	country	city	num_unique
 2026-09-30T21:20:00	Singapore	Singapore	1
 2026-09-30T22:22:00	United States		1
 2026-10-01T00:17:00	South Korea	Seoul	1
+2026-10-01T01:09:00	United States	Starkville	1
+2026-10-01T01:53:00	China	Suzhou	1
+2026-10-01T03:31:00	United States	Boardman	1
+2026-10-01T04:19:00	United States	New York	1
+2026-10-01T04:26:00	United States	New York	1
+2026-10-01T06:52:00	United States	Tulsa	1
+2026-10-01T06:53:00	United States	Tulsa	1
+2026-10-01T06:55:00	United States	Tulsa	1
+2026-10-01T06:58:00	United States	Ashburn	1

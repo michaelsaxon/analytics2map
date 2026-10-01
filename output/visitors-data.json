@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 132,
-    "lastVisit": "2026-09-29T05:39:00",
+    "visitors": 133,
+    "lastVisit": "2026-10-01T03:31:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.532700741487671
+    "normalized": 0.5335166927172745
   },
   {
     "city": "Los Angeles",
@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 163,
-    "lastVisit": "2026-09-25T12:04:00",
+    "visitors": 164,
+    "lastVisit": "2026-10-01T06:58:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5555232471874432
+    "normalized": 0.5561854314748059
   },
   {
     "city": "Ames",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 198,
-    "lastVisit": "2026-09-28T08:36:00",
+    "visitors": 200,
+    "lastVisit": "2026-10-01T04:26:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5765942944192882
+    "normalized": 0.5776835932950125
   },
   {
     "city": "Four Oaks",
@@ -10289,11 +10289,11 @@
   {
     "city": "Suzhou",
     "country": "China",
-    "visitors": 11,
-    "lastVisit": "2026-09-24T01:40:00",
+    "visitors": 12,
+    "lastVisit": "2026-10-01T01:53:00",
     "lat": 31.30408,
     "lon": 120.59538,
-    "normalized": 0.2706783463026586
+    "normalized": 0.2793973167913521
   },
   {
     "city": "Iwo",
@@ -12265,5 +12265,23 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.07550381524164018
+  },
+  {
+    "city": "Starkville",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-10-01T01:09:00",
+    "lat": 33.45049,
+    "lon": -88.81961,
+    "normalized": 0.07550381524164018
+  },
+  {
+    "city": "Tulsa",
+    "country": "United States",
+    "visitors": 3,
+    "lastVisit": "2026-10-01T06:55:00",
+    "lat": 36.15398,
+    "lon": -95.99277,
+    "normalized": 0.15100763048328036
   }
 ]
