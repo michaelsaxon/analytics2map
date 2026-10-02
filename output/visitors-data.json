@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 207,
-    "lastVisit": "2026-09-14T23:36:00",
+    "visitors": 208,
+    "lastVisit": "2026-10-02T08:01:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5813930020903754
+    "normalized": 0.5819154266518823
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1141,
-    "lastVisit": "2026-10-02T03:28:00",
+    "visitors": 1143,
+    "lastVisit": "2026-10-02T10:05:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.766892624860345
+    "normalized": 0.7670832203810148
   },
   {
     "city": "Sylhet",
@@ -12107,11 +12107,11 @@
   {
     "city": "Astoria",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-09-23T18:03:00",
+    "visitors": 3,
+    "lastVisit": "2026-10-02T09:19:00",
     "lat": 40.77205,
     "lon": -73.93014,
-    "normalized": 0.11966668660804622
+    "normalized": 0.15100254618465483
   },
   {
     "city": "Walnut Creek",
