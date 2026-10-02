@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1140,
-    "lastVisit": "2026-10-01T22:04:00",
+    "visitors": 1141,
+    "lastVisit": "2026-10-02T03:28:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7667972018912366
+    "normalized": 0.766892624860345
   },
   {
     "city": "Sylhet",
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 62,
-    "lastVisit": "2026-10-01T00:17:00",
+    "visitors": 63,
+    "lastVisit": "2026-10-01T23:50:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.4512922438534531
+    "normalized": 0.4530076385539645
   },
   {
     "city": "Seongnam-si",
@@ -11522,11 +11522,11 @@
   {
     "city": "Rasht",
     "country": "Iran",
-    "visitors": 4,
-    "lastVisit": "2026-09-26T10:02:00",
+    "visitors": 5,
+    "lastVisit": "2026-10-02T02:22:00",
     "lat": 37.27611,
     "lon": 49.58862,
-    "normalized": 0.17530852719283826
+    "normalized": 0.19516795970037362
   },
   {
     "city": "Edogawa City",
@@ -11828,11 +11828,11 @@
   {
     "city": "Zhangjiajie",
     "country": "China",
-    "visitors": 3,
-    "lastVisit": "2026-09-19T23:17:00",
+    "visitors": 4,
+    "lastVisit": "2026-10-02T04:43:00",
     "lat": 29.12944,
     "lon": 110.47833,
-    "normalized": 0.15100254618465483
+    "normalized": 0.17530852719283826
   },
   {
     "city": "Tabuk",
