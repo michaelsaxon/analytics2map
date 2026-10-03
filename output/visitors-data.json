@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1145,
-    "lastVisit": "2026-10-02T22:17:00",
+    "visitors": 1146,
+    "lastVisit": "2026-10-03T03:18:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7672648737055906
+    "normalized": 0.7673598794595966
   },
   {
     "city": "Sylhet",
@@ -2954,11 +2954,11 @@
   {
     "city": "Frankfurt am Main",
     "country": "Germany",
-    "visitors": 16,
-    "lastVisit": "2026-09-08T17:03:00",
+    "visitors": 17,
+    "lastVisit": "2026-10-03T05:50:00",
     "lat": 50.11552,
     "lon": 8.68417,
-    "normalized": 0.30860518545410726
+    "normalized": 0.31483111367103644
   },
   {
     "city": "Taito",
@@ -5330,11 +5330,11 @@
   {
     "city": "Dongguan",
     "country": "China",
-    "visitors": 1,
-    "lastVisit": "2025-06-01T00:00:00",
+    "visitors": 2,
+    "lastVisit": "2026-10-03T08:27:00",
     "lat": 23.01797,
     "lon": 113.74866,
-    "normalized": 0.07550042592184301
+    "normalized": 0.11966534387459672
   },
   {
     "city": "Changde",
@@ -12319,5 +12319,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.07550042592184301
+  },
+  {
+    "city": "Montgomeryville",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-10-03T07:03:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.11966534387459672
   }
 ]
