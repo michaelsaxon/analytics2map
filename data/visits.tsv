@@ -12939,3 +12939,9 @@ timestamp	country	city	num_unique
 2026-10-02T10:05:00	Singapore	Singapore	1
 2026-10-02T14:05:00	China	Suzhou	1
 2026-10-02T15:17:00	Singapore	Singapore	1
+2026-10-02T16:42:00	United States	Cupertino	1
+2026-10-02T16:43:00	United States	Cupertino	1
+2026-10-02T17:01:00	United States	Dallas	1
+2026-10-02T19:08:00	United States	The Dalles	1
+2026-10-02T21:14:00	United States	San Jose	1
+2026-10-02T21:18:00	United States		1
