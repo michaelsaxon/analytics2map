@@ -1145,20 +1145,20 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1146,
-    "lastVisit": "2026-10-03T03:18:00",
+    "visitors": 1147,
+    "lastVisit": "2026-10-03T15:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7673598794595966
+    "normalized": 0.7674548024199067
   },
   {
     "city": "Sylhet",
     "country": "Bangladesh",
-    "visitors": 2,
-    "lastVisit": "2024-09-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2026-10-03T12:41:00",
     "lat": 24.89904,
     "lon": 91.87198,
-    "normalized": 0.11966534387459672
+    "normalized": 0.15100085184368603
   },
   {
     "city": "Chittagong",
