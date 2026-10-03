@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 65,
-    "lastVisit": "2026-09-28T15:10:00",
+    "visitors": 66,
+    "lastVisit": "2026-10-03T10:24:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.45635433045104645
+    "normalized": 0.4579923175594497
   },
   {
     "city": null,
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 120,
-    "lastVisit": "2026-09-27T23:27:00",
+    "visitors": 124,
+    "lastVisit": "2026-10-03T08:58:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.5223771213092135
+    "normalized": 0.5259196803716681
   },
   {
     "city": "Rochester",
@@ -9272,11 +9272,11 @@
   {
     "city": "Okemos",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-02-06T17:50:00",
+    "visitors": 8,
+    "lastVisit": "2026-10-03T11:36:00",
     "lat": 42.72226,
     "lon": -84.42747,
-    "normalized": 0.22650127776552903
+    "normalized": 0.23933068774919344
   },
   {
     "city": "Slippery Rock",
