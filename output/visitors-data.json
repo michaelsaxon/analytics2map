@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 135,
-    "lastVisit": "2026-10-03T20:32:00",
+    "visitors": 136,
+    "lastVisit": "2026-10-03T21:44:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5351064632196363
+    "normalized": 0.5359044454704264
   },
   {
     "city": "Los Angeles",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1147,
-    "lastVisit": "2026-10-03T15:17:00",
+    "visitors": 1148,
+    "lastVisit": "2026-10-03T21:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7674548024199067
+    "normalized": 0.7675496427306981
   },
   {
     "city": "Sylhet",
@@ -2873,11 +2873,11 @@
   {
     "city": "Minneapolis",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2026-09-29T01:24:00",
+    "visitors": 11,
+    "lastVisit": "2026-10-03T23:32:00",
     "lat": 44.97997,
     "lon": -93.26384,
-    "normalized": 0.26118856065460677
+    "normalized": 0.27066619571828276
   },
   {
     "city": "Highland",
@@ -3197,11 +3197,11 @@
   {
     "city": "Tabriz",
     "country": "Iran",
-    "visitors": 17,
-    "lastVisit": "2026-08-23T11:38:00",
+    "visitors": 18,
+    "lastVisit": "2026-10-04T01:33:00",
     "lat": 38.08,
     "lon": 46.2919,
-    "normalized": 0.31483111367103644
+    "normalized": 0.32072033655010623
   },
   {
     "city": "Victoria",
@@ -8012,11 +8012,11 @@
   {
     "city": "The Dalles",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2026-10-02T19:08:00",
+    "visitors": 16,
+    "lastVisit": "2026-10-03T21:43:00",
     "lat": 45.59456,
     "lon": -121.17868,
-    "normalized": 0.30200170368737206
+    "normalized": 0.30860518545410726
   },
   {
     "city": "Meriden",
