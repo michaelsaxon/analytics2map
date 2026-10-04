@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 134,
-    "lastVisit": "2026-10-01T10:09:00",
+    "visitors": 135,
+    "lastVisit": "2026-10-03T20:32:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5343025917476796
+    "normalized": 0.5351064632196363
   },
   {
     "city": "Los Angeles",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 151,
-    "lastVisit": "2026-09-19T15:45:00",
+    "visitors": 152,
+    "lastVisit": "2026-10-03T18:32:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5472216143156353
+    "normalized": 0.5479358732033006
   },
   {
     "city": "Rowland Heights",
