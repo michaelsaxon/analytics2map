@@ -11828,11 +11828,11 @@
   {
     "city": "Zhangjiajie",
     "country": "China",
-    "visitors": 5,
-    "lastVisit": "2026-10-03T01:53:00",
+    "visitors": 6,
+    "lastVisit": "2026-10-04T12:26:00",
     "lat": 29.12944,
     "lon": 110.47833,
-    "normalized": 0.19515920173259443
+    "normalized": 0.21194935919417915
   },
   {
     "city": "Tabuk",
