@@ -12968,3 +12968,8 @@ timestamp	country	city	num_unique
 2026-10-03T23:32:00	United States	Minneapolis	1
 2026-10-03T23:35:00	Netherlands	Groningen	1
 2026-10-04T01:33:00	Iran	Tabriz	1
+2026-10-04T05:04:00	Singapore	Singapore	1
+2026-10-04T06:17:00	United States		1
+2026-10-04T06:19:00	United States		1
+2026-10-04T06:23:00	Canada	Toronto	1
+2026-10-04T06:31:00	United States		1
