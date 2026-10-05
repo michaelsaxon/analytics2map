@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 357,
-    "lastVisit": "2026-09-30T00:10:00",
+    "visitors": 361,
+    "lastVisit": "2026-10-05T02:48:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6405101483195114
+    "normalized": 0.6417203877079277
   },
   {
     "city": "Ashburn",
@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 203,
-    "lastVisit": "2026-10-01T14:12:00",
+    "visitors": 205,
+    "lastVisit": "2026-10-05T01:23:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5792518865068077
+    "normalized": 0.5803145332219504
   },
   {
     "city": "Four Oaks",
@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 26,
-    "lastVisit": "2026-10-04T16:38:00",
+    "visitors": 27,
+    "lastVisit": "2026-10-05T09:38:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.35898395005406425
+    "normalized": 0.3629451292899919
   },
   {
     "city": "Massapequa",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1153,
-    "lastVisit": "2026-10-04T23:13:00",
+    "visitors": 1154,
+    "lastVisit": "2026-10-04T23:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7679967627058774
+    "normalized": 0.7680911069511489
   },
   {
     "city": "Sylhet",
@@ -5330,11 +5330,11 @@
   {
     "city": "Dongguan",
     "country": "China",
-    "visitors": 2,
-    "lastVisit": "2026-10-03T08:27:00",
+    "visitors": 4,
+    "lastVisit": "2026-10-05T02:41:00",
     "lat": 23.01797,
     "lon": 113.74866,
-    "normalized": 0.11966131668468809
+    "normalized": 0.17530066039731032
   },
   {
     "city": "Changde",
