@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 25,
-    "lastVisit": "2026-08-26T21:01:00",
+    "visitors": 26,
+    "lastVisit": "2026-10-04T16:38:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.3548732575148296
+    "normalized": 0.35898395005406425
   },
   {
     "city": "Massapequa",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1149,
-    "lastVisit": "2026-10-04T05:04:00",
+    "visitors": 1151,
+    "lastVisit": "2026-10-04T16:44:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.767618566408002
+    "normalized": 0.7678078287047209
   },
   {
     "city": "Sylhet",
