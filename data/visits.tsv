@@ -13010,3 +13010,9 @@ timestamp	country	city	num_unique
 2026-10-05T15:00:00	Denmark	Copenhagen	1
 2026-10-05T15:01:00	Denmark	Copenhagen	1
 2026-10-05T16:31:00	United States		1
+2026-10-05T19:01:00	United States	San Diego	1
+2026-10-05T21:14:00	Singapore	Singapore	1
+2026-10-05T21:20:00	United States	Albany	1
+2026-10-05T21:39:00	United States	San Diego	1
+2026-10-05T21:50:00	China	Shanghai	1
+2026-10-05T22:15:00	United States	San Diego	1

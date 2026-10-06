@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 66,
-    "lastVisit": "2026-10-03T10:24:00",
+    "visitors": 67,
+    "lastVisit": "2026-10-05T21:50:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.45797176795747047
+    "normalized": 0.45958541529001806
   },
   {
     "city": null,
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 152,
-    "lastVisit": "2026-10-03T18:32:00",
+    "visitors": 155,
+    "lastVisit": "2026-10-05T22:15:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5479112879347868
+    "normalized": 0.5500262903654793
   },
   {
     "city": "Rowland Heights",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1154,
-    "lastVisit": "2026-10-04T23:17:00",
+    "visitors": 1155,
+    "lastVisit": "2026-10-05T21:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7680824924352564
+    "normalized": 0.7681767539753331
   },
   {
     "city": "Sylhet",
@@ -8948,11 +8948,11 @@
   {
     "city": "Albany",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-01-21T08:48:00",
+    "visitors": 2,
+    "lastVisit": "2026-10-05T21:20:00",
     "lat": 44.63651,
     "lon": -123.10593,
-    "normalized": 0.07549703830235144
+    "normalized": 0.11965997462473586
   },
   {
     "city": "Sao Vicente",
