@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 398,
-    "lastVisit": "2026-10-01T21:52:00",
+    "visitors": 399,
+    "lastVisit": "2026-10-06T00:16:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6523129028916765
+    "normalized": 0.65258554183944
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1155,
-    "lastVisit": "2026-10-05T21:14:00",
+    "visitors": 1156,
+    "lastVisit": "2026-10-06T03:36:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7681767539753331
+    "normalized": 0.7682709340095285
   },
   {
     "city": "Sylhet",
@@ -6383,11 +6383,11 @@
   {
     "city": "Marseille",
     "country": "France",
-    "visitors": 4,
-    "lastVisit": "2026-09-08T08:27:00",
+    "visitors": 5,
+    "lastVisit": "2026-10-06T00:56:00",
     "lat": 43.29695,
     "lon": 5.38107,
-    "normalized": 0.1752986943150171
+    "normalized": 0.1951570129270873
   },
   {
     "city": "Lucon",
@@ -7319,11 +7319,11 @@
   {
     "city": "Chandler",
     "country": "United States",
-    "visitors": 28,
-    "lastVisit": "2026-06-17T15:48:00",
+    "visitors": 29,
+    "lastVisit": "2026-10-06T01:53:00",
     "lat": 33.30616,
     "lon": -111.84125,
-    "normalized": 0.3667631772612417
+    "normalized": 0.3704557072421044
   },
   {
     "city": "Gilbert",
@@ -12337,5 +12337,14 @@
     "lat": 41.1306,
     "lon": -85.12886,
     "normalized": 0.07549703830235144
+  },
+  {
+    "city": "Souk Ahras",
+    "country": "Algeria",
+    "visitors": 2,
+    "lastVisit": "2026-10-05T23:59:00",
+    "lat": 36.28639,
+    "lon": 7.95111,
+    "normalized": 0.11965997462473586
   }
 ]
