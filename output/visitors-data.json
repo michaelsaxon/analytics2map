@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 155,
-    "lastVisit": "2026-10-05T22:15:00",
+    "visitors": 156,
+    "lastVisit": "2026-10-06T20:35:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5500262903654793
+    "normalized": 0.5507222620801987
   },
   {
     "city": "Rowland Heights",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1158,
-    "lastVisit": "2026-10-06T09:17:00",
+    "visitors": 1159,
+    "lastVisit": "2026-10-06T15:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7684590501232339
+    "normalized": 0.7685529864833132
   },
   {
     "city": "Sylhet",
@@ -1766,11 +1766,11 @@
   {
     "city": "Sydney",
     "country": "Australia",
-    "visitors": 23,
-    "lastVisit": "2026-06-02T14:48:00",
+    "visitors": 24,
+    "lastVisit": "2026-10-06T16:59:00",
     "lat": -33.86785,
     "lon": 151.20732,
-    "normalized": 0.3461510895317902
+    "normalized": 0.3505973886300342
   },
   {
     "city": "Ormiston",
