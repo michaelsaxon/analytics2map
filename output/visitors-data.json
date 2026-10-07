@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 159,
-    "lastVisit": "2026-10-07T10:47:00",
+    "visitors": 160,
+    "lastVisit": "2026-10-07T10:48:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5527776867940841
+    "normalized": 0.5534563056954259
   },
   {
     "city": "Rowland Heights",
@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 30,
-    "lastVisit": "2026-10-05T09:49:00",
+    "visitors": 31,
+    "lastVisit": "2026-10-07T15:10:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.3740229541849349
+    "normalized": 0.37748095831483847
   },
   {
     "city": "Massapequa",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1163,
-    "lastVisit": "2026-10-07T10:10:00",
+    "visitors": 1164,
+    "lastVisit": "2026-10-07T15:21:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7689193009516375
+    "normalized": 0.7690128329293202
   },
   {
     "city": "Sylhet",
@@ -1388,11 +1388,11 @@
   {
     "city": null,
     "country": "Iran",
-    "visitors": 369,
-    "lastVisit": "2026-09-22T09:14:00",
+    "visitors": 370,
+    "lastVisit": "2026-10-07T11:09:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.6440868098930287
+    "normalized": 0.6443807857295729
   },
   {
     "city": null,
@@ -11765,11 +11765,11 @@
   {
     "city": "Rawalpindi",
     "country": "Pakistan",
-    "visitors": 6,
-    "lastVisit": "2026-09-27T09:59:00",
+    "visitors": 8,
+    "lastVisit": "2026-10-07T14:12:00",
     "lat": 33.59733,
     "lon": 73.0479,
-    "normalized": 0.2119446052616366
+    "normalized": 0.23931726546612198
   },
   {
     "city": "Arlington Heights",
