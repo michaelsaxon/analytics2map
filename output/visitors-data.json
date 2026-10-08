@@ -110,11 +110,11 @@
   {
     "city": "Dallas",
     "country": "United States",
-    "visitors": 45,
-    "lastVisit": "2026-10-05T11:16:00",
+    "visitors": 46,
+    "lastVisit": "2026-10-08T07:06:00",
     "lat": 44.91928,
     "lon": -123.31705,
-    "normalized": 0.417007892096757
+    "normalized": 0.41935030455523853
   },
   {
     "city": "San Jose",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 162,
-    "lastVisit": "2026-10-07T21:59:00",
+    "visitors": 163,
+    "lastVisit": "2026-10-08T09:15:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5548009892108763
+    "normalized": 0.555467156310899
   },
   {
     "city": "Rowland Heights",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1167,
-    "lastVisit": "2026-10-08T03:14:00",
+    "visitors": 1168,
+    "lastVisit": "2026-10-08T07:09:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.769292947909221
+    "normalized": 0.7693861597089349
   },
   {
     "city": "Sylhet",
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 63,
-    "lastVisit": "2026-10-01T23:50:00",
+    "visitors": 64,
+    "lastVisit": "2026-10-08T07:40:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.45297714997780614
+    "normalized": 0.4546658346772838
   },
   {
     "city": "Seongnam-si",
@@ -7985,11 +7985,11 @@
   {
     "city": "Kigali",
     "country": "Rwanda",
-    "visitors": 6,
-    "lastVisit": "2026-09-17T08:01:00",
+    "visitors": 11,
+    "lastVisit": "2026-10-08T04:01:00",
     "lat": -1.94995,
     "lon": 30.05885,
-    "normalized": 0.2119446052616366
+    "normalized": 0.2706510160589964
   },
   {
     "city": "East Lansing",
