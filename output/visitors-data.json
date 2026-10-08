@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 334,
-    "lastVisit": "2026-10-05T12:44:00",
+    "visitors": 335,
+    "lastVisit": "2026-10-07T21:47:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6332633606467022
+    "normalized": 0.6335880046465684
   },
   {
     "city": "Lompoc",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 160,
-    "lastVisit": "2026-10-07T10:48:00",
+    "visitors": 162,
+    "lastVisit": "2026-10-07T21:59:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5534563056954259
+    "normalized": 0.5548009892108763
   },
   {
     "city": "Rowland Heights",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1164,
-    "lastVisit": "2026-10-07T15:21:00",
+    "visitors": 1167,
+    "lastVisit": "2026-10-08T03:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7690128329293202
+    "normalized": 0.769292947909221
   },
   {
     "city": "Sylhet",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 105,
-    "lastVisit": "2026-09-24T12:01:00",
+    "visitors": 106,
+    "lastVisit": "2026-10-08T00:59:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.507932372130904
+    "normalized": 0.5089550836949102
   },
   {
     "city": "Oakland",
