@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 362,
-    "lastVisit": "2026-10-05T13:50:00",
+    "visitors": 364,
+    "lastVisit": "2026-10-08T15:24:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6420064577842048
+    "normalized": 0.642604909736596
   },
   {
     "city": "Ashburn",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1168,
-    "lastVisit": "2026-10-08T07:09:00",
+    "visitors": 1169,
+    "lastVisit": "2026-10-08T11:03:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7693861597089349
+    "normalized": 0.7694792918063734
   },
   {
     "city": "Sylhet",
@@ -4592,11 +4592,11 @@
   {
     "city": "College Station",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-03-19T14:45:00",
+    "visitors": 8,
+    "lastVisit": "2026-10-08T10:05:00",
     "lat": 30.62798,
     "lon": -96.33441,
-    "normalized": 0.22648857498890307
+    "normalized": 0.23931726546612198
   },
   {
     "city": "Laurel",
@@ -5231,11 +5231,11 @@
   {
     "city": "Dubai",
     "country": "United Arab Emirates",
-    "visitors": 27,
-    "lastVisit": "2026-07-27T14:46:00",
+    "visitors": 29,
+    "lastVisit": "2026-10-08T10:16:00",
     "lat": 25.07725,
     "lon": 55.30927,
-    "normalized": 0.362936988587572
+    "normalized": 0.3704515528752744
   },
   {
     "city": "Manajao",
