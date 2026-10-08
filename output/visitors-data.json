@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 31,
-    "lastVisit": "2026-10-07T15:10:00",
+    "visitors": 32,
+    "lastVisit": "2026-10-07T16:29:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.37748095831483847
+    "normalized": 0.3808325452586329
   },
   {
     "city": "Massapequa",
@@ -4583,11 +4583,11 @@
   {
     "city": "Sunnyvale",
     "country": "United States",
-    "visitors": 29,
-    "lastVisit": "2026-10-05T12:13:00",
+    "visitors": 30,
+    "lastVisit": "2026-10-07T16:37:00",
     "lat": 37.36883,
     "lon": -122.03635,
-    "normalized": 0.3704515528752744
+    "normalized": 0.3740229541849349
   },
   {
     "city": "College Station",
