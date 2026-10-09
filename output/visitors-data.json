@@ -10892,11 +10892,11 @@
   {
     "city": "Giza",
     "country": "Egypt",
-    "visitors": 2,
-    "lastVisit": "2026-05-13T06:19:00",
+    "visitors": 3,
+    "lastVisit": "2026-10-09T08:58:00",
     "lat": 30.00944,
     "lon": 31.20861,
-    "normalized": 0.11965863273306099
+    "normalized": 0.15099238332593537
   },
   {
     "city": "Hwaseong-si",
