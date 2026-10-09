@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 106,
-    "lastVisit": "2026-10-08T00:59:00",
+    "visitors": 109,
+    "lastVisit": "2026-10-08T17:58:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.5089550836949102
+    "normalized": 0.5119668326677854
   },
   {
     "city": "Oakland",
@@ -11486,11 +11486,11 @@
   {
     "city": "Wuxi",
     "country": "China",
-    "visitors": 2,
-    "lastVisit": "2026-09-04T17:40:00",
+    "visitors": 3,
+    "lastVisit": "2026-10-08T16:43:00",
     "lat": 26.5844,
     "lon": 111.859,
-    "normalized": 0.11965863273306099
+    "normalized": 0.15099238332593537
   },
   {
     "city": "Shivamogga",
@@ -12260,11 +12260,11 @@
   {
     "city": "Mississippi State",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-09-30T18:46:00",
+    "visitors": 3,
+    "lastVisit": "2026-10-08T17:24:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.07549619166296768
+    "normalized": 0.15099238332593537
   },
   {
     "city": "Starkville",
