@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 369,
-    "lastVisit": "2026-10-09T00:28:00",
+    "visitors": 370,
+    "lastVisit": "2026-10-09T10:04:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6440868098930287
+    "normalized": 0.6443807857295729
   },
   {
     "city": "Ashburn",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1170,
-    "lastVisit": "2026-10-09T03:23:00",
+    "visitors": 1171,
+    "lastVisit": "2026-10-09T09:23:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7695723443377216
+    "normalized": 0.7696653174388156
   },
   {
     "city": "Sylhet",
@@ -4745,11 +4745,11 @@
   {
     "city": "Chapel Hill",
     "country": "United States",
-    "visitors": 53,
-    "lastVisit": "2026-04-19T18:16:00",
+    "visitors": 55,
+    "lastVisit": "2026-10-09T13:10:00",
     "lat": 35.9132,
     "lon": -79.05584,
-    "normalized": 0.43447208986215063
+    "normalized": 0.43843318025053973
   },
   {
     "city": "Cumming",
