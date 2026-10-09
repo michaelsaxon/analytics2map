@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 364,
-    "lastVisit": "2026-10-08T15:24:00",
+    "visitors": 369,
+    "lastVisit": "2026-10-09T00:28:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.642604909736596
+    "normalized": 0.6440868098930287
   },
   {
     "city": "Ashburn",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1169,
-    "lastVisit": "2026-10-08T11:03:00",
+    "visitors": 1170,
+    "lastVisit": "2026-10-09T03:23:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7694792918063734
+    "normalized": 0.7695723443377216
   },
   {
     "city": "Sylhet",
@@ -11225,11 +11225,11 @@
   {
     "city": "Chongqing",
     "country": "China",
-    "visitors": 2,
-    "lastVisit": "2026-09-19T21:24:00",
+    "visitors": 3,
+    "lastVisit": "2026-10-08T19:07:00",
     "lat": 29.56026,
     "lon": 106.55771,
-    "normalized": 0.11965863273306099
+    "normalized": 0.15099238332593537
   },
   {
     "city": "Zhongshan District",
