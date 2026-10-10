@@ -13094,3 +13094,15 @@ timestamp	country	city	num_unique
 2026-10-09T10:04:00	United States	Los Angeles	1
 2026-10-09T13:05:00	United States	Chapel Hill	1
 2026-10-09T13:10:00	United States	Chapel Hill	1
+2026-10-09T13:43:00	Singapore	Singapore	1
+2026-10-09T13:50:00	China	Wuxi	1
+2026-10-09T15:15:00	Singapore	Singapore	1
+2026-10-09T15:17:00	United States	New Haven	1
+2026-10-09T16:24:00	United States	San Jose	1
+2026-10-09T16:25:00	United States	San Jose	1
+2026-10-09T17:21:00	United States		1
+2026-10-09T17:22:00	United States		1
+2026-10-09T17:33:00	United States	San Jose	1
+2026-10-09T19:07:00	United States	Santa Clara	1
+2026-10-09T19:56:00	China	Lhasa	1
+2026-10-09T20:08:00	United States	Boston	1
