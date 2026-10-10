@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 137,
-    "lastVisit": "2026-10-05T13:29:00",
+    "visitors": 139,
+    "lastVisit": "2026-10-10T05:34:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5366544903797533
+    "normalized": 0.5382216474733337
   },
   {
     "city": "Los Angeles",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1173,
-    "lastVisit": "2026-10-09T15:15:00",
+    "visitors": 1174,
+    "lastVisit": "2026-10-10T03:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7698337624082906
+    "normalized": 0.7699264959506255
   },
   {
     "city": "Sylhet",
@@ -4745,11 +4745,11 @@
   {
     "city": "Chapel Hill",
     "country": "United States",
-    "visitors": 55,
-    "lastVisit": "2026-10-09T13:10:00",
+    "visitors": 56,
+    "lastVisit": "2026-10-10T07:04:00",
     "lat": 35.9132,
     "lon": -79.05584,
-    "normalized": 0.43842334862890825
+    "normalized": 0.4403511076068617
   },
   {
     "city": "Cumming",
@@ -12368,10 +12368,10 @@
   {
     "city": "Setif",
     "country": "Algeria",
-    "visitors": 1,
-    "lastVisit": "2026-10-10T02:37:00",
+    "visitors": 2,
+    "lastVisit": "2026-10-10T03:01:00",
     "lat": 36.19112,
     "lon": 5.41373,
-    "normalized": 0.07549449870261596
+    "normalized": 0.11965594945438827
   }
 ]
