@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 338,
-    "lastVisit": "2026-10-09T17:33:00",
+    "visitors": 339,
+    "lastVisit": "2026-10-10T01:02:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6345419412840503
+    "normalized": 0.6348627531180382
   },
   {
     "city": "Lompoc",
@@ -2027,11 +2027,11 @@
   {
     "city": "Brussels",
     "country": "Belgium",
-    "visitors": 11,
-    "lastVisit": "2026-08-10T22:30:00",
+    "visitors": 12,
+    "lastVisit": "2026-10-10T00:13:00",
     "lat": 50.85045,
     "lon": 4.34878,
-    "normalized": 0.2706449468596202
+    "normalized": 0.27936284150031127
   },
   {
     "city": null,
@@ -5942,11 +5942,11 @@
   {
     "city": "Lyon",
     "country": "France",
-    "visitors": 2,
-    "lastVisit": "2025-09-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2026-10-10T01:59:00",
     "lat": 45.74906,
     "lon": 4.84789,
-    "normalized": 0.11965594945438827
+    "normalized": 0.1752927975470415
   },
   {
     "city": "Bangkok",
@@ -10055,11 +10055,11 @@
   {
     "city": "Coeur d'Alene",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-09-01T13:30:00",
+    "visitors": 3,
+    "lastVisit": "2026-10-10T01:42:00",
     "lat": 47.67768,
     "lon": -116.78047,
-    "normalized": 0.11965594945438827
+    "normalized": 0.15098899740523192
   },
   {
     "city": "Kefar Sava",
@@ -12354,6 +12354,24 @@
     "lastVisit": "2026-10-09T19:56:00",
     "lat": 29.65,
     "lon": 91.1,
+    "normalized": 0.07549449870261596
+  },
+  {
+    "city": "Colac",
+    "country": "Australia",
+    "visitors": 1,
+    "lastVisit": "2026-10-10T02:29:00",
+    "lat": -35.28346,
+    "lon": 149.12807,
+    "normalized": 0.07549449870261596
+  },
+  {
+    "city": "Setif",
+    "country": "Algeria",
+    "visitors": 1,
+    "lastVisit": "2026-10-10T02:37:00",
+    "lat": 36.19112,
+    "lon": 5.41373,
     "normalized": 0.07549449870261596
   }
 ]
