@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1178,
-    "lastVisit": "2026-10-11T04:02:00",
+    "visitors": 1179,
+    "lastVisit": "2026-10-11T09:29:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7702966425732948
+    "normalized": 0.7703889830102737
   },
   {
     "city": "Sylhet",
@@ -7985,11 +7985,11 @@
   {
     "city": "Kigali",
     "country": "Rwanda",
-    "visitors": 20,
-    "lastVisit": "2026-10-11T04:19:00",
+    "visitors": 21,
+    "lastVisit": "2026-10-11T05:50:00",
     "lat": -1.94995,
     "lon": 30.05885,
-    "normalized": 0.3315958019754486
+    "normalized": 0.336662554547618
   },
   {
     "city": "East Lansing",
