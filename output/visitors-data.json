@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1175,
-    "lastVisit": "2026-10-10T10:01:00",
+    "visitors": 1176,
+    "lastVisit": "2026-10-10T15:17:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7700191506043568
+    "normalized": 0.7701117265035917
   },
   {
     "city": "Sylhet",
@@ -12373,5 +12373,14 @@
     "lat": 36.19112,
     "lon": 5.41373,
     "normalized": 0.11965594945438827
+  },
+  {
+    "city": "Casablanca",
+    "country": "Morocco",
+    "visitors": 1,
+    "lastVisit": "2026-10-10T15:32:00",
+    "lat": 33.58831,
+    "lon": -7.61138,
+    "normalized": 0.07549449870261596
   }
 ]
