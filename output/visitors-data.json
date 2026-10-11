@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 370,
-    "lastVisit": "2026-10-09T10:04:00",
+    "visitors": 372,
+    "lastVisit": "2026-10-10T17:16:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6443663358467692
+    "normalized": 0.6449519046706659
   },
   {
     "city": "Ashburn",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 339,
-    "lastVisit": "2026-10-10T01:02:00",
+    "visitors": 340,
+    "lastVisit": "2026-10-10T18:21:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6348627531180382
+    "normalized": 0.6351826227720088
   },
   {
     "city": "Lompoc",
@@ -4583,11 +4583,11 @@
   {
     "city": "Sunnyvale",
     "country": "United States",
-    "visitors": 30,
-    "lastVisit": "2026-10-07T16:37:00",
+    "visitors": 32,
+    "lastVisit": "2026-10-10T19:05:00",
     "lat": 37.36883,
     "lon": -122.03635,
-    "normalized": 0.3740145669270067
+    "normalized": 0.3808240052993903
   },
   {
     "city": "College Station",
@@ -10289,11 +10289,11 @@
   {
     "city": "Suzhou",
     "country": "China",
-    "visitors": 15,
-    "lastVisit": "2026-10-02T14:05:00",
+    "visitors": 16,
+    "lastVisit": "2026-10-10T20:41:00",
     "lat": 31.30408,
     "lon": 120.59538,
-    "normalized": 0.30197799481046383
+    "normalized": 0.3085809581657647
   },
   {
     "city": "Iwo",
