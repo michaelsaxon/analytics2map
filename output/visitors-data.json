@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 139,
-    "lastVisit": "2026-10-10T05:34:00",
+    "visitors": 140,
+    "lastVisit": "2026-10-11T22:00:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5382216474733337
+    "normalized": 0.5389968503109307
   },
   {
     "city": "Los Angeles",
@@ -605,11 +605,11 @@
   {
     "city": null,
     "country": "Hong Kong",
-    "visitors": 181,
-    "lastVisit": "2026-08-31T21:56:00",
+    "visitors": 182,
+    "lastVisit": "2026-10-11T19:46:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.5667971927239874
+    "normalized": 0.5673939916905857
   },
   {
     "city": "Recife",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1181,
-    "lastVisit": "2026-10-11T15:23:00",
+    "visitors": 1182,
+    "lastVisit": "2026-10-11T21:14:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7705734293522253
+    "normalized": 0.7706655355216828
   },
   {
     "city": "Sylhet",
@@ -12382,5 +12382,14 @@
     "lat": 33.58831,
     "lon": -7.61138,
     "normalized": 0.07549449870261596
+  },
+  {
+    "city": "Morfelden-Walldorf",
+    "country": "Germany",
+    "visitors": 2,
+    "lastVisit": "2026-10-12T00:58:00",
+    "lat": 49.99472,
+    "lon": 8.58361,
+    "normalized": 0.11965594945438827
   }
 ]
