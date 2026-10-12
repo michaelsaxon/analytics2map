@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1180,
-    "lastVisit": "2026-10-11T11:31:00",
+    "visitors": 1181,
+    "lastVisit": "2026-10-11T15:23:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7704812452257803
+    "normalized": 0.7705734293522253
   },
   {
     "city": "Sylhet",
@@ -2117,11 +2117,11 @@
   {
     "city": "Boulder",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2024-09-01T00:00:00",
+    "visitors": 5,
+    "lastVisit": "2026-10-11T16:59:00",
     "lat": 40.01499,
     "lon": -105.27055,
-    "normalized": 0.15098899740523192
+    "normalized": 0.19515044815700422
   },
   {
     "city": "Amherst",
