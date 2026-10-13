@@ -1109,11 +1109,11 @@
   {
     "city": "Kolkata",
     "country": "India",
-    "visitors": 13,
-    "lastVisit": "2026-03-10T02:52:00",
+    "visitors": 23,
+    "lastVisit": "2026-10-13T03:01:00",
     "lat": 22.56263,
     "lon": 88.36304,
-    "normalized": 0.28742146466850255
+    "normalized": 0.3461239270793407
   },
   {
     "city": "Hyderabad",
@@ -9578,11 +9578,11 @@
   {
     "city": "Lagos",
     "country": "Nigeria",
-    "visitors": 15,
-    "lastVisit": "2026-08-31T22:44:00",
+    "visitors": 16,
+    "lastVisit": "2026-10-13T04:24:00",
     "lat": 6.45407,
     "lon": 3.39467,
-    "normalized": 0.30196445621956536
+    "normalized": 0.30856712354395965
   },
   {
     "city": "Celina",
