@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 167,
-    "lastVisit": "2026-10-13T12:54:00",
+    "visitors": 169,
+    "lastVisit": "2026-10-13T20:53:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5580480245547843
+    "normalized": 0.5593369086566504
   },
   {
     "city": "Ames",
@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 413,
-    "lastVisit": "2026-10-13T15:18:00",
+    "visitors": 415,
+    "lastVisit": "2026-10-13T21:39:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6562736616498881
+    "normalized": 0.6567985274151736
   },
   {
     "city": "Santa Clara",
@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 32,
-    "lastVisit": "2026-10-07T16:29:00",
+    "visitors": 37,
+    "lastVisit": "2026-10-13T19:26:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.38080266476511726
+    "normalized": 0.39616745526371616
   },
   {
     "city": "Massapequa",
@@ -2342,11 +2342,11 @@
   {
     "city": "Hangzhou",
     "country": "China",
-    "visitors": 20,
-    "lastVisit": "2026-09-18T20:16:00",
+    "visitors": 21,
+    "lastVisit": "2026-10-13T18:58:00",
     "lat": 30.29365,
     "lon": 120.16142,
-    "normalized": 0.33157722008071927
+    "normalized": 0.33664368872329026
   },
   {
     "city": "Kowloon",
@@ -12417,6 +12417,15 @@
     "lastVisit": "2026-10-13T08:40:00",
     "lat": 47.00902,
     "lon": 28.85938,
+    "normalized": 0.07549026815802168
+  },
+  {
+    "city": "Heihe",
+    "country": "China",
+    "visitors": 1,
+    "lastVisit": "2026-10-13T22:13:00",
+    "lat": 50.24413,
+    "lon": 127.49016,
     "normalized": 0.07549026815802168
   }
 ]
