@@ -5528,11 +5528,11 @@
   {
     "city": "Nellore",
     "country": "India",
-    "visitors": 3,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 4,
+    "lastVisit": "2026-10-14T03:51:00",
     "lat": 14.44992,
     "lon": 79.98697,
-    "normalized": 0.15098053631604336
+    "normalized": 0.1752829745266914
   },
   {
     "city": "Noida",
