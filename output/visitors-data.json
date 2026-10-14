@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1185,
-    "lastVisit": "2026-10-12T21:16:00",
+    "visitors": 1186,
+    "lastVisit": "2026-10-14T06:24:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7708981857550405
+    "normalized": 0.7709899762665903
   },
   {
     "city": "Sylhet",
@@ -5528,11 +5528,11 @@
   {
     "city": "Nellore",
     "country": "India",
-    "visitors": 4,
-    "lastVisit": "2026-10-14T03:51:00",
+    "visitors": 5,
+    "lastVisit": "2026-10-14T03:52:00",
     "lat": 14.44992,
     "lon": 79.98697,
-    "normalized": 0.1752829745266914
+    "normalized": 0.1951395123578704
   },
   {
     "city": "Noida",
@@ -8129,11 +8129,11 @@
   {
     "city": "Islamabad",
     "country": "Pakistan",
-    "visitors": 5,
-    "lastVisit": "2026-08-31T13:52:00",
+    "visitors": 7,
+    "lastVisit": "2026-10-14T05:38:00",
     "lat": 33.72148,
     "lon": 73.04329,
-    "normalized": 0.1951395123578704
+    "normalized": 0.226470804474065
   },
   {
     "city": "Yelm",
