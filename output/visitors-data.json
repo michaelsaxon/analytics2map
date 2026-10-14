@@ -74,11 +74,11 @@
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 56,
-    "lastVisit": "2026-10-09T19:07:00",
+    "visitors": 57,
+    "lastVisit": "2026-10-14T09:53:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.4403264313055432
+    "normalized": 0.4422205561867751
   },
   {
     "city": "New York",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 117,
-    "lastVisit": "2026-10-12T02:38:00",
+    "visitors": 118,
+    "lastVisit": "2026-10-14T10:08:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.5195725694322695
+    "normalized": 0.5204916418528079
   },
   {
     "city": "Stanford",
@@ -5600,11 +5600,11 @@
   {
     "city": "Lahore",
     "country": "Pakistan",
-    "visitors": 8,
-    "lastVisit": "2026-09-07T04:35:00",
+    "visitors": 9,
+    "lastVisit": "2026-10-14T10:40:00",
     "lat": 31.558,
     "lon": 74.35071,
-    "normalized": 0.23929848839969745
+    "normalized": 0.25077324268471307
   },
   {
     "city": "Karachi",
