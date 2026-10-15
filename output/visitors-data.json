@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 140,
-    "lastVisit": "2026-10-11T22:00:00",
+    "visitors": 141,
+    "lastVisit": "2026-10-14T18:27:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5389666461205512
+    "normalized": 0.5397363273134516
   },
   {
     "city": "Los Angeles",
@@ -5618,11 +5618,11 @@
   {
     "city": "Arlington",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-03-13T02:22:00",
+    "visitors": 9,
+    "lastVisit": "2026-10-14T18:33:00",
     "lat": 48.19871,
     "lon": -122.12514,
-    "normalized": 0.226470804474065
+    "normalized": 0.25077324268471307
   },
   {
     "city": "Los Alamos",
@@ -7247,11 +7247,11 @@
   {
     "city": "St. Louis",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-10-14T15:48:00",
+    "visitors": 8,
+    "lastVisit": "2026-10-14T19:10:00",
     "lat": 38.62727,
     "lon": -90.19789,
-    "normalized": 0.226470804474065
+    "normalized": 0.23929848839969745
   },
   {
     "city": "Franklin Township",
@@ -10289,11 +10289,11 @@
   {
     "city": "Suzhou",
     "country": "China",
-    "visitors": 16,
-    "lastVisit": "2026-10-10T20:41:00",
+    "visitors": 17,
+    "lastVisit": "2026-10-14T19:55:00",
     "lat": 31.30408,
     "lon": 120.59538,
-    "normalized": 0.30856366597193735
+    "normalized": 0.3147887565577191
   },
   {
     "city": "Iwo",
@@ -12436,5 +12436,14 @@
     "lat": 52.20296,
     "lon": 8.0448,
     "normalized": 0.07549026815802168
+  },
+  {
+    "city": "Bremen",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-10-14T21:24:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.11964924419984872
   }
 ]
