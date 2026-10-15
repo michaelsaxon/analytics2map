@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 141,
-    "lastVisit": "2026-10-14T18:27:00",
+    "visitors": 142,
+    "lastVisit": "2026-10-15T09:45:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5397363273134516
+    "normalized": 0.5405006071903338
   },
   {
     "city": "Los Angeles",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 119,
-    "lastVisit": "2026-10-14T15:54:00",
+    "visitors": 120,
+    "lastVisit": "2026-10-15T12:07:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.5214030232006052
+    "normalized": 0.5223068411305372
   },
   {
     "city": "Stanford",
@@ -12445,5 +12445,14 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.11964924419984872
+  },
+  {
+    "city": "Algiers",
+    "country": "Algeria",
+    "visitors": 1,
+    "lastVisit": "2026-10-15T10:28:00",
+    "lat": 36.73225,
+    "lon": 3.08746,
+    "normalized": 0.07549026815802168
   }
 ]
