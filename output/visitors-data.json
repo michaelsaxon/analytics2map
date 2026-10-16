@@ -209,11 +209,11 @@
   {
     "city": "Delhi",
     "country": "India",
-    "visitors": 29,
-    "lastVisit": "2026-10-13T10:50:00",
+    "visitors": 30,
+    "lastVisit": "2026-10-16T03:46:00",
     "lat": 28.65195,
     "lon": 77.23149,
-    "normalized": 0.37041833668117874
+    "normalized": 0.373989417764461
   },
   {
     "city": null,
