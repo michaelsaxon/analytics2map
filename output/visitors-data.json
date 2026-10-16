@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1186,
-    "lastVisit": "2026-10-14T06:24:00",
+    "visitors": 1188,
+    "lastVisit": "2026-10-15T20:45:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.770981338116043
+    "normalized": 0.7711646853231318
   },
   {
     "city": "Sylhet",
@@ -12454,5 +12454,14 @@
     "lat": 36.73225,
     "lon": 3.08746,
     "normalized": 0.07548942236712779
+  },
+  {
+    "city": "Mamaroneck",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-10-15T20:59:00",
+    "lat": 40.94871,
+    "lon": -73.73263,
+    "normalized": 0.11964790365299846
   }
 ]
