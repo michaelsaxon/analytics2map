@@ -12463,5 +12463,14 @@
     "lat": 40.94871,
     "lon": -73.73263,
     "normalized": 0.15097884473425557
+  },
+  {
+    "city": "Severn",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-10-16T09:46:00",
+    "lat": 39.13705,
+    "lon": -76.6983,
+    "normalized": 0.11964790365299846
   }
 ]
