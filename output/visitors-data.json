@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 346,
-    "lastVisit": "2026-10-17T18:52:00",
+    "visitors": 348,
+    "lastVisit": "2026-10-18T02:03:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6370395224275571
+    "normalized": 0.6376654334336209
   },
   {
     "city": "Lompoc",
@@ -3026,11 +3026,11 @@
   {
     "city": "Chengdu",
     "country": "China",
-    "visitors": 5,
-    "lastVisit": "2026-05-05T12:17:00",
+    "visitors": 6,
+    "lastVisit": "2026-10-18T02:22:00",
     "lat": 30.66667,
     "lon": 104.06667,
-    "normalized": 0.19513732602012623
+    "normalized": 0.2119256014456416
   },
   {
     "city": "Boxtel",
