@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 169,
-    "lastVisit": "2026-10-13T20:53:00",
+    "visitors": 170,
+    "lastVisit": "2026-10-17T15:49:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5593306418612674
+    "normalized": 0.5599694015532827
   },
   {
     "city": "Ames",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 343,
-    "lastVisit": "2026-10-14T23:36:00",
+    "visitors": 344,
+    "lastVisit": "2026-10-17T15:59:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6360938590449491
+    "normalized": 0.6364099934187096
   },
   {
     "city": "Lompoc",
@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 37,
-    "lastVisit": "2026-10-13T19:26:00",
+    "visitors": 38,
+    "lastVisit": "2026-10-17T17:10:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.39616301661441355
+    "normalized": 0.39899196047984664
   },
   {
     "city": "Massapequa",
