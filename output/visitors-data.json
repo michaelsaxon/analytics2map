@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 372,
-    "lastVisit": "2026-10-10T17:16:00",
+    "visitors": 375,
+    "lastVisit": "2026-10-17T07:23:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6449085373750603
+    "normalized": 0.645780971001416
   },
   {
     "city": "Ashburn",
@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 37,
-    "lastVisit": "2026-09-28T01:01:00",
+    "visitors": 38,
+    "lastVisit": "2026-10-17T09:15:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.39616301661441355
+    "normalized": 0.39899196047984664
   },
   {
     "city": "Visalia",
