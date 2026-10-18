@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 344,
-    "lastVisit": "2026-10-17T15:59:00",
+    "visitors": 346,
+    "lastVisit": "2026-10-17T18:52:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6364099934187096
+    "normalized": 0.6370395224275571
   },
   {
     "city": "Lompoc",
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 41,
-    "lastVisit": "2026-10-14T14:32:00",
+    "visitors": 43,
+    "lastVisit": "2026-10-17T20:36:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.40706292746576783
+    "normalized": 0.41212933934376306
   },
   {
     "city": "Prague",
