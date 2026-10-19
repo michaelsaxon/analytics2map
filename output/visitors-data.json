@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 209,
-    "lastVisit": "2026-10-17T12:58:00",
+    "visitors": 210,
+    "lastVisit": "2026-10-18T14:17:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5823439381268203
+    "normalized": 0.5828613177948044
   },
   {
     "city": "Four Oaks",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 348,
-    "lastVisit": "2026-10-18T02:03:00",
+    "visitors": 350,
+    "lastVisit": "2026-10-18T18:03:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6376654334336209
+    "normalized": 0.6382877677858435
   },
   {
     "city": "Lompoc",
@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 125,
-    "lastVisit": "2026-10-04T21:13:00",
+    "visitors": 128,
+    "lastVisit": "2026-10-18T14:38:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.5267108311187663
+    "normalized": 0.5292734955965642
   },
   {
     "city": "Rochester",
@@ -1415,11 +1415,11 @@
   {
     "city": "San Francisco",
     "country": "United States",
-    "visitors": 109,
-    "lastVisit": "2026-10-08T17:58:00",
+    "visitors": 110,
+    "lastVisit": "2026-10-18T18:51:00",
     "lat": 37.77493,
     "lon": -122.41942,
-    "normalized": 0.5119209276376878
+    "normalized": 0.5129065290728176
   },
   {
     "city": "Oakland",
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 43,
-    "lastVisit": "2026-10-17T20:36:00",
+    "visitors": 49,
+    "lastVisit": "2026-10-18T19:58:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.41212933934376306
+    "normalized": 0.42605144368923276
   },
   {
     "city": "Prague",
@@ -8930,11 +8930,11 @@
   {
     "city": "Pasadena",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2026-05-20T15:23:00",
+    "visitors": 11,
+    "lastVisit": "2026-10-18T17:11:00",
     "lat": 34.14778,
     "lon": -118.14452,
-    "normalized": 0.2507704330281803
+    "normalized": 0.27062674838725403
   },
   {
     "city": "Crystal",
