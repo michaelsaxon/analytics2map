@@ -9668,11 +9668,11 @@
   {
     "city": "Hyderabad",
     "country": "Pakistan",
-    "visitors": 2,
-    "lastVisit": "2026-02-21T02:22:00",
+    "visitors": 3,
+    "lastVisit": "2026-10-19T00:47:00",
     "lat": 25.39689,
     "lon": 68.37718,
-    "normalized": 0.1196465632740772
+    "normalized": 0.15097715336437062
   },
   {
     "city": "Petaling Jaya",
