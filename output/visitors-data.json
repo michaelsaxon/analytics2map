@@ -929,11 +929,11 @@
   {
     "city": "College Park",
     "country": "United States",
-    "visitors": 28,
-    "lastVisit": "2026-09-25T12:40:00",
+    "visitors": 29,
+    "lastVisit": "2026-10-21T07:37:00",
     "lat": 38.98067,
     "lon": -76.93692,
-    "normalized": 0.3667179630644996
+    "normalized": 0.37041003783396875
   },
   {
     "city": "Brooklyn",
@@ -5510,11 +5510,11 @@
   {
     "city": "Xiamen",
     "country": "China",
-    "visitors": 2,
-    "lastVisit": "2026-03-11T09:14:00",
+    "visitors": 3,
+    "lastVisit": "2026-10-21T06:12:00",
     "lat": 24.47979,
     "lon": 118.08187,
-    "normalized": 0.11964522306304629
+    "normalized": 0.15097546220633967
   },
   {
     "city": "Aarau",
@@ -8129,11 +8129,11 @@
   {
     "city": "Islamabad",
     "country": "Pakistan",
-    "visitors": 8,
-    "lastVisit": "2026-10-21T06:08:00",
+    "visitors": 9,
+    "lastVisit": "2026-10-21T06:10:00",
     "lat": 33.72148,
     "lon": 73.04329,
-    "normalized": 0.23929044612609257
+    "normalized": 0.2507648147709225
   },
   {
     "city": "Yelm",
