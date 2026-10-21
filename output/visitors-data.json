@@ -1073,11 +1073,11 @@
   {
     "city": "Vancouver",
     "country": "Canada",
-    "visitors": 23,
-    "lastVisit": "2026-10-21T00:39:00",
+    "visitors": 25,
+    "lastVisit": "2026-10-21T03:56:00",
     "lat": 49.24966,
     "lon": -123.11934,
-    "normalized": 0.34610841637255585
+    "normalized": 0.3548255295096942
   },
   {
     "city": "Sundbyberg",
@@ -7985,11 +7985,11 @@
   {
     "city": "Kigali",
     "country": "Rwanda",
-    "visitors": 24,
-    "lastVisit": "2026-10-21T00:19:00",
+    "visitors": 25,
+    "lastVisit": "2026-10-21T04:56:00",
     "lat": -1.94995,
     "lon": 30.05885,
-    "normalized": 0.35055416733550526
+    "normalized": 0.3548255295096942
   },
   {
     "city": "East Lansing",
@@ -8129,11 +8129,11 @@
   {
     "city": "Islamabad",
     "country": "Pakistan",
-    "visitors": 7,
-    "lastVisit": "2026-10-14T05:38:00",
+    "visitors": 8,
+    "lastVisit": "2026-10-21T06:08:00",
     "lat": 33.72148,
     "lon": 73.04329,
-    "normalized": 0.2264631933095095
+    "normalized": 0.23929044612609257
   },
   {
     "city": "Yelm",
