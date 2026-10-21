@@ -101,11 +101,11 @@
   {
     "city": "Baltimore",
     "country": "United States",
-    "visitors": 33,
-    "lastVisit": "2026-09-10T10:22:00",
+    "visitors": 34,
+    "lastVisit": "2026-10-20T12:38:00",
     "lat": 39.29038,
     "lon": -76.61219,
-    "normalized": 0.3840410269576741
+    "normalized": 0.3871979371351974
   },
   {
     "city": "Dallas",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1191,
-    "lastVisit": "2026-10-20T00:06:00",
+    "visitors": 1192,
+    "lastVisit": "2026-10-20T04:03:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7714218453706257
+    "normalized": 0.7715131709737221
   },
   {
     "city": "Sylhet",
