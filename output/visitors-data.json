@@ -74,11 +74,11 @@
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 57,
-    "lastVisit": "2026-10-14T09:53:00",
+    "visitors": 59,
+    "lastVisit": "2026-10-21T00:39:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.4422056941676694
+    "normalized": 0.44589776893713856
   },
   {
     "city": "New York",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 353,
-    "lastVisit": "2026-10-19T20:46:00",
+    "visitors": 355,
+    "lastVisit": "2026-10-20T21:04:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6392003308523738
+    "normalized": 0.6398138861389386
   },
   {
     "city": "Lompoc",
@@ -146,11 +146,11 @@
   {
     "city": "Chicago",
     "country": "United States",
-    "visitors": 122,
-    "lastVisit": "2026-10-18T13:39:00",
+    "visitors": 123,
+    "lastVisit": "2026-10-20T19:56:00",
     "lat": 41.85003,
     "lon": -87.65005,
-    "normalized": 0.5240746681589047
+    "normalized": 0.5249565011171403
   },
   {
     "city": "Stanford",
@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 68,
-    "lastVisit": "2026-10-06T22:08:00",
+    "visitors": 69,
+    "lastVisit": "2026-10-21T00:03:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.4611186516304071
+    "normalized": 0.46268566823836726
   },
   {
     "city": null,
@@ -659,11 +659,11 @@
   {
     "city": "Ann Arbor",
     "country": "United States",
-    "visitors": 33,
-    "lastVisit": "2026-02-01T18:13:00",
+    "visitors": 35,
+    "lastVisit": "2026-10-20T20:50:00",
     "lat": 42.27756,
     "lon": -83.74088,
-    "normalized": 0.3840410269576741
+    "normalized": 0.39026590833243224
   },
   {
     "city": "Pittsburgh",
@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 38,
-    "lastVisit": "2026-10-17T17:10:00",
+    "visitors": 39,
+    "lastVisit": "2026-10-20T18:23:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.39898302146957065
+    "normalized": 0.40174027697726217
   },
   {
     "city": "Massapequa",
@@ -1073,11 +1073,11 @@
   {
     "city": "Vancouver",
     "country": "Canada",
-    "visitors": 22,
-    "lastVisit": "2026-07-22T11:39:00",
+    "visitors": 23,
+    "lastVisit": "2026-10-21T00:39:00",
     "lat": 49.24966,
     "lon": -123.11934,
-    "normalized": 0.3414734285673608
+    "normalized": 0.34610841637255585
   },
   {
     "city": "Sundbyberg",
@@ -7985,11 +7985,11 @@
   {
     "city": "Kigali",
     "country": "Rwanda",
-    "visitors": 21,
-    "lastVisit": "2026-10-11T05:50:00",
+    "visitors": 24,
+    "lastVisit": "2026-10-21T00:19:00",
     "lat": -1.94995,
     "lon": 30.05885,
-    "normalized": 0.3366323749006658
+    "normalized": 0.35055416733550526
   },
   {
     "city": "East Lansing",
@@ -8930,11 +8930,11 @@
   {
     "city": "Pasadena",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2026-10-18T17:11:00",
+    "visitors": 12,
+    "lastVisit": "2026-10-20T18:53:00",
     "lat": 34.14778,
     "lon": -118.14452,
-    "normalized": 0.270620685269386
+    "normalized": 0.2793377984065244
   },
   {
     "city": "Crystal",
@@ -11576,11 +11576,11 @@
   {
     "city": "Accra",
     "country": "Ghana",
-    "visitors": 3,
-    "lastVisit": "2026-10-12T14:20:00",
+    "visitors": 5,
+    "lastVisit": "2026-10-21T01:30:00",
     "lat": 5.55602,
     "lon": -0.1969,
-    "normalized": 0.15097546220633967
+    "normalized": 0.19513295416621612
   },
   {
     "city": "Clifton",
@@ -12480,6 +12480,24 @@
     "lastVisit": "2026-10-19T06:45:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.07548773110316984
+  },
+  {
+    "city": "Natore",
+    "country": "Bangladesh",
+    "visitors": 3,
+    "lastVisit": "2026-10-20T20:01:00",
+    "lat": 24.41112,
+    "lon": 88.98673,
+    "normalized": 0.15097546220633967
+  },
+  {
+    "city": "Sargodha",
+    "country": "Pakistan",
+    "visitors": 1,
+    "lastVisit": "2026-10-21T02:34:00",
+    "lat": 32.08586,
+    "lon": 72.67418,
     "normalized": 0.07548773110316984
   }
 ]
