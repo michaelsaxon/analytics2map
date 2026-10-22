@@ -8651,11 +8651,11 @@
   {
     "city": "Karaj",
     "country": "Iran",
-    "visitors": 4,
-    "lastVisit": "2026-08-28T23:55:00",
+    "visitors": 5,
+    "lastVisit": "2026-10-21T21:35:00",
     "lat": 35.83266,
     "lon": 50.99155,
-    "normalized": 0.17527512053997846
+    "normalized": 0.19513076864992407
   },
   {
     "city": "Highlands Ranch",
@@ -12485,11 +12485,11 @@
   {
     "city": "Natore",
     "country": "Bangladesh",
-    "visitors": 3,
-    "lastVisit": "2026-10-20T20:01:00",
+    "visitors": 4,
+    "lastVisit": "2026-10-21T21:52:00",
     "lat": 24.41112,
     "lon": 88.98673,
-    "normalized": 0.15097377126011402
+    "normalized": 0.17527512053997846
   },
   {
     "city": "Sargodha",
@@ -12516,6 +12516,15 @@
     "lastVisit": "2026-10-21T12:20:00",
     "lat": 39.26733,
     "lon": -76.79831,
+    "normalized": 0.07548688563005701
+  },
+  {
+    "city": "Taito City",
+    "country": "Japan",
+    "visitors": 1,
+    "lastVisit": "2026-10-22T01:41:00",
+    "lat": 35.6895,
+    "lon": 139.69171,
     "normalized": 0.07548688563005701
   }
 ]
