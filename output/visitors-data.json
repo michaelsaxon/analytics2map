@@ -3008,11 +3008,11 @@
   {
     "city": "Leeds",
     "country": "United Kingdom",
-    "visitors": 11,
-    "lastVisit": "2025-12-06T12:47:00",
+    "visitors": 12,
+    "lastVisit": "2026-10-22T03:06:00",
     "lat": 53.79648,
     "lon": -1.54785,
-    "normalized": 0.2706176542799811
+    "normalized": 0.279334669784237
   },
   {
     "city": "Tottenham",
@@ -3224,11 +3224,11 @@
   {
     "city": "Bristol",
     "country": "United Kingdom",
-    "visitors": 3,
-    "lastVisit": "2026-09-15T02:40:00",
+    "visitors": 5,
+    "lastVisit": "2026-10-22T05:31:00",
     "lat": 51.45523,
     "lon": -2.59665,
-    "normalized": 0.15097377126011402
+    "normalized": 0.19513076864992407
   },
   {
     "city": "Leuven",
@@ -7985,11 +7985,11 @@
   {
     "city": "Kigali",
     "country": "Rwanda",
-    "visitors": 25,
-    "lastVisit": "2026-10-21T04:56:00",
+    "visitors": 26,
+    "lastVisit": "2026-10-22T03:44:00",
     "lat": -1.94995,
     "lon": 30.05885,
-    "normalized": 0.35482155541429405
+    "normalized": 0.3589316490596012
   },
   {
     "city": "East Lansing",
@@ -12512,11 +12512,11 @@
   {
     "city": "Ellicott City",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-10-21T12:20:00",
+    "visitors": 2,
+    "lastVisit": "2026-10-22T06:39:00",
     "lat": 39.26733,
     "lon": -76.79831,
-    "normalized": 0.07548688563005701
+    "normalized": 0.11964388301986707
   },
   {
     "city": "Taito City",
