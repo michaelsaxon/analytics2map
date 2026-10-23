@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 145,
-    "lastVisit": "2026-10-18T06:20:00",
+    "visitors": 147,
+    "lastVisit": "2026-10-23T00:37:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5427374641763509
+    "normalized": 0.5442191816664621
   },
   {
     "city": "Los Angeles",
@@ -281,11 +281,11 @@
   {
     "city": "Shanghai",
     "country": "China",
-    "visitors": 69,
-    "lastVisit": "2026-10-21T00:03:00",
+    "visitors": 70,
+    "lastVisit": "2026-10-22T22:13:00",
     "lat": 31.22222,
     "lon": 121.45806,
-    "normalized": 0.4626804860943755
+    "normalized": 0.4642252574638225
   },
   {
     "city": null,
@@ -299,11 +299,11 @@
   {
     "city": null,
     "country": "United Kingdom",
-    "visitors": 122,
-    "lastVisit": "2026-07-18T20:32:00",
+    "visitors": 124,
+    "lastVisit": "2026-10-22T21:26:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.524068798449555
+    "normalized": 0.5258253616199354
   },
   {
     "city": "London",
@@ -12526,5 +12526,14 @@
     "lat": 35.6895,
     "lon": 139.69171,
     "normalized": 0.07548688563005701
+  },
+  {
+    "city": "Dehiwala-Mount Lavinia",
+    "country": "Sri Lanka",
+    "visitors": 6,
+    "lastVisit": "2026-10-23T01:24:00",
+    "lat": 6.84019,
+    "lon": 79.87116,
+    "normalized": 0.21191847992433996
   }
 ]
