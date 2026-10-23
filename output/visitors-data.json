@@ -1073,11 +1073,11 @@
   {
     "city": "Vancouver",
     "country": "Canada",
-    "visitors": 25,
-    "lastVisit": "2026-10-21T03:56:00",
+    "visitors": 27,
+    "lastVisit": "2026-10-23T02:14:00",
     "lat": 49.24966,
     "lon": -123.11934,
-    "normalized": 0.35482155541429405
+    "normalized": 0.36289225118445395
   },
   {
     "city": "Sundbyberg",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 105,
-    "lastVisit": "2026-10-12T09:04:00",
+    "visitors": 106,
+    "lastVisit": "2026-10-23T06:35:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.5078697618817334
+    "normalized": 0.5088923473812684
   },
   {
     "city": "Sabz",
@@ -4331,11 +4331,11 @@
   {
     "city": "Howrah",
     "country": "India",
-    "visitors": 5,
-    "lastVisit": "2025-01-01T00:00:00",
+    "visitors": 6,
+    "lastVisit": "2026-10-23T05:13:00",
     "lat": 22.57688,
     "lon": 88.31857,
-    "normalized": 0.19513076864992407
+    "normalized": 0.21191847992433996
   },
   {
     "city": "Meerut",
