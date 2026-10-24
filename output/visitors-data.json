@@ -5600,11 +5600,11 @@
   {
     "city": "Lahore",
     "country": "Pakistan",
-    "visitors": 9,
-    "lastVisit": "2026-10-14T10:40:00",
+    "visitors": 11,
+    "lastVisit": "2026-10-24T06:32:00",
     "lat": 31.558,
     "lon": 74.35071,
-    "normalized": 0.25075639002334077
+    "normalized": 0.2706115934397931
   },
   {
     "city": "Karachi",
