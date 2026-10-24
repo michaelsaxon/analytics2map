@@ -353,11 +353,11 @@
   {
     "city": "Incheon",
     "country": "South Korea",
-    "visitors": 11,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 13,
+    "lastVisit": "2026-10-24T01:12:00",
     "lat": 37.45646,
     "lon": 126.70515,
-    "normalized": 0.2706115934397931
+    "normalized": 0.28739892873121764
   },
   {
     "city": null,
@@ -9686,11 +9686,11 @@
   {
     "city": "Budapest",
     "country": "Hungary",
-    "visitors": 13,
-    "lastVisit": "2026-10-23T15:32:00",
+    "visitors": 14,
+    "lastVisit": "2026-10-24T03:32:00",
     "lat": 47.49835,
     "lon": 19.04045,
-    "normalized": 0.28739892873121764
+    "normalized": 0.2949123984588083
   },
   {
     "city": "Essen",
@@ -12561,6 +12561,24 @@
     "lastVisit": "2026-10-23T17:02:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.07548519500144184
+  },
+  {
+    "city": "Gretna",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-10-24T00:39:00",
+    "lat": 29.91465,
+    "lon": -90.05396,
+    "normalized": 0.11964120343690939
+  },
+  {
+    "city": "Bryan",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-10-24T03:29:00",
+    "lat": 30.67436,
+    "lon": -96.36996,
     "normalized": 0.07548519500144184
   }
 ]
