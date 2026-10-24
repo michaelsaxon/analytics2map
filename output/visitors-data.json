@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 163,
-    "lastVisit": "2026-10-08T09:15:00",
+    "visitors": 164,
+    "lastVisit": "2026-10-23T16:25:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.555398686689802
+    "normalized": 0.5560607225009222
   },
   {
     "city": "Rowland Heights",
@@ -3152,11 +3152,11 @@
   {
     "city": "Washington",
     "country": "United States",
-    "visitors": 38,
-    "lastVisit": "2026-10-13T09:37:00",
+    "visitors": 39,
+    "lastVisit": "2026-10-23T17:21:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.39897855280410405
+    "normalized": 0.4017357774301495
   },
   {
     "city": "Halethorpe",
@@ -9686,11 +9686,11 @@
   {
     "city": "Budapest",
     "country": "Hungary",
-    "visitors": 10,
-    "lastVisit": "2026-05-01T21:02:00",
+    "visitors": 13,
+    "lastVisit": "2026-10-23T15:32:00",
     "lat": 47.49835,
     "lon": 19.04045,
-    "normalized": 0.2611417189410767
+    "normalized": 0.28740536555439694
   },
   {
     "city": "Essen",
@@ -12530,10 +12530,37 @@
   {
     "city": "Dehiwala-Mount Lavinia",
     "country": "Sri Lanka",
-    "visitors": 6,
-    "lastVisit": "2026-10-23T01:24:00",
+    "visitors": 7,
+    "lastVisit": "2026-10-23T18:52:00",
     "lat": 6.84019,
     "lon": 79.87116,
-    "normalized": 0.21191847992433996
+    "normalized": 0.226460656890171
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya",
+    "visitors": 2,
+    "lastVisit": "2026-10-23T16:09:00",
+    "lat": -1.28333,
+    "lon": 36.81667,
+    "normalized": 0.11964388301986707
+  },
+  {
+    "city": "Palmdale",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-10-23T17:02:00",
+    "lat": 34.57943,
+    "lon": -118.11646,
+    "normalized": 0.11964388301986707
+  },
+  {
+    "city": "Cazadero",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-10-23T17:02:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07548688563005701
   }
 ]
