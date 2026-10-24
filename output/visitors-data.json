@@ -9722,11 +9722,11 @@
   {
     "city": "Bloomington",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-07-19T11:15:00",
+    "visitors": 6,
+    "lastVisit": "2026-10-23T10:19:00",
     "lat": 34.07029,
     "lon": -117.39588,
-    "normalized": 0.17527512053997846
+    "normalized": 0.21191847992433996
   },
   {
     "city": "Santa Fe",
