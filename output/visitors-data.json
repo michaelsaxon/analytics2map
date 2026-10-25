@@ -677,11 +677,11 @@
   {
     "city": "Rochester",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-04-16T13:15:00",
+    "visitors": 19,
+    "lastVisit": "2026-10-25T02:55:00",
     "lat": 43.15478,
     "lon": -77.61556,
-    "normalized": 0.2949123984588083
+    "normalized": 0.32624158502478257
   },
   {
     "city": "Mountain View",
@@ -1802,11 +1802,11 @@
   {
     "city": "Zurich",
     "country": "Switzerland",
-    "visitors": 27,
-    "lastVisit": "2026-08-13T08:02:00",
+    "visitors": 28,
+    "lastVisit": "2026-10-25T02:22:00",
     "lat": 47.36667,
     "lon": 8.55,
-    "normalized": 0.3628841237326595
+    "normalized": 0.36670564273050327
   },
   {
     "city": "Obanos",
@@ -3026,11 +3026,11 @@
   {
     "city": "Chengdu",
     "country": "China",
-    "visitors": 6,
-    "lastVisit": "2026-10-18T02:22:00",
+    "visitors": 7,
+    "lastVisit": "2026-10-25T04:06:00",
     "lat": 30.66667,
     "lon": 104.06667,
-    "normalized": 0.2119137337297758
+    "normalized": 0.2264555850043255
   },
   {
     "city": "Boxtel",
@@ -9686,11 +9686,11 @@
   {
     "city": "Budapest",
     "country": "Hungary",
-    "visitors": 17,
-    "lastVisit": "2026-10-24T22:20:00",
+    "visitors": 20,
+    "lastVisit": "2026-10-25T02:37:00",
     "lat": 47.49835,
     "lon": 19.04045,
-    "normalized": 0.3147676018752606
+    "normalized": 0.3315549371666852
   },
   {
     "city": "Essen",
@@ -12575,10 +12575,37 @@
   {
     "city": "Bryan",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-10-24T03:29:00",
+    "visitors": 2,
+    "lastVisit": "2026-10-25T04:05:00",
     "lat": 30.67436,
     "lon": -96.36996,
+    "normalized": 0.11964120343690939
+  },
+  {
+    "city": "Kissimmee",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-10-25T02:00:00",
+    "lat": 28.30468,
+    "lon": -81.41667,
+    "normalized": 0.07548519500144184
+  },
+  {
+    "city": "Murphy",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-10-25T02:17:00",
+    "lat": 33.01512,
+    "lon": -96.61305,
+    "normalized": 0.07548519500144184
+  },
+  {
+    "city": "Weston",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-10-25T03:21:00",
+    "lat": 44.8908,
+    "lon": -89.54762,
     "normalized": 0.07548519500144184
   }
 ]
