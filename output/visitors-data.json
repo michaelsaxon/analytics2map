@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 106,
-    "lastVisit": "2026-10-23T06:35:00",
+    "visitors": 107,
+    "lastVisit": "2026-10-24T22:19:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.508880950064273
+    "normalized": 0.5098940003136119
   },
   {
     "city": "Sabz",
@@ -9686,11 +9686,11 @@
   {
     "city": "Budapest",
     "country": "Hungary",
-    "visitors": 16,
-    "lastVisit": "2026-10-24T15:57:00",
+    "visitors": 17,
+    "lastVisit": "2026-10-24T22:20:00",
     "lat": 47.49835,
     "lon": 19.04045,
-    "normalized": 0.3085429296329294
+    "normalized": 0.3147676018752606
   },
   {
     "city": "Essen",
