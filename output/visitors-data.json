@@ -110,11 +110,11 @@
   {
     "city": "Dallas",
     "country": "United States",
-    "visitors": 48,
-    "lastVisit": "2026-10-24T11:13:00",
+    "visitors": 49,
+    "lastVisit": "2026-10-24T17:38:00",
     "lat": 44.91928,
     "lon": -123.31705,
-    "normalized": 0.4238274674595516
+    "normalized": 0.42602758504523963
   },
   {
     "city": "San Jose",
@@ -9686,11 +9686,11 @@
   {
     "city": "Budapest",
     "country": "Hungary",
-    "visitors": 14,
-    "lastVisit": "2026-10-24T03:32:00",
+    "visitors": 16,
+    "lastVisit": "2026-10-24T15:57:00",
     "lat": 47.49835,
     "lon": 19.04045,
-    "normalized": 0.2949123984588083
+    "normalized": 0.3085429296329294
   },
   {
     "city": "Essen",
