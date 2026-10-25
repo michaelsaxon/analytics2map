@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 147,
-    "lastVisit": "2026-10-23T00:37:00",
+    "visitors": 148,
+    "lastVisit": "2026-10-24T14:39:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5442069931583025
+    "normalized": 0.5449403435153567
   },
   {
     "city": "Los Angeles",
@@ -2126,11 +2126,11 @@
   {
     "city": "Amherst",
     "country": "United States",
-    "visitors": 16,
-    "lastVisit": "2026-07-31T11:09:00",
+    "visitors": 18,
+    "lastVisit": "2026-10-24T13:14:00",
     "lat": 42.97839,
     "lon": -78.79976,
-    "normalized": 0.3085429296329294
+    "normalized": 0.320655636704279
   },
   {
     "city": "Tempe",
@@ -3773,11 +3773,11 @@
   {
     "city": "New Brunswick",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2026-05-27T21:52:00",
+    "visitors": 7,
+    "lastVisit": "2026-10-24T12:34:00",
     "lat": 40.48622,
     "lon": -74.45182,
-    "normalized": 0.2119137337297758
+    "normalized": 0.2264555850043255
   },
   {
     "city": "Zweibr\u00fccken",
