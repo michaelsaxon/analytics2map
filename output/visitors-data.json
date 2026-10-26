@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 213,
-    "lastVisit": "2026-10-25T16:38:00",
+    "visitors": 214,
+    "lastVisit": "2026-10-26T07:56:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5843269008854838
+    "normalized": 0.5848345698840741
   },
   {
     "city": "Four Oaks",
@@ -9686,11 +9686,11 @@
   {
     "city": "Budapest",
     "country": "Hungary",
-    "visitors": 28,
-    "lastVisit": "2026-10-25T15:32:00",
+    "visitors": 30,
+    "lastVisit": "2026-10-26T07:03:00",
     "lat": 47.49835,
     "lon": 19.04045,
-    "normalized": 0.36668101594050767
+    "normalized": 0.37394336002618905
   },
   {
     "city": "Essen",
