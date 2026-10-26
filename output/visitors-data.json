@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 208,
-    "lastVisit": "2026-10-02T08:01:00",
+    "visitors": 209,
+    "lastVisit": "2026-10-26T00:42:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5817524357555771
+    "normalized": 0.5822722210048579
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1192,
-    "lastVisit": "2026-10-20T04:03:00",
+    "visitors": 1193,
+    "lastVisit": "2026-10-26T04:46:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7714354404132903
+    "normalized": 0.7715266803038127
   },
   {
     "city": "Sylhet",
@@ -2585,11 +2585,11 @@
   {
     "city": "Paris",
     "country": "France",
-    "visitors": 29,
-    "lastVisit": "2026-09-27T09:37:00",
+    "visitors": 30,
+    "lastVisit": "2026-10-26T00:41:00",
     "lat": 48.85341,
     "lon": 2.3488,
-    "normalized": 0.370372718730532
+    "normalized": 0.37394336002618905
   },
   {
     "city": "Perugia",
@@ -4097,11 +4097,11 @@
   {
     "city": "Edinburgh",
     "country": "United Kingdom",
-    "visitors": 15,
-    "lastVisit": "2026-06-28T08:25:00",
+    "visitors": 18,
+    "lastVisit": "2026-10-26T04:38:00",
     "lat": 55.95206,
     "lon": -3.19648,
-    "normalized": 0.3019205026189103
+    "normalized": 0.3206341024868963
   },
   {
     "city": "Bath",
@@ -12616,5 +12616,23 @@
     "lat": 28.07389,
     "lon": -82.43902,
     "normalized": 0.11963316871246413
+  },
+  {
+    "city": "Mandurah",
+    "country": "Australia",
+    "visitors": 3,
+    "lastVisit": "2026-10-25T23:33:00",
+    "lat": -32.5269,
+    "lon": 115.7217,
+    "normalized": 0.15096025130945515
+  },
+  {
+    "city": "Newport News",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-10-26T04:45:00",
+    "lat": 36.98038,
+    "lon": -76.42975,
+    "normalized": 0.07548012565472757
   }
 ]
