@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 378,
-    "lastVisit": "2026-10-26T10:04:00",
+    "visitors": 380,
+    "lastVisit": "2026-10-27T00:44:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6465668351663405
+    "normalized": 0.6471399670312976
   },
   {
     "city": "Ashburn",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1194,
-    "lastVisit": "2026-10-26T20:20:00",
+    "visitors": 1195,
+    "lastVisit": "2026-10-27T02:36:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7716178438109935
+    "normalized": 0.7717089310626181
   },
   {
     "city": "Sylhet",
@@ -2585,11 +2585,11 @@
   {
     "city": "Paris",
     "country": "France",
-    "visitors": 30,
-    "lastVisit": "2026-10-26T00:41:00",
+    "visitors": 32,
+    "lastVisit": "2026-10-27T02:19:00",
     "lat": 48.85341,
     "lon": 2.3488,
-    "normalized": 0.37394336002618905
+    "normalized": 0.38075150198114494
   },
   {
     "city": "Perugia",
@@ -9686,11 +9686,11 @@
   {
     "city": "Budapest",
     "country": "Hungary",
-    "visitors": 30,
-    "lastVisit": "2026-10-26T07:03:00",
+    "visitors": 32,
+    "lastVisit": "2026-10-27T05:41:00",
     "lat": 47.49835,
     "lon": 19.04045,
-    "normalized": 0.37394336002618905
+    "normalized": 0.38075150198114494
   },
   {
     "city": "Essen",
@@ -12638,11 +12638,11 @@
   {
     "city": "Colombo",
     "country": "Sri Lanka",
-    "visitors": 3,
-    "lastVisit": "2026-10-26T08:44:00",
+    "visitors": 7,
+    "lastVisit": "2026-10-27T02:02:00",
     "lat": 6.93548,
     "lon": 79.84868,
-    "normalized": 0.15096025130945515
+    "normalized": 0.2264403769641827
   },
   {
     "city": "Gyeongsan-si",
