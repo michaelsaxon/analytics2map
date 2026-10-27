@@ -398,11 +398,11 @@
   {
     "city": null,
     "country": "Spain",
-    "visitors": 16,
-    "lastVisit": "2025-12-30T04:46:00",
+    "visitors": 17,
+    "lastVisit": "2026-10-26T21:45:00",
     "lat": 40.4165,
     "lon": -3.70256,
-    "normalized": 0.3085222088666054
+    "normalized": 0.31474646307965576
   },
   {
     "city": null,
@@ -704,11 +704,11 @@
   {
     "city": "Houston",
     "country": "United States",
-    "visitors": 39,
-    "lastVisit": "2026-10-20T18:23:00",
+    "visitors": 40,
+    "lastVisit": "2026-10-27T00:17:00",
     "lat": 29.76328,
     "lon": -95.36327,
-    "normalized": 0.40169980132752303
+    "normalized": 0.40438869851031056
   },
   {
     "city": "Massapequa",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1193,
-    "lastVisit": "2026-10-26T04:46:00",
+    "visitors": 1194,
+    "lastVisit": "2026-10-26T20:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7715266803038127
+    "normalized": 0.7716178438109935
   },
   {
     "city": "Sylhet",
@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 36,
-    "lastVisit": "2026-10-15T23:39:00",
+    "visitors": 38,
+    "lastVisit": "2026-10-26T23:28:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.3932101946301166
+    "normalized": 0.39894282361549843
   },
   {
     "city": "Athens",
@@ -12643,5 +12643,14 @@
     "lat": 6.93548,
     "lon": 79.84868,
     "normalized": 0.15096025130945515
+  },
+  {
+    "city": "Gyeongsan-si",
+    "country": "South Korea",
+    "visitors": 2,
+    "lastVisit": "2026-10-26T19:16:00",
+    "lat": 35.82333,
+    "lon": 128.73778,
+    "normalized": 0.11963316871246413
   }
 ]
