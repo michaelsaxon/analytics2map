@@ -668,11 +668,11 @@
   {
     "city": "Pittsburgh",
     "country": "United States",
-    "visitors": 129,
-    "lastVisit": "2026-10-26T14:18:00",
+    "visitors": 130,
+    "lastVisit": "2026-10-27T09:09:00",
     "lat": 40.44062,
     "lon": -79.99589,
-    "normalized": 0.5300492049211022
+    "normalized": 0.5308836519388979
   },
   {
     "city": "Rochester",
@@ -9686,11 +9686,11 @@
   {
     "city": "Budapest",
     "country": "Hungary",
-    "visitors": 32,
-    "lastVisit": "2026-10-27T05:41:00",
+    "visitors": 33,
+    "lastVisit": "2026-10-27T07:42:00",
     "lat": 47.49835,
     "lon": 19.04045,
-    "normalized": 0.38075150198114494
+    "normalized": 0.384002334521333
   },
   {
     "city": "Essen",
@@ -12652,5 +12652,14 @@
     "lat": 35.82333,
     "lon": 128.73778,
     "normalized": 0.11963316871246413
+  },
+  {
+    "city": "Towson",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-10-27T08:42:00",
+    "lat": 39.4015,
+    "lon": -76.60191,
+    "normalized": 0.07548012565472757
   }
 ]
