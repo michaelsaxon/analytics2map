@@ -830,11 +830,11 @@
   {
     "city": "Dhaka",
     "country": "Bangladesh",
-    "visitors": 57,
-    "lastVisit": "2026-10-21T11:07:00",
+    "visitors": 58,
+    "lastVisit": "2026-10-28T01:07:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.4421611415952352
+    "normalized": 0.4440226365477416
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1195,
-    "lastVisit": "2026-10-27T02:36:00",
+    "visitors": 1196,
+    "lastVisit": "2026-10-28T00:51:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7717089310626181
+    "normalized": 0.7717999421861503
   },
   {
     "city": "Sylhet",
@@ -4628,11 +4628,11 @@
   {
     "city": "Isfahan",
     "country": "Iran",
-    "visitors": 17,
-    "lastVisit": "2026-10-21T11:53:00",
+    "visitors": 18,
+    "lastVisit": "2026-10-28T03:03:00",
     "lat": 32.65246,
     "lon": 51.67462,
-    "normalized": 0.31474646307965576
+    "normalized": 0.3206341024868963
   },
   {
     "city": "Hur",
@@ -9686,11 +9686,11 @@
   {
     "city": "Budapest",
     "country": "Hungary",
-    "visitors": 36,
-    "lastVisit": "2026-10-27T12:27:00",
+    "visitors": 37,
+    "lastVisit": "2026-10-28T01:26:00",
     "lat": 47.49835,
     "lon": 19.04045,
-    "normalized": 0.3932101946301166
+    "normalized": 0.39611422814162384
   },
   {
     "city": "Essen",
@@ -10028,11 +10028,11 @@
   {
     "city": "Alexandria",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-06-07T13:08:00",
+    "visitors": 6,
+    "lastVisit": "2026-10-28T04:59:00",
     "lat": 38.80484,
     "lon": -77.04692,
-    "normalized": 0.1752594243633403
+    "normalized": 0.21189950227432588
   },
   {
     "city": "Panevezys",
@@ -11828,11 +11828,11 @@
   {
     "city": "Zhangjiajie",
     "country": "China",
-    "visitors": 6,
-    "lastVisit": "2026-10-04T12:26:00",
+    "visitors": 7,
+    "lastVisit": "2026-10-28T02:33:00",
     "lat": 29.12944,
     "lon": 110.47833,
-    "normalized": 0.21189950227432588
+    "normalized": 0.2264403769641827
   },
   {
     "city": "Tabuk",
