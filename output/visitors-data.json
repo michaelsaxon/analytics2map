@@ -1622,20 +1622,20 @@
   {
     "city": "Beijing",
     "country": "China",
-    "visitors": 50,
-    "lastVisit": "2026-10-25T18:43:00",
+    "visitors": 51,
+    "lastVisit": "2026-10-27T21:29:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.4281553775790695
+    "normalized": 0.4302699062124895
   },
   {
     "city": "Shenzhen",
     "country": "China",
-    "visitors": 45,
-    "lastVisit": "2026-09-26T04:52:00",
+    "visitors": 47,
+    "lastVisit": "2026-10-27T23:19:00",
     "lat": 22.54554,
     "lon": 114.0683,
-    "normalized": 0.4169191505048562
+    "normalized": 0.42155367133137445
   },
   {
     "city": "Huzhou",
@@ -3962,11 +3962,11 @@
   {
     "city": "Guangzhou",
     "country": "China",
-    "visitors": 38,
-    "lastVisit": "2026-10-26T23:28:00",
+    "visitors": 41,
+    "lastVisit": "2026-10-27T20:52:00",
     "lat": 23.11667,
     "lon": 113.25,
-    "normalized": 0.39894282361549843
+    "normalized": 0.40701279664151757
   },
   {
     "city": "Athens",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 51,
-    "lastVisit": "2026-10-21T13:20:00",
+    "visitors": 52,
+    "lastVisit": "2026-10-27T17:40:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.4302699062124895
+    "normalized": 0.4323441556507146
   },
   {
     "city": "Cairo",
@@ -9002,11 +9002,11 @@
   {
     "city": "North Charleston",
     "country": "United States",
-    "visitors": 9,
-    "lastVisit": "2026-09-28T22:13:00",
+    "visitors": 10,
+    "lastVisit": "2026-10-27T20:46:00",
     "lat": 32.85462,
     "lon": -79.97481,
-    "normalized": 0.2507395500180679
+    "normalized": 0.26111833326868084
   },
   {
     "city": "Zhubei City",
@@ -12661,5 +12661,14 @@
     "lat": 39.4015,
     "lon": -76.60191,
     "normalized": 0.07548012565472757
+  },
+  {
+    "city": "Ridgewood",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-10-27T17:09:00",
+    "lat": 40.7001,
+    "lon": -73.90569,
+    "normalized": 0.11963316871246413
   }
 ]
