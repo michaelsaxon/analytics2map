@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 88,
-    "lastVisit": "2026-10-26T14:09:00",
+    "visitors": 89,
+    "lastVisit": "2026-10-27T12:06:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.4887891730758638
+    "normalized": 0.4900058874429961
   },
   {
     "city": "Manhattan",
@@ -9686,11 +9686,11 @@
   {
     "city": "Budapest",
     "country": "Hungary",
-    "visitors": 33,
-    "lastVisit": "2026-10-27T07:42:00",
+    "visitors": 36,
+    "lastVisit": "2026-10-27T12:27:00",
     "lat": 47.49835,
     "lon": 19.04045,
-    "normalized": 0.384002334521333
+    "normalized": 0.3932101946301166
   },
   {
     "city": "Essen",
