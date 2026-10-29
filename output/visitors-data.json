@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 420,
-    "lastVisit": "2026-10-26T16:47:00",
+    "visitors": 421,
+    "lastVisit": "2026-10-28T13:21:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6580113118303076
+    "normalized": 0.6582696626109611
   },
   {
     "city": "Santa Clara",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 359,
-    "lastVisit": "2026-10-25T20:42:00",
+    "visitors": 360,
+    "lastVisit": "2026-10-28T12:36:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6409661387524513
+    "normalized": 0.6412682049737926
   },
   {
     "city": "Lompoc",
@@ -317,11 +317,11 @@
   {
     "city": "Berlin",
     "country": "Germany",
-    "visitors": 31,
-    "lastVisit": "2026-08-06T04:21:00",
+    "visitors": 32,
+    "lastVisit": "2026-10-28T10:52:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.37740062827363785
+    "normalized": 0.38075150198114494
   },
   {
     "city": "Remshalden",
@@ -2423,11 +2423,11 @@
   {
     "city": "Daejeon",
     "country": "South Korea",
-    "visitors": 24,
-    "lastVisit": "2026-05-18T01:15:00",
+    "visitors": 25,
+    "lastVisit": "2026-10-28T12:17:00",
     "lat": 36.34913,
     "lon": 127.38493,
-    "normalized": 0.3505188487266806
+    "normalized": 0.3547897805577619
   },
   {
     "city": "Ansan-si",
