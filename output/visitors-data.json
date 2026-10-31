@@ -1109,11 +1109,11 @@
   {
     "city": "Kolkata",
     "country": "India",
-    "visitors": 23,
-    "lastVisit": "2026-10-13T03:01:00",
+    "visitors": 26,
+    "lastVisit": "2026-10-30T13:43:00",
     "lat": 22.56263,
     "lon": 88.36304,
-    "normalized": 0.3460348464882517
+    "normalized": 0.35885937270397494
   },
   {
     "city": "Hyderabad",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1203,
-    "lastVisit": "2026-10-30T09:06:00",
+    "visitors": 1204,
+    "lastVisit": "2026-10-30T14:52:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7723485226563384
+    "normalized": 0.7724389191961585
   },
   {
     "city": "Sylhet",
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 50,
-    "lastVisit": "2026-10-19T20:33:00",
+    "visitors": 52,
+    "lastVisit": "2026-10-30T19:51:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.42810749970505596
+    "normalized": 0.43229580937247375
   },
   {
     "city": "Prague",
