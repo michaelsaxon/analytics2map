@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 150,
-    "lastVisit": "2026-10-30T04:44:00",
+    "visitors": 151,
+    "lastVisit": "2026-10-30T23:15:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5462946038049872
+    "normalized": 0.5470133036154483
   },
   {
     "city": "Los Angeles",
@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 153,
-    "lastVisit": "2026-10-29T01:54:00",
+    "visitors": 154,
+    "lastVisit": "2026-10-30T21:01:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5484366261832557
+    "normalized": 0.5491413705591869
   },
   {
     "city": null,
@@ -4583,11 +4583,11 @@
   {
     "city": "Sunnyvale",
     "country": "United States",
-    "visitors": 32,
-    "lastVisit": "2026-10-10T19:05:00",
+    "visitors": 33,
+    "lastVisit": "2026-10-30T21:38:00",
     "lat": 37.36883,
     "lon": -122.03635,
-    "normalized": 0.38070892497897013
+    "normalized": 0.38395939399937323
   },
   {
     "city": "College Station",
@@ -12697,5 +12697,14 @@
     "lat": -16.67861,
     "lon": -49.25389,
     "normalized": 0.11961979090132499
+  },
+  {
+    "city": "Xinyi District",
+    "country": "Taiwan",
+    "visitors": 1,
+    "lastVisit": "2026-10-31T01:02:00",
+    "lat": 25.05306,
+    "lon": 121.52639,
+    "normalized": 0.07547168519564224
   }
 ]

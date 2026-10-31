@@ -13589,3 +13589,7 @@ timestamp	country	city	num_unique
 2026-10-30T14:52:00	Singapore	Singapore	1
 2026-10-30T19:50:00	United States	New Haven	1
 2026-10-30T19:51:00	United States	New Haven	1
+2026-10-30T21:01:00	Singapore		1
+2026-10-30T21:38:00	United States	Sunnyvale	1
+2026-10-30T23:15:00	United States	Boardman	1
+2026-10-31T01:02:00	Taiwan	Xinyi District	1
