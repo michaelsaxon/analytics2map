@@ -12706,5 +12706,14 @@
     "lat": 25.05306,
     "lon": 121.52639,
     "normalized": 0.07547168519564224
+  },
+  {
+    "city": "Llangollen",
+    "country": "United Kingdom",
+    "visitors": 2,
+    "lastVisit": "2026-10-31T16:19:00",
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "normalized": 0.11961979090132499
   }
 ]
