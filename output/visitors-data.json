@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1204,
-    "lastVisit": "2026-10-30T14:52:00",
+    "visitors": 1205,
+    "lastVisit": "2026-11-01T04:06:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7724389191961585
+    "normalized": 0.7725292407492095
   },
   {
     "city": "Sylhet",
@@ -1802,11 +1802,11 @@
   {
     "city": "Zurich",
     "country": "Switzerland",
-    "visitors": 28,
-    "lastVisit": "2026-10-25T02:22:00",
+    "visitors": 29,
+    "lastVisit": "2026-11-01T03:29:00",
     "lat": 47.36667,
     "lon": 8.55,
-    "normalized": 0.36664001235068094
+    "normalized": 0.3703313023212236
   },
   {
     "city": "Obanos",
@@ -6887,11 +6887,11 @@
   {
     "city": "Bengaluru",
     "country": "India",
-    "visitors": 39,
-    "lastVisit": "2026-10-25T08:51:00",
+    "visitors": 40,
+    "lastVisit": "2026-11-01T07:17:00",
     "lat": 12.97194,
     "lon": 77.59369,
-    "normalized": 0.40165488181118303
+    "normalized": 0.40434347831181805
   },
   {
     "city": "Visalia",
@@ -12715,5 +12715,14 @@
     "lat": 51.50853,
     "lon": -0.12574,
     "normalized": 0.11961979090132499
+  },
+  {
+    "city": "Koto City",
+    "country": "Japan",
+    "visitors": 1,
+    "lastVisit": "2026-11-01T05:46:00",
+    "lat": 35.6895,
+    "lon": 139.69171,
+    "normalized": 0.07547168519564224
   }
 ]
