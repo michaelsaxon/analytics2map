@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 152,
-    "lastVisit": "2026-10-31T03:53:00",
+    "visitors": 153,
+    "lastVisit": "2026-11-01T02:37:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5477272906063809
+    "normalized": 0.5484366261832557
   },
   {
     "city": "Los Angeles",
@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 176,
-    "lastVisit": "2026-10-31T07:04:00",
+    "visitors": 177,
+    "lastVisit": "2026-10-31T23:12:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5635927752410947
+    "normalized": 0.5642062001084345
   },
   {
     "city": "Ames",
@@ -3197,11 +3197,11 @@
   {
     "city": "Tabriz",
     "country": "Iran",
-    "visitors": 18,
-    "lastVisit": "2026-10-04T01:33:00",
+    "visitors": 19,
+    "lastVisit": "2026-10-31T23:23:00",
     "lat": 38.08,
     "lon": 46.2919,
-    "normalized": 0.3205982480285216
+    "normalized": 0.3261831966155408
   },
   {
     "city": "Victoria",
