@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 154,
-    "lastVisit": "2026-11-02T01:10:00",
+    "visitors": 155,
+    "lastVisit": "2026-11-03T04:15:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5491290970051926
+    "normalized": 0.549829293581556
   },
   {
     "city": "Los Angeles",
@@ -3197,11 +3197,11 @@
   {
     "city": "Tabriz",
     "country": "Iran",
-    "visitors": 19,
-    "lastVisit": "2026-10-31T23:23:00",
+    "visitors": 20,
+    "lastVisit": "2026-11-03T03:52:00",
     "lat": 38.08,
     "lon": 46.2919,
-    "normalized": 0.3261759062759483
+    "normalized": 0.33148818873717006
   },
   {
     "city": "Victoria",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 107,
-    "lastVisit": "2026-10-24T22:19:00",
+    "visitors": 108,
+    "lastVisit": "2026-11-03T05:35:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.5097913487770943
+    "normalized": 0.5107948599580567
   },
   {
     "city": "Sabz",
