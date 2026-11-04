@@ -7778,11 +7778,11 @@
   {
     "city": "Reston",
     "country": "United States",
-    "visitors": 2,
-    "lastVisit": "2026-03-16T06:26:00",
+    "visitors": 3,
+    "lastVisit": "2026-11-04T05:18:00",
     "lat": 38.96872,
     "lon": -77.3411,
-    "normalized": 0.11961711734576878
+    "normalized": 0.150939996739788
   },
   {
     "city": "Flint Hill",
