@@ -758,11 +758,11 @@
   {
     "city": "Quanzhou",
     "country": "China",
-    "visitors": 6,
-    "lastVisit": "2025-11-01T00:00:00",
+    "visitors": 7,
+    "lastVisit": "2026-11-04T03:26:00",
     "lat": 24.91389,
     "lon": 118.58583,
-    "normalized": 0.21187107139140127
+    "normalized": 0.226409995109682
   },
   {
     "city": "Ho Chi Minh City",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 108,
-    "lastVisit": "2026-11-03T05:35:00",
+    "visitors": 110,
+    "lastVisit": "2026-11-04T03:15:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.5107948599580567
+    "normalized": 0.5127745543578244
   },
   {
     "city": "Sabz",
