@@ -308,11 +308,11 @@
   {
     "city": "London",
     "country": "United Kingdom",
-    "visitors": 40,
-    "lastVisit": "2026-09-11T07:44:00",
+    "visitors": 42,
+    "lastVisit": "2026-11-05T01:13:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.4043254060570677
+    "normalized": 0.4095110413164304
   },
   {
     "city": "Berlin",
@@ -479,11 +479,11 @@
   {
     "city": "San Diego",
     "country": "United States",
-    "visitors": 165,
-    "lastVisit": "2026-10-25T16:52:00",
+    "visitors": 166,
+    "lastVisit": "2026-11-05T01:10:00",
     "lat": 32.71571,
     "lon": -117.16472,
-    "normalized": 0.5565817765643506
+    "normalized": 0.5572356990070323
   },
   {
     "city": "Rowland Heights",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1212,
-    "lastVisit": "2026-11-04T16:44:00",
+    "visitors": 1213,
+    "lastVisit": "2026-11-05T03:28:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7731248457991792
+    "normalized": 0.7732145678968954
   },
   {
     "city": "Sylhet",
@@ -12750,6 +12750,15 @@
     "lastVisit": "2026-11-04T22:08:00",
     "lat": 33.38067,
     "lon": -84.79966,
+    "normalized": 0.07546831196571656
+  },
+  {
+    "city": "Red Oak",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-11-05T00:36:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.07546831196571656
   }
 ]
