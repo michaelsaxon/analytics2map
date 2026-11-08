@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 362,
-    "lastVisit": "2026-11-04T21:34:00",
+    "visitors": 363,
+    "lastVisit": "2026-11-07T17:13:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6417693736971531
+    "normalized": 0.6420689000467665
   },
   {
     "city": "Lompoc",
@@ -299,11 +299,11 @@
   {
     "city": null,
     "country": "United Kingdom",
-    "visitors": 124,
-    "lastVisit": "2026-10-22T21:26:00",
+    "visitors": 125,
+    "lastVisit": "2026-11-07T13:34:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.5256959814807642
+    "normalized": 0.5265635379388227
   },
   {
     "city": "London",
@@ -776,11 +776,11 @@
   {
     "city": "Hanoi",
     "country": "Vietnam",
-    "visitors": 16,
-    "lastVisit": "2026-11-04T08:41:00",
+    "visitors": 17,
+    "lastVisit": "2026-11-07T15:31:00",
     "lat": 21.0245,
     "lon": 105.84117,
-    "normalized": 0.3084739208517548
+    "normalized": 0.3146972008824895
   },
   {
     "city": "Bangalore",
@@ -12768,6 +12768,15 @@
     "lastVisit": "2026-11-06T18:42:00",
     "lat": 36.06488,
     "lon": 120.38042,
+    "normalized": 0.07546831196571656
+  },
+  {
+    "city": "Ostia",
+    "country": "Italy",
+    "visitors": 1,
+    "lastVisit": "2026-11-07T15:31:00",
+    "lat": 41.89193,
+    "lon": 12.51133,
     "normalized": 0.07546831196571656
   }
 ]
