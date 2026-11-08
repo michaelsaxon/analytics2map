@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 157,
-    "lastVisit": "2026-11-06T06:51:00",
+    "visitors": 158,
+    "lastVisit": "2026-11-08T00:24:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5512040040326244
+    "normalized": 0.551890932238171
   },
   {
     "city": null,
@@ -9443,11 +9443,11 @@
   {
     "city": "Tashkent",
     "country": "Uzbekistan",
-    "visitors": 2,
-    "lastVisit": "2026-02-11T21:00:00",
+    "visitors": 3,
+    "lastVisit": "2026-11-07T22:28:00",
     "lat": 41.26465,
     "lon": 69.21627,
-    "normalized": 0.11961444445838648
+    "normalized": 0.15093662393143312
   },
   {
     "city": "Rotterdam",
