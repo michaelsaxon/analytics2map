@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 160,
-    "lastVisit": "2026-11-08T06:54:00",
+    "visitors": 161,
+    "lastVisit": "2026-11-08T23:49:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5532519219522909
+    "normalized": 0.5539260897992624
   },
   {
     "city": null,
@@ -1091,11 +1091,11 @@
   {
     "city": "Stockholm",
     "country": "Sweden",
-    "visitors": 6,
-    "lastVisit": "2026-03-18T06:42:00",
+    "visitors": 8,
+    "lastVisit": "2026-11-09T04:51:00",
     "lat": 59.32938,
     "lon": 18.06871,
-    "normalized": 0.21186633705633315
+    "normalized": 0.23922888891677296
   },
   {
     "city": "Danderyd",
@@ -8759,11 +8759,11 @@
   {
     "city": "Chattogram",
     "country": "Bangladesh",
-    "visitors": 5,
-    "lastVisit": "2026-10-30T00:58:00",
+    "visitors": 7,
+    "lastVisit": "2026-11-08T23:45:00",
     "lat": 22.3384,
     "lon": 91.83168,
-    "normalized": 0.19508275642410303
+    "normalized": 0.22640493589714966
   },
   {
     "city": "Pleasanton",

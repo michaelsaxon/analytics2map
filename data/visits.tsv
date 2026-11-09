@@ -13690,3 +13690,8 @@ timestamp	country	city	num_unique
 2026-11-08T10:18:00	China	Shenzhen	1
 2026-11-08T11:22:00	China	Shenzhen	1
 2026-11-08T22:12:00	United States	New York	1
+2026-11-08T23:44:00	Bangladesh	Chattogram	1
+2026-11-08T23:45:00	Bangladesh	Chattogram	1
+2026-11-08T23:49:00	Singapore	NULL	1
+2026-11-09T04:50:00	Sweden	Stockholm	1
+2026-11-09T04:51:00	Sweden	Stockholm	1
