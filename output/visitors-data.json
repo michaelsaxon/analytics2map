@@ -65,11 +65,11 @@
   {
     "city": "Seattle",
     "country": "United States",
-    "visitors": 425,
-    "lastVisit": "2026-11-03T13:39:00",
+    "visitors": 426,
+    "lastVisit": "2026-11-09T14:50:00",
     "lat": 47.60621,
     "lon": -122.33207,
-    "normalized": 0.6591937905491493
+    "normalized": 0.6594490726342523
   },
   {
     "city": "Santa Clara",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 363,
-    "lastVisit": "2026-11-07T17:13:00",
+    "visitors": 365,
+    "lastVisit": "2026-11-09T14:12:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6420689000467665
+    "normalized": 0.6426654920020222
   },
   {
     "city": "Lompoc",
@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 161,
-    "lastVisit": "2026-11-08T23:49:00",
+    "visitors": 162,
+    "lastVisit": "2026-11-09T07:56:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5539260897992624
+    "normalized": 0.5545961088947554
   },
   {
     "city": null,
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 67,
-    "lastVisit": "2026-09-30T06:34:00",
+    "visitors": 68,
+    "lastVisit": "2026-11-09T11:36:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.45941054478318794
+    "normalized": 0.4610000293543442
   },
   {
     "city": "Minneapolis",
@@ -8147,11 +8147,11 @@
   {
     "city": "Glenview",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-09-23T09:36:00",
+    "visitors": 5,
+    "lastVisit": "2026-11-09T11:36:00",
     "lat": 42.06975,
     "lon": -87.78784,
-    "normalized": 0.17523199382692137
+    "normalized": 0.19508275642410303
   },
   {
     "city": "Kahaluu-Keauhou",
