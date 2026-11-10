@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 116,
-    "lastVisit": "2026-11-07T07:06:00",
+    "visitors": 118,
+    "lastVisit": "2026-11-10T04:11:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.5184948279757732
+    "normalized": 0.520340257908088
   },
   {
     "city": "Sabz",
@@ -8147,11 +8147,11 @@
   {
     "city": "Glenview",
     "country": "United States",
-    "visitors": 5,
-    "lastVisit": "2026-11-09T11:36:00",
+    "visitors": 6,
+    "lastVisit": "2026-11-10T06:04:00",
     "lat": 42.06975,
     "lon": -87.78784,
-    "normalized": 0.19508275642410303
+    "normalized": 0.21186633705633315
   },
   {
     "city": "Kahaluu-Keauhou",
