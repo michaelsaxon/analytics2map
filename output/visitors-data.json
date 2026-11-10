@@ -569,11 +569,11 @@
   {
     "city": "Tianjin",
     "country": "China",
-    "visitors": 4,
-    "lastVisit": "2026-09-09T21:12:00",
+    "visitors": 5,
+    "lastVisit": "2026-11-09T22:05:00",
     "lat": 39.14222,
     "lon": 117.17667,
-    "normalized": 0.17523199382692137
+    "normalized": 0.19508275642410303
   },
   {
     "city": "Taizhou",
@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 162,
-    "lastVisit": "2026-11-09T07:56:00",
+    "visitors": 165,
+    "lastVisit": "2026-11-09T21:57:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5545961088947554
+    "normalized": 0.5565817765643506
   },
   {
     "city": null,
@@ -12777,6 +12777,15 @@
     "lastVisit": "2026-11-07T15:31:00",
     "lat": 41.89193,
     "lon": 12.51133,
+    "normalized": 0.07546831196571656
+  },
+  {
+    "city": "Wickliffe",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-11-09T21:54:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.07546831196571656
   }
 ]
