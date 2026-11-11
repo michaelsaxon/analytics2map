@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 365,
-    "lastVisit": "2026-11-09T14:12:00",
+    "visitors": 368,
+    "lastVisit": "2026-11-10T23:57:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6426583128918555
+    "normalized": 0.6435471059350026
   },
   {
     "city": "Lompoc",
@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 165,
-    "lastVisit": "2026-11-09T21:57:00",
+    "visitors": 166,
+    "lastVisit": "2026-11-10T22:46:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5565755590811646
+    "normalized": 0.5572294742189866
   },
   {
     "city": null,
@@ -12017,11 +12017,11 @@
   {
     "city": "Yantai",
     "country": "China",
-    "visitors": 1,
-    "lastVisit": "2026-09-20T01:41:00",
+    "visitors": 2,
+    "lastVisit": "2026-11-10T22:10:00",
     "lat": 30.1467,
     "lon": 107.3196,
-    "normalized": 0.07546746892165641
+    "normalized": 0.11961310826516469
   },
   {
     "city": "McMurray",
@@ -12784,6 +12784,15 @@
     "country": "United States",
     "visitors": 1,
     "lastVisit": "2026-11-09T21:54:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.07546746892165641
+  },
+  {
+    "city": "Holton",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-11-11T00:24:00",
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.07546746892165641
