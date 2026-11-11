@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 158,
-    "lastVisit": "2026-11-06T06:02:00",
+    "visitors": 160,
+    "lastVisit": "2026-11-10T21:51:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.551884767155633
+    "normalized": 0.5532457416663613
   },
   {
     "city": "Los Angeles",
@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 180,
-    "lastVisit": "2026-11-10T10:43:00",
+    "visitors": 181,
+    "lastVisit": "2026-11-10T14:24:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5659943864006645
+    "normalized": 0.5665942586793736
   },
   {
     "city": "Ames",
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1479,
-    "lastVisit": "2026-10-29T00:05:00",
+    "visitors": 1480,
+    "lastVisit": "2026-11-10T15:11:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7947767030736232
+    "normalized": 0.7948502434635599
   },
   {
     "city": "Riegelsberg",
