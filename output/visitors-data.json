@@ -308,11 +308,11 @@
   {
     "city": "London",
     "country": "United Kingdom",
-    "visitors": 42,
-    "lastVisit": "2026-11-05T01:13:00",
+    "visitors": 43,
+    "lastVisit": "2026-11-11T22:41:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.40950646673616015
+    "normalized": 0.41200948600941856
   },
   {
     "city": "Berlin",
@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 166,
-    "lastVisit": "2026-11-10T22:46:00",
+    "visitors": 167,
+    "lastVisit": "2026-11-11T22:51:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5572294742189866
+    "normalized": 0.5578794853625753
   },
   {
     "city": null,
@@ -6788,11 +6788,11 @@
   {
     "city": "New Haven",
     "country": "United States",
-    "visitors": 52,
-    "lastVisit": "2026-10-30T19:51:00",
+    "visitors": 54,
+    "lastVisit": "2026-11-11T18:04:00",
     "lat": 41.0706,
     "lon": -85.01441,
-    "normalized": 0.4322716588904683
+    "normalized": 0.4363045845053387
   },
   {
     "city": "Prague",
