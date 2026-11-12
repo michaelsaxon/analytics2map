@@ -7184,11 +7184,11 @@
   {
     "city": "Raleigh",
     "country": "United States",
-    "visitors": 10,
-    "lastVisit": "2026-09-02T09:06:00",
+    "visitors": 11,
+    "lastVisit": "2026-11-11T14:32:00",
     "lat": 35.7721,
     "lon": -78.63861,
-    "normalized": 0.26107454816610576
+    "normalized": 0.2705480461084775
   },
   {
     "city": "Ardmore",
@@ -12795,6 +12795,15 @@
     "lastVisit": "2026-11-11T00:24:00",
     "lat": 37.13054,
     "lon": -113.50829,
+    "normalized": 0.07546746892165641
+  },
+  {
+    "city": "Oxnard",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-11-11T14:46:00",
+    "lat": 34.1975,
+    "lon": -119.17705,
     "normalized": 0.07546746892165641
   }
 ]
