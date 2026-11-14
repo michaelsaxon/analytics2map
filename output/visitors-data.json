@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 218,
-    "lastVisit": "2026-11-13T08:02:00",
+    "visitors": 219,
+    "lastVisit": "2026-11-13T11:01:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.58673694712374
+    "normalized": 0.5872329631390989
   },
   {
     "city": "Four Oaks",
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 64,
-    "lastVisit": "2026-10-08T07:40:00",
+    "visitors": 65,
+    "lastVisit": "2026-11-13T10:42:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.4544877792773725
+    "normalized": 0.4561500302989636
   },
   {
     "city": "Seongnam-si",
