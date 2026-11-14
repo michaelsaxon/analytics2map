@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 216,
-    "lastVisit": "2026-11-08T22:12:00",
+    "visitors": 218,
+    "lastVisit": "2026-11-13T08:02:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.5857380839061312
+    "normalized": 0.58673694712374
   },
   {
     "city": "Four Oaks",
@@ -290,11 +290,11 @@
   {
     "city": null,
     "country": "China",
-    "visitors": 404,
-    "lastVisit": "2026-11-12T05:22:00",
+    "visitors": 405,
+    "lastVisit": "2026-11-13T05:56:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.6536751680515754
+    "normalized": 0.6539436646785454
   },
   {
     "city": null,
@@ -2864,11 +2864,11 @@
   {
     "city": "Council Bluffs",
     "country": "United States",
-    "visitors": 68,
-    "lastVisit": "2026-11-09T11:36:00",
+    "visitors": 69,
+    "lastVisit": "2026-11-13T06:21:00",
     "lat": 41.26194,
     "lon": -95.86083,
-    "normalized": 0.4609897304871756
+    "normalized": 0.4625563089832272
   },
   {
     "city": "Minneapolis",
@@ -12804,6 +12804,15 @@
     "lastVisit": "2026-11-11T14:46:00",
     "lat": 34.1975,
     "lon": -119.17705,
+    "normalized": 0.07546662598291638
+  },
+  {
+    "city": "Asuncion",
+    "country": "Paraguay",
+    "visitors": 1,
+    "lastVisit": "2026-11-13T05:28:00",
+    "lat": -25.28646,
+    "lon": -57.647,
     "normalized": 0.07546662598291638
   }
 ]
