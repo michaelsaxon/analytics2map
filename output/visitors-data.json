@@ -6995,11 +6995,11 @@
   {
     "city": "Evanston",
     "country": "United States",
-    "visitors": 4,
-    "lastVisit": "2026-01-16T23:35:00",
+    "visitors": 6,
+    "lastVisit": "2026-11-15T15:28:00",
     "lat": 42.04114,
     "lon": -87.69006,
-    "normalized": 0.17522416534321764
+    "normalized": 0.21185687193452069
   },
   {
     "city": "Sacramento",
@@ -7229,11 +7229,11 @@
   {
     "city": "Saarbrucken",
     "country": "Germany",
-    "visitors": 13,
-    "lastVisit": "2026-05-19T07:30:00",
+    "visitors": 14,
+    "lastVisit": "2026-11-15T13:43:00",
     "lat": 49.23262,
     "lon": 7.00982,
-    "normalized": 0.28732181235582077
+    "normalized": 0.2948332660301345
   },
   {
     "city": "Holbrook",
