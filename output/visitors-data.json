@@ -335,11 +335,11 @@
   {
     "city": null,
     "country": "Germany",
-    "visitors": 174,
-    "lastVisit": "2026-10-19T06:10:00",
+    "visitors": 176,
+    "lastVisit": "2026-11-16T07:47:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.5623052026209561
+    "normalized": 0.5635424079267833
   },
   {
     "city": null,
@@ -830,11 +830,11 @@
   {
     "city": "Dhaka",
     "country": "Bangladesh",
-    "visitors": 61,
-    "lastVisit": "2026-11-05T19:39:00",
+    "visitors": 63,
+    "lastVisit": "2026-11-16T03:50:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.44933306982007043
+    "normalized": 0.4527896425278006
   },
   {
     "city": null,
@@ -10289,11 +10289,11 @@
   {
     "city": "Suzhou",
     "country": "China",
-    "visitors": 17,
-    "lastVisit": "2026-10-14T19:55:00",
+    "visitors": 18,
+    "lastVisit": "2026-11-16T09:30:00",
     "lat": 31.30408,
     "lon": 120.59538,
-    "normalized": 0.3146831417951338
+    "normalized": 0.32056959671602164
   },
   {
     "city": "Iwo",
