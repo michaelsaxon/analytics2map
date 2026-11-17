@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 383,
-    "lastVisit": "2026-11-15T10:52:00",
+    "visitors": 384,
+    "lastVisit": "2026-11-16T10:47:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6478636836360175
+    "normalized": 0.6481468382697638
   },
   {
     "city": "Ashburn",
@@ -686,11 +686,11 @@
   {
     "city": "Mountain View",
     "country": "United States",
-    "visitors": 79,
-    "lastVisit": "2026-09-29T20:50:00",
+    "visitors": 80,
+    "lastVisit": "2026-11-16T10:52:00",
     "lat": 37.38605,
     "lon": -122.08385,
-    "normalized": 0.477083927028418
+    "normalized": 0.4784364027476675
   },
   {
     "city": "Tustin",
@@ -1154,11 +1154,11 @@
   {
     "city": "Sylhet",
     "country": "Bangladesh",
-    "visitors": 5,
-    "lastVisit": "2026-11-14T10:44:00",
+    "visitors": 7,
+    "lastVisit": "2026-11-16T14:08:00",
     "lat": 24.89904,
     "lon": 91.87198,
-    "normalized": 0.19507404110821697
+    "normalized": 0.2263948212639003
   },
   {
     "city": "Chittagong",
