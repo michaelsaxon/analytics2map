@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 163,
-    "lastVisit": "2026-11-17T06:15:00",
+    "visitors": 164,
+    "lastVisit": "2026-11-18T00:22:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5552310240331328
+    "normalized": 0.5558928599901922
   },
   {
     "city": "Los Angeles",
@@ -569,11 +569,11 @@
   {
     "city": "Tianjin",
     "country": "China",
-    "visitors": 5,
-    "lastVisit": "2026-11-09T22:05:00",
+    "visitors": 6,
+    "lastVisit": "2026-11-18T02:59:00",
     "lat": 39.14222,
     "lon": 117.17667,
-    "normalized": 0.19507186295955464
+    "normalized": 0.2118545063929059
   },
   {
     "city": "Taizhou",
@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 171,
-    "lastVisit": "2026-11-17T03:19:00",
+    "visitors": 172,
+    "lastVisit": "2026-11-18T03:31:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5604163697254682
+    "normalized": 0.561047511664941
   },
   {
     "city": null,
@@ -7058,11 +7058,11 @@
   {
     "city": "Shiraz",
     "country": "Iran",
-    "visitors": 3,
-    "lastVisit": "2026-07-25T09:30:00",
+    "visitors": 4,
+    "lastVisit": "2026-11-18T05:08:00",
     "lat": 29.61031,
     "lon": 52.53113,
-    "normalized": 0.15092819559675102
+    "normalized": 0.17522220883337564
   },
   {
     "city": "Misawa",
@@ -12813,6 +12813,15 @@
     "lastVisit": "2026-11-13T05:28:00",
     "lat": -25.28646,
     "lon": -57.647,
+    "normalized": 0.07546409779837551
+  },
+  {
+    "city": "Hawarden",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-11-18T04:37:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
     "normalized": 0.07546409779837551
   }
 ]
