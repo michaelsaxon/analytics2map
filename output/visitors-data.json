@@ -7553,11 +7553,11 @@
   {
     "city": "Jersey City",
     "country": "United States",
-    "visitors": 19,
-    "lastVisit": "2026-10-29T20:36:00",
+    "visitors": 20,
+    "lastVisit": "2026-11-17T16:44:00",
     "lat": 40.72816,
     "lon": -74.07764,
-    "normalized": 0.32615040443012666
+    "normalized": 0.33146227155408503
   },
   {
     "city": "Pickens",
