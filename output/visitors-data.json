@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 164,
-    "lastVisit": "2026-11-18T00:22:00",
+    "visitors": 166,
+    "lastVisit": "2026-11-18T05:42:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5558928599901922
+    "normalized": 0.557204582841547
   },
   {
     "city": "Los Angeles",
@@ -1154,11 +1154,11 @@
   {
     "city": "Sylhet",
     "country": "Bangladesh",
-    "visitors": 9,
-    "lastVisit": "2026-11-17T12:04:00",
+    "visitors": 11,
+    "lastVisit": "2026-11-18T12:20:00",
     "lat": 24.89904,
     "lon": 91.87198,
-    "normalized": 0.2506863066317512
+    "normalized": 0.2705359607579302
   },
   {
     "city": "Chittagong",
@@ -6995,11 +6995,11 @@
   {
     "city": "Evanston",
     "country": "United States",
-    "visitors": 6,
-    "lastVisit": "2026-11-15T15:28:00",
+    "visitors": 7,
+    "lastVisit": "2026-11-18T08:24:00",
     "lat": 42.04114,
     "lon": -87.69006,
-    "normalized": 0.2118545063929059
+    "normalized": 0.2263922933951265
   },
   {
     "city": "Sacramento",
@@ -8012,11 +8012,11 @@
   {
     "city": "The Dalles",
     "country": "United States",
-    "visitors": 17,
-    "lastVisit": "2026-11-15T03:40:00",
+    "visitors": 18,
+    "lastVisit": "2026-11-18T08:23:00",
     "lat": 45.59456,
     "lon": -121.17868,
-    "normalized": 0.3146796281207338
+    "normalized": 0.3205660173149168
   },
   {
     "city": "Meriden",
@@ -10325,11 +10325,11 @@
   {
     "city": "South San Francisco",
     "country": "United States",
-    "visitors": 1,
-    "lastVisit": "2026-03-22T13:25:00",
+    "visitors": 3,
+    "lastVisit": "2026-11-18T06:58:00",
     "lat": 37.65466,
     "lon": -122.40775,
-    "normalized": 0.07546409779837551
+    "normalized": 0.15092819559675102
   },
   {
     "city": "Pristina",
