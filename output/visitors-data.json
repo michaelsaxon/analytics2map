@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 166,
-    "lastVisit": "2026-11-18T05:42:00",
+    "visitors": 169,
+    "lastVisit": "2026-11-19T04:47:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5571921418151761
+    "normalized": 0.55913051792452
   },
   {
     "city": "Los Angeles",
@@ -74,11 +74,11 @@
   {
     "city": "Santa Clara",
     "country": "United States",
-    "visitors": 60,
-    "lastVisit": "2026-11-14T13:10:00",
+    "visitors": 62,
+    "lastVisit": "2026-11-19T01:25:00",
     "lat": 37.35411,
     "lon": -121.95524,
-    "normalized": 0.4475477495798579
+    "normalized": 0.45105996541579046
   },
   {
     "city": "New York",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1218,
-    "lastVisit": "2026-11-15T22:28:00",
+    "visitors": 1221,
+    "lastVisit": "2026-11-18T22:46:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7736015981810328
+    "normalized": 0.7738691999105677
   },
   {
     "city": "Sylhet",
@@ -2342,11 +2342,11 @@
   {
     "city": "Hangzhou",
     "country": "China",
-    "visitors": 22,
-    "lastVisit": "2026-11-12T22:15:00",
+    "visitors": 23,
+    "lastVisit": "2026-11-18T21:05:00",
     "lat": 30.29365,
     "lon": 120.16142,
-    "normalized": 0.3413588999627332
+    "normalized": 0.3459923332145095
   },
   {
     "city": "Kowloon",
@@ -3260,11 +3260,11 @@
   {
     "city": "Phnom Penh",
     "country": "Cambodia",
-    "visitors": 4,
-    "lastVisit": "2026-11-18T19:55:00",
+    "visitors": 5,
+    "lastVisit": "2026-11-18T22:17:00",
     "lat": 11.56245,
     "lon": 104.91601,
-    "normalized": 0.17521829654659982
+    "normalized": 0.19506750747816406
   },
   {
     "city": "Bavet",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 118,
-    "lastVisit": "2026-11-10T04:11:00",
+    "visitors": 119,
+    "lastVisit": "2026-11-18T21:00:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.5202995847055552
+    "normalized": 0.5212106297611093
   },
   {
     "city": "Sabz",
@@ -12017,11 +12017,11 @@
   {
     "city": "Yantai",
     "country": "China",
-    "visitors": 2,
-    "lastVisit": "2026-11-10T22:10:00",
+    "visitors": 3,
+    "lastVisit": "2026-11-19T02:17:00",
     "lat": 30.1467,
     "lon": 107.3196,
-    "normalized": 0.11960509460999139
+    "normalized": 0.1509248257363454
   },
   {
     "city": "McMurray",

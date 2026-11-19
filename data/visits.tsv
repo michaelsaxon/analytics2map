@@ -13798,3 +13798,15 @@ timestamp	country	city	num_unique
 2026-11-18T13:01:00	United States		1
 2026-11-18T13:02:00	United States		1
 2026-11-18T19:55:00	Cambodia	Phnom Penh	1
+2026-11-18T21:00:00	Singapore	Singapore	1
+2026-11-18T21:00:00	Iran	Tehran	1
+2026-11-18T21:05:00	China	Hangzhou	1
+2026-11-18T22:15:00	Singapore	Singapore	1
+2026-11-18T22:17:00	Cambodia	Phnom Penh	1
+2026-11-18T22:42:00	United States	Boardman	1
+2026-11-18T22:46:00	Singapore	Singapore	1
+2026-11-18T23:30:00	United States	Boardman	1
+2026-11-19T01:23:00	United States	Santa Clara	1
+2026-11-19T01:25:00	United States	Santa Clara	1
+2026-11-19T02:17:00	China	Yantai	1
+2026-11-19T04:47:00	United States	Boardman	1
