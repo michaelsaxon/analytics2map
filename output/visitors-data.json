@@ -29,20 +29,20 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 384,
-    "lastVisit": "2026-11-16T10:47:00",
+    "visitors": 385,
+    "lastVisit": "2026-11-20T07:15:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.6481251298372264
+    "normalized": 0.6484075404983599
   },
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 183,
-    "lastVisit": "2026-11-19T21:49:00",
+    "visitors": 184,
+    "lastVisit": "2026-11-20T05:43:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5677461385672514
+    "normalized": 0.5683362172411834
   },
   {
     "city": "Ames",
@@ -12849,6 +12849,15 @@
     "lastVisit": "2026-11-20T00:35:00",
     "lat": 39.9075,
     "lon": 116.39723,
+    "normalized": 0.0754624128681727
+  },
+  {
+    "city": "Amman",
+    "country": "Jordan",
+    "visitors": 1,
+    "lastVisit": "2026-11-20T09:54:00",
+    "lat": 31.95522,
+    "lon": 35.94503,
     "normalized": 0.0754624128681727
   }
 ]
