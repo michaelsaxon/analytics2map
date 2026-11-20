@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 169,
-    "lastVisit": "2026-11-19T04:47:00",
+    "visitors": 172,
+    "lastVisit": "2026-11-20T03:51:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.55913051792452
+    "normalized": 0.5610349848352937
   },
   {
     "city": "Los Angeles",
@@ -38,11 +38,11 @@
   {
     "city": "Ashburn",
     "country": "United States",
-    "visitors": 182,
-    "lastVisit": "2026-11-14T11:32:00",
+    "visitors": 183,
+    "lastVisit": "2026-11-19T21:49:00",
     "lat": 41.74753,
     "lon": -87.71116,
-    "normalized": 0.5671528441898493
+    "normalized": 0.5677461385672514
   },
   {
     "city": "Ames",
@@ -5249,11 +5249,11 @@
   {
     "city": "Makati City",
     "country": "Philippines",
-    "visitors": 1,
-    "lastVisit": "2025-05-01T00:00:00",
+    "visitors": 3,
+    "lastVisit": "2026-11-20T02:14:00",
     "lat": 14.55027,
     "lon": 121.03269,
-    "normalized": 0.0754624128681727
+    "normalized": 0.1509248257363454
   },
   {
     "city": "Yaqum",
@@ -5501,11 +5501,11 @@
   {
     "city": "Columbus",
     "country": "United States",
-    "visitors": 15,
-    "lastVisit": "2026-04-16T11:13:00",
+    "visitors": 16,
+    "lastVisit": "2026-11-20T01:42:00",
     "lat": 41.42973,
     "lon": -97.36838,
-    "normalized": 0.3018496514726908
+    "normalized": 0.3084498085097474
   },
   {
     "city": "Xiamen",
@@ -12841,5 +12841,14 @@
     "lat": 42.32509,
     "lon": -72.6412,
     "normalized": 0.11960509460999139
+  },
+  {
+    "city": "Kashgar Prefecture",
+    "country": "China",
+    "visitors": 1,
+    "lastVisit": "2026-11-20T00:35:00",
+    "lat": 39.9075,
+    "lon": 116.39723,
+    "normalized": 0.0754624128681727
   }
 ]
