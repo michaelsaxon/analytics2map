@@ -13817,3 +13817,12 @@ timestamp	country	city	num_unique
 2026-11-19T08:15:00	United States	Northampton	1
 2026-11-19T08:56:00	Germany	Berlin	1
 2026-11-19T10:59:00	Pakistan	Sargodha	1
+2026-11-19T14:56:00	United States	Boston	1
+2026-11-19T14:57:00	United States	Boston	1
+2026-11-19T15:05:00	United States	New York	1
+2026-11-19T20:31:00	Bangladesh	Dhaka	1
+2026-11-19T20:37:00	Iran	Tehran	1
+2026-11-19T20:49:00	Bangladesh	Dhaka	1
+2026-11-19T20:54:00	Bangladesh	Dhaka	1
+2026-11-19T20:57:00	Bangladesh	Dhaka	1
+2026-11-19T20:58:00	Bangladesh	Dhaka	1

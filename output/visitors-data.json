@@ -83,11 +83,11 @@
   {
     "city": "New York",
     "country": "United States",
-    "visitors": 219,
-    "lastVisit": "2026-11-13T11:01:00",
+    "visitors": 220,
+    "lastVisit": "2026-11-19T15:05:00",
     "lat": 37.13054,
     "lon": -113.50829,
-    "normalized": 0.587200179377764
+    "normalized": 0.5876939183138951
   },
   {
     "city": "Four Oaks",
@@ -830,11 +830,11 @@
   {
     "city": "Dhaka",
     "country": "Bangladesh",
-    "visitors": 63,
-    "lastVisit": "2026-11-16T03:50:00",
+    "visitors": 68,
+    "lastVisit": "2026-11-19T20:58:00",
     "lat": 23.7104,
     "lon": 90.40744,
-    "normalized": 0.4527744772090362
+    "normalized": 0.46096399457272463
   },
   {
     "city": null,
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 119,
-    "lastVisit": "2026-11-18T21:00:00",
+    "visitors": 120,
+    "lastVisit": "2026-11-19T20:37:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.5212106297611093
+    "normalized": 0.5221141141896375
   },
   {
     "city": "Sabz",
@@ -4250,11 +4250,11 @@
   {
     "city": "Boston",
     "country": "United States",
-    "visitors": 43,
-    "lastVisit": "2026-10-25T07:23:00",
+    "visitors": 45,
+    "lastVisit": "2026-11-19T14:57:00",
     "lat": 42.35843,
     "lon": -71.05977,
-    "normalized": 0.4119818828311641
+    "normalized": 0.41682131283090595
   },
   {
     "city": "Hoodsport",
