@@ -299,11 +299,11 @@
   {
     "city": null,
     "country": "United Kingdom",
-    "visitors": 125,
-    "lastVisit": "2026-11-07T13:34:00",
+    "visitors": 126,
+    "lastVisit": "2026-11-19T06:04:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.5265223782839632
+    "normalized": 0.5273830092386774
   },
   {
     "city": "London",
@@ -317,11 +317,11 @@
   {
     "city": "Berlin",
     "country": "Germany",
-    "visitors": 32,
-    "lastVisit": "2026-10-28T10:52:00",
+    "visitors": 33,
+    "lastVisit": "2026-11-19T08:56:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.3806621517048101
+    "normalized": 0.38391222137792014
   },
   {
     "city": "Remshalden",
@@ -6995,11 +6995,11 @@
   {
     "city": "Evanston",
     "country": "United States",
-    "visitors": 7,
-    "lastVisit": "2026-11-18T08:24:00",
+    "visitors": 8,
+    "lastVisit": "2026-11-19T07:19:00",
     "lat": 42.04114,
     "lon": -87.69006,
-    "normalized": 0.2263872386045181
+    "normalized": 0.23921018921998277
   },
   {
     "city": "Sacramento",
@@ -12494,11 +12494,11 @@
   {
     "city": "Sargodha",
     "country": "Pakistan",
-    "visitors": 1,
-    "lastVisit": "2026-10-21T02:34:00",
+    "visitors": 2,
+    "lastVisit": "2026-11-19T10:59:00",
     "lat": 32.08586,
     "lon": 72.67418,
-    "normalized": 0.0754624128681727
+    "normalized": 0.11960509460999139
   },
   {
     "city": "Bishkek",
@@ -12823,5 +12823,23 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.0754624128681727
+  },
+  {
+    "city": "McRae-Helena",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-11-19T06:04:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.0754624128681727
+  },
+  {
+    "city": "Northampton",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-11-19T08:15:00",
+    "lat": 42.32509,
+    "lon": -72.6412,
+    "normalized": 0.11960509460999139
   }
 ]
