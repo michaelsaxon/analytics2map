@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 172,
-    "lastVisit": "2026-11-20T03:51:00",
+    "visitors": 176,
+    "lastVisit": "2026-11-21T02:52:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5610349848352937
+    "normalized": 0.5635235331570211
   },
   {
     "city": "Los Angeles",
@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 369,
-    "lastVisit": "2026-11-18T12:51:00",
+    "visitors": 370,
+    "lastVisit": "2026-11-20T23:42:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6437986301093562
+    "normalized": 0.6440924744141073
   },
   {
     "city": "Lompoc",
@@ -659,11 +659,11 @@
   {
     "city": "Ann Arbor",
     "country": "United States",
-    "visitors": 35,
-    "lastVisit": "2026-10-20T20:50:00",
+    "visitors": 36,
+    "lastVisit": "2026-11-20T22:52:00",
     "lat": 42.27756,
     "lon": -83.74088,
-    "normalized": 0.39013501495632813
+    "normalized": 0.3931179206945837
   },
   {
     "city": "Pittsburgh",
@@ -2189,11 +2189,11 @@
   {
     "city": "Toronto",
     "country": "Canada",
-    "visitors": 37,
-    "lastVisit": "2026-10-21T10:58:00",
+    "visitors": 39,
+    "lastVisit": "2026-11-20T23:46:00",
     "lat": 43.70643,
     "lon": -79.39864,
-    "normalized": 0.39602127272172283
+    "normalized": 0.40160553515111796
   },
   {
     "city": "Surrey",
@@ -7976,11 +7976,11 @@
   {
     "city": "Piscataway",
     "country": "United States",
-    "visitors": 11,
-    "lastVisit": "2026-05-05T19:33:00",
+    "visitors": 13,
+    "lastVisit": "2026-11-20T23:55:00",
     "lat": 40.49927,
     "lon": -74.39904,
-    "normalized": 0.27052992034633677
+    "normalized": 0.2873121890639804
   },
   {
     "city": "Kigali",
