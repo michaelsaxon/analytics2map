@@ -1631,11 +1631,11 @@
   {
     "city": "Shenzhen",
     "country": "China",
-    "visitors": 51,
-    "lastVisit": "2026-11-08T11:22:00",
+    "visitors": 52,
+    "lastVisit": "2026-11-21T11:38:00",
     "lat": 22.54554,
     "lon": 114.0683,
-    "normalized": 0.4301689355404932
+    "normalized": 0.43224269821829964
   },
   {
     "city": "Huzhou",
@@ -12858,6 +12858,15 @@
     "lastVisit": "2026-11-20T09:54:00",
     "lat": 31.95522,
     "lon": 35.94503,
+    "normalized": 0.0754624128681727
+  },
+  {
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "visitors": 1,
+    "lastVisit": "2026-11-21T13:17:00",
+    "lat": 55.02259,
+    "lon": 82.93175,
     "normalized": 0.0754624128681727
   }
 ]
