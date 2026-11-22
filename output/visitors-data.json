@@ -317,11 +317,11 @@
   {
     "city": "Berlin",
     "country": "Germany",
-    "visitors": 33,
-    "lastVisit": "2026-11-19T08:56:00",
+    "visitors": 36,
+    "lastVisit": "2026-11-22T07:05:00",
     "lat": 52.52437,
     "lon": 13.41053,
-    "normalized": 0.38391222137792014
+    "normalized": 0.3931179206945837
   },
   {
     "city": "Remshalden",
@@ -1964,11 +1964,11 @@
   {
     "city": "Seoul",
     "country": "South Korea",
-    "visitors": 65,
-    "lastVisit": "2026-11-13T10:42:00",
+    "visitors": 67,
+    "lastVisit": "2026-11-22T05:56:00",
     "lat": 37.566,
     "lon": 126.9784,
-    "normalized": 0.4561245645729828
+    "normalized": 0.4593746342460928
   },
   {
     "city": "Seongnam-si",
@@ -12867,6 +12867,15 @@
     "lastVisit": "2026-11-21T13:17:00",
     "lat": 55.02259,
     "lon": 82.93175,
+    "normalized": 0.0754624128681727
+  },
+  {
+    "city": "Chandannagar",
+    "country": "India",
+    "visitors": 1,
+    "lastVisit": "2026-11-22T07:54:00",
+    "lat": 22.86225,
+    "lon": 88.36796,
     "normalized": 0.0754624128681727
   }
 ]
