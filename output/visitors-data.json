@@ -20,11 +20,11 @@
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 176,
-    "lastVisit": "2026-11-21T02:52:00",
+    "visitors": 178,
+    "lastVisit": "2026-11-21T20:22:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.5635235331570211
+    "normalized": 0.5647467960132602
   },
   {
     "city": "Los Angeles",
@@ -443,11 +443,11 @@
   {
     "city": "Atlanta",
     "country": "United States",
-    "visitors": 89,
-    "lastVisit": "2026-10-27T12:06:00",
+    "visitors": 91,
+    "lastVisit": "2026-11-21T17:47:00",
     "lat": 33.749,
     "lon": -84.38798,
-    "normalized": 0.48989089863475527
+    "normalized": 0.4922837256990787
   },
   {
     "city": "Manhattan",
@@ -11288,11 +11288,11 @@
   {
     "city": "Zhongshan",
     "country": "China",
-    "visitors": 2,
-    "lastVisit": "2026-06-26T03:32:00",
+    "visitors": 3,
+    "lastVisit": "2026-11-21T14:23:00",
     "lat": 28.85541,
     "lon": 106.33602,
-    "normalized": 0.11960509460999139
+    "normalized": 0.1509248257363454
   },
   {
     "city": "Columbia Heights",
