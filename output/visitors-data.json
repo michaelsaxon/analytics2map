@@ -8075,11 +8075,11 @@
   {
     "city": "Adelaide",
     "country": "Australia",
-    "visitors": 3,
-    "lastVisit": "2025-12-16T20:20:00",
+    "visitors": 4,
+    "lastVisit": "2026-11-22T16:38:00",
     "lat": -34.92866,
     "lon": 138.59863,
-    "normalized": 0.1509248257363454
+    "normalized": 0.17521829654659982
   },
   {
     "city": "Chillum",
@@ -8354,11 +8354,11 @@
   {
     "city": "Cupertino",
     "country": "United States",
-    "visitors": 14,
-    "lastVisit": "2026-10-02T16:43:00",
+    "visitors": 16,
+    "lastVisit": "2026-11-22T13:36:00",
     "lat": 37.323,
     "lon": -122.03218,
-    "normalized": 0.29482339115659123
+    "normalized": 0.3084498085097474
   },
   {
     "city": "Clearwater",
@@ -10946,11 +10946,11 @@
   {
     "city": "Abuja",
     "country": "Nigeria",
-    "visitors": 5,
-    "lastVisit": "2026-10-07T04:20:00",
+    "visitors": 6,
+    "lastVisit": "2026-11-22T11:58:00",
     "lat": 9.05785,
     "lon": 7.49508,
-    "normalized": 0.19506750747816406
+    "normalized": 0.21184977619580772
   },
   {
     "city": "Tamalpais-Homestead Valley",
