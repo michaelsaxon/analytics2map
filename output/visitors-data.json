@@ -11,20 +11,20 @@
   {
     "city": "Goleta",
     "country": "United States",
-    "visitors": 76,
-    "lastVisit": "2026-10-26T09:06:00",
+    "visitors": 81,
+    "lastVisit": "2026-11-22T20:38:00",
     "lat": 34.43583,
     "lon": -119.82764,
-    "normalized": 0.4729068332906265
+    "normalized": 0.4797562142033689
   },
   {
     "city": "Boardman",
     "country": "United States",
-    "visitors": 179,
-    "lastVisit": "2026-11-22T01:50:00",
+    "visitors": 182,
+    "lastVisit": "2026-11-23T00:54:00",
     "lat": 41.02423,
     "lon": -80.66285,
-    "normalized": 0.565353311502928
+    "normalized": 0.5671528441898493
   },
   {
     "city": "Los Angeles",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1221,
-    "lastVisit": "2026-11-18T22:46:00",
+    "visitors": 1222,
+    "lastVisit": "2026-11-22T17:20:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7738691999105677
+    "normalized": 0.7739582545157938
   },
   {
     "city": "Sylhet",
@@ -1631,11 +1631,11 @@
   {
     "city": "Shenzhen",
     "country": "China",
-    "visitors": 52,
-    "lastVisit": "2026-11-21T11:38:00",
+    "visitors": 54,
+    "lastVisit": "2026-11-22T22:00:00",
     "lat": 22.54554,
     "lon": 114.0683,
-    "normalized": 0.43224269821829964
+    "normalized": 0.43627535364141856
   },
   {
     "city": "Huzhou",
@@ -3386,11 +3386,11 @@
   {
     "city": "Tehran",
     "country": "Iran",
-    "visitors": 120,
-    "lastVisit": "2026-11-19T20:37:00",
+    "visitors": 121,
+    "lastVisit": "2026-11-22T23:23:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.5221141141896375
+    "normalized": 0.5230101624480307
   },
   {
     "city": "Sabz",
@@ -4313,11 +4313,11 @@
   {
     "city": "Kitchener",
     "country": "Canada",
-    "visitors": 3,
-    "lastVisit": "2026-01-01T11:18:00",
+    "visitors": 4,
+    "lastVisit": "2026-11-22T20:01:00",
     "lat": 43.42537,
     "lon": -80.5112,
-    "normalized": 0.1509248257363454
+    "normalized": 0.17521829654659982
   },
   {
     "city": "Calgary",
@@ -11225,11 +11225,11 @@
   {
     "city": "Chongqing",
     "country": "China",
-    "visitors": 4,
-    "lastVisit": "2026-11-20T13:38:00",
+    "visitors": 5,
+    "lastVisit": "2026-11-22T22:37:00",
     "lat": 29.56026,
     "lon": 106.55771,
-    "normalized": 0.17521829654659982
+    "normalized": 0.19506750747816406
   },
   {
     "city": "Zhongshan District",
@@ -12876,6 +12876,15 @@
     "lastVisit": "2026-11-22T07:54:00",
     "lat": 22.86225,
     "lon": 88.36796,
+    "normalized": 0.0754624128681727
+  },
+  {
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "visitors": 1,
+    "lastVisit": "2026-11-23T01:01:00",
+    "lat": 42.64125,
+    "lon": 18.10909,
     "normalized": 0.0754624128681727
   }
 ]
