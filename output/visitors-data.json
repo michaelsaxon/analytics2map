@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 370,
-    "lastVisit": "2026-11-20T23:42:00",
+    "visitors": 371,
+    "lastVisit": "2026-11-23T06:27:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6440924744141073
+    "normalized": 0.644385527750729
   },
   {
     "city": "Lompoc",
@@ -308,11 +308,11 @@
   {
     "city": "London",
     "country": "United Kingdom",
-    "visitors": 43,
-    "lastVisit": "2026-11-11T22:41:00",
+    "visitors": 46,
+    "lastVisit": "2026-11-23T08:09:00",
     "lat": 51.50853,
     "lon": -0.12574,
-    "normalized": 0.4119818828311641
+    "normalized": 0.4191626772382472
   },
   {
     "city": "Berlin",
@@ -767,11 +767,11 @@
   {
     "city": "Ho Chi Minh City",
     "country": "Vietnam",
-    "visitors": 7,
-    "lastVisit": "2026-06-12T06:26:00",
+    "visitors": 8,
+    "lastVisit": "2026-11-23T08:46:00",
     "lat": 10.82302,
     "lon": 106.62965,
-    "normalized": 0.2263872386045181
+    "normalized": 0.23921018921998277
   },
   {
     "city": "Hanoi",
@@ -1388,11 +1388,11 @@
   {
     "city": null,
     "country": "Iran",
-    "visitors": 372,
-    "lastVisit": "2026-10-28T09:48:00",
+    "visitors": 373,
+    "lastVisit": "2026-11-23T01:44:00",
     "lat": 35.69439,
     "lon": 51.42151,
-    "normalized": 0.6446777943660378
+    "normalized": 0.6449692784727389
   },
   {
     "city": null,
@@ -2189,11 +2189,11 @@
   {
     "city": "Toronto",
     "country": "Canada",
-    "visitors": 39,
-    "lastVisit": "2026-11-20T23:46:00",
+    "visitors": 40,
+    "lastVisit": "2026-11-23T10:56:00",
     "lat": 43.70643,
     "lon": -79.39864,
-    "normalized": 0.40160553515111796
+    "normalized": 0.40429380133519616
   },
   {
     "city": "Surrey",
