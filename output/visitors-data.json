@@ -380,11 +380,11 @@
   {
     "city": null,
     "country": "Vietnam",
-    "visitors": 12,
-    "lastVisit": "2026-06-09T06:39:00",
+    "visitors": 13,
+    "lastVisit": "2026-11-24T05:34:00",
     "lat": 21.0245,
     "lon": 105.84117,
-    "normalized": 0.27924410980414777
+    "normalized": 0.2873121890639804
   },
   {
     "city": null,
@@ -12894,6 +12894,24 @@
     "lastVisit": "2026-11-23T14:36:00",
     "lat": 40.20686,
     "lon": -8.41996,
+    "normalized": 0.0754624128681727
+  },
+  {
+    "city": "Yongin-si",
+    "country": "South Korea",
+    "visitors": 2,
+    "lastVisit": "2026-11-24T03:14:00",
+    "lat": 37.566,
+    "lon": 126.9784,
+    "normalized": 0.11960509460999139
+  },
+  {
+    "city": "Funabashi",
+    "country": "Japan",
+    "visitors": 1,
+    "lastVisit": "2026-11-24T05:32:00",
+    "lat": 35.6895,
+    "lon": 139.69171,
     "normalized": 0.0754624128681727
   }
 ]
