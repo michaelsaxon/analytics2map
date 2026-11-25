@@ -29,11 +29,11 @@
   {
     "city": "Los Angeles",
     "country": "United States",
-    "visitors": 385,
-    "lastVisit": "2026-11-20T07:15:00",
+    "visitors": 386,
+    "lastVisit": "2026-11-25T00:22:00",
     "lat": 34.05223,
     "lon": -118.24368,
-    "normalized": 0.648400303008845
+    "normalized": 0.6486819798377149
   },
   {
     "city": "Ashburn",
@@ -848,11 +848,11 @@
   {
     "city": null,
     "country": "Singapore",
-    "visitors": 172,
-    "lastVisit": "2026-11-18T03:31:00",
+    "visitors": 173,
+    "lastVisit": "2026-11-25T02:31:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.5610287225934678
+    "normalized": 0.5616562057923803
   },
   {
     "city": null,
@@ -884,11 +884,11 @@
   {
     "city": "Madison",
     "country": "United States",
-    "visitors": 27,
-    "lastVisit": "2026-11-24T13:37:00",
+    "visitors": 28,
+    "lastVisit": "2026-11-24T20:11:00",
     "lat": 43.07305,
     "lon": -89.40123,
-    "normalized": 0.3627705526618813
+    "normalized": 0.36659087564706927
   },
   {
     "city": "Princeton",
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1223,
-    "lastVisit": "2026-11-24T11:43:00",
+    "visitors": 1224,
+    "lastVisit": "2026-11-24T23:49:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7740385964613178
+    "normalized": 0.7741275046194855
   },
   {
     "city": "Sylhet",
@@ -1649,11 +1649,11 @@
   {
     "city": "Mumbai",
     "country": "India",
-    "visitors": 16,
-    "lastVisit": "2026-10-29T03:35:00",
+    "visitors": 17,
+    "lastVisit": "2026-11-25T04:18:00",
     "lat": 19.07283,
     "lon": 72.88261,
-    "normalized": 0.3084463656098495
+    "normalized": 0.31466908972977586
   },
   {
     "city": "Ahmedabad",
@@ -11954,11 +11954,11 @@
   {
     "city": "Ili",
     "country": "China",
-    "visitors": 1,
-    "lastVisit": "2026-09-10T16:39:00",
+    "visitors": 2,
+    "lastVisit": "2026-11-25T04:37:00",
     "lat": 39.9075,
     "lon": 116.39723,
-    "normalized": 0.07546157056084622
+    "normalized": 0.11960375958446483
   },
   {
     "city": "Keflavik",
