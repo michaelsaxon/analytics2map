@@ -398,11 +398,11 @@
   {
     "city": null,
     "country": "Spain",
-    "visitors": 18,
-    "lastVisit": "2026-11-23T17:04:00",
+    "visitors": 19,
+    "lastVisit": "2026-11-25T22:10:00",
     "lat": 40.4165,
     "lon": -3.70256,
-    "normalized": 0.3205552817930832
+    "normalized": 0.32613948189124636
   },
   {
     "city": null,
@@ -11765,11 +11765,11 @@
   {
     "city": "Rawalpindi",
     "country": "Pakistan",
-    "visitors": 8,
-    "lastVisit": "2026-10-07T14:12:00",
+    "visitors": 9,
+    "lastVisit": "2026-11-25T18:22:00",
     "lat": 33.59733,
     "lon": 73.0479,
-    "normalized": 0.23920751916892966
+    "normalized": 0.2506779113304002
   },
   {
     "city": "Arlington Heights",
@@ -12913,5 +12913,14 @@
     "lat": 35.6895,
     "lon": 139.69171,
     "normalized": 0.07546157056084622
+  },
+  {
+    "city": "Avalon",
+    "country": "United States",
+    "visitors": 2,
+    "lastVisit": "2026-11-25T15:04:00",
+    "lat": 37.13054,
+    "lon": -113.50829,
+    "normalized": 0.11960375958446483
   }
 ]
