@@ -380,11 +380,11 @@
   {
     "city": null,
     "country": "Vietnam",
-    "visitors": 13,
-    "lastVisit": "2026-11-24T05:34:00",
+    "visitors": 15,
+    "lastVisit": "2026-11-26T01:11:00",
     "lat": 21.0245,
     "lon": 105.84117,
-    "normalized": 0.28730898210103506
+    "normalized": 0.3018462822433849
   },
   {
     "city": null,
@@ -6932,11 +6932,11 @@
   {
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "visitors": 1480,
-    "lastVisit": "2026-11-10T15:11:00",
+    "visitors": 1481,
+    "lastVisit": "2026-11-26T00:31:00",
     "lat": 22.27832,
     "lon": 114.17469,
-    "normalized": 0.7947881198281312
+    "normalized": 0.7948616048350562
   },
   {
     "city": "Riegelsberg",
@@ -12922,5 +12922,23 @@
     "lat": 37.13054,
     "lon": -113.50829,
     "normalized": 0.11960375958446483
+  },
+  {
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "visitors": 1,
+    "lastVisit": "2026-11-26T02:46:00",
+    "lat": -6.82349,
+    "lon": 39.26951,
+    "normalized": 0.07546157056084622
+  },
+  {
+    "city": "Jose Bonifacio",
+    "country": "Brazil",
+    "visitors": 1,
+    "lastVisit": "2026-11-26T04:07:00",
+    "lat": -23.56742,
+    "lon": -46.43264,
+    "normalized": 0.07546157056084622
   }
 ]
