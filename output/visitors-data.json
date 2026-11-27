@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1224,
-    "lastVisit": "2026-11-24T23:49:00",
+    "visitors": 1225,
+    "lastVisit": "2026-11-26T15:58:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7741275046194855
+    "normalized": 0.7742163402291687
   },
   {
     "city": "Sylhet",
@@ -2090,11 +2090,11 @@
   {
     "city": "Mesa",
     "country": "United States",
-    "visitors": 38,
-    "lastVisit": "2026-07-23T19:04:00",
+    "visitors": 39,
+    "lastVisit": "2026-11-26T13:54:00",
     "lat": 33.42227,
     "lon": -111.82264,
-    "normalized": 0.3988447524811268
+    "normalized": 0.4016010524520926
   },
   {
     "city": "St Louis",
@@ -6707,11 +6707,11 @@
   {
     "city": "Philadelphia",
     "country": "United States",
-    "visitors": 57,
-    "lastVisit": "2026-11-24T16:55:00",
+    "visitors": 59,
+    "lastVisit": "2026-11-26T09:01:00",
     "lat": 39.95238,
     "lon": -75.16362,
-    "normalized": 0.44205244620791545
+    "normalized": 0.4457432414757112
   },
   {
     "city": "Cairo",
