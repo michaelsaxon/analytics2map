@@ -119,11 +119,11 @@
   {
     "city": "San Jose",
     "country": "United States",
-    "visitors": 371,
-    "lastVisit": "2026-11-23T06:27:00",
+    "visitors": 372,
+    "lastVisit": "2026-11-26T18:55:00",
     "lat": 37.33939,
     "lon": -121.89496,
-    "normalized": 0.6443783351547004
+    "normalized": 0.6446705985077452
   },
   {
     "city": "Lompoc",
@@ -398,11 +398,11 @@
   {
     "city": null,
     "country": "Spain",
-    "visitors": 19,
-    "lastVisit": "2026-11-25T22:10:00",
+    "visitors": 20,
+    "lastVisit": "2026-11-26T16:28:00",
     "lat": 40.4165,
     "lon": -3.70256,
-    "normalized": 0.32613948189124636
+    "normalized": 0.33145117112465367
   },
   {
     "city": null,
@@ -1145,11 +1145,11 @@
   {
     "city": "Singapore",
     "country": "Singapore",
-    "visitors": 1225,
-    "lastVisit": "2026-11-26T15:58:00",
+    "visitors": 1226,
+    "lastVisit": "2026-11-26T18:01:00",
     "lat": 1.28967,
     "lon": 103.85007,
-    "normalized": 0.7742163402291687
+    "normalized": 0.7743051034086686
   },
   {
     "city": "Sylhet",
@@ -7202,11 +7202,11 @@
   {
     "city": "Waukesha",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-08-11T06:45:00",
+    "visitors": 4,
+    "lastVisit": "2026-11-26T19:42:00",
     "lat": 43.01168,
     "lon": -88.23148,
-    "normalized": 0.15092314112169244
+    "normalized": 0.17521634076955395
   },
   {
     "city": "Inhumas",
@@ -12939,6 +12939,24 @@
     "lastVisit": "2026-11-26T04:07:00",
     "lat": -23.56742,
     "lon": -46.43264,
+    "normalized": 0.07546157056084622
+  },
+  {
+    "city": "Khon Kaen",
+    "country": "Thailand",
+    "visitors": 1,
+    "lastVisit": "2026-11-26T23:11:00",
+    "lat": 16.44671,
+    "lon": 102.833,
+    "normalized": 0.07546157056084622
+  },
+  {
+    "city": "Denison",
+    "country": "United States",
+    "visitors": 1,
+    "lastVisit": "2026-11-26T23:45:00",
+    "lat": 33.75566,
+    "lon": -96.53666,
     "normalized": 0.07546157056084622
   }
 ]
