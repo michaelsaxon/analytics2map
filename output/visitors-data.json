@@ -416,11 +416,11 @@
   {
     "city": null,
     "country": "Japan",
-    "visitors": 209,
-    "lastVisit": "2026-10-26T00:42:00",
+    "visitors": 210,
+    "lastVisit": "2026-11-28T06:32:00",
     "lat": 35.6895,
     "lon": 139.69171,
-    "normalized": 0.5821160893573168
+    "normalized": 0.5826332665945501
   },
   {
     "city": null,
@@ -6770,11 +6770,11 @@
   {
     "city": "San Ramon",
     "country": "United States",
-    "visitors": 3,
-    "lastVisit": "2026-04-13T20:37:00",
+    "visitors": 4,
+    "lastVisit": "2026-11-28T08:17:00",
     "lat": 37.77993,
     "lon": -121.97802,
-    "normalized": 0.150919772523245
+    "normalized": 0.1752124299478662
   },
   {
     "city": "Newark",
@@ -8012,11 +8012,11 @@
   {
     "city": "The Dalles",
     "country": "United States",
-    "visitors": 18,
-    "lastVisit": "2026-11-18T08:23:00",
+    "visitors": 19,
+    "lastVisit": "2026-11-28T04:37:00",
     "lat": 45.59456,
     "lon": -121.17868,
-    "normalized": 0.32054812701206986
+    "normalized": 0.32613220247111124
   },
   {
     "city": "Meriden",
@@ -8759,11 +8759,11 @@
   {
     "city": "Chattogram",
     "country": "Bangladesh",
-    "visitors": 7,
-    "lastVisit": "2026-11-08T23:45:00",
+    "visitors": 8,
+    "lastVisit": "2026-11-28T07:54:00",
     "lat": 22.3384,
     "lon": 91.83168,
-    "normalized": 0.22637965878486752
+    "normalized": 0.23920218006671048
   },
   {
     "city": "Pleasanton",
@@ -9668,11 +9668,11 @@
   {
     "city": "Hyderabad",
     "country": "Pakistan",
-    "visitors": 7,
-    "lastVisit": "2026-11-27T23:48:00",
+    "visitors": 11,
+    "lastVisit": "2026-11-28T02:59:00",
     "lat": 25.39689,
     "lon": 68.37718,
-    "normalized": 0.22637965878486752
+    "normalized": 0.2705208625566003
   },
   {
     "city": "Petaling Jaya",
